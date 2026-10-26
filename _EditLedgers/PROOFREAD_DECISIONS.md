@@ -239,3 +239,82 @@
 - Issue: The inn lobby has four names; 'das Inn' alternates with 'Gasthof'; US festival cider (served to children) is 'Apfelwein', which in German is alcoholic.
 - Recommendation: Lobby → 'Lobby' throughout (or 'Foyer'); 'Gasthof' for the inn except in the proper name; cider → 'heißer Apfelsaft' / 'Apfelpunsch'.
 - Why not automatic: Word choice across many places; none changes the plot.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Spanish
+
+### ES-D1. Title localisation — para 0 vs 18–19
+- Quote: `Problemas en la posada` (title page) vs `Inn Trouble` (series list, 19) and `Frost and Found` (18)
+- Issue: The title page carries a translated title, while the series list and every `<bt>` span keep the English titles (series rule: book titles are not translated).
+- Options: (a) title page → `Inn Trouble` (consistent with series rule); (b) keep `Problemas en la posada` as the Spanish market title and decide whether the series list should then show Spanish titles too.
+- Recommendation: (a), unless Lisa wants localised titles for the Spanish storefront — then apply it everywhere, including `<bt>` stamping.
+- Why not automatic: title localisation is Lisa's call.
+
+### ES-D2. Table of Contents truncated — para 20–28
+- Quote: `Índice` / `Acerca de este libro` / `Capítulo 31` / `¿Y ahora qué?` / `Extracto de <bt>Flour Play</bt>`
+- Issue: The English TOC lists About this Book, Chapter 1–31, What's Next?, Excerpt. The Spanish TOC lists only `Capítulo 31` — the entries for chapters 1–30 are missing.
+- Recommendation: Regenerate the TOC at formatting time (Capítulo 1 … Capítulo 31) — it will be rebuilt anyway once the missing Heading 1 styles are restored.
+- Why not automatic: would add 30 paragraphs.
+
+### ES-D3. Scene-break lines (`* * *`) — paras 1178, 1348, 1427, 1443, 1565
+- English has no `* * *` anywhere. At 1427 (before the first "¡Se avecinan más misterios…" line), 1443 (before the second one) and 1565 (before "¡Flour Play estará disponible pronto!") the English has a run of 4–5 blank paragraphs (EN 917–921, 929–932, 983–987), so these three stand in for a real gap.
+- 1178 (ch25, between EN 778 "It was right…" and 779 "Then I went to Fiona…") and 1348 (ch30, between EN 880 frost on the elm and 881 "A moment later Bram…") have nothing in the English: translator-added breaks.
+- Recommendation: keep 1427/1443/1565 (or replace by the formatter's standard spacing); delete 1178 and 1348.
+- Why not automatic: changes paragraph count.
+
+### ES-D4. Key clue printed in English inside `<bt>` — paras 1064, 1213
+- Quote: `La nota citaba las palabras de Theo. <bt>The sapphire at its heart</bt>: cinco palabras…` (1064); `—Y describen el broche como <bt>the sapphire at its heart</bt>. Esas son tus palabras, Theo.` (1213)
+- Issue: The book's central clue appears in English (wrapped as if it were a book title) in two places, while the note (134, 136, 172) and Theo's card (915, 917, 919, 1104) give it in Spanish. After applied fixes the Spanish form is uniformly `el zafiro en su corazón` — five words, so the "cinco palabras" remark (1064, 1160) still holds.
+- Recommendation: replace the whole span including markers: 1064 `<bt>The sapphire at its heart</bt>` → `El zafiro en su corazón`; 1213 `<bt>the sapphire at its heart</bt>` → `el zafiro en su corazón` (bt count 9 → 7).
+- Why not automatic: `<bt>` spans must not be edited or removed in this pass.
+
+### ES-D5. Units — round figures (ESCALATE) — paras 150, 1330
+- Quote: `la más rica en un radio de cincuenta millas` (150); `el prado tiene cuatro acres` (1330)
+- Issue: EN "the richest for fifty miles" is rhetorical; 80 km loses the round figure. "four acres" (not on the literal list) is ~1.6 ha; "acres" reads as foreign in Spain.
+- Recommendation: 150 → `la más rica en muchos kilómetros a la redonda` (or `en ochenta kilómetros a la redonda`); 1330 → `y el prado tiene casi dos hectáreas`.
+- Why not automatic: round-number conversion (ESCALATE rule).
+
+### ES-D6. Alphabetical "B" index cards — paras 911, 925
+- Quote: `Estaba revisando las B —Recibos de panadería, Suscripciones al templete de música—` (911); `—B, B, Torneo de bridge, Banderines, Excedentes—` (925)
+- Issue: Jessica is refiling the B cards; in Spanish only "Banderines" starts with B, so the alphabetical detail is lost (EN Bakery Receipts, Bandstand Subscriptions; Bridge Tournament, Bunting, Surplus).
+- Recommendation: 911 `—Bollería: recibos; Banda de música: suscripciones—`; 925 `—B, B, Bridge: torneo, Banderines: excedentes—`.
+- Why not automatic: renaming labels to keep a letter-based detail is an adaptation.
+
+### ES-D7. "The green" and "the paddock" — many paras
+- Quote: the green = `parque` (45, 87, 93, 377, 397, 410, 599, 1019, 1025, 1029, 1031, 1047), `plaza` (505, 748, 762, 968, 1019), `pradera` (120, 377), `prado` (235, 370, 1205, 1324–1363, 1541, 1563), `zona verde` (1082, 1092, 1100, 1116, 1541); the paddock = `prado` (234, 249, 554, 572, 588, 596, 748, 945) and `cercado` (1350, 1356).
+- Issue: the town green has five names, and `prado` is also the reindeer paddock (234 and 235 use `prado` for both in consecutive paragraphs). At 87 "Down on the green … toward the park" both are `parque`. `plaza` also collides with "the square" (253, 377).
+- Recommendation: green → `el prado` (dominant, and used in the climax ch30); paddock → `el cercado` (as 1350/1356); real park (87, second mention) stays `parque`; legal "the green's deed" → `la escritura del prado`.
+- Why not automatic: word choice across ~45 places.
+
+### ES-D8. Gender of the inn's name — paras 45, 651 vs 120, 154, 1075
+- Quote: `El Winter Wonderland Inn se alzaba…` (45), `la escritura del Winter Wonderland Inn` (651) vs `La Winter Wonderland Inn apareció…` (120), `Esta misma. La Winter Wonderland Inn.` (154), `la escritura de la Winter Wonderland Inn` (1075)
+- Recommendation: masculine `el Winter Wonderland Inn` throughout (implied "el hotel/el inn"); the blurb (30) `La posada Winter Wonderland Inn` is fine as is.
+- Why not automatic: either gender is defensible; pick one.
+
+### ES-D9. Register Sam Patel ↔ Jessica — ch8 vs ch17
+- Quote: ch8 both usted (`Viene por el portavelas`, `Su trabajo está por todo el pueblo`, `Dígale…`); ch17 both tú (`Sam, te debo una`, `Tú no lo sabías`, `Dime qué debo vigilar`, `dile que…`) while Sam still says `señora Claus`.
+- Recommendation: usted both ways in ch17 too (849 `le debo una`, 854 `Usted no lo sabía… ¿Cómo iba a saberlo? … se lo he contado`, 855 `Dígame … Dígame quién`, 853/859 `Dígale`, 858 `Vigile … recuérdeme … Tiene buen ojo … estará … No los detenga, no diga … no deje … recuerde`); alternatively read ch17 as a deliberate move to tú after she confides in him.
+- Why not automatic: characterisation choice across a whole chapter. (Emma, Noriko and Bram had in-scene mismatches and were fixed to their dominant form — see APPLIED.)
+
+### ES-D10. Italics added by the translator — paras 346, 1006, 1075, 1487
+- Quote: `Conocer el secreto de los papeles te indica dónde pararte` / `No quién` (346); `Entró en mi vestíbulo. Se detuvo en mi propio mostrador. Lo puso entre mis cartas y se marchó, y yo ni lo vi` (1006); `Winter Wonderland Inn` (1075); `no te he dejado de vigilar` / `no he dejado de desear la cinta` (1487).
+- Issue: none of these is italic in the English (EN 279, 680, 724, 949). All 15 English italic runs are present in Spanish.
+- Recommendation: remove the italic at 1075 (plainly accidental); remove at 346, 1006 and 1487 as well to match the source (or keep as the Spanish convention for remembered/unspoken words).
+- Why not automatic: italic additions/removals are formatting decisions.
+
+### ES-D11. Bittersweet — para 45
+- Quote: `con una sola ramita de agridulce que aportaba el naranja de la temporada`
+- Issue: EN "a sprig of bittersweet" (American bittersweet, orange berries). `agridulce` is only an adjective in Spanish, so the phrase reads as nonsense.
+- Recommendation: `con una sola ramita de celastro que aportaba el naranja de la temporada`, or plainer `con una sola ramita de bayas anaranjadas…`.
+- Why not automatic: plant-name choice (botanical vs descriptive).
+
+### ES-D12. Martha's circle line and its echoes — paras 363, 1145, 1314
+- Quote: `Sea lo que sea lo que llevas a cuestas, no tienes que cargar con ello tú sola. De eso trata el círculo.` (363) vs `Lleves lo que lleves a cuestas, no tienes por qué cargarlo tú sola. De eso trata exactamente el círculo.` (1145) and `¿Que un círculo está para apoyarse en él?` (1314)
+- Issue: 1145 quotes Martha's words from 363 (EN repeats them verbatim); the Spanish quotes them with different wording.
+- Recommendation: make 1145 repeat 363 word for word: `Sea lo que sea lo que llevas a cuestas, no tienes que cargar con ello tú sola. De eso trata el círculo.`
+- Why not automatic: wording choice for a remembered quotation.
+
+### ES-D13. Banner kept in English — para 253
+- Quote: `FROST FALLS THROUGH THE YEARS, con la última S amontonada al final`
+- Issue: the banner is an in-world English sign; keeping it preserves the "last S" joke. All other labels (exhibit card, MISSING card, drawer labels, folder tab) are now in Spanish.
+- Recommendation: keep as is (alternative: `FROST FALLS A TRAVÉS DE LOS AÑOS` + `la última S` stays correct, since it also ends in S).
+- Why not automatic: sign localisation choice.
