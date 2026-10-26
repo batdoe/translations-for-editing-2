@@ -103,7 +103,9 @@ anything below is unclear; this brief adapts its Windows paths to this repo).
    (create the heading once; add items under it): quote, options, your recommendation, and why it can't be
    settled automatically. Judgment calls include: ambiguous word choice, round-number units, chapter
    renumbering, title-localisation questions, scene-break markers, italic additions/removals, anything that
-   would add or remove whole paragraphs.
+   would add or remove whole paragraphs, and any ADAPTATION that changes what the text literally states to make
+   it work in the target language (e.g. changing a stated word count, letter-based wordplay, renaming labels to
+   keep an alphabetical detail). Those go to decisions with your proposed wording — do not apply them.
 6. Run `python3 _tools/preflight.py --verify "<stem>"`. Paragraphs / scene breaks / bt must PASS. Explain every
    italic difference. If something you didn't intend changed, fix it.
 7. Write `_EditLedgers/<stem>_APPLIED.md`: verify result, then a table of applied fixes (para #, was → now,
