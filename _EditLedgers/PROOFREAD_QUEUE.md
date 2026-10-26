@@ -1,7 +1,8 @@
 ## LIVE STATUS
 - Book: Inn Trouble (Frost Falls Book 2)
-- Queue: 6 editions | Done: 5 | Remaining: 1
-- Next: Inn Trouble - ASSEMBLED - FORMATTED_Italian
+- Queue: 6 editions | Done: 6 | Remaining: 0 — RUN COMPLETE
+- Next: Lisa rules on PROOFREAD_DECISIONS.md (80 items); then fix Heading 1 / TOC in the formatter
+- Done: Italian (258 findings, 245 applied, 13 decisions, 0 refused; verify PASS)
 - Done: Dutch (295 findings, 280 applied, 15 decisions, 0 open refusals; verify PASS)
 - Done: Spanish (167 findings, 154 applied, 13 decisions, 0 refused; verify PASS)
 - Done: German (278 findings, 263 applied, 15 decisions, 0 refused; verify PASS)

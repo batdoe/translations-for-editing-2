@@ -410,3 +410,83 @@
 - Issue: In Dutch, 'bitterzoet' is Solanum dulcamara, a nightshade with red berries. EN 'bittersweet' here is the orange-berried American vine (Celastrus), whose Dutch name is 'boomwurger'. A Dutch reader will picture red berries, not orange ones.
 - Recommendation: `met een enkel takje oranje besjes voor de kleur van het seizoen`, or keep 'bitterzoet' if the plant name matters to Lisa.
 - Why not automatic: There is no everyday Dutch name for American bittersweet, so this is a word choice.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Italian
+
+### IT-D1. Title localisation — para 0
+- Quote: `Capitolo 1`
+- Issue: The title page shows the chapter label 'Capitolo 1' instead of the book title (EN para 0 'Inn Trouble'). Series/book lines (2 'Frost Falls', 4 'Libro 2') and the Books-in-this-Series list (18–19, <bt> spans) are fine.
+- Recommendation: Replace para 0 with the untranslated book title 'Inn Trouble' (optionally as `<bt>Inn Trouble</bt>` if the stamping step should handle it).
+- Why not automatic: Title handling is a title-localisation decision; adding a <bt> span would also change the span count.
+
+### IT-D2. 2 Omission (TOC) — para 20–28
+- Quote: `Indice / Informazioni su questo libro / Capitolo 31 / Cosa c'è dopo? / Estratto da <bt>Flour Play</bt>`
+- Issue: The Table of Contents lists only 'Capitolo 31' between 'Informazioni su questo libro' and the back matter; Capitolo 1–30 (EN 22–51) are missing. The About this Book section itself IS present and translated (heading 28, blurb 30–36).
+- Recommendation: Regenerate the TOC in the formatter (it also needs the 35 missing Heading 1 styles).
+- Why not automatic: Restoring 30 TOC lines adds paragraphs.
+
+### IT-D3. 7 Scene breaks — para 1181, 1191, 1244
+- Quote: `***`
+- Issue: English has no `* * *` markers. At these positions the English has only blank spacer paragraphs: EN 917–921 (after the end of ch31, before the 'more mysteries' line), 929–932 (after the What's Next? blurb) and 984–987 (after the excerpt, before the closing 'Flour Play is coming soon!').
+- Recommendation: Delete the three `***` lines at the formatting stage (or turn them into empty paragraphs) so the edition matches the English.
+- Why not automatic: Deleting them changes the paragraph count.
+
+### IT-D4. Key clue in English inside a `<bt>` span; `<bt>` on a bakery name — para 910, 651
+- Quote: `Il biglietto citava le parole di Theo. <bt>The sapphire at its heart</bt>: cinque parole … / sul bancone de <bt>The Holly Jolly Bakery</bt>`
+- Issue: 910: the key clue is printed in ENGLISH mid-sentence and wrapped as if it were a book title. Everywhere else the clue is Italian, and this pass made it uniform as 'lo zaffiro al suo cuore' (177, 178, 195, 807, 808, 809, 948, 1029), which is exactly five words, so the 'cinque parole' remark here stays true. 651: the bakery name is not a book title; 'de The Holly…' is also ungrammatical (1189/1212 say 'la Holly Jolly (Bakery)').
+- Recommendation: 910: replace `<bt>The sapphire at its heart</bt>` with `Lo zaffiro al suo cuore` (no markers). 651: replace `de <bt>The Holly Jolly Bakery</bt>` with `della Holly Jolly Bakery` (no markers).
+- Why not automatic: Removing markers changes the <bt> span count (9 → 7), which this pass must keep equal.
+
+### IT-D5. Italics added by translator — para 633
+- Quote: `boot camp`
+- Issue: The sweep italicised 'boot camp' (translator's Markdown). The English 'five-thirty boot camp' (EN 494) is roman. 'Boot camp' is a normal fitness loanword in Italian and needs no italics. All 15 English italic runs are present in the Italian.
+- Recommendation: Remove the italic on 'boot camp' to match the English.
+- Why not automatic: Italic additions/removals are formatting decisions.
+
+### IT-D6. 5 Dialogue punctuation — whole book
+- Quote: `«Sì, d'accordo, vieni» le dissi. (ch1) / «Allora ne hai una, ed è già in marcia,» dissi. (ch2) / «Non le piace», confidò Emma (ch6) / «Per me?». (ch3) vs «Pronto?» (ch2)`
+- Issue: Three dialogue-tag styles are mixed by chapter: «…» dissi (ch1, 3, 5, 7, 9, 10, 13, 14, 23, 25, 28, 29), «…,» dissi with the comma inside (ch2, 4, 11, 20), and «…», dissi with the comma outside (ch6, 8, 15–19, 21, 22, 24, 26, 27, 30, 31). Closing punctuation also varies: «…». and «…?». (period outside, e.g. ch3, 8, 16, 26) vs «…» / «…?» (period inside or none, e.g. ch1, 2, 5, 7).
+- Recommendation: Normalise to the most common Italian publishing style: «…» disse (no comma) and «…» closing with the sentence's own punctuation inside the guillemets.
+- Why not automatic: A book-wide punctuation restyle (several hundred paragraphs) is a house-style decision, not a single-answer fix.
+
+### IT-D7. 8 Units (round figures — ESCALATE) — para 185, 1121
+- Quote: `i più ricchi per cinquanta miglia / il prato misura quattro acri`
+- Issue: 185: 'the richest for fifty miles' is a round, rhetorical figure. 1121: 'the green's four acres'; 'acri' is unusual for Italian readers (4 acres ≈ 1.6 ha). All the literal measurements on the checklist were already metric in the translation or are now converted (47 'dieci centimetri', 131 now 'due o tre centimetri', 329 now 'mezzo centimetro', 581 'due metri', 891 'pochi metri', 1196/1233 'quindici centimetri'). 1161 'un dito d'acqua' (EN 'an inch of water') is a native Italian measure and was left.
+- Recommendation: 185: 'i più ricchi nel raggio di ottanta chilometri' (or keep 'per miglia e miglia' to stay rhetorical). 1121: 'e il prato misura più di un ettaro e mezzo'.
+- Why not automatic: Converting round figures loses roundness or emphasis, so per the unit rule this is ESCALATE.
+
+### IT-D8. Adaptation (alphabetical 'B' index cards) — para 805, 812
+- Quote: `Stavo passando in rassegna le B, Ricevute del Panificio, Sottoscrizioni per il Chiosco della Musica … / B, B, Torneo di Bridge, Festoni, Avanzi`
+- Issue: The English detail is that she is filing the B's (Bakery Receipts, Bandstand Subscriptions … Bridge Tournament, Bunting, Surplus). In Italian none of the example labels starts with B, so 'le B' no longer makes sense.
+- Recommendation: 805: 'Stavo passando in rassegna le B, Bollettini del panificio, Banda e chiosco della musica – sottoscrizioni,'. 812: 'B, B, Bridge – torneo, Bandierine e festoni, eccedenze,'.
+- Why not automatic: Renaming labels to keep an alphabetical detail is an adaptation that changes what the text literally says.
+
+### IT-D9. Adaptation (banner joke) — para 297
+- Quote: `FROST FALLS NEL CORSO DEGLI ANNI, con l'ultima S pigiata all'angolo`
+- Issue: The banner text was translated, but the joke about the last letter still refers to an 'S'. The Italian banner ends in 'I'.
+- Recommendation: Change 'l'ultima S' to 'l'ultima I' (keep the translated banner). The alternative is to keep the banner in English ('FROST FALLS THROUGH THE YEARS'), but an English banner in an Italian town scene reads oddly.
+- Why not automatic: This is an adaptation of a stated detail.
+
+### IT-D10. 4 Proper names (reindeer) — para 396, 539–542, 661–694, 1139–1145
+- Quote: `Cometa (396) / Ballerina (1139, 1143, 1145; and now 539–542) / Prancer, Vixen (661–694)`
+- Issue: Two reindeer have Italian names (Comet → Cometa, Dancer → Ballerina) while Prancer and Vixen stay English. Dancer also appeared as 'Fulmine' in ch10 (that is Blitzen in Italian); this pass changed it to 'Ballerina' to match ch30. The dog is consistently 'Palla di Neve' (one stray 'Snowball' at 899 was fixed).
+- Recommendation: Choose one policy: either all English (Comet, Dancer, Prancer, Vixen), as with the other proper nouns, or all Italian (Cometa, Ballerina, Donato/Saltarello for Prancer, Donnola for Vixen). Recommend all English, since the book keeps English place and character names.
+- Why not automatic: This is a localisation policy choice that affects several paragraphs.
+
+### IT-D11. 5 Register (Sam ↔ Jessica; Noriko ↔ Jessica) — ch8 (442–484) vs ch17 (752–774)
+- Quote: `«È qui per il portacandele.» (Sam, ch8) / «Dimmi cosa devo tenere d'occhio… dille…» (Sam, ch17); «Ti sto dicendo…» (Jessica, ch17)`
+- Issue: Sam and Jessica are mutually on Lei terms in ch8 (482 was fixed inside the scene) and mutually on tu terms in ch17. Noriko is on Lei terms while she still calls her 'signora Claus' (ch6/ch21, fixed to Lei inside those scenes) and on tu terms in ch25 once they use first names. That shift follows the English and can stay. Within-scene slips were fixed for Neil, Vera, Noriko, Emma, Bram and the mayor.
+- Recommendation: Make Sam → Jessica Lei throughout (he always says 'Mrs. Claus') and Jessica → Sam tu (she uses his first name, like with Bram and Jamal). That means changing Sam's imperatives in ch17 (766 'Dimmi'/'Dimmi chi', 774 'dille' ×2) to 'Mi dica'/'le dica', and Jessica's 482 back to tu.
+- Why not automatic: Several register options are defensible; changing ch17 means rewriting multiple speeches.
+
+### IT-D12. 6 Term (the blackmail note) — whole book
+- Quote: `biglietto (ch2, 3, 10, 19–23, 25, 26) / lettera (di ricatto) (ch6 408, ch7 425, ch8 436–488, ch13 634, ch18 793, ch20 834, ch24 965, ch26 1029) / messaggi (1057)`
+- Issue: The note is mostly 'biglietto', but often 'lettera (di ricatto)'. That is idiomatic, yet it blurs the plot distinction with the Blackburn LETTERS (lettere). The 'nota' variants (448, 519, 794) and the three ch4 cases right next to the Blackburn letters (321, 327, 329) were fixed.
+- Recommendation: Use 'biglietto' for the blackmail note throughout (14 remaining spots, with gender agreement: 'me l'aveva dato', etc.).
+- Why not automatic: 'Lettera di ricatto' is correct Italian, so this is a consistency and clarity choice across many paragraphs.
+
+### IT-D13. 6 Term (festival; forge) — whole book
+- Quote: `la festa (ch1–7, 14, 20 'luci di festa', 26 'ultimo pomeriggio della festa') / il festival (ch6, 9, 11, 15, 20–21, 23, 25…) ; la fucina (ch8) / la forgia (ch10, 16, 17)`
+- Issue: The Halloween festival is called both 'festa' and 'festival', sometimes in the same chapter. The forge is 'fucina' in ch8 and 'forgia' in ch10/16/17. Both words are valid in each pair.
+- Recommendation: Use 'festival' (matches the committee, banners and 'festival lights' usage) and 'fucina'.
+- Why not automatic: Both forms are correct Italian, so this is a style choice affecting dozens of paragraphs.
