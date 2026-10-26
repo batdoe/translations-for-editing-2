@@ -1,7 +1,8 @@
 ## LIVE STATUS
 - Book: Inn Trouble (Frost Falls Book 2)
-- Queue: 6 editions | Done: 2 | Remaining: 4
-- Next: Inn Trouble - ASSEMBLED - FORMATTED_German
+- Queue: 6 editions | Done: 3 | Remaining: 3
+- Next: Inn Trouble - ASSEMBLED - FORMATTED_Spanish
+- Done: German (278 findings, 263 applied, 15 decisions, 0 refused; verify PASS)
 - Done: Norwegian (431 findings, 420 applied, 11 decisions, 0 refused; verify PASS; NOTE adaptations applied: 'fem ord'->'tre' x4, B-labels renamed — Lisa to confirm)
 - Done: French (230 findings, 217 applied, 13 decisions, 0 refused; verify PASS)
 

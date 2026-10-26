@@ -147,3 +147,95 @@
 - Issue: The blackmail note alternates between 'brevet' (21×) and 'lappen' (22×), sometimes within one chapter (ch2, ch16, ch20). The inn lobby is 'lobbyen' in ch1 and 'foajeen' afterwards. I already settled 'utpressingsbrevet' and the inconsistent 'utpressingstrussel', 'beskjeden' and 'notatene' where they occurred.
 - Recommendation: Use 'brevet' for the note (it is a typed-up demand on stationery) and 'foajeen' for the lobby.
 - Why not automatic: Both words are acceptable Norwegian. Choosing one means about 25 stylistic replacements.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_German
+
+### DE-D1. 7 Scene breaks — para 455, 1127, 1143, 1245
+- Quote: `* * *`
+- Issue: English has NO `* * *` markers. 455 sits mid-chapter 10 between EN 426 and 427 (no break in EN — Nick's explanation continues straight on); 1127 = EN blank spacers 917–921 after the end of ch31; 1143 = EN blanks 929–932 after the What's Next? blurb; 1245 = EN blanks 983–987 before the closing 'Flour Play is coming soon!'.
+- Recommendation: Delete all four at the formatting stage (455 especially, as it splits a continuous scene); the other three may be replaced by plain spacing.
+- Why not automatic: Removing them changes paragraph count.
+
+### DE-D2. 2 Omission (TOC) — para 22
+- Quote: `Kapitel 31`
+- Issue: The translated Table of Contents lists only 'Kapitel 31' followed by the back matter; entries Kapitel 1–30 (EN 22–51) are missing. (Formatter also produced 0 Heading 1 paragraphs.)
+- Recommendation: Regenerate the TOC in the formatter once the 35 Heading 1 styles are restored.
+- Why not automatic: Restoring 30 TOC lines adds paragraphs.
+
+### DE-D3. `<bt>` spans on things that are not book titles — para 38, 40, 561, 1149, 1167, 1183, 1221
+- Quote: `<bt>Yarn Tales</bt>` (38, 1149, 1221) / `<bt>Winter Wonderland Inn</bt>` (40) / `<bt>The Holly Jolly Bakery</bt>` (561) / `<bt>Gazette</bt>` (1167) / `<bt>Holly Jolly Bakery</bt>` (1183)
+- Issue: 7 of the 15 spans wrap a shop, the inn, a bakery or the newspaper — none are book titles, and the same names appear unmarked elsewhere (e.g. Yarn Tales 267, Gazette 38/269). 561 also reads 'auf dem Tresen der The Holly Jolly Bakery' (German article + English 'The'). The 8 genuine title spans (Inn Trouble ×2, Frost and Found, Flour Play ×5) are correct; the title page keeps 'Inn Trouble' untranslated — correct.
+- Recommendation: Drop the markers on the 7 non-titles, keep the text; at 561 also drop the English article: 'auf dem Tresen der Holly Jolly Bakery'.
+- Why not automatic: Removing markers changes the bt-span count (15 → 8), which this pass must keep equal.
+
+### DE-D4. 6 Term / adaptation (KEY CLUE, word count) — para 28, 111, 112, 129, 726, 728, 730, 744, 829, 867, 953
+- Quote: `der Saphir im Herzen` (111, 112, 129, 726, 728, 730, 953) / `Der Saphir in seinem Herzen: fünf Wörter` (829) / `den Saphir in ihrem Herzen` (867) / `dieselben fünf Wörter` (730, 744 'Die fünf Wörter')
+- Issue: The clue 'the sapphire at its heart' is rendered three ways, and the dominant German form ('der Saphir im Herzen') has FOUR words while the text says 'fünf Wörter' three times (730 ×2, 744, 829). 953 had the phrase in English — applied as 'der Saphir im Herzen' (dominant form) so it can be changed with the rest. (28, the blurb, now says 'den Stein im Herzen der Brosche' as in EN.)
+- Recommendation: Option A (recommended): unify on the five-word 'der Saphir in ihrem Herzen' (ihrem = der Brosche) at 111, 112, 129 ×2, 726, 728, 730, 829, 867, 953 — keeps 'fünf Wörter' true and fixes 829's wrong 'seinem'. Option B: keep 'der Saphir im Herzen' everywhere (fix 829, 867) and change 'fünf' → 'vier' at 730 ×2, 744, 829.
+- Why not automatic: Changing a stated word count / the wording of the central clue is an adaptation decision.
+
+### DE-D5. 1 Untranslated / 6 Term (honorifics) — para Mr./Mrs. ×56 vs Herr/Frau ×9 (503, 504, 604, 606, 804, 807, 809 ×2)
+- Quote: `Mrs. Claus` (39×), `Mr. Worthington`, `Mr. Kim` … vs `Frau Pelletier` (503, 809), `Frau Claus` (504, 807), `Herrn Kim` / `Herr Kim` (604, 606), `Herrn Kims` (804)
+- Issue: The edition mostly keeps English honorifics (a common convention in German translations of US-set fiction, and 'Mrs. Claus' is the established German name of Santa's wife), but switches to Frau/Herr nine times; Mrs. Pelletier and Mr. Kim appear both ways.
+- Recommendation: Keep Mr./Mrs. throughout and normalise the nine Frau/Herr instances (Frau Pelletier → Mrs. Pelletier, Frau Claus → Mrs. Claus, Herr(n) Kim(s) → Mr. Kim(s)). Alternative: Herr/Frau throughout (65 edits; 'Frau Claus' loses the Santa association).
+- Why not automatic: House-style choice affecting 65 places.
+
+### DE-D6. 4 Proper name (the dog) — para 312, 319, 321, 818, 1056 vs 1073, 1081, 1085, 1087, 1095, 1167, 1199
+- Quote: `Schneeball` (5×) vs `Snowball` (7×)
+- Issue: Martha's dog is translated as 'Schneeball' in ch6, ch21 and ch30 but kept as 'Snowball' in ch31 and the Flour Play excerpt.
+- Recommendation: 'Snowball' throughout (series rule: character names stay English; matches NO-D10).
+- Why not automatic: Name-localisation choice.
+
+### DE-D7. 6 Term (the circle) — para 94, 267, 269, 270, 294, 296, 303, 306, 469, 479, 485, 601, 804, 906, 908, 1039, 1045 …
+- Quote: `Handarbeitskreis` (94) / `Strickrunde` (267–303) / `Strickkreis` (306, 804, 906, 1039, 1045) / `Zirkel` (469, 479, 485) / `Kreis` (601, 908, 1045, excerpt)
+- Issue: The knitting circle has five names. 'Zirkel' (a drawing compass / esoteric circle) is the least natural. Martha's key line 'That's the whole point of a circle' is 'Sinn einer Strickrunde' at 296 but 'Sinn eines Kreises' when echoed at 908 and 1045.
+- Recommendation: 'Strickkreis' at first mention in a scene, 'Kreis' thereafter; replace Handarbeitskreis/Strickrunde/Zirkel; make 296 read 'Genau das ist der Sinn eines Kreises' so the echoes at 908/1045 match.
+- Why not automatic: Word choice across ~40 places.
+
+### DE-D8. 5 Register (Jessica → Vera) — para 488 vs 859, 1002
+- Quote: `Danke, Vera, Sie sehen erschöpft aus` (488) vs `geht es dir gut? Wirklich. Du siehst gar nicht gut aus` (859) / `Du hast etwas Falsches getan … ` (1002)
+- Issue: Jessica says Sie to Vera in ch11 and du in ch23 and ch27 with no trigger; Vera always says Sie/'Mrs. Claus' to Jessica.
+- Recommendation: Sie throughout (fix 859 and the whole 1002 speech), mirroring Vera's Sie; alternatively du from ch23 on if Lisa reads ch27 as a deliberate softening.
+- Why not automatic: Characterisation choice.
+
+### DE-D9. 5 Register (Noriko ↔ Jessica) — para 326, 328 vs 811–817, 921–925
+- Quote: `Und Ihre Rentiere stehen dieses Jahr nicht auf dem Programm` / `Sagen Sie es Bram` (ch6) vs `Du sahst aus, als würdest du Frau Pelletier gleich umwerfen` (811), `Du verstehst, dass ich das …` (921)
+- Issue: Noriko uses Sie at their first meeting (ch6) and du from ch21 on (both ways), while still calling her 'Mrs. Claus'.
+- Recommendation: du throughout (change 326 'Ihre' → 'deine', 328 'Sagen Sie' → 'Sag'); or keep ch6 Sie if Lisa wants the first meeting formal.
+- Why not automatic: Characterisation choice; the shift could be read as growing familiarity.
+
+### DE-D10. 8 Units (round figure — ESCALATE) — para 119
+- Quote: `die reichste im Umkreis von fünfzig Meilen`
+- Issue: EN 'the richest for fifty miles' is a round, rhetorical figure. Literal conversion is 80 km.
+- Recommendation: 'die reichste im Umkreis von achtzig Kilometern' or idiomatic 'die reichste weit und breit'. (The 'reichsten' → 'reichste' grammar fix was applied.)
+- Why not automatic: Round-number unit conversion (ESCALATE rule).
+
+### DE-D11. Adaptation (banner joke) — para 231
+- Quote: `FROST FALLS IM LAUFE DER JAHRE, wobei das letzte S ganz am Ende hineingequetscht war`
+- Issue: The banner was translated, but the sentence still jokes that the last S was squeezed in — the German banner ends in E.
+- Recommendation: Change 'das letzte S' → 'das letzte E' (simplest), or keep the banner in English as an in-world sign so the S joke works.
+- Why not automatic: Letter-based detail; adaptation.
+
+### DE-D12. Adaptation (alphabetical catalog cards) — para 722, 736
+- Quote: `Ich arbeitete mich gerade durch die B-Karten – Bäckereiquittungen, Musikpavillon-Spenden –` / `B, B, Bridge-Turnier, Wimpelketten, Überschuss`
+- Issue: Jessica is refiling the B cards; the German labels 'Musikpavillon-Spenden', 'Wimpelketten', 'Überschuss' do not start with B, so the alphabetical detail breaks (EN 'Bandstand Subscriptions', 'Bunting, Surplus' — one card).
+- Recommendation: 722: 'Bäckereiquittungen, Blaskapellen-Pavillon: Beiträge'; 736: 'B, B, Bridge-Turnier, Banner und Wimpel, Überschuss'.
+- Why not automatic: Renaming labels to keep an alphabetical detail is an adaptation.
+
+### DE-D13. Italics added by translator — para 797, 953
+- Quote: `Er ist in meine Eingangshalle gelaufen. Er stand an meinem eigenen Tresen. …` (797) / `der Saphir im Herzen` (953)
+- Issue: Italic in German but not in the English (797 = Jessica recalling Fiona's words; 953 = the clue quoted in dialogue, formerly the English phrase in italics). All 15 English italic runs are present in German.
+- Recommendation: Remove the italic at 797; at 953 either remove it or keep it as quotation marking (if kept, consider „…“ instead).
+- Why not automatic: Italic additions/removals are formatting decisions.
+
+### DE-D14. 3 Mistranslation (plant) — para 40
+- Quote: `samt einem einzelnen Zweig Stechpalmenbeeren für das herbstliche Orange`
+- Issue: EN 'a single sprig of bittersweet for the orange of the season'. Stechpalme = holly (red berries), which clashes with 'Orange' and pre-empts the ch6 holly miracle.
+- Recommendation: 'samt einem einzelnen Zweig Baumwürger für das herbstliche Orange' or plainer 'samt einem einzelnen Zweig mit orangefarbenen Beeren für das herbstliche Orange'.
+- Why not automatic: Plant-name choice (botanical vs descriptive).
+
+### DE-D15. 6 Term (minor variants) — para lobby 44–834; inn 293, 382, 651, 659, 708; cider 231–813
+- Quote: `Lobby` / `Foyer` / `Eingangshalle` / `Empfangsbereich`; `das Inn` (293, 382, 651, 659) vs `der Gasthof`; `Apfelwein` (11×)
+- Issue: The inn lobby has four names; 'das Inn' alternates with 'Gasthof'; US festival cider (served to children) is 'Apfelwein', which in German is alcoholic.
+- Recommendation: Lobby → 'Lobby' throughout (or 'Foyer'); 'Gasthof' for the inn except in the proper name; cider → 'heißer Apfelsaft' / 'Apfelpunsch'.
+- Why not automatic: Word choice across many places; none changes the plot.
