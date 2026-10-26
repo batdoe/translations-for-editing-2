@@ -318,3 +318,95 @@
 - Issue: the banner is an in-world English sign; keeping it preserves the "last S" joke. All other labels (exhibit card, MISSING card, drawer labels, folder tab) are now in Spanish.
 - Recommendation: keep as is (alternative: `FROST FALLS A TRAVÉS DE LOS AÑOS` + `la última S` stays correct, since it also ends in S).
 - Why not automatic: sign localisation choice.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Dutch
+
+### NL-D1. Chapter numbering — para 37
+- Quote: `Hoofdstuk 3`
+- Issue: The first chapter heading of the body reads 'Hoofdstuk 3'. The next headings are Hoofdstuk 2 (158), 3 (212), 4 (295) … 31 (1388), so the book has two 'Hoofdstuk 3' headings and no 'Hoofdstuk 1'. The text under para 37 is EN Chapter 1 (the pie, Pip, Fiona's wreath).
+- Recommendation: Change para 37 to `Hoofdstuk 1`.
+- Why not automatic: Chapter renumbering is always Lisa's call.
+
+### NL-D2. 2 Omission (TOC) — para 22
+- Quote: `Hoofdstuk 31`
+- Issue: The Table of Contents goes 'Over dit boek' → 'Hoofdstuk 31' → 'Wat komt er hierna?' → 'Fragment uit Flour Play'. The entries for Hoofdstuk 1–30 (EN 22–51) are missing. This is the same defect as in the French and Norwegian editions. The TOC heading 'Wat is de volgende stap?' (24, and 1450 in the back matter) was a mistranslation of 'What's Next?'. Both were changed to 'Wat komt er hierna?' in this pass. 'Flour Play' in the TOC (26) is italic, but it is roman in the English TOC.
+- Recommendation: Regenerate the TOC in the formatter. It also needs the 35 missing Heading 1 styles.
+- Why not automatic: Restoring 30 TOC lines adds paragraphs.
+
+### NL-D3. 7 Scene breaks — para 996, 1446, 1462, 1564
+- Quote: `* * *`
+- Issue: The English has no `* * *` markers. 996 sits in the middle of ch19, between EN 646 ('…he let me have it anyway.') and EN 647 ('And then the light changed.'). There is nothing at that point in the English, not even a blank line. 1446 sits after ch31, where the English has blank spacer paragraphs (EN 917–921) before 'There are more mysteries afoot…'. 1462 sits after the What's Next? blurb (EN 929–932 blank). 1564 sits before the closing 'Flour Play verschijnt binnenkort!' (EN 983–987 blank).
+- Recommendation: Delete all four lines at the formatting stage, or turn them into empty paragraphs. 996 especially should go: it splits a continuous scene.
+- Why not automatic: Deleting them changes the paragraph count.
+
+### NL-D4. `<bt>` spans on things that are not book titles, incl. the KEY CLUE — para 767, 1106, 1122, 1258, 1468, 1540
+- Quote: `<bt>The Holly Jolly Bakery</bt>` (767) / `<bt>Frost Falls</bt>` (1106) / `<bt>Winter Wonderland Inn</bt>` (1122) / `<bt>the sapphire at its heart</bt>` (1258) / `<bt>Yarn Tales</bt>` (1468, 1540)
+- Issue: Six of the ten bt spans wrap a bakery, the town, the inn, the wool shop and, worst of all, the key clue. At 1258 Jessica's accusation to Theo still prints the clue in English inside the Dutch sentence. Everywhere else the clue now reads 'de saffier in haar hart', which is five words, so the text's 'vijf woorden' (972, 986, 1100, 1205) works. That wording follows Theo's card (968/970), which the translator rendered this way. In this pass I unified 177, 178, 195, 1100 and 1151 to it. The real book-title spans (0, 18, 19, 1466) are correct, and the title page keeps 'Inn Trouble'.
+- Recommendation: At 1258, replace `<bt>the sapphire at its heart</bt>` with `de saffier in haar hart` (no markers). At 767, 1106, 1122, 1468 and 1540, drop the markers and keep the text. At 767, optionally use 'de Holly Jolly Bakery' without the English article, as the excerpt does (1502).
+- Why not automatic: Removing markers changes the bt-span count (10 → 4), which this pass must keep equal.
+
+### NL-D5. Italics added by the translator — para 26, 178, 616, 622, 624, 1061, 1100
+- Quote: `Flour Play` (26, TOC) / `De saffier in haar hart` (178, 1100) / `is`, `daarna` (616) / `allemaal` (622) / `nooit` (624) / `Hij is zomaar mijn lobby binnengelopen. … ik heb het niet eens gezien.` (1061)
+- Issue: These are italic in the Dutch and roman in the English. At 178 and 1100 the italic runs held the untranslated English clue. I translated the text inside them and left the italics as they were. All 15 English italic runs are present in the Dutch, at 177, 190, 297, 325, 671, 876, 964, 968, 1037, 1112, 1135, 1370, 1448, 1464 and 1566.
+- Recommendation: Remove the added italics. Optionally keep 1061 (Fiona's words recalled) and the emphasis italics in Bram's speech (616–624) if Lisa likes them.
+- Why not automatic: Adding or removing italics is a formatting decision.
+
+### NL-D6. 8 Units (round figure — ESCALATE) — para 185
+- Quote: `de rijkste in de omtrek van vijftig mijl`
+- Issue: EN 'the richest for fifty miles'. The imperial 'mijl' is left in a Dutch text where the reader thinks in km. 50 miles ≈ 80 km. I checked all the other literal units. 47 'tien centimeter' is OK (66). 131 'drie centimeter' is OK (108). 677 'nog geen twee meter' is OK (456). 1079 'een paar meter' is OK (694). 1470 and 1544 'vijftien centimeter' are OK (936/973). I fixed 361 (quarter-inch → 'een halve centimeter') and 1408 (an inch of water → 'een paar centimeter'). I also fixed 1373 ('vier hectare' for four acres → 'zo'n anderhalve hectare'). Idioms: 'duim voor duim' at 1190 was made idiomatic. 'Niet de afgelegde mijlen' at 1498 reads natively, so I left it.
+- Recommendation: `de rijkste in de wijde omtrek` (keeps the rhetoric). The alternative is `in een omtrek van tachtig kilometer`.
+- Why not automatic: This is a round, rhetorical figure, so the unit rule says escalate.
+
+### NL-D7. 1 Untranslated (in-world banner) / adaptation — para 297
+- Quote: `FROST FALLS THROUGH THE YEARS, waarbij de laatste S erg krap aan het einde was gepropt`
+- Issue: The exhibition banner is left in English (italic, as in EN). The sentence then jokes that the last S was crammed in. All the other in-world labels are translated: the drawer cards (671), the exhibit card (325), the catalog cards (964/968) and the deed folder (1135, done in this pass).
+- Recommendation: `FROST FALLS DOOR DE JAREN, waarbij de laatste N erg krap aan het einde was gepropt` (the joke moves to the N).
+- Why not automatic: This is an adaptation (it changes the letter named in the joke), and the banner could be read as a deliberately English sign.
+
+### NL-D8. Adaptation (alphabetical 'B' index cards) — para 964, 978
+- Quote: `B, B, Bridgetournament, Bunting, Surplus` (978)
+- Issue: At 964 the translator kept the alphabetical B detail ('Bakkerijbonnen, Benefietabonnementen'). I fixed the typo 'Bakkerijbonen'. At 978 the card names are half-English: 'Bridgetournament' is neither English nor Dutch ('bridgetoernooi'), and 'Bunting' and 'Surplus' are English words.
+- Recommendation: `B, B, Bridgetoernooi, Bannerversiering, Batig saldo`
+- Why not automatic: Renaming labels to keep the alphabetical detail is an adaptation.
+
+### NL-D9. 4 Proper name (the dog) — para 421, 435, 439, 1087, 1375 vs 1392, 1400, 1404, 1406, 1414, 1486, 1518
+- Quote: `Sneeuwbal` / `Snowball`
+- Issue: Martha's dog is 'Sneeuwbal' in ch6, ch21 and ch30 and 'Snowball' in ch31 and the excerpt. This is the same split as in the Norwegian edition.
+- Recommendation: Use `Snowball` throughout (series rule: names stay English), unless the Dutch Book 1 used 'Sneeuwbal'. Check Frost and Found NL.
+- Why not automatic: It depends on how Book 1 handled the name.
+
+### NL-D10. 6 Term (the green) — para 53, 137, 149, 266 … (brink ×19) vs 170, 409, 1023, 1390 (dorpsplein) / 401, 409, 447, 473, 1540, 1544 (grasveld) / 661, 1073 (dorpsweide) / 569 (pleintje) / 767 (het groen)
+- Quote: `de brink` / `het dorpsplein` / `het grasveld` / `de dorpsweide`
+- Issue: 'The green' appears in six forms. 'Dorpsplein' (a paved square) also collides with 'the square' where the Society stands (297 'aan het pleintje').
+- Recommendation: Use `de brink` throughout. It is the dominant form and the exact Dutch equivalent of a village green.
+- Why not automatic: Picking the house term means about 15 stylistic replacements.
+
+### NL-D11. 6 Term (the town) — whole book
+- Quote: `het dorp` (≈59) / `het stadje` (≈81) / `de stad` (≈20, e.g. 327, 497, 703, 943, 1262, 1268, 1318)
+- Issue: Frost Falls is called a village, a small town and a city, sometimes within one chapter (ch1 'dorp', ch2 'stadje'). 'Dorp' and 'stadje' are both defensible for EN 'town'. 'Stad' (city) is wrong in scale, but 'stad' is fine where the English says 'city' (932 'in de stad', 703 'een fonds in de stad').
+- Recommendation: Use 'stadje' as the default, keep 'dorp' where the register is homely, and replace 'stad' wherever it means Frost Falls.
+- Why not automatic: This is a register and style choice across about 160 occurrences.
+
+### NL-D12. 6 Term (minor variants) — porch, festival, circle, the note
+- Quote: `portiek` (45–137) vs `veranda` (548–1322) / `festival` vs `feest` (409, 429, 481, 1072, 1076, 1077, 1093, 1366) / `kring` vs `handwerkkring` (160, 368), `breiclub` (409, 1190, 1350, 1362), `handwerkkringetje` (1073) / blackmail note `briefje` (≈68) vs `brief` (e.g. 345, 357, 361, 520, 532, 552, 560, 654) and `dreigbrief`/`afpersingsbrief`/`afpersbrief`/`chantagebrief` (345, 477, 497, 508, 740, 947, 972, 1100)
+- Issue: These are synonym drifts. I already fixed the cases where the wrong word changed the meaning: 'Kring' for the Society, 'Vereniging' for the Society, 'brieven' for the notes at 1168, 1283 and 1311, 'vriendengroep' for the circle at 1369 and 1375, 'atelier'/'werkhuis' for the workshop, 'paddock' for the meadow, and 'kist' for the trunk.
+- Recommendation: Use 'veranda' (dominant, and the inn has a wrap-around porch), 'festival', 'de kring' (drop 'breiclub'), and 'het briefje' for the note.
+- Why not automatic: Choosing one word means about 30 stylistic replacements.
+
+### NL-D13. 5 Dialogue punctuation — ch5 (372–399), ch15 (812–872), ch24 (1180–1198), ch25 (1209–1239), ch28 (1320–1329)
+- Quote: `„Ze weet wat daarin zit”, zei Olivia.`
+- Issue: These five chapters place the comma after the closing quote. The other 26 chapters use `„…,” zei Olivia.` I fixed the single stray case at 224 in ch3.
+- Recommendation: Normalise to `„…,” zei hij.` throughout. Both forms are in Dutch use, but the book should pick one.
+- Why not automatic: This is a house-style restyle across about 45 paragraphs.
+
+### NL-D14. 5 Register (Emma → Jessica) — para 411 vs 465
+- Quote: `„Mevrouw Claus, uw pinguïn eet een pompoen op.”` (411) / `„Heb jij dat gedaan?” … „Heb jij kerst uit een pompoen laten groeien?”` (465)
+- Issue: Within one chapter, eight-year-old Emma moves from 'u' to 'jij' with no story trigger. These are her only direct addresses to Jessica in the book.
+- Recommendation: Use 'u' at 465 (`Heeft u dat gedaan? … Heeft u kerst …`), which is polite and matches 'mevrouw Claus'. Alternatively, make 411 'je pinguïn' if Lisa wants Emma more familiar.
+- Why not automatic: The register for this pair is a characterisation choice.
+
+### NL-D15. 3 Mistranslation? (plant) — para 53
+- Quote: `met een enkel takje bitterzoet voor de oranje kleur van het seizoen`
+- Issue: In Dutch, 'bitterzoet' is Solanum dulcamara, a nightshade with red berries. EN 'bittersweet' here is the orange-berried American vine (Celastrus), whose Dutch name is 'boomwurger'. A Dutch reader will picture red berries, not orange ones.
+- Recommendation: `met een enkel takje oranje besjes voor de kleur van het seizoen`, or keep 'bitterzoet' if the plant name matters to Lisa.
+- Why not automatic: There is no everyday Dutch name for American bittersweet, so this is a word choice.
