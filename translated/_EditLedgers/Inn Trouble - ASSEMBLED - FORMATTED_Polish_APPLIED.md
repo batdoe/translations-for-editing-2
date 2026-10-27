@@ -1,0 +1,621 @@
+# Inn Trouble - ASSEMBLED - FORMATTED_Polish — APPLIED (2026-10-27)
+
+Output: `translated\corrected\Inn Trouble - ASSEMBLED - FORMATTED_Polish.docx` (edited in place on top of the mechanical sweep, which had converted 2 Markdown `*…*` spans to italics; a pre-proofread backup was kept in the session scratch dir). Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Polish_PROOFREAD.md`. Decisions: `_EditLedgers\PROOFREAD_DECISIONS2.md`.
+
+Method: every edit matched an exact substring occurring exactly once in the paragraph's current `<w:t>` text (verify-before-write); edits were made in `<w:t>` nodes only (no `set_para_text`; run formatting kept; a replacement spanning runs was allowed only when all spanned runs had the same italic state). Paragraph count unchanged (1416 → 1416).
+
+## Counts
+- Targeted fixes applied: **596** (incl. 64 back-matter paragraphs: 5 blurb + 59 excerpt, from corrected Flour Play Polish).
+- Global passes: `–` → `—` in **349** paragraphs (**270** dialogue paragraphs); `...` → `…` ×8; `broszka/-i/-ę/-ą` → `brosza` forms, 31 runs in 30 paragraphs.
+- Refused by verification: **0**. Quoted but not found: **0** (no prior report existed).
+- Italic runs 22 → 24 = the sweep's +2. Italic sequence differs only where italic English was translated: the blackmail note [185], the clue [187], Theo's card [862] (clue wording), the deed tab PROPERTY → NIERUCHOMOŚĆ [1027].
+- `<bt>` 14 → 8: 6 stray non-title spans removed (ruling 5): Winter Wonderland Inn [171][205][1015], Frost Falls [201], Yarn Tales [337], The Holly Jolly Bakery [693]. Kept: Inn Trouble ×2, Frost and Found, Flour Play ×5.
+
+## Applied (¶, was → now, why)
+
+- [8] `Copyright © 2026` → `Copyright 2026` — consistency: ruling 7: copyright line matched to Book 1/Book 3 (and EN) — no © sign
+- [10] `Wydanie drugie` → `Drugie wydanie` — consistency: ruling 7: edition line matched to Book 1
+- [14] `ani za pomocą jakichkolwiek środków, w tym fotokopiowania, nagrywania lub innych` → `ani przy użyciu jakichkolwiek środków, w tym kserokopii, nagrań lub innych` — consistency: ruling 7: rights paragraph matched to Book 1/3 verbatim
+- [16] `Ta historia, wszystkie imiona, postacie i wydarzenia przedstawione w tym utworze są fikcyjne. Wszelkie podobieństwo do prawdziwych osób (żyjących lub zmarłych), miejsc, budynków i produktów jest niezamierzone lub całkowicie przypadkowe.` → `Przedstawiona tu historia, wszelkie imiona, postacie i wydarzenia są całkowicie fikcyjne. Wszelkie podobieństwo do prawdziwych osób (żyjących lub zmarłych), miejsc, budynków i produktów jest niezamierzone i nie powinno być wyciągane jako wniosek.` — consistency: ruling 7: fiction disclaimer matched to Book 1/3 verbatim
+- [24] `Fragment z książki` → `Fragment książki` — consistency: TOC entry matched to Book 1/3 and the back-matter heading
+- [27] `i w jeszcze jednym miejscu w mieście` → `i w jeszcze jednym miejscu w miasteczku` — term: town = miasteczko
+- [28] `Kowal był winny dwadzieścia dolarów i kręcił, zamiast odpowiedzieć wprost.` → `Kowal, któremu ktoś był winien dwadzieścia dolarów, kręcił, zamiast odpowiedzieć wprost.` — reversed: blurb made Sam the DEBTOR; in the book Fiona owes Sam the twenty dollars (Ch1) — he is owed
+- [38] `wyszła na werandę` → `wyszła na ganek` — term: porch = ganek (Book 1, Book 3; this book had weranda ×15 and ganek ×8)
+- [40] `ze cztery cale` → `z dziesięć centymetrów` — units: four inches of snow → ≈10 cm (SAFE: arithmetic)
+- [40] `gromadząc się w rynnach` → `gromadząc się w rynsztokach` — mistranslation: street gutters = rynsztoki (rynny = roof gutters)
+- [40] `nikt w mieście` → `nikt w miasteczku` — term: town = miasteczko (never 'miasto/city')
+- [40] `kiedy znaleźliśmy psa Marty` → `kiedy znaleźliśmy psa Marthy` — name: Martha spelling
+- [40] `schodząc po schodkach werandy` → `schodząc po schodkach ganku` — term: porch = ganek
+- [42] `Pan Kim wyciął cały rząd z nich` → `Pan Kim wyrzeźbił cały rząd dyń` — calque: 'carved a whole row of them' — calque 'wyciął … z nich'
+- [46] `gałązką rdestu` → `gałązką dławiszu` — mistranslation: bittersweet (orange-berried Celastrus) = dławisz; rdest = knotweed
+- [46] `z werandą, która owijała się wokół dwóch stron` → `z gankiem, który owijał się wokół dwóch stron` — term: porch = ganek
+- [50] `utknęła w niej wzrok` → `utkwiła w niej wzrok` — typo: utknąć (get stuck) for utkwić wzrok (fix one's gaze)
+- [52] `Omówiliśmy to.` → `Omawiałyśmy to.` — gender: Jessica and Pip are both female — feminine plural
+- [58] `Stala za recepcją` → `Stała za recepcją` — typo: missing diacritic
+- [66] `ogień w kominku zgasł na moment, a do środka wszedł starszy małżeński parę` → `ogień w kominku zamigotał, a do środka weszła jakaś para` — grammar: 'starszy małżeński parę' is ungrammatical; EN 'a couple came in' (not 'older'); guttering = flickered, not went out
+- [74] `Będę zachwycona, jeśli zostaniecie.` → `Będę zachwycona, jeśli państwo zostaną.` — address: Fiona addresses the guests formally ('Czy już się państwo rozgościli?') — 'wy' slipped in
+- [74] `Apartament jest wasz tak długo, jak tego zechcecie. A kołdry są lokalne, zapiszę wam nazwisko` → `Apartament jest do państwa dyspozycji tak długo, jak tylko państwo zechcą. A kołdry są lokalne, zapiszę państwu nazwisko` — address: formal address to the Worthingtons
+- [80] `martwisz się. O co chodzi?` → `niepokoisz mnie. O co chodzi?` — mistranslation: EN 'you're worrying me' — PL said 'you are worried'
+- [84] `i z łomotem postawił je przy biurku` → `i ze stęknięciem postawił je przy biurku` — mistranslation: EN 'with a grunt' (z łomotem = with a crash)
+- [84] `ze zaciśniętą szczęką` → `z zaciśniętą szczęką` — grammar: preposition form
+- [84] `a wsporniki werandy dzwoniły` → `a wsporniki ganku dzwoniły` — term: porch = ganek
+- [86] `Wsporniki do werandy.` → `Wsporniki do ganku.` — term: porch = ganek
+- [98] `stare gipsowe medalion` → `stary gipsowy medalion` — grammar: medalion is masculine
+- [102] `– Wybacz mi. Neil Carter.` → `– Proszę wybaczyć. Neil Carter.` — address: Neil is a stranger: formal (he says 'pani Claus' next)
+- [106] `ufałam mu mniej więcej tak bardzo, jak mogłabym podnieść i rzucić ekranem kominkowym` → `ufałam mu mniej więcej na tyle, na ile dałabym radę rzucić ekranem kominkowym` — idiom: 'trusted it about as far as I could have thrown the fire screen' — PL garbled the comparison
+- [106] `Pochylił się odrobinę, ufnie.` → `Pochylił się odrobinę, konfidencjonalnie.` — mistranslation: 'confiding' = konfidencjonalnie (ufnie = trustingly)
+- [110] `medalionu na sufitu` → `medalionu na suficie` — grammar: locative
+- [114] `Neil Carter odpatrywał zamknięte wahadłowe drzwi ze szczerym, niespiesznym zainteresowaniem. Potem powrócił swoim uśmiechem w moją stronę, wciąż niegasnącym.` → `Neil Carter obserwował zamykające się wahadłowe drzwi ze szczerym, niespiesznym zainteresowaniem. Potem znów skierował na mnie swój uśmiech, wciąż niegasnący.` — typo: non-word 'odpatrywał'; garbled second sentence
+- [116] `Płoskliwa, ta twoja przyjaciółka.` → `Płochliwa ta pani przyjaciółka.` — typo: non-word 'płoskliwa' (płochliwa = skittish); Neil is formal with Jessica
+- [122] `o jakieś cal od szklanej gruszki` → `o jakieś dwa centymetry od szklanej gruszki` — units: 'about an inch' → ≈2 cm (SAFE: arithmetic; 'cal' also ungrammatical here)
+- [126] `z wyrazem głębokiej i starożytnej zdradzieckiej rozpaczy` → `z wyrazem głębokiego, odwiecznego poczucia zdrady` — mistranslation: 'profound and ancient betrayal' — 'zdradziecka rozpacz' = treacherous despair
+- [126] `trąciła stołeczek barkiem` → `trąciła stolik barkiem` — mistranslation: the low TABLE, not a stool
+- [126] `przez drzwi wejściowe na werandę` → `przez drzwi wejściowe na ganek` — term: porch = ganek
+- [128] `przy balustradzie werandy` → `przy balustradzie ganku` — term: porch = ganek
+- [148] `Wróciliśmy do domu` → `Wróciłyśmy do domu` — gender: Jessica + Pip — feminine plural
+- [148] `czy znów cicho zzłociły się` → `czy znów po cichu zrobiły się złote` — typo: non-word 'zzłociły'
+- [151] `w które popołudnie zbiera się kółko` → `w które popołudnie zbiera się krąg` — term: the circle = krąg (Book 1/Book 3)
+- [157] `jeśli dacie radę` → `jeśli dasz radę` — grammar: Fiona speaks to Jessica alone — singular
+- [169] `Miasto ledwo się budziło` → `Miasteczko ledwo się budziło` — term: town = miasteczko
+- [171] `Gospoda <bt>Winter Wonderland Inn</bt>` → `Gospoda Winter Wonderland Inn` — bt: stray <bt> on a non-title (ruling 5)
+- [181] `faworyzując mały mosiężny uchwyt` → `mocując się z małym mosiężnym uchwytem` — mistranslation: 'fumbling at the little brass pull' — PL said 'favouring'
+- [185] `Charakter piwa był celowo okropny` → `Charakter pisma był celowo okropny` — typo: 'piwa' (beer) for 'pisma' (handwriting)
+- [185] `w tym samym wymuszonym potopi-śladzie, reszta.` → `w tym samym mozolnym gryzmole, reszta.` — typo: garbled non-word 'potopi-śladzie' — 'that same labored scrawl'
+- [185] `I know how your family came by this inn. I know about the brooch your great-grandmother took from the Blackburns, the one with the sapphire at its heart, and the shop in Ridgeline where she sold it to buy this place. Pay, or the whole town learns the truth. Leave the money beneath the inn's front steps. Take down the gold ribbon on the wreath and put up a red one in its place, so I'll know the money is there.` → `Wiem, jak twoja rodzina weszła w posiadanie tej gospody. Wiem o broszy, którą twoja prababcia zabrała Blackburnom — szafir w jej sercu — i o sklepie w Ridgeline, w którym ją sprzedała, żeby kupić to miejsce. Zapłać albo całe miasteczko pozna prawdę. Zostaw pieniądze pod frontowymi schodami gospody. Zdejmij z wieńca złotą wstążkę i zawiąż w jej miejsce czerwoną, żebym wiedział, że pieniądze tam są.` — untranslated: THE BLACKMAIL NOTE was left in English (italic kept); clue phrase rendered with the book's single wording 'szafir w jej sercu'
+- [187] `The sapphire at its heart` → `Szafir w jej sercu` — untranslated: KEY CLUE left in English — unified wording 'szafir w jej sercu' (italic kept)
+- [187] `niż czyjeś dobrane słowa` → `niż zwrot użyty przez kogoś obcego` — mistranslation: 'a stranger's turn of phrase'
+- [189] `— Fiona — powiedziałam, a mój` → `— Fiono — powiedziałam, a mój` — grammar: vocative (the book uses 'Fiono' elsewhere)
+- [201] `we <bt>Frost Falls</bt>` → `we Frost Falls` — bt: stray <bt> on a non-title (ruling 5)
+- [205] `Zaniosła ją dwa miasta dalej` → `Zaniosła ją dwa miasteczka dalej` — term: town = miasteczko (as the blurb: 'dwa miasteczka stąd')
+- [205] `Tę właśnie. <bt>Winter Wonderland Inn</bt>.` → `Tę właśnie. Winter Wonderland Inn.` — bt: stray <bt> on a non-title (ruling 5)
+- [207] `połowa miasteczka świętowała coś raz po raz` → `połowa miasteczka kiedyś coś świętowała` — mistranslation: 'at one time or another' ≠ 'again and again'
+- [211] `zapisaną jej charakterem piwa` → `zapisaną jej charakterem pisma` — typo: 'piwa' (beer) for 'pisma'
+- [214] `— Fiona. Posłuchaj mnie.` → `— Fiono. Posłuchaj mnie.` — grammar: vocative
+- [222] `wskazując palcem bliską poświatę klejnotu` → `wskazując palcem bladą poświatę klejnotu` — mistranslation: 'the pale glow' (bliska = near)
+- [222] `— Fiona — powiedziałam powoli` → `— Fiono — powiedziałam powoli` — grammar: vocative
+- [231] `papiery tego miasteczka, Fiona?` → `papiery tego miasteczka, Fiono?` — grammar: vocative
+- [233] `Не Theo.` → `Nie Theo.` — foreign: Cyrillic 'Не' (Russian) in the Polish text
+- [245] `— Rozszyfrujemy to — powiedziałam` → `— Rozwiążemy to — powiedziałam` — mistranslation: 'We'll figure this out' — rozszyfrować = decipher
+- [249] `stałam chwilę na werandzie` → `stałam chwilę na ganku` — term: porch = ganek
+- [253] `Pójdziemy tam i stanąć między pudłami` → `Pójdziemy tam, staniemy między pudłami` — grammar: infinitive for future verb
+- [255] `Zapiszczała i ruszyła` → `Ćwierknęła i ruszyła` — term: Pip CHIRPS — 'ćwierknęła' everywhere else; 'zapiszczała' = squeaked
+- [255] `na świąteczne światełka wzdłuż okapów` → `na festiwalowe światełka wzdłuż okapów` — mistranslation: the FESTIVAL lights (Halloween festival), not Christmas lights
+- [258] `Weszłam, otrzepując buty ze śniegu` → `Weszłam, tupiąc, żeby otrząsnąć z butów chłód` — mistranslation: EN 'stamping the cold off my boots' — there is no snow on the ground in this chapter
+- [259] `List, czerwona wstążka` → `Liścik, czerwona wstążka` — note-word: the blackmail NOTE must not share the word 'list' with the 1924 Blackburn LETTERS (listy)
+- [259] `z broszą przypiętą do gorsetu` → `z broszą przypiętą przy szyi` — mistranslation: EN 'with the brooch at her throat' (high-necked dress, Ch2)
+- [259] `zajazd kupiony za te pieniądze` → `gospoda kupiona za te pieniądze` — term: inn = gospoda throughout
+- [260] `Kiedy położyłam list na stole` → `Kiedy położyłam liścik na stole` — note-word: note ≠ letters
+- [260] `Potem znów stała się zupełnie bezruchliwa` → `Potem znieruchomiała zupełnie` — typo: non-word 'bezruchliwa'
+- [261] `listu przyciśniętego do mego serca` → `liściku przyciśniętego do mego serca` — note-word: note ≠ letters
+- [269] `czyje wiadro do niej wpadło` → `czyje wiadro do niej spuszczono` — mistranslation: 'whose bucket went down it' (deliberately), not 'fell in'
+- [283] `Świąteczne lampki wzdłuż odległych dachów, sznury, które mężczyźni rozwiesili między latarniami na placu,` → `Festiwalowe lampki wzdłuż odległych dachów, sznury, które mężczyźni rozwiesili między latarniami na skwerze,` — term: FESTIVAL lights; the green = skwer (Book 1)
+- [283] `od zieleni aż po stację` → `od skweru aż po stację` — term: the green = skwer
+- [293] `Odsunął ramiona i objął mnie od tyłu.` → `Otoczył mnie ramionami od tyłu.` — mistranslation: 'put his arms around me from behind' — 'odsunął ramiona' = moved his arms away
+- [296] `– Domu, myślałbym – rzekł. – Tak jak każdy. Tak jak we dwoje, kiedy tu przyszliśmy.` → `– Domu, tak myślę – rzekł. – Tak jak każdy. Tak jak my, kiedy tu przybyliśmy.` — grammar: 'I think' — conditional 'myślałbym' wrong; 'we dwoje' ungrammatical here
+- [298] `Jutro zejścia miałam doczekać do miasteczka, stanąć pośród tych pudeł i zacząć uważnie się rozglądać.` → `Nazajutrz miałam zejść do miasteczka, też stanąć pośród tych pudeł i zacząć — ostrożnie — obserwować.` — grammar: garbled sentence ('zejścia miałam doczekać')
+- [301] `a w poranną, gdy otwarto wystawę archiwalną` → `a w poranek, gdy otwarto wystawę archiwalną` — grammar: 'w poranną' is a fragment
+- [301] `przy czym ostatnią literę S trzeba było stłoczyć` → `przy czym ostatnią literę A trzeba było stłoczyć` — sign: translated banner (FROST FALLS PRZEZ LATA) ends in A — the squeezed-letter joke must name the right letter (ruling 3)
+- [301] `stół z cydrem i maślanymi ciasteczkami korzennymi` → `stół z gorącym sokiem jabłkowym i ciasteczkami imbirowymi` — cider: cider is NON-alcoholic (ruling 6; Polish 'cydr' is alcoholic); gingersnaps = ciasteczka imbirowe ('maślane' added)
+- [303] `Charakter Teo. Opisywał absolutnie wszystko. Opisałby nawet cydr,` → `Pismo Theo. Opisywał absolutnie wszystko. Opisałby nawet sok jabłkowy,` — name: Theo spelled 'Teo' in this chapter; cider ruling 6
+- [305] `czasem wręcz machał obiema rękami` → `czasem ściskając dłoń obiema rękami` — mistranslation: 'both hands sometimes' = two-handed handshake, not waving
+- [305] `cofażąc się centymetr po centymetrze` → `cofając się centymetr po centymetrze` — typo: non-word
+- [305] `na jednym szkielecie okularów` → `na jednym szkle okularów` — typo: 'szkielecie' (skeleton) for 'szkle' (lens)
+- [309] `W tej właśnie chwili zapragnęłam nie być tym, kim byłam – kimś, kto przyszedł tu, by w jego wspaniałej wystawie szukać szantażysty.` → `W tej właśnie chwili znienawidziłam to, po co tu przyszłam – żeby stać pośród jego wspaniałej wystawy i szukać szantażysty.` — mistranslation: EN 'I hated what I had come here to do'
+- [310] `Pip wręcz potoczyła się obok naszych kolan` → `Pip przyczłapała obok naszych kolan` — mistranslation: 'waddled in' (potoczyła się = rolled)
+- [313] `Powiedziała coś do Teo` → `Powiedziała coś do Theo` — name: Theo spelling
+- [315] `karteczka napisana ręką Teo` → `karteczka napisana ręką Theo` — name: Theo spelling
+- [316] `oddał miastu wielką przysługę, niezależnie od tego, czy miasto o tym wie` → `oddał miasteczku wielką przysługę, niezależnie od tego, czy miasteczko o tym wie` — term: town = miasteczko
+- [317] `– Wciąż ścigasz swoją broszkę` → `– Wciąż pan ściga swoją broszkę` — address: Jessica ↔ Neil formal (he says 'pani')
+- [318] `Jakiś mężczyzna podeszed... podeszł... podeszł... podeszł... podeszł... podeszł... podeszł... podszedł do mnie` → `Jakiś mężczyzna podszedł do mnie` — mt-debris: machine-translation stutter printed in the prose
+- [318] `Ludzie uwielbiają opowiadać, do kogo należały bogate rodziny.` → `Ludzie uwielbiają opowiadać, co należało do bogatych rodzin.` — reversed: EN 'what the rich families owned' — PL said 'whom the rich families belonged to'
+- [318] `przy stoliku z cydrem` → `przy stoliku z sokiem jabłkowym` — cider: ruling 6
+- [320] `Wtedy Teo uderzył` → `Wtedy Theo uderzył` — name: Theo spelling
+- [320] `Teo nie potrafił mówić` → `Theo nie potrafił mówić` — name: Theo spelling
+- [320] `rzeczami, których ludzie nie potrafili znieść i wyrzucili... których ludzie nie potrafili znieść, by je wyrzucić”.` → `rzeczami, których ludzie nie mieli serca wyrzucić”.` — mt-debris: self-correcting MT stutter inside Theo's speech
+- [322] `– Pocat... Pocal... Pocierał kark` → `– Pocierał kark` — mt-debris: MT stutter
+- [322] `Wszyscy uwielbiali Teo` → `Wszyscy uwielbiali Theo` — name: Theo spelling
+- [322] `jego uśmiech przybrał ton ironiczny` → `jego uśmiech przybrał ton autoironiczny` — mistranslation: 'self-deprecating'
+- [324] `Teo skłonił głowę, ukontentowany, po czym zaprosił wszystkich na cydr.` → `Theo skłonił głowę, ukontentowany, po czym zaprosił wszystkich na sok jabłkowy.` — name: Theo spelling; cider ruling 6
+- [325] `spoczywał list z żądaniem okupowym, w którym doskonale wiedziano` → `spoczywał liścik szantażysty, w którym doskonale wiedziano` — note-word: the blackmail NOTE called 'list' (= the 1924 letters word) and 'okup' (ransom)
+- [326] `Pozwoliłam Teo oprowadzić` → `Pozwoliłam Theo oprowadzić` — name: Theo spelling
+- [328] `niezgrabnym, zamierzonym pismem` → `niezgrabnym, zmienionym pismem` — mistranslation: 'a bad disguised hand'
+- [329] `ruszyłam w stronę cydru` → `ruszyłam w stronę soku jabłkowego` — cider: ruling 6
+- [331] `– Gdzieś to zdobyła? – zapytałam` → `– Gdzie to zdobyłaś? – zapytałam` — grammar: garbled question
+- [333] `Teo, przykucniętego teraz przy stole z cydrem` → `Theo, przykucniętego teraz przy stole z sokiem jabłkowym` — name: Theo spelling; cider ruling 6
+- [333] `o początkach miasta` → `o początkach miasteczka` — term: town = miasteczko
+- [333] `z dokładnością do kolejnego ćwierć cala` → `o kolejne pół centymetra` — units: 'a final quarter-inch' → ≈0.5 cm (SAFE)
+- [337] `Sklep <bt>Yarn Tales</bt> stał` → `Sklep Yarn Tales stał` — bt: stray <bt> on a shop name (ruling 5)
+- [339] `krąg dowiidywał się o wszystkim w miasteczku na tydzień przed ukazaniem się gazety` → `krąg dowiadywał się o wszystkim w miasteczku na tydzień przed tym, zanim trafiło to do Gazette` — typo: non-word 'dowiidywał'; 'before it made the Gazette' (the town paper, named elsewhere as Gazette)
+- [350] `obok ledwo napoczętej i zupełnie sczerstwiałej kanapki` → `obok nietkniętej, zupełnie sczerstwiałej kanapki` — mistranslation: EN 'that he'd never touched' — PL said 'barely started'
+- [352] `Radzili sobie z małej dotacji od miasta i tego, co udało im się zebrać na letnim jarmarku, dopóki miasto nie obcięło` → `Radzili sobie z małej dotacji od miasteczka i tego, co udało im się zebrać na letnim jarmarku, dopóki miasteczko nie obcięło` — term: town = miasteczko
+- [356] `uciśnie dłoń Thea` → `uściśnie dłoń Thea` — typo: uciśnie (press down) for uściśnie (shake)
+- [358] `pośród pudeł Blackburna` → `pośród pudeł Blackburnów` — grammar: the Blackburn (family) boxes — plural family name as everywhere else
+- [364] `Rozmowa powędrowala dalej` → `Rozmowa powędrowała dalej` — typo: missing diacritic
+- [364] `czy śnieg pierwszego października oznacza` → `czy pierwszy śnieg w październiku oznacza` — mistranslation: 'an October first snow' = a first snow falling in October, not snow on 1 October
+- [370] `swoją poplamioną, silną, starą dłoń` → `swoją silną, starą dłoń pokrytą plamkami` — mistranslation: 'spotted' (age spots), not 'stained'
+- [372] `W tym cała sens kręgu.` → `W tym cały sens kręgu.` — grammar: agreement
+- [377] `znowu kręcili się po zielńcu` → `znowu kręcili się po skwerze` — term: typo 'zielńcu'; the green = skwer (Book 1)
+- [377] `na ciemniejące nowe sznuri lampek` → `na nowe, jeszcze ciemne sznury lampek` — typo: 'sznuri' non-word; 'the new strands going up dark' (unlit), not 'darkening'
+- [380] `Opowiedziałam Nickowi wszystko, co wyjawił mi krąg, i trzymałam dłoń otwartą.` → `Miałam opowiedzieć Nickowi wszystko, co wyjawił mi krąg, i nadal trzymać dłoń otwartą.` — tense: EN 'I would tell Nick … and I would keep my fist open' — intention, not a completed act
+- [383] `Festyn miał się odbyć na skwerze, dużym trawniku na południe od Evergreen` → `Festiwal miał się odbyć na skwerze, dużym błoniu na południe od Evergreen` — term: festival = festiwal (never 'festyn'); the common = błonie (Book 3 table)
+- [383] `ułożyć chyba z tysiąc małych dyniowatych tak` → `ułożyć chyba z tysiąc małych ozdobnych tykw tak` — grammar: 'dyniowatych' (botanical adjective) used as a noun; gourds = tykwy
+- [383] `zostawić komitetowi festynowemu pierwszą dziesiątkę robionych przez koło dzianych rękawic` → `zostawić komitetowi festiwalowemu pierwszy tuzin rękawiczek zrobionych przez krąg` — mistranslation: 'the circle's first DOZEN mittens' (PL said ten); circle = krąg; festival = festiwal; mittens = rękawiczki as everywhere
+- [383] `„Postawisz je tam z przodu sceny? Uważaj na tę miękką”` → `„Postawi je pani tam z przodu sceny? Proszę uważać na tę miękką”` — address: a man Jessica doesn't know — formal (ruling 2)
+- [387] `Pipa miała całą głowę` → `Pip miała całą głowę` — name: Pip is undeclined (Book 1, Book 3)
+- [387] `z taką jednostajną, bezmyślną błogością` → `z taką zapamiętałą błogością` — mistranslation: 'single-minded bliss' — 'monotonous, mindless' wrong
+- [389] `— O nie, Pipo.` → `— O nie, Pip.` — name: Pip undeclined
+- [389] `Ona zupełnie nie ma manierek.` → `Ona zupełnie nie ma manier.` — typo: 'manierki' = canteens
+- [393] `i zrobił mi się bardziej potrzebny niż tydzień snu` → `i zrobił mi lepiej niż tydzień snu` — mistranslation: 'did me more good than a week of sleep'
+- [393] `Choroba Sarah Redfern` → `Choroba Sary Redfern` — grammar: Sarah declines (genitive)
+- [393] `zabrała małego pieska Marty` → `zabrała małego pieska Marthy` — name: Martha keeps her spelling (Marthy, Marthę…) as everywhere else in the series
+- [393] `który Marta wymyśliła z niczego` → `który Martha wymyśliła z niczego` — name: Martha spelling
+- [395] `Śnieżek siedział u stóp Emmy` → `Snowball siedział u stóp Emmy` — name: Snowball — one form (Book 3 corrected; rest of this book). Book 1 split → decision
+- [395] `patrzył na Pipę z wysoka` → `patrzył na Pip z wysoka` — name: Pip undeclined
+- [403] `czy pingwin przyjdzie na festyn` → `czy pingwin przyjdzie na festiwal` — term: festival = festiwal
+- [403] `Pipa to cały festyn` → `Pip to cały festiwal` — name: Pip undeclined; festiwal
+- [405] `— Pipa w pełni` → `— Pip w pełni` — name: Pip undeclined
+- [409] `że Śnieżek prawie nauczył się siadać` → `że Snowball prawie nauczył się siadać` — name: Snowball
+- [409] `całymi gwiazdozbiorem` → `całym gwiazdozbiorem` — grammar: agreement
+- [413] `między Śnieżkiem a dynią` → `między Snowballem a dynią` — name: Snowball
+- [415] `— To miasto tak na mnie wpłynęło. Wciąż próbuję wymyślić, jak podziękować całemu miastu,` → `— To miasteczko tak na mnie wpłynęło. Wciąż próbuję wymyślić, jak podziękować całemu miasteczku,` — term: town = miasteczko
+- [415] `Marta i ten pies.` → `Martha i ten pies.` — name: Martha spelling
+- [419] `— Do tego właśnie służy miasto, Marku` → `— Do tego właśnie służy miasteczko, Marku` — term: town = miasteczko
+- [423] `stała na środku zielńca` → `stała na środku skweru` — term: typo 'zielńca'; the green = skwer
+- [423] `i znalazłam komendantkę policji` → `i znalazłam szefową policji` — term: Chief Tanaka = szefowa (Book 3 corrected term; this book had komendant/komendantka/szefowa)
+- [425] `A pańskie renifery` → `A pani renifery` — grammar: 'pańskie' = sir's — Jessica is a woman
+- [429] `— Powiedz Bramowi. W zeszłym tygodniu napisałam mu upomnienie za Kometa` → `— Proszę powiedzieć Bramowi. W zeszłym tygodniu wypisałam mu upomnienie za Cometa` — address: Noriko ↔ Jessica formal at first meeting (ruling 2; she opens with 'Pani Claus'); reindeer keep their English names as in Book 1 (Comet)
+- [431] `Pipa podeszła, by zbadać` → `Pip podeszła, by zbadać` — name: Pip undeclined
+- [435] `który Pipa poturbowała` → `który Pip poturbowała` — name: Pip undeclined
+- [435] `— Pani Claus. Spójrz.` → `— Pani Claus. Proszę spojrzeć.` — address: children address adults formally (ruling 2)
+- [437] `wyrastające z zniszczonej dyni na Halloween w ciągu godziny od chwili, gdy Pipa ją rozdarła` → `wyrastające ze zniszczonej dyni na Halloween w ciągu godziny od chwili, gdy Pip ją rozdarła` — grammar: 'ze zniszczonej'; Pip undeclined
+- [439] `Pipa podeszła i usiadła` → `Pip podeszła i usiadła` — name: Pip undeclined
+- [441] `— Czy to twoja sprawka? — szeptała Emma` → `— Czy to pani sprawka? — szepnęła Emma` — address: Emma → Jessica formal; aspect (single whisper)
+- [441] `Sprawiłaś, że Boże Narodzenie wyrosło z dyni?` → `Sprawiła pani, że Boże Narodzenie wyrosło z dyni?` — address: Emma → Jessica formal
+- [445] `— Nikomu nie mów. Będą chcieli to wykopać i włożyć do słoika. Pozwól, że to będzie nasze. Tylko nasze i Pipy.` → `— Niech pani nikomu nie mówi. Będą chcieli to wykopać i włożyć do słoika. Niech to będzie nasze. Tylko nasze i Pip.` — address: Emma → Jessica formal; Pip undeclined
+- [447] `zgodziłam się, skrzyżowałam palce na piersi i patrzyłam` → `zgodziłam się, uroczyście przyłożyłam dłoń do serca i patrzyłam` — reversed: 'crossed my heart' (a solemn promise) rendered as crossing fingers — the gesture of a promise one means to break
+- [449] `na skraju zielńca` → `na skraju skweru` — term: the green = skwer
+- [451] `a jakaś jej mała, ostrożna cząstka we mnie faktycznie się martwiła` → `a jakaś mała, ostrożna cząstka mnie faktycznie się martwiła` — grammar: stray 'jej'
+- [453] `nadal tkwił złożony list z żądaniem okupu` → `nadal tkwił złożony liścik szantażysty` — note-word: the blackmail NOTE ≠ 'list' (the 1924 letters word); not a ransom
+- [455] `— Dla Pipy?` → `— Dla Pip?` — name: Pip undeclined
+- [457] `— Dla Pipy. Uważaj tylko, żeby nie rozebrała reszty festynu.` → `— Dla Pip. Uważaj tylko, żeby nie rozebrała reszty festiwalu.` — name: Pip undeclined; festiwal
+- [462] `a ja tak bardzo pochłonęło bycie tą drugą, że prawie zapomniałam, jak być tą pierwszą` → `a mnie tak bardzo pochłonęło bycie detektywem, że prawie zapomniałam, jak być przyjaciółką` — grammar: ungrammatical ('ja … pochłonęło'); made explicit which role is which
+- [463] `jęczmienną zupę Nika` → `jęczmienną zupę Nicka` — name: Nick declines Nicka/Nickowi everywhere else
+- [466] `Jej ramiona opadły o cal` → `Jej ramiona opadły odrobinę` — units: 'dropped an inch' — idiom; imperial unit removed (SAFE, no figure to compute)
+- [470] `Był tam uporczywy upór w zaciśniętych ustach` → `Był tam upór w zaciśniętej szczęce` — mistranslation: 'a stubborn set to the jaw'; tautology 'uporczywy upór'
+- [471] `nie biorąc ani grosza` → `nie biorąc ani centa` — currency: dollars/cents only (no Polish currency idioms)
+- [473] `nie pozwoliłaś, żeby cię to zlodowaciło` → `nie pozwoliłaś, żeby cię to zmroziło` — typo: non-word 'zlodowaciło'
+- [473] `Po stu latach, zamkniętym kufrze i liście z żądaniem okupu to wciąż najcieplejszy dom w mieście.` → `Po stu latach, zamkniętym kufrze i liściku szantażysty to wciąż najcieplejszy dom w miasteczku.` — note-word: the blackmail NOTE ≠ 'list'; town = miasteczko
+- [483] `Odkąd Fiona wręczyła mi list z żądaniem okupu, przykładałam go do nosa ze tuzin razy` → `Odkąd Fiona wręczyła mi liścik szantażysty, przykładałam go do nosa z tuzin razy` — note-word: the blackmail NOTE ≠ 'list'; 'ze tuzin' → 'z tuzin'
+- [484] `której jedno ramiennie świeciło` → `której jedno ramię świeciło` — typo: non-word
+- [484] `Pip wpadła kaczuszką na sam skraj` → `Pip przyczłapała na sam skraj` — mistranslation: 'waddled' — 'wpadła kaczuszką' is garbled
+- [488] `skromna, szczera dumna` → `skromna, szczera duma` — typo: 'dumna' (adj.) for 'duma'
+- [489] `Czułam go na liście i czułam go tutaj.` → `Czułam go na liściku i czułam go tutaj.` — note-word: note ≠ letters
+- [491] `Nie żeby zobaczył z tego choćby centa` → `Nie żebym zobaczył z tego choćby centa` — grammar: person: Sam speaks of himself
+- [493] `Odkładał szczypce i brał do ręki kolejne` → `Odłożył szczypce i wziął do ręki kolejne` — grammar: aspect: single completed actions
+- [495] `ten sam zapach unosił się z listu` → `ten sam zapach unosił się z liściku` — note-word: note ≠ letters
+- [497] `– To pewnie ciężkie – powiedziałam – mieć u kogoś dług, kiedy festiwal` → `– To pewnie ciężkie – powiedziałam – kiedy ktoś jest panu winien pieniądze, a festiwal` — reversed: EN 'to be owed' — 'mieć u kogoś dług' = to owe someone (made Sam the debtor)
+- [498] `Całe miasto musi sobie radzić` → `Całe miasteczko musi sobie radzić` — term: town = miasteczko
+- [500] `– Czy wiesz coś o początkach tego inn?` → `– Czy wie pan coś o początkach tej gospody?` — untranslated: English word 'inn' left in; Jessica ↔ Sam formal (ruling 2)
+- [504] `W tym roku włożyłem sporo samego siebie w ten hol, wiesz?` → `W tym roku włożyłem sporo samego siebie w ten hol, wie pani?` — address: Sam ↔ Jessica formal (he says 'pani Claus')
+- [504] `Wsporniki do werandy.` → `Wsporniki do ganku.` — term: porch = ganek
+- [505] `Zamarzłam w środku.` → `Zamarłam w środku.` — mistranslation: 'I went still' = zamarłam ('zamarzłam' = I froze from cold)
+- [507] `– Dziękuję, Sam – powiedziałam i zapłaciłam mu za uchwyt, a podziękowanie znaczyło znacznie więcej niż tylko zapłatę za uchwyt. – Za tę pracę. I za to, że pytasz o nią całym sercem. Powiem jej, że to zrobiłeś. Życzliwie.` → `– Dziękuję, panie Samie – powiedziałam i zapłaciłam mu za świecznik, a podziękowanie znaczyło znacznie więcej niż tylko zapłatę za świecznik. – Za tę pracę. I za to, że pyta pan o nią całym sercem. Powiem jej, że pan pytał. Życzliwie.` — address: formal both ways (ruling 2); 'holder' = świecznik as in [486]/[488]
+- [508] `– Zrób to. – Skinął głową, raz, poważnie. – I powiedz jej, że dwadzieścia dolarów jest darowane. Powiedz jej, że nigdy więcej nie chcę o tym słyszeć. Powiedz jej, żeby spojrzała` → `– Proszę to zrobić. – Skinął głową, raz, poważnie. – I niech pani jej powie, że dwadzieścia dolarów jest darowane. Niech pani powie, że nigdy więcej nie chcę o tym słyszeć. Niech pani jej powie, żeby spojrzała` — address: Sam → Jessica formal
+- [509] `Pip i ja wróciliśmy drogą z powrotem w stronę miasta` → `Pip i ja wróciłyśmy drogą w stronę miasteczka` — gender: feminine plural; town = miasteczko
+- [518] `Niech pani podjdzie i rzuci okiem` → `Niech pani podejdzie i rzuci okiem` — typo: non-word
+- [518] `Obrócił ku mnie kruchą stronę księgi rachunkowej, podchodząc bliżej.` → `Obrócił ku mnie kruchą stronę księgi rachunkowej, gdy podeszłam.` — mistranslation: EN 'as I came up' — it is Jessica who approaches
+- [518] `Byli szczdridliwi, ci dawni` → `Byli szczodrzy, ci dawni` — typo: non-word
+- [518] `Kocham starą arystokrację.` → `Uwielbiam rody założycielskie.` — mistranslation: 'a founding family' (the point of his speech), not 'old aristocracy'
+- [518] `w jakim kiedykolwiek postawiłam stopę` → `w jakim kiedykolwiek postawiłem stopę` — gender: Neil is male
+- [522] `rozplątwać ten węzeł gordyjski` → `rozplątywać ten węzeł gordyjski` — typo: non-word
+- [522] `Ze szafirem w środku` → `Z szafirem pośrodku` — grammar: 'Ze' before 'sz-' + single consonant is wrong
+- [522] `około tysiąc dziewięćdziesiątego czwartego roku` → `około tysiąc dziewięćset dwudziestego czwartego roku` — number: PL said 1094; EN 1924
+- [528] `o dwa miasta stąd` → `o dwa miasteczka stąd` — term: town = miasteczko
+- [530] `niemal do samych drzwi Fiony Okafor` → `niemal do samych drzwi Constance Okafor` — mistranslation: EN 'to Constance Okafor's door' — the 1924 thief, not Fiona
+- [534] `Powinnam była dać ci jedną już pierwszego dnia.` → `Powinienem był dać pani jedną już pierwszego dnia.` — gender: Neil is male; formal address
+- [534] `Im więcej ludzi w mieście wie` → `Im więcej ludzi w miasteczku wie` — term: town = miasteczko
+- [536] `z kierunkowym sprzed dwóch stanów` → `z kierunkowym ze stanu położonego dwa stany dalej` — mistranslation: 'an area code two states away' — 'sprzed' = from before
+- [540] `Ktokolwiek napisał ten list, działał w cieniu.` → `Ktokolwiek napisał ten liścik, działał w cieniu.` — note-word: the blackmail NOTE ≠ 'list'
+- [540] `Pisywał pismem` → `Pisał pismem` — grammar: frequentative wrong (one note)
+- [540] `czerwoną wstążkę na wianku` → `czerwoną wstążkę na wieńcu` — term: the wreath = wieniec everywhere else (wianek = flower crown)
+- [540] `w najjaśniejszym pomieszczeniu w całym mieście` → `w najjaśniejszym pomieszczeniu w całym miasteczku` — term: town = miasteczko
+- [540] `opuściła miasto nielegalnymi kanałami` → `opuściła miasteczko nie tymi drzwiami, co trzeba` — term: town = miasteczko; echoes Neil's own 'the wrong door' ([528])
+- [542] `Nikt nie knebluje nikogo po cichu z powodu sekretu, jednocześnie ogłaszając na całe gardło w bibliotece publicznej, że tropi dokładnie ten sekret, wokół którego zaciska się pętla.` → `Nikt nie dusi po cichu kobiety jej sekretem, jednocześnie ogłaszając na całe gardło w bibliotece publicznej, że tropi dokładnie ten sekret, którym ją dusi.` — mistranslation: EN 'strangle a woman … with the very secret you're strangling her with' — the point was lost
+- [556] `wróciliśmy obie do domu` → `wróciłyśmy obie do domu` — gender: 'obie' requires feminine verb
+- [560] `A tym bardziej wyglądał jak jasna latarnia` → `I tym bardziej przypominał jasną latarnię` — grammar: connective/aspect
+- [563] `wyłonił się truchtem zza rogu chaty` → `wyłonił się truchtem zza rogu domku` — term: the cottage = domek (Ch2/Ch3)
+- [563] `Znowu się wypuściła.` → `Znowu się wydostała.` — mistranslation: 'She's let herself out' — 'wypuściła się' is not idiomatic here
+- [563] `i wcale mi się to wszystko nie podoba, muszę to pani powiedzieć.` → `i wcale mi się to wszystko nie podoba, muszę ci powiedzieć.` — address: Bram ↔ Jessica informal both ways (ruling 2; Book 1 Polish uses ty); 'pani Claus' kept as his honorific for EN 'Mrs. Claus'
+- [564] `– Dzień dobry panu również, Bramie – rzuciłam` → `– Tobie również dzień dobry, Bramie – rzuciłam` — address: Jessica → Bram informal (ruling 2; Book 1)
+- [565] `i niech mi pani powie, pani Claus, jakim cudem zwierzę obsługuje zasuwę od tej strony, po której go nie ma, a ja panu powiem` → `i powiedz mi, pani Claus, jakim cudem zwierzę obsługuje zasuwę od tej strony, po której go nie ma, a ja ci powiem` — address: Bram → Jessica informal; 'panu' (masc.) also wrong
+- [566] `Nie dałaby się pociągnąć Bramowi nawet na cal` → `Nie dałaby się pociągnąć Bramowi ani na krok` — units: 'not one inch' — idiom; imperial unit removed (SAFE)
+- [569] `Nie chce mnie wpuścić. Fenn też nie wejdzie.` → `Nie chce mnie wpuścić. Fenna też nie wpuszcza.` — mistranslation: 'Won't let Fenn in' (Nick won't), not 'Fenn won't go in'
+- [571] `ciche, fałszywe nucenie Nicka` → `ciche, bezmelodyjne nucenie Nicka` — mistranslation: 'tuneless' — 'fałszywe' = false/off-key with a sense of deceit
+- [574] `bo sama jeszcze wszystkiego nie wiem` → `bo sam jeszcze wszystkiego nie wiem` — gender: Nick is male
+- [581] `niż jakakolwiek broszka czy list` → `niż jakakolwiek broszka czy liścik` — note-word: the blackmail NOTE ≠ 'list'
+- [582] `Miałam list w kieszeni płaszcza` → `Miałam liścik w kieszeni płaszcza` — note-word: note ≠ letters
+- [582] `przyniesioną z kuźni podstawkę na świecę` → `przyniesiony z kuźni świecznik` — term: the light holder = świecznik (Ch8)
+- [582] `zakwiliła raz, ostro i pewnie` → `ćwierknęła raz, ostro i pewnie` — term: Pip chirps (ćwierknęła) — 'zakwiliła' = whimpered
+- [584] `– Idzie zaapachem – odrzekłam` → `– Idzie za zapachem – odrzekłam` — typo: merged words
+- [584] `– List pachnie kuźnią` → `– Liścik pachnie kuźnią` — note-word: note ≠ letters
+- [584] `Gdziekolwiek ten list się znajdował` → `Gdziekolwiek ten liścik się znajdował` — note-word: note ≠ letters
+- [584] `Mówiłaś mi odpowiedź od pierwszej nocy, a ja po prostu nie chciałam słuchać.` → `Podsuwałaś mi odpowiedź od pierwszej nocy, a ja po prostu nie słuchałam.` — mistranslation: 'I haven't been listening' (not 'didn't want to'); 'mówić odpowiedź' unidiomatic
+- [589] `mogłoby wysupłać trochę grosza dla Towarzystwa` → `mogłoby wysupłać trochę pieniędzy dla Towarzystwa` — currency: no Polish currency idioms (grosz) — dollars/cents edition
+- [623] `stała się czymś zupełnie innym – czujną, niemal zapędzoną w kozi róg` → `stała się czymś zupełnie innym – czujnym, niemal zapędzonym w kozi róg` — grammar: agreement with 'czymś'
+- [625] `siedzącego metr od Blackburna` → `siedzącego dwa metry od Blackburna` — units: 'six feet away' → ≈2 m (SAFE: arithmetic; PL had shrunk it to 1 m)
+- [631] `– To wszystko – powiedziałam. – Dziękuję, Vero. Wyglądasz na wykończoną, jeśli wybaczysz mi te słowa. Przeracują cię w tym miejscu niemiłosiernie.` → `– To wszystko – powiedziałam. – Dziękuję, pani Vero. Wygląda pani na wykończoną, jeśli wybaczy mi pani te słowa. Przepracowują panią w tym miejscu niemiłosiernie.` — address: Jessica ↔ Vera formal (ruling 2; Vera says 'pani Claus'); typo 'Przeracują'
+- [635] `A burmistrz płaci miejską pensję za pracę na miarę całego miasta` → `A burmistrz płaci pensję jak w miasteczku za pracę na miarę wielkiego miasta` — mistranslation: 'a town wage for a city's worth of work' — the contrast was lost
+- [643] `a Towarzystwo wciąż pogrążano w ciemności. I teraz były we Frost Falls dwie osoby, o których nie mogłam usłyszeć nazwiska Blackburn bez natychmiastowego ich przywoływania.` → `a Towarzystwo wciąż pogrążało się w ciemności. I teraz były we Frost Falls dwie osoby, o których nie potrafiłam nie pomyśleć, ilekroć słyszałam nazwisko Blackburn.` — grammar: impersonal passive wrong; garbled second sentence
+- [648] `na temat tego, co miałam przy sobie` → `na temat tego, co dźwigałam` — mistranslation: 'what I'd been carrying' is figurative (a burden), not 'had on me'
+- [650] `Na stoliku obok syczał kawiarka.` → `Na stoliku obok syczał warnik z kawą.` — grammar: gender mismatch; a coffee URN (warnik), not a moka pot
+- [652] `swoim starannym, historycznym głosem` → `swoim starannym głosem historyka` — mistranslation: 'historian's voice' — 'historyczny głos' = historic voice
+- [653] `Dotacja od miasta, obcięta` → `Dotacja od miasteczka, obcięta` — term: town = miasteczko
+- [653] `Piec, zakazany przez fachowca` → `Piec, spisany na straty przez fachowca` — mistranslation: 'condemned' — 'zakazany' = forbidden
+- [655] `Mogłabym nią wytapetować ten pokój` → `Mógłbym nią wytapetować ten pokój` — gender: Theo is male
+- [655] `– Miasto nie pomoże. Sama poszłam do burmistrza wiosną` → `– Miasteczko nie pomoże. Sam poszedłem do burmistrza wiosną` — gender: Theo is male; town = miasteczko
+- [657] `Nie usprawiedliwiałam tego.` → `Nie wybaczałam tego.` — mistranslation: 'I didn't forgive it'
+- [659] `Kawiarka zasyczała i zamilkła` → `Warnik zasyczał i zamilkł` — term: the urn (as [650])
+- [662] `Że Towarzystwo naprawdę upada, co miałam wyłożone jak na dłoni, kropla po kropli wpadające do cynowego wiaderka. Oraz że cokolwiek zrobione przeze mnie w sprawie Theo, będę musiała zrobić to delikatnie` → `Że Towarzystwo naprawdę upada — oto motyw, wyłożony przede mną jak na dłoni, kapiący kropla po kropli do cynowego wiaderka. Oraz że cokolwiek zrobię w sprawie Theo, będę musiała zrobić to delikatnie` — omission: 'which was the motive laid bare' — the word MOTIVE was dropped; garbled second clause
+- [665] `było najnowocześniejszym lokalem` → `było najnowszym lokalem` — mistranslation: 'the newest business' (not 'most modern')
+- [666] `– Pani Mikołajowa! I Pip! – Odszedł od biurka` → `– Pani Claus! I Pip! – Wyszedł zza biurka` — term: 'Mrs. Claus' = 'pani Claus' everywhere else (Mikołajowa only in this chapter); 'came around the desk'
+- [666] `Nigdy bym się togo nie spodziewałem` → `Nigdy bym się tego nie spodziewał` — typo: 'togo'; tense
+- [667] `Już nigdy nie miałbyś toru tylko dla siebie.` → `Już nigdy nie miałby pan toru tylko dla siebie.` — address: Jessica ↔ Jamal formal (ruling 2; he says 'pani Claus')
+- [669] `dźwigając ciężkie gabloty w tę i z powrotem między archiwum` → `dźwigając ciężkie gabloty do archiwum i z powrotem` — grammar: 'między archiwum' is ungrammatical
+- [669] `o których wiedzieło całe miasto` → `o których wiedziało całe miasteczko` — typo: 'wiedzieło'; town = miasteczko
+- [671] `gdzie wykuto w surowych legarach otwór na drzwi` → `gdzie z surowych kantówek zrobiono ramę otworu na drzwi` — mistranslation: 'framed out in raw studs' — nothing was carved
+- [673] `Nie będę pani okłamywał, pani Mikołajowa, to trudne.` → `Nie będę pani okłamywał, pani Claus, to trudne.` — term: Mrs. Claus = pani Claus
+- [675] `Wypuścił z płuc długie powietrze` → `Wypuścił długo powietrze` — grammar: calque 'long breath'
+- [675] `zanim jeszcze zaciemni się zwykły dzień` → `zanim jeszcze zacznie się zwykły dzień` — mistranslation: 'before the regular day even starts' — 'zaciemni się' = darkens
+- [675] `Nie rozwiąże pani kłopotów finansowych, pani Mikołajowa,` → `Nie rozwiąże pani kłopotów finansowych, pani Claus,` — term: Mrs. Claus = pani Claus
+- [676] `w sposób uczciwy, wyczerpujący, cal po calu, co nijak nie pasowało do żądania pół miliona dolarów okupu` → `w sposób uczciwy, wyczerpujący, krok po kroku, co nijak nie pasowało do liściku żądającego pół miliona dolarów` — units: 'inch-by-inch' idiom → krok po kroku (SAFE); the blackmail NOTE, not a ransom
+- [677] `podejrzewać go fair` → `podejrzewać go uczciwie` — untranslated: English word 'fair'
+- [678] `– Pomagałeś Theo przy wystawie – rzekłam. – Tyle tych starych papierów. Czy rzuciłeś na coś okiem, kiedy tam byłeś?` → `– Pomagał pan Theo przy wystawie – rzekłam. – Tyle tych starych papierów. Czy rzucił pan na coś okiem, kiedy pan tam był?` — address: Jessica ↔ Jamal formal
+- [679] `– Pani Mikołajowa, ja dźwigałem gabloty po dwie naraz i starałem się nie postawić stopy na stuletnim krześle.` → `– Pani Claus, ja dźwigałem gabloty po dwie naraz i starałem się nie przebić stopą stuletniego krzesła.` — term: Mrs. Claus = pani Claus; 'put my foot through a chair'
+- [681] `– Jesteś dobrym przyjacielem dla Theo, pożyczając mu tyle siły, kiedy sam masz kłopoty.` → `– Jest pan dobrym przyjacielem dla Theo, pożyczając mu tyle siły, kiedy sam ma pan kłopoty.` — address: formal
+- [682] `gdybym jakoweś miał, ale w tym roku jestem chyba ostatnią osobą w tym mieście` → `gdybym jakieś miał, ale w tym roku jestem chyba ostatnią osobą w tym miasteczku` — register: archaic 'jakoweś'; town = miasteczko
+- [683] `– Jesteś właściwą osobą, żeby prosić cię o siłę` → `– Jest pan właściwą osobą, żeby prosić pana o siłę` — address: formal
+- [684] `tak jak odkłada się coś, z czego trzymaniem jest się radym. Trzy etaty i żadnych sekretów. Kłopoty finansowe stawiane czoła w biały dzień` → `tak jak z ulgą odkłada się coś, czego nie trzeba już dźwigać. Trzy etaty i żadnych sekretów. Kłopotom finansowym stawiał czoła w biały dzień` — grammar: garbled ('z czego trzymaniem jest się radym' reverses 'glad to be done holding'); case error
+- [693] `na ladzie w <bt>The Holly Jolly Bakery</bt>, taką pamiątkę dla turystów z małym ceramicznym Frost Falls w środku, zielonym budynkiem urzędu miasta i tym wszystkim.` → `na ladzie w Holly Jolly Bakery, taką pamiątkę dla turystów z małym ceramicznym Frost Falls w środku, ze skwerem, ratuszem i całą resztą.` — bt: stray <bt> on a shop name (ruling 5; name kept as Book 3 writes it); 'green and Town Hall and all' = the green (skwer) and Town Hall, not 'a green town-hall building'
+- [695] `na brzeg lądy` → `na brzeg lady` — typo: ląd (land) for lada (counter)
+- [703] `Na placu problem sprawiał Bram.` → `Na skwerze problem sprawiał Bram.` — term: the green = skwer
+- [703] `którą miasto wyłączało w każdym październiku` → `którą miasteczko wyłączało co roku w październiku` — term: town = miasteczko
+- [705] `szarapiąc ją za uzdę` → `szarpiąc ją za uzdę` — typo: non-word
+- [709] `z satysfakcjonującą miną` → `z zadowoloną miną` — mistranslation: 'satysfakcjonujący' = satisfying (to others), not satisfied
+- [711] `Fontanna bez wody na nic zda się pingwinowi.` → `Fontanna bez wody na nic się nie zda pingwinowi.` — reversed: missing negation — said a dry fountain IS useful to a penguin
+- [715] `– Nic na tym placu nie jest nawet w połowie tak ciepłe jak dom – mówiłam cicho` → `– Nic na tym skwerze nie jest nawet w połowie tak ciepłe jak dom – powiedziałam cicho` — term: the green = skwer; aspect
+- [723] `z liśćmi na kolanach i dwustu latach pracy na stanowisku` → `z liśćmi na kolanach i dwustoma latami pracy na stanowisku` — grammar: case
+- [723] `a jego kwaśna, pomarszczona twarz złagodniała` → `a jego naburmuszona, ziemniaczana twarz złagodniała` — mistranslation: 'his cross potato face' — callback to Ch10's 'worried potato'; lost
+- [729] `ciągnęła w stronę ogniska domowego, o którego istnieniu` → `ciągnęła w stronę paleniska, o którego istnieniu` — term: the hearth Nick builds = palenisko (Ch10) — one word
+- [729] `renifera wracającego piechotą do domu z ogniskiem, którego nigdy wcześniej nie widziała` → `renifera wracającego samodzielnie do domu, do paleniska, którego nigdy wcześniej nie widziała` — mistranslation: 'walking herself home to a hearth she'd never seen' — 'do domu z ogniskiem' garbled; hearth = palenisko
+- [731] `a przyjaciółka była duszona na pół miliona dolarów` → `a z mojej przyjaciółki ktoś próbował wycisnąć pół miliona dolarów` — mistranslation: 'a friend being squeezed for half a million' — 'duszona na' unidiomatic
+- [734] `dodatkowe posiedzenie w sprawie rękawic` → `dodatkowe posiedzenie w sprawie rękawiczek` — term: mittens = rękawiczki (Ch5, Book 1, Book 3)
+- [735] `Gotowe rękawice wisiały parami` → `Gotowe rękawiczki wisiały parami` — term: mittens = rękawiczki
+- [737] `– Wiem, że to błyszczy – odparłam.` → `– Wie, że to błyszczy – odparłam.` — mistranslation: 'She knows it's shiny' — PL said 'I know'
+- [738] `wszedł za nią po pachwy` → `wszedł za nią po pachy` — typo: pachwiny/pachy confusion — EN 'armpits'
+- [742] `– Każdy w tym mieście chce gadać` → `– Każdy w tym miasteczku chce gadać` — term: town = miasteczko
+- [744] `– Przegadałyśmy dwie godziny nad głosowaniem, żeby utrzymać te drzwi otwarte do stycznia, a co będzie potem, nikt nie wie.` → `– Zagłosowali za utrzymaniem drzwi otwartych do stycznia, a co będzie potem, nikt nie wie.` — mistranslation: EN 'They voted to keep the doors open till January' — Claire is not on the board; PL said 'we talked for two hours over the vote' (then repeated 'two hours')
+- [748] `Powiedziała mu, że może ją sobie wziąć.` → `Powiedziałam mu, że może ją sobie wziąć.` — grammar: Ivy speaks of herself
+- [756] `Chętnie dowiedziałbym się` → `Chętnie dowiedziałabym się` — gender: Jessica is female
+- [762] `– Widział ktoś Fionu w tym tygodniu?` → `– Widział ktoś Fionę w tym tygodniu?` — typo: accusative
+- [765] `– Zajazd pęka w szwach` → `– Gospoda pęka w szwach` — term: inn = gospoda
+- [767] `u stóp Marty` → `u stóp Marthy` — name: Martha spelling
+- [770] `całego imienia na rękawicy` → `całego imienia na rękawiczce` — term: mittens = rękawiczki
+- [776] `Całe jego stypendium naukowe opierało się na zasadzie` → `Cała jego kariera historyka sprowadzała się do zasady` — mistranslation: 'his whole history scholarship' (ironic: his career as a historian, cf. Ch13) — 'stypendium' = a grant
+- [776] `chodzi na obóz przetrwania o piątej trzydzieści rano i pilnuje obiektów w nocy` → `prowadzi obóz kondycyjny o piątej trzydzieści rano i pilnuje festiwalu w nocy` — mistranslation: Jamal RUNS the 5:30 boot camp (Ch13: 'obóz kondycyjny'), he doesn't attend a survival camp
+- [778] `Zapach kowalstwa umieścił go na liście i myślę, że ten sam zapach kowalstwa go z niej zdejmie` → `Zapach kuźni umieścił go na liście i myślę, że ten sam zapach kuźni go z niej zdejmie` — term: 'the forge smell' = zapach kuźni (as everywhere)
+- [781] `Ale dałbym sobie za niego obciąć głowę.` → `Ale dałabym sobie za to głowę uciąć.` — gender: Jessica is female
+- [784] `tyle uczciwego szumu, że nikt w mieście nie spojrzałby` → `tyle uczciwego szumu, że nikt w miasteczku nie spojrzałby` — term: town = miasteczko
+- [787] `klucze do starych papierów miasta` → `klucze do starych papierów miasteczka` — term: town = miasteczko
+- [787] `Sztywniała jak kij od szczotki` → `Zesztywniała jak kij od szczotki` — grammar: aspect (single reaction)
+- [787] `to te, o których ogłosił całemu miastu` → `to te, o których ogłosił całemu miasteczku` — term: town = miasteczko
+- [790] `żeby to był jakiś obcy, który wiał do miasta` → `żeby to był jakiś obcy, którego przywiało do miasteczka` — mistranslation: 'a stranger who blew into town' — 'wiał' = fled
+- [791] `Czy słowa w tej nocie pasują` → `Czy słowa w tym liściku pasują` — note-word: the blackmail note — one word (liścik/notatka), never 'nota'/'list'
+- [793] `Chcę, żeby obaj zniknęli na dobre, zostali oczyszczeni` → `Chcę, żeby obaj odpadli na dobre, zostali oczyszczeni` — mistranslation: 'I want them both gone' (off the list), not 'disappear'
+- [800] `na drabinie opartej o werandę` → `na drabinie opartej o ganek` — term: porch = ganek
+- [804] `— Same, jestem ci coś winna.` → `— Panie Samie, jestem panu coś winna.` — address: Jessica ↔ Sam formal both ways (ruling 2; he says 'pani Claus')
+- [808] `poza zasięg głosu recepcyjnego` → `poza zasięg słuchu z holu` — mistranslation: 'out of earshot of the lobby'
+- [808] `Że po prostu się bała, Same, a nie była zimna.` → `Że po prostu się bała, panie Samie, a nie była zimna.` — address: formal
+- [808] `na spokojny koniec werandy` → `na spokojny koniec ganku` — term: porch = ganek
+- [812] `— Powiedz jej, że ma to zapomniane. Te dwadzieścia dolarów, całe zamówienie, każdy cent; powiedz jej, że nigdy` → `— Niech pani jej powie, że wszystko jej darowane. Te dwadzieścia dolarów, całe zamówienie, każdy cent; niech pani jej powie, że nigdy` — address: Sam → Jessica formal; 'ma to zapomniane' unidiomatic for 'it's forgiven'
+- [812] `stałem na jej werandzie` → `stałem na jej ganku` — term: porch = ganek
+- [814] `— Nie wiedziałeś — powiedziałam. — Skąd mogłeś? To cały powód, dla którego ci o tym powiedziałam.` → `— Nie wiedział pan — powiedziałam. — Skąd miał pan wiedzieć? Właśnie dlatego panu o tym powiedziałam.` — address: formal
+- [816] `Jestem w gospodzie codziennie i kończę kowalstwo. Jestem tu na miejscu. Powiedz mi, na co mam uważać. Powiedz mi, kto to.` → `Jestem w gospodzie codziennie i kończę roboty kowalskie. Jestem tu na miejscu. Niech mi pani powie, na co mam uważać. Niech pani powie, kto to.` — address: formal; 'finishing the ironwork'
+- [818] `z poziomnicą w ręku, oferując mi bladą twarzą pomoc w złapaniu samego siebie` → `z poziomicą w ręku, blady jak ściana, oferując mi pomoc w złapaniu samego siebie` — typo: 'poziomnica' non-word; garbled 'bladą twarzą'
+- [818] `na zimnej werandzie Fiony` → `na zimnym ganku Fiony` — term: porch = ganek
+- [820] `Recepcja Fiony była nim przesiąknięta` → `Hol Fiony był nim przesiąknięty` — mistranslation: 'Fiona's lobby' (the reception desk is one item in it)
+- [820] `wsporniki montowane na werandzie` → `wsporniki montowane na ganku` — term: porch = ganek
+- [822] `— Miej oko na recepcję — powiedziałam mu` → `— Niech pan ma oko na recepcję — powiedziałam mu` — address: formal
+- [822] `zapamiętaj dla mnie jego twarz. Masz bystre oczy i i tak będziesz tutaj na drabinie. Tylko tyle chcę. Nie zatrzymuj ich, nie mów ani słowa, nie daj nic po sobie poznać. Po prostu zapamiętaj twarz.` → `niech pan zapamięta dla mnie jego twarz. Ma pan bystre oczy, a i tak będzie pan tutaj na drabinie. Tylko tyle chcę. Proszę ich nie zatrzymywać, nie mówić ani słowa, nie dać nic po sobie poznać. Po prostu zapamiętać twarz.` — address: formal
+- [824] `powiedz jej, że kowale w trzech hrabstwach są mi dłużni przysłługi i ściągnę każdą jedną z nich bez chwili wahania. Powiedz jej to również, kiedy będziesz mówić o tych dwudziestu dolarach.` → `niech pani jej powie, że kowale w trzech hrabstwach są mi winni przysługi i ściągnę każdą jedną z nich bez chwili wahania. Niech pani jej to też powie, kiedy będzie pani mówić o tych dwudziestu dolarach.` — address: formal; typo 'przysłługi'
+- [831] `a ani grosza z majątku` → `a ani centa z majątku` — currency: dollars/cents only
+- [833] `— Panie Carter — powiedziałaś... — Zamierzam panu coś powiedzieć i będę obserwować pańską twarz, gdy to usłyszę,` → `— Panie Carter — powiedziałam. — Zamierzam panu coś powiedzieć i będę obserwować pańską twarz, gdy będę to mówić,` — mt-debris: 'powiedziałaś...' (wrong person + stutter); 'while I tell it', not 'when I hear it'
+- [836] `nad jej miedzianym rantem` → `nad jej mosiężnym rantem` — term: brass = mosiężny (as Ch9)
+- [838] `Obserwowałem jego twarz` → `Obserwowałam jego twarz` — gender: Jessica is female
+- [839] `Ktoś wyciska potomka.` → `Ktoś doi potomkinię.` — gender: the descendant is Fiona (female); 'squeezing'
+- [839] `żeby prawnicy mogli zamknąć aktę` → `żeby prawnicy mogli zamknąć akta` — grammar: plural noun
+- [839] `Ktokolwiek krwawi pani przyjaciółkę` → `Ktokolwiek wykrwawia pani przyjaciółkę` — grammar: 'krwawić' is intransitive; 'bleeding your friend' = wykrwawia (as Ch8)
+- [843] `I nie mówiła tego, co list z szantażem. Mówiła więcej niż list i mówiła to życzliwiej.` → `I nie mówiła tego, co liścik szantażysty. Mówiła więcej niż liścik i mówiła to życzliwiej.` — note-word: the blackmail NOTE ≠ 'list' — in this very chapter Constance's own LETTER appears; the two must stay distinct
+- [844] `— Była jej winna pensja — rzekł Neil` → `— Należało jej się — rzekł Neil` — mistranslation: 'She was owed' — PL garbled ('the salary owed her')
+- [844] `innych sługusów, którzy odeszli` → `innych służących, którzy odeszli` — register: 'sługus' = lackey (pejorative)
+- [844] `a nie było pieniędzy na lekarza, ani grosza` → `a nie było pieniędzy na lekarza, ani centa` — currency: dollars/cents only
+- [844] `w jaki list każe wierzyć pani przyjaciółce` → `w jaki liścik każe wierzyć pani przyjaciółce` — note-word: the blackmail note (Constance's letter is mentioned in the same paragraph)
+- [845] `o mało się nie uśmierciła` → `o mało się nie zamęczyła` — mistranslation: 'half killing herself' (figurative) — 'uśmiercić się' = put herself to death
+- [847] `Sekrety, które ruinują ludzi` → `Sekrety, które rujnują ludzi` — typo: spelling
+- [848] `Zebrałam folder oraz mojego pingwina, który opuścił lupę wbrew protestom` → `Zebrałam folder oraz Pip, która z wyraźnym protestem rozstała się z lupą` — mistranslation: 'under protest' (her own) — 'wbrew protestom' = despite others' protests; Pip is female
+- [854] `jak Theo sam przyznał przed całą gminą podczas otwarcia` → `jak Theo sam przyznał przed całym miasteczkiem podczas otwarcia` — term: 'the entire town' — gmina = municipality
+- [858] `Przeglądałam literę „B” – Rachunki piekarni, Składki na muszlę koncertową, Nadwyżki – gdy natknęłam się na fiszki dotyczące papierów rodziny Blackburn,` → `Przeglądałam literę „B” – Bułki (rachunki z piekarni), Budowa estrady (składki) – gdy natknęłam się na fiszki dotyczące papierów rodziny Blackburnów,` — sign: ruling 3: the 'B' index joke kept working with Polish B-words; PL had added an entry not in EN ('Nadwyżki'); family name plural
+- [862] `(ze szafirem w sercu)` → `(szafir w jej sercu)` — clue: KEY CLUE: Theo's catalogue card must use the SAME words as the note ('szafir w jej sercu'); PL had a different wording
+- [864] `Szafirem w sercu.` → `Szafir w jej sercu.` — clue: KEY CLUE: identical wording (note / card / recap / confrontation)
+- [866] `Zamarzłam.` → `Zamarłam.` — mistranslation: 'I went still' (zamarzłam = froze from cold)
+- [866] `widziałam ją pod powiekami. Szafirem w sercu.` → `widziałam ją pod powiekami. Szafir w jej sercu.` — clue: KEY CLUE: identical wording
+- [866] `te same pięć słów w tej samej kolejności. Dwie osoby nie opisują biżuterii za pomocą tych samych pięciu osobliwych słów przez przypadek.` → `te same cztery słowa w tej samej kolejności. Dwie osoby nie opisują biżuterii za pomocą tych samych czterech osobliwych słów przez przypadek.` — clue: 'five words' must match the Polish phrase's real word count (szafir w jej sercu = 4)
+- [872] `by odkładać trzy fiszki z czerwoną notatką do pozostałych i sortować dalej: B, B, Turniej brydżowy, Chorągiewki, Nadwyżki,` → `by odłożyć trzy fiszki oznaczone czerwonym ołówkiem do pozostałych i sortować dalej: B, B, Brydż (turniej), Bibułkowe chorągiewki (nadwyżka),` — sign: ruling 3 B-index joke; 'czerwona notatka' muddled the note word; aspect
+- [872] `napisał listy terroryzujące Fionę. Albo jego piecza nad tymi dokumentami pozwoliła komuś innemu je napisać,` → `napisał liściki terroryzujące Fionę. Albo jego piecza nad tymi listami pozwoliła komuś innemu napisać te liściki,` — note-word: DEDUCTION: the blackmail NOTES were called 'listy' (= the 1924 Blackburn letters) — the sentence said Theo wrote the LETTERS; now: he wrote the notes, or his care of the letters let someone else write the notes
+- [874] `dokładne przeciwieństwo, napisanym przez niego czerwonym ołówkiem` → `dokładne przeciwieństwo, jego ręką, czerwonym ołówkiem` — grammar: garbled ('napisanym … ołówkiem')
+- [880] `O pięciu słowach.` → `O czterech słowach.` — clue: word count matches the Polish clue phrase
+- [884] `a rano przynosić dzieciom kakao i naprawdę tak myśleć w tym samym tygodniu` → `a rano przynosić dzieciom kakao i szczerze myśleć jedno i drugie, w tym samym tygodniu` — mistranslation: 'and mean both'
+- [886] `Theo nie ukradłby dla siebie ani grosza.` → `Theo nie ukradłby dla siebie ani centa.` — currency: dollars/cents only
+- [892] `wlewało się z przestrzeni za padokiem` → `wlewało się z przestrzeni za wybiegiem` — term: the paddock = wybieg everywhere else
+- [896] `– To już wystarczająco blisko.` → `– Praca jest już wystarczająco zaawansowana.` — mistranslation: 'It's far enough along now'
+- [900] `zbudował wielki kominek z polnych kamieni, ułożonych ręcznie jeden na drugim okrąglaków z rzeki.` → `zbudował wielki kominek z polnych kamieni – rzecznych okrąglaków ułożonych ręcznie jeden na drugim.` — grammar: garbled case chain
+- [902] `– Ognisko – wydyszałam ledwie dosłyszalnie.` → `– Palenisko – wyszeptałam ledwie dosłyszalnie.` — term: the hearth = palenisko (Ch10: 'Palenisko. Żeby przestała chodzić…'); 'barely above a whisper'
+- [904] `– Ognisko. – Jego ramię objęło mnie.` → `– Palenisko. – Jego ramię objęło mnie.` — term: hearth = palenisko
+- [904] `a nie chciałam, żebyś chodziła` → `a nie chciałem, żebyś chodziła` — gender: Nick is male
+- [913] `wprost do pensjonatu` → `wprost do gospody` — term: inn = gospoda ('pensjonat' only in this chapter)
+- [915] `na zieleniec wyciągano` → `na skwer wyciągano` — term: the green = skwer
+- [915] `Przed pensjonatem Vera Reed` → `Przed gospodą Vera Reed` — term: inn = gospoda
+- [915] `zapięta pod samą szyję na wieść o chłodzie` → `zapięta pod samą szyję dla ochrony przed chłodem` — mistranslation: 'buttoned to the chin against the cold' — 'na wieść o' = on hearing news of
+- [915] `schodziła ze schodów werandy, gdy ja na nią wchodziłam` → `schodziła ze schodów ganku, gdy ja po nich wchodziłam` — term: porch = ganek (pronoun adjusted)
+- [917] `— Dla gości pensjonatu.` → `— Dla gości gospody.` — term: inn = gospoda
+- [923] `— Dzień dobry, Vero.` → `— Dzień dobry, pani Vero.` — address: Jessica ↔ Vera formal (ruling 2)
+- [927] `— Leżała na recepcji — powiedziała, tylko że zamknęłam za sobą drzwi do małego saloniku, trzymając to coś` → `— Leżała na recepcji — powiedziała, gdy tylko weszłam. Znów zamknęła nas w małym saloniku i trzymała to coś` — mistranslation: garbled: EN 'the moment I came through the door. She'd shut us in the little sitting room again, and she was holding…'
+- [929] `albo w poniedziałek rano całe miasto przeczyta` → `albo w poniedziałek rano całe miasteczko przeczyta` — term: town = miasteczko
+- [935] `obrócając list w dłoniach` → `obracając liścik w dłoniach` — note-word: typo 'obrócając'; the blackmail NOTE ≠ 'list'
+- [935] `Myśli, że masz bogatego krewną, o którego poproszenie byłaś zbyt dumna.` → `Myśli, że masz bogatego krewnego, którego byłaś zbyt dumna, by poprosić.` — grammar: gender agreement / garbled clause
+- [941] `sprowadzało się jedynie do kwestii sposobu i samotnego działania` → `sprowadzało się jedynie do kwestii sposobu i tego, czy działał sam` — mistranslation: 'how and whether-alone' (did he act alone)
+- [945] `na dniu otwartym pensjonatu` → `na dniu otwartym gospody` — term: inn = gospoda
+- [947] `Uniosłam list.` → `Uniosłam liścik.` — note-word: note ≠ letters
+- [951] `Taki sam jak w pierwszym liście i taki sam jak stos, który widziałam leżący na biurku przy drzwiach Towarzystwa Historycznego w ranku otwarcia wystawy.` → `Taki sam jak w pierwszym liściku i taki sam jak stos, który widziałam leżący na biurku przy drzwiach Towarzystwa Historycznego rankiem w dniu otwarcia wystawy.` — note-word: note ≠ letters; 'w ranku' ungrammatical
+- [951] `to, co głosiły listy Blackburna` → `to, co głosiły listy Blackburnów` — grammar: the Blackburn (family) letters
+- [957] `tak zwyczajnie, że oko nikogo na nim nie utknęło; ktoś, kto mógł wpaść do pensjonatu` → `tak zwyczajnie, że niczyje oko się na nim nie zatrzymało; ktoś, kto mógł wpaść do gospody` — term: inn = gospoda; garbled 'oko nikogo … utknęło'
+- [957] `Trzymając jednak w dłoniach dwa listy` → `Trzymając jednak w dłoniach dwa liściki` — note-word: the two NOTES ≠ letters
+- [961] `chowając list obok pierwszego` → `chowając liścik obok pierwszego` — note-word: note ≠ letters
+- [966] `Od rana plac przeszedł całkowitą metamorfozę. Kozły i deski, które wyniosłyśmy z tak wielkim trudem` → `Od rana skwer przeszedł całkowitą metamorfozę. Kozły i deski, które wynieśliśmy z tak wielkim trudem` — term: the green = skwer; 'we' (Jessica, Mark, Emma) = mixed group
+- [966] `rękawiczek z koła gospodyń` → `rękawiczek zrobionych przez krąg` — mistranslation: 'the circle's mittens' — 'koło gospodyń' is a rural women's association, not the knitting circle (krąg)
+- [966] `dziewczyny z skrzypcami` → `dziewczyny ze skrzypcami` — grammar: 'ze' before s+consonant
+- [966] `ponieważ cały ten gorący, zgrany miasteczkowy świat zdecydował wspólnie, bez słowa` → `ponieważ całe miasteczko zdecydowało wspólnie, bez słowa` — mistranslation: 'the whole town had decided together' — additions not in EN
+- [966] `budki z cydrem i pieczonymi kasztanami` → `budki z gorącym sokiem jabłkowym i pieczonymi kasztanami` — cider: cider is NON-alcoholic (ruling 6) — Polish 'cydr' is alcoholic
+- [967] `z rodowitym pingwinem z Biegun Północnego` → `z prawdziwym pingwinem z Bieguna Północnego` — grammar: case error; 'the North Pole's own penguin'
+- [969] `mieszkanką na festiwalu w swoim mieście` → `mieszkanką na festiwalu w swoim miasteczku` — term: town = miasteczko
+- [969] `z drugiego końca placu` → `z drugiego końca skweru` — term: the green = skwer
+- [969] `odnalazła mnie przy cydrze` → `odnalazła mnie przy stoisku z sokiem jabłkowym` — cider: ruling 6
+- [969] `z dwoma kubkami cydru` → `z dwoma kubkami soku jabłkowego` — cider: ruling 6
+- [972] `Stała o kilka jardów dalej` → `Stała kilka metrów dalej` — units: 'a few yards off' → a few metres (SAFE)
+- [972] `przy budce z cydrem` → `przy budce z sokiem jabłkowym` — cider: ruling 6
+- [973] `— Wyglądałaś, jakbyś zamierzała rzucić się na panią Pelletier` → `— Wyglądała pani, jakby zamierzała pani rzucić się na panią Pelletier` — address: Noriko ↔ Jessica formal until the English puts them on first names (Ch24–26; ruling 2) — she says 'pani Claus' in this same scene
+- [975] `Pociągnęła łyk cydru.` → `Pociągnęła łyk soku.` — cider: ruling 6
+- [976] `i o liście, który dotarł do niej tego ranka` → `i o liściku, który dotarł do niej tego ranka` — note-word: the blackmail NOTE ≠ 'list'
+- [978] `— Przecież wiesz, gdzie jest posterunek.` → `— Przecież pani wie, gdzie jest posterunek.` — address: Noriko → Jessica formal
+- [978] `— Twój pingwin zarobił dziś` → `— Pani pingwin zarobił dziś` — address: Noriko → Jessica formal
+- [979] `— Nie mów jej tego — poprosiłam.` → `— Proszę jej tego nie mówić — poprosiłam.` — address: Jessica → Noriko formal
+- [980] `paprocie z szronu` → `paprocie ze szronu` — grammar: 'ze' before sz+consonant
+- [980] `znaleźliśmy Śnieżka` → `znaleźliśmy Snowballa` — name: Snowball — one form
+- [984] `cokolwiek wydarzyłoby się jutro` → `cokolwiek wydarzy się jutro` — grammar: conditional wrong
+- [989] `Oczyszczono mnie z podejrzeń o trzech mężczyzn – a raczej to ja oczyściłam ich z podejrzeń, co zostawiło mnie samą` → `Oczyściłam z podejrzeń trzech mężczyzn, a to zostawiło mnie samą` — mt-debris: the translator's own self-correction printed in the prose ('I was cleared… or rather I cleared them')
+- [991] `Pip machnęła na mnie łapą i poszła spać` → `Pip dała sobie ze mną spokój i poszła spać` — mistranslation: 'had given up on me' — a penguin has no paw to wave
+- [993] `: pięć słów, sformułowanie historyka, a nie złodzieja, widniejące w liście z szantażem dokładnie tak samo` → `: cztery słowa, sformułowanie historyka, a nie złodzieja, widniejące w liściku szantażysty dokładnie tak samo` — clue: word count must match the Polish clue (szafir w jej sercu = 4 words); the blackmail NOTE ≠ 'list'
+- [999] `w to, co odpychłam obiema rękami` → `w to, co odpychałam obiema rękami` — typo: non-word
+- [999] `Najmilszym człowiekiem w całym Frost Falls.` → `Najżyczliwszym człowiekiem w całym Frost Falls.` — term: 'the kindest man in Frost Falls' — the book's refrain ('najżyczliwszy', Ch3/Ch19)
+- [1003] `zanieść drugiego do lobby pełnego gości festiwalowych` → `zanieść drugiego do holu pełnego gości festiwalowych` — term: lobby = hol everywhere else (English loanword)
+- [1005] `Wiem, w jaki sposób Twoja rodzina weszła w posiadanie tej gospody` → `Wiem, jak twoja rodzina weszła w posiadanie tej gospody` — clue: the quoted note line must match the note itself word for word ([185]); lowercase 'twoja' as in the note
+- [1015] `Widziałam, jak jakaś kobieta sztywnieje na dźwięk imienia.` → `Widziałam, jak pewna kobieta sztywnieje na dźwięk nazwiska.` — mistranslation: the trigger was the surname Blackburn
+- [1015] `akt własności <bt>Winter Wonderland Inn</bt> schowany` → `akt własności Winter Wonderland Inn schowany` — bt: stray <bt> on a non-title (ruling 5)
+- [1021] `W tygodniu festiwalowym Urząd Miasta pracował` → `W tygodniu festiwalowym Ratusz pracował` — term: Town Hall = Ratusz (Ch11, Ch20)
+- [1023] `potrzebuje starego aktu własności parku, samej wspólnej ziemi, żeby rozstrzygnąć małą sprzeczzkę` → `potrzebuje starego aktu własności skweru, samego błonia, żeby rozstrzygnąć małą sprzeczkę` — term: the green = skwer, the common land = błonie; typo 'sprzeczzkę'
+- [1025] `a mi skończyły się uprzejme sposoby działania` → `a mnie skończyły się uprzejme sposoby działania` — grammar: stressed pronoun form
+- [1027] `PROPERTY — EVERGREEN AVE — WINTER WONDERLAND INN.` → `NIERUCHOMOŚĆ — EVERGREEN AVE — WINTER WONDERLAND INN.` — sign: English label text translated (ruling 3; italics kept) — matches the drawer label REJESTRY NIERUCHOMOŚCI in Ch11
+- [1031] `której nie było w żadnym liście Blackburna i nigdy nie było. Przeszło to przez ręce Very Reed` → `której nie było w żadnym liście Blackburnów i nigdy nie było. Przeszedł przez ręce Very Reed` — grammar: family name plural; subject agreement (akt)
+- [1033] `Kiedy wróciła z kopią aktu własności parku` → `Kiedy wróciła z kopią aktu własności skweru` — term: the green = skwer
+- [1033] `i budzi się z nią każdej nocy` → `i każdej nocy leży z nią bezsennie` — mistranslation: 'lies awake every night inside it'
+- [1035] `– Viero – powiedziałam łagodnie w drodze do drzwi – czy wszystko w porządku? Naprawdę. Wcale nie wyglądasz dobrze.` → `– Pani Vero – powiedziałam łagodnie w drodze do drzwi – czy wszystko w porządku? Naprawdę. Wcale nie wygląda pani dobrze.` — address: Jessica ↔ Vera formal (ruling 2); typo 'Viero'
+- [1041] `Jej oczy stały się jasne` → `Oczy jej zalśniły` — mistranslation: 'Her eyes had gone bright' (with tears)
+- [1041] `z aktem własności parku w torbie` → `z aktem własności skweru w torbie` — term: the green = skwer
+- [1041] `mężczyzna, któremu ufała, nad którym ubolewała, albo jedno i drugie, i zafascynowana brnęła w to zbyt głęboko, by móc się wycofać. Wiedziała o tym i nie spała ani lepiej` → `mężczyzna, któremu ufała, nad którym się litowała, albo jedno i drugie, i brnęła w to już zbyt głęboko, by móc się wycofać. Wiedziała o tym i nie spała ani trochę lepiej` — mistranslation: 'pitied'; 'zafascynowana' (fascinated) is an addition; 'ani lepiej' garbled
+- [1045] `Znalazł ją w listach Blackburna` → `Znalazł ją w listach Blackburnów` — grammar: family name plural
+- [1045] `zanieść tych liścików przez miasto` → `zanieść tych liścików przez miasteczko` — term: town = miasteczko
+- [1047] `i nie pomyślałam o tym niczego` → `i nic o tym nie pomyślałam` — grammar: double-negation form
+- [1049] `Theo dla Towarzystwa, na którego śmierć cal po calu patrzył. Vera dla pieniędzy, których tak wyraźnie potrzebowała, miejskiej pensji za miejską pracę` → `Theo dla Towarzystwa, którego powolne konanie obserwował krok po kroku. Vera dla pieniędzy, których tak wyraźnie potrzebowała, pensji jak w miasteczku za pracę na miarę wielkiego miasta` — units: 'by inches' idiom → krok po kroku (SAFE); 'a town wage for a city's work' — PL said 'a town wage for town work' (contrast lost; matches Ch11)
+- [1053] `Znalezienie prawdy i zdecydowanie, co z nią zrobić, to dwie różne rzeczy – powiedział Nick w ciepłej kuchni, kładąc dłoń na mojej. – Po wszystkim nadal możesz wybrać, jak to się skończy.` → `„Znalezienie prawdy i zdecydowanie, co z nią zrobić, to dwie różne rzeczy” — powiedział Nick w ciepłej kuchni, kładąc dłoń na mojej. „Po wszystkim nadal możesz wybrać, jak to się skończy”.` — dialogue: remembered speech inside narration → „…” per the dossier (the paragraph is narration, not a dialogue turn)
+- [1057] `z aktem własności parku w torbie i obojgiem ich imion ciążącymi mi w piersi` → `z aktem własności skweru w torbie i z ich imionami ciążącymi mi w piersi` — grammar: the green = skwer; case error
+- [1057] `w którym zszłam ze szczytu świata` → `w którym zeszłam ze szczytu świata` — typo: non-word
+- [1060] `a argumenty za nim przemawiały silne` → `a argumenty za nim były mocne` — grammar: garbled
+- [1062] `Sekrety wróciłyby do kufra na strychu.` → `Sekret wróciłby do kufra na strychu.` — grammar: 'The secret' (singular)
+- [1062] `Miasto nigdy nie musiałoby się dowiedzieć` → `Miasteczko nigdy nie musiałoby się dowiedzieć` — term: town = miasteczko
+- [1066] `To było takie miłe. I w tym tkwił problem. Było miłe dla prawie każdego i na prawie dość długo.` → `To było takie dobroduszne. I w tym tkwił problem. Było dobroduszne dla prawie każdego i na prawie dość długo.` — mistranslation: 'It was so kind' — 'miłe' = pleasant
+- [1072] `prosto od przestępstva do rozgrzeszenia` → `prosto od przestępstwa do rozgrzeszenia` — typo: Czech/Slovak 'v' spelling
+- [1072] `ukrywać się dalej, przed miastem i przed samymi sobą` → `ukrywać się dalej, przed miasteczkiem i przed samymi sobą` — term: town = miasteczko
+- [1072] `Nie uratowałbym duszy Thea` → `Nie uratowałabym duszy Thea` — gender: Jessica is female
+- [1080] `Theo nigdy nie musi stać się człowiekiem` → `Theo nigdy nie będzie musiał stać się człowiekiem` — grammar: tense
+- [1080] `Dobry uczunek i łatwy uczunek to nie to samo.` → `To, co dobre, i to, co łatwe, to nie to samo.` — typo: non-word 'uczunek'; 'The kind thing and the easy thing'
+- [1082] `Miasto pogrąży się w żałobie` → `Miasteczko pogrąży się w żałobie` — term: town = miasteczko
+- [1084] `Oto i ono, ostatnie z obaw, najmniejsze i najbardziej moje. Wciąż byłam w tym mieście w połowie obca.` → `Oto i ona, ostatnia z obaw, najmniejsza i najbardziej moja. Wciąż byłam w tym miasteczku w połowie obca.` — grammar: agreement with 'obawa'; town = miasteczko
+- [1084] `a ja torowałam sobie drogę cal po calu, zapiekanką tu, poszukiwaniem psa tam, krzesłem dosuniętym do kółka dziewiarskiego` → `a ja torowałam sobie drogę krok po kroku, zapiekanką tu, poszukiwaniem psa tam, krzesłem dosuniętym do kręgu dziewiarskiego` — units: 'an inch at a time' → krok po kroku (SAFE); the circle = krąg
+- [1084] `i sprowadziła na miasto żałobę` → `i sprowadziła na miasteczko żałobę` — term: town = miasteczko
+- [1086] `ponieważ Martha odpowiedziała już na to w kółku, kładąc dłoń na moim kolanie. Cokolwiek niesiesz, nie musisz dźwigać tego sama. Na tym polega sens kółka.` → `ponieważ Martha odpowiedziała już na to w kręgu, kładąc dłoń na moim kolanie. Cokolwiek dźwigasz, nie musisz dźwigać tego sama. W tym cały sens kręgu.` — term: the circle = krąg; Martha's line quoted exactly as she said it in Ch5 ([372])
+- [1088] `chroniąc je przed samym sobą` → `chroniąc je przed nim samym` — grammar: reflexive agreement
+- [1088] `kiedy zjawiło się całe miasto` → `kiedy zjawiło się całe miasteczko` — term: town = miasteczko
+- [1092] `Cokolwiek to będzie cię kosztować w oczach miasta` → `Cokolwiek to będzie cię kosztować w oczach miasteczka` — term: town = miasteczko
+- [1094] `nad śpiącym miastem, tym upartym, przebaczającym miastem` → `nad śpiącym miasteczkiem, tym upartym, przebaczającym miasteczkiem` — term: town = miasteczko
+- [1099] `Komendant Tanaka wysłuchała mnie` → `Szefowa Tanaka wysłuchała mnie` — term: Chief = szefowa (Book 3)
+- [1099] `Te dwa listy. Katalogową kartkę Theo z pięcioma pasującymi słowami.` → `Te dwa liściki. Katalogową kartkę Theo z czterema pasującymi słowami.` — note-word: the blackmail NOTES ≠ 'listy'; word count of the Polish clue = 4
+- [1099] `w koszu na dokumenty Viery. Konstancję, broszkę` → `w koszu na dokumenty Very. Constance, broszkę` — name: Vera (not 'Viera'); Constance keeps her name (not Polonised 'Konstancja')
+- [1103] `Dwa listy, żądanie pieniędzy` → `Dwa liściki, żądanie pieniędzy` — note-word: note ≠ letters
+- [1103] `To nieporozumienie, którego nie mogę zbyć surowym słowem.` → `To nie jest nieporozumienie, które mogę zbyć surowym słowem.` — reversed: EN 'That isn't a misunderstanding I can wave off' — PL called it a misunderstanding
+- [1105] `żebyś to życzliwie przede mną zamiotła pod dywan` → `żebyś życzliwie zamiotła to za mnie pod dywan` — mistranslation: 'bury it kindly FOR me' — 'przede mną' = hide it from me
+- [1113] `To jest w telewizji.` → `Takie rzeczy są dobre w telewizji.` — mistranslation: 'That's television' (i.e. TV fantasy)
+- [1115] `i komendant policji u boku` → `i szefową policji u boku` — term: Chief = szefowa
+- [1119] `że to była Viera` → `że to była Vera` — name: Vera
+- [1121] `że Konstancja była złodziejką` → `że Constance była złodziejką` — name: Constance
+- [1121] `To nie jest sekret, który cię ruinuje.` → `To nie jest sekret, który cię rujnuje.` — typo: spelling
+- [1121] `Przeczytaj to, Fiona.` → `Przeczytaj to, Fiono.` — grammar: vocative
+- [1123] `podczas gdy zegar z kukułką miarowo tykał` → `podczas gdy zegar szafkowy miarowo tykał` — mistranslation: the GRANDFATHER clock (zegar szafkowy, Ch2) — not a cuckoo clock
+- [1127] `jednocześnie, Fiona.` → `jednocześnie, Fiono.` — grammar: vocative
+- [1131] `Ale to twoja historia, Fiona, bardziej niczyja.` → `Ale to twoja historia, Fiona, bardziej niż czyjakolwiek.` — grammar: garbled comparative
+- [1131] `twoja historia, Fiona, bardziej` → `twoja historia, Fiono, bardziej` — grammar: vocative
+- [1133] `Wetrzeć twarz płaską dłonią nie sposób, ale otarła twarz dłonią i wyprostowała ramiona, tak jak Konstancja musiała wyprostować swoje sto lat temu w jakimś zimnym wielkim domu.` → `Otarła twarz płaską dłonią i wyprostowała ramiona, tak jak Constance musiała wyprostować swoje sto lat temu w zimnym, wielkim domu.` — mt-debris: translator's aside printed in the prose ('it's impossible to rub one's face with a flat hand, but…'); Constance
+- [1136] `Więc to zaplanowaliśmy.` → `Więc to zaplanowałyśmy.` — gender: 'we' = Jessica, Noriko and Fiona (all women)
+- [1138] `Tamtego popołudnia mieliśmy z nimi usiąść.` → `Tamtego popołudnia miałyśmy z nimi usiąść.` — gender: 'we' = Jessica, Noriko, Fiona
+- [1141] `szuranie składanych stołów na zielenińcu` → `szuranie składanych stołów na skwerze` — term: the green = skwer (typo 'zielenińcu')
+- [1141] `a Verę zaprosiła w ramach czegoś, co określiła jako posyłkę z biura burmistrza` → `a Verę zaprosiła w sprawie, którą określiła jako zlecenie z biura burmistrza` — mistranslation: 'an errand from the mayor's office' — 'posyłka' = parcel
+- [1143] `oraz komendant policji naprzeciwko` → `oraz szefową policji naprzeciwko` — term: Chief = szefowa
+- [1151] `Theo nigdy nie był dla mnie niczym innym jak miły` → `Theo nigdy nie był dla mnie inny niż życzliwy` — grammar: garbled ('niczym innym jak miły')
+- [1153] `– Theo – rzekłam. – Listy z szantażem do Fiony zostały napisane` → `– Theo – rzekłam. – Liściki z szantażem do Fiony zostały napisane` — note-word: CONFRONTATION: the blackmail NOTES were called 'listy' — in the very scene that separates them from the 1924 Blackburn letters ([1157])
+- [1157] `karcie do listów Blackburna, o których powiedziałeś na otwarciu całemu miastu` → `karcie do listów Blackburnów, o których powiedziałeś na otwarciu całemu miasteczku` — grammar: family name plural; town = miasteczko
+- [1169] `– Dach się wali. Bojler dogorywa. Sto lat pamięci tego miasta` → `– Dach się wali. Piec dogorywa. Sto lat pamięci tego miasteczka` — term: the boiler = piec (Ch5/Ch12); town = miasteczko
+- [1173] `Patrzyłem, jak siwieje.` → `Patrzyłem, jak szarzeje.` — mistranslation: 'go gray' (gray-faced), not 'turn gray-haired'
+- [1177] `Tak bardzo kocham historię tego miasta, że zapomniałem, iż miasto składa się` → `Tak bardzo kocham historię tego miasteczka, że zapomniałem, iż miasteczko składa się` — term: town = miasteczko
+- [1183] `– Vero – powiedziałam. – Kradzież popełnił Theo. Ale listy wiedziały` → `– Pani Vero – powiedziałam. – Kradzież popełnił Theo. Ale liściki wiedziały` — note-word: the NOTES knew (not 'the letters' — the next clause says it was never in any Blackburn letter); Jessica ↔ Vera formal
+- [1183] `w żadnym liście Blackburna` → `w żadnym liście Blackburnów` — grammar: family name plural
+- [1183] `w twoim koszyku do ponownego porządkowania` → `w pani koszyku do ponownego porządkowania` — address: formal
+- [1187] `– On dokonał kradzieży. Ty miałaś akt własności. I miałaś nogi, Vero. On nie przeszedłby przez miasto niezauważony` → `– On dokonał kradzieży. Pani miała akt własności. I miała pani nogi, pani Vero. On nie przeszedłby przez miasteczko niezauważony` — address: formal; town = miasteczko
+- [1187] `Minęłam cię wtedy rano na schodach z twoimi przepustkami parkingowymi. On nie mógłby zrobić tego sam. Potrzebował kogoś, kto potrafi poruszać się po mieście niewidziany. Ty byłaś tą osobą.` → `Minęłam panią wtedy rano na schodach, z pani przepustkami parkingowymi. On nie mógłby zrobić tego sam. Potrzebował kogoś, kto potrafi poruszać się po miasteczku niewidziany. Tą osobą była pani.` — address: formal; town = miasteczko
+- [1195] `Burmistrz płaci mi grosze` → `Burmistrz płaci mi psie pieniądze` — currency: no Polish-currency idioms (grosz) in a dollars edition
+- [1199] `Myślałam tylko o pieniądzach i o tym, że w końcu się wyśpię.` → `Myślałam tylko o pieniądzach i o tym, że nie mogę spać.` — mistranslation: EN 'the not-sleeping' (her insomnia), not 'finally sleeping'
+- [1201] `Wyłożyliśmy to w całości i prosto w ciepłym pokoju w świetle popołudnia i daliśmy im szansę` → `Wyłożyłyśmy to w całości i prosto w ciepłym pokoju w świetle popołudnia i dałyśmy im szansę` — gender: 'we' = Jessica, Noriko, Fiona
+- [1210] `postanowiło usiłować wyłudzić pół miliona dolarów` → `postanowiło wymusić pół miliona dolarów` — grammar: 'postanowiło usiłować' garbled; extort = wymusić
+- [1212] `żaden z nich nie miał na koncie wcześniejszych wykroczeń` → `żadne z nich nie miało na koncie wcześniejszych wykroczeń` — grammar: mixed pair (man + woman) → żadne
+- [1212] `a nie cudzej ruin. Noriko wytyczyła więc dla nich drogę, która nie była ani celi więzienną` → `a nie ich ruiny. Noriko wytyczyła więc dla nich drogę, która nie była ani celą więzienną` — grammar: case errors
+- [1218] `To ja to sprowokowałam.` → `To ja do tego doprowadziłam.` — mistranslation: 'I had brought it about' — 'sprowokować' = provoke
+- [1222] `a potem zachować kluczy do tego miejsca` → `a potem zachować klucze do tego miejsca` — grammar: case
+- [1224] `stworzyły dla niego zamiast tego drzwi` → `stworzyli dla niego zamiast tego drzwi` — grammar: mixed group (the board) → masculine-personal
+- [1224] `by powoli, cal po calu, zacząć odzyskiwać` → `by powoli, krok po kroku, zacząć odzyskiwać` — units: 'an inch at a time' → krok po kroku (SAFE)
+- [1226] `– To więcej, niż na co zasługuję` → `– To więcej, niż na to zasługuję` — grammar: garbled comparative
+- [1230] `To, co Fiona dała Theu` → `To, co Fiona dała Theowi` — name: dative of Theo = Theowi (as elsewhere)
+- [1234] `– Zrobiłaś złą rzecz – rzekłam. – I ponosisz za nią słuszną karę, co jest w porządku. Ale przyznałaś się w tej samej sekundzie, kiedy cię o to zapytano, Vero. Nie kłamałaś i nie kręciłaś. To nie błahostka. To ta część ciebie, która wciąż jest dobra, i jest ona większa od tej części, która popełniła błąd, i chcę, żebyś się jej trzymała. Droga powrotna dla ciebie też będzie długa. Ale ona istnieje. Nie pozwalaj nikomu wmawiać sobie, że jest inaczej, a przede wszystkim nie mów tego sama sobie.` → `– Zrobiła pani złą rzecz – rzekłam. – I ponosi pani za nią słuszną karę, co jest w porządku. Ale przyznała się pani w tej samej sekundzie, kiedy panią o to zapytano, pani Vero. Nie kłamała pani i nie kręciła. To nie błahostka. To ta część pani, która wciąż jest dobra, i jest ona większa od tej części, która popełniła błąd, i chcę, żeby pani się jej trzymała. Droga powrotna dla pani też będzie długa. Ale ona istnieje. Niech pani nie pozwoli nikomu wmówić sobie, że jest inaczej, a przede wszystkim niech pani tego nie mówi sama sobie.` — address: Jessica ↔ Vera formal (ruling 2)
+- [1236] `a Pip i ja wróciliśmy do domu` → `a Pip i ja wróciłyśmy do domu` — gender: feminine plural
+- [1238] `Fiona była wolna. Listy ustały.` → `Fiona była wolna. Liściki ustały.` — note-word: the NOTES stopped (not the letters)
+- [1238] `długą wędrówkę z powrotem do samego siebie` → `długą wędrówkę z powrotem do samych siebie` — grammar: plural (two people)
+- [1242] `To, co skrzywdził, usiłując ocalić, wciąż chyliło się ku upadkowi.` → `To, dla czego ocalenia dopuścił się zła, wciąż chyliło się ku upadkowi.` — mistranslation: 'The thing he had done wrong to save' — PL said 'the thing he hurt'
+- [1245] `popchnęły porządnego człowieka do podstępnego czynu` → `popchnęły porządnego człowieka do złego czynu` — mistranslation: 'to a bad place' — 'podstępny' = cunning
+- [1246] `– Pani Mikołajowa – powiedział.` → `– Pani Claus – powiedział.` — term: Mrs. Claus = pani Claus everywhere
+- [1247] `po złote piórko` → `po złote pióro` — mistranslation: a gold PEN (piórko = small feather)
+- [1249] `a ja spędziłam całą tę awanturę na nauce` → `a ja przez całą tę sprawę uczyłam się` — mistranslation: 'the whole business' — 'awantura' = a row/brawl
+- [1250] `tak, jak to intencjonuję` → `tak, jak to mam na myśli` — register: non-word calque 'intencjonuję'
+- [1252] `No więc słuchaj pan.` → `Proszę posłuchać.` — register: 'Now.' — 'słuchaj pan' is rude/rustic, wrong for Jessica
+- [1254] `– Odrzuca pani mnóstwo pieniędzy, pani Mikołajowa.` → `– Odrzuca pani mnóstwo pieniędzy, pani Claus.` — term: Mrs. Claus = pani Claus
+- [1255] `wtedy wracajcie. Bądźcie tym ostatnim kamieniem w moście` → `wtedy niech państwo wrócą. Niech państwo będą tym ostatnim kamieniem w moście` — address: Jessica addresses the Worthingtons formally (pan/państwo) everywhere else in the scene
+- [1258] `trzymaną w rezerwie na wypadek biedy` → `trzymaną w rezerwie na wypadek potrzeby` — mistranslation: 'held in reserve against need'
+- [1259] `ani jednej kropli deszczu w zapleczu` → `ani jednej kropli deszczu na zapleczu` — grammar: preposition
+- [1271] `Martha powiedziała o tym najszczerszą rzecz, na kółku,` → `Martha powiedziała o tym najszczerszą rzecz, w kręgu,` — term: the circle = krąg
+- [1272] `– Constance Okafor kradła, żeby spróbować ratować matkę` → `– Constance Okafor ukradła, żeby spróbować ratować matkę` — grammar: aspect: one theft
+- [1276] `Sam Patel zasalutował mi kapeluszem aż po drugiej stronie` → `Sam Patel uchylił do mnie czapki aż z drugiej strony` — mistranslation: 'tipped his cap' (as in Ch21) — not a salute with a hat
+- [1277] `Martha ujęła moją dłoń na kółku w jakieś szare popołudnie` → `Martha ujęła moją dłoń w kręgu pewnego szarego popołudnia` — term: the circle = krąg
+- [1277] `Że kółko jest od tego, żeby się o nie opierać?` → `Że krąg jest od tego, żeby się o niego opierać?` — term: the circle = krąg (her Ch5 line 'W tym cały sens kręgu')
+- [1277] `Nie tylko opierałaś się na kółku, kiedy tego potrzebowałaś. Byłaś kółkiem dla Fiony` → `Nie tylko opierałaś się na kręgu, kiedy tego potrzebowałaś. Byłaś kręgiem dla Fiony` — term: the circle = krąg
+- [1278] `I gdzieś w trakcie najgorszej awantury, jaką widziałam` → `I gdzieś w trakcie najgorszej sprawy, jaką widziałam` — mistranslation: 'affair' ≠ 'awantura' (row)
+- [1278] `Tutejsi ludzie patrzą... patrzel... patrzyli, jak to robię` → `Tutejsi ludzie patrzyli, jak to robię` — mt-debris: MT stutter
+- [1281] `po odejściu Theoa` → `po odejściu Thea` — name: genitive of Theo = Thea (as elsewhere)
+- [1282] `wraz z Oliwką i Dot` → `wraz z Olivią i Dot` — name: Olivia keeps her name (Polonised 'Oliwka' only in this chapter)
+- [1285] `– Kapsuła czasu – powiedziała cicho Oliwka.` → `– Kapsuła czasu – powiedziała cicho Olivia.` — name: Olivia
+- [1285] `a skwer ma cztery akry` → `a skwer ma półtora hektara` — units: 'four acres' → ≈1.6 ha, said the way a Polish speaker would ('półtora hektara') (SAFE)
+- [1287] `Śnieżyn nosił swoją czapkę z rogami.` → `Snowball nosił swoją czapkę z porożem.` — name: Snowball — one form ('Śnieżyn' a third variant); 'antler hat' as in Ch6
+- [1289] `– Z Theoa obecnością.` → `– Z udziałem Theo.` — grammar: garbled 'Z Theoa obecnością'
+- [1294] `Tym razem Tancerka, która znów wypuściła się z wybiegu` → `Tym razem Dancer, która znów wydostała się z wybiegu` — name: reindeer keep their English names (Book 1; Ch10 of this book: 'Dancer')
+- [1294] `podczas gdy stu mieszczan wpatrywało się w nią w milczeniu` → `podczas gdy setka mieszkańców wpatrywała się w nią w milczeniu` — register: 'townsfolk' — 'mieszczanie' = burghers
+- [1295] `a każda duszka w miasteczku` → `a każda dusza w miasteczku` — typo: 'duszka' (sprite) for 'dusza'
+- [1296] `by zarzucić ręce na szyję Tancerce` → `by zarzucić ręce na szyję Dancer` — name: Dancer
+- [1297] `Stamtąd, z placu, spojrzałam` → `Stamtąd, ze skweru, spojrzałam` — term: the green = skwer
+- [1297] `Pip podeszła pod sam pysk Tancerki` → `Pip podeszła pod sam pysk Dancer` — name: Dancer
+- [1302] `i czy całe miasto będzie mogło to zobaczyć` → `i czy całe miasteczko będzie mogło to zobaczyć` — term: town = miasteczko
+- [1306] `– Całe miasto też – odparłam. – W tym cały sęk.` → `– Całe miasteczko też – odparłam. – W tym właśnie rzecz.` — mistranslation: town = miasteczko; 'That's rather the point' — 'cały sęk' = the catch/problem
+- [1307] `i trajkotał o skarbie do psa` → `i trajkocze do psa o skarbie` — grammar: masculine verb for Emma
+- [1308] `– Wróciła do dawnej siebie, Mark.` → `– Wróciła do dawnej siebie, Marku.` — grammar: vocative (as Ch6: 'Marku')
+- [1309] `– Zauważyłem. – Jego głos lekko stwardniał` → `– Zauważyłem. – Głos lekko mu się załamał` — mistranslation: 'His voice went rough at the edge' (emotion), not 'hardened'
+- [1310] `Szłyśmy dalej przez oświetlone na złoto ulice.` → `Szliśmy dalej przez oświetlone na złoto ulice.` — gender: Mark is in the group
+- [1312] `– Poczekaj – powiedziała. – Nie idź.` → `– Proszę poczekać – powiedziała. – Niech pani nie odchodzi.` — address: Emma → Jessica formal (ruling 2)
+- [1314] `stojąca w calu wody` → `stojąca w dwóch centymetrach wody` — units: 'an inch of water' → ≈2–3 cm (SAFE)
+- [1315] `że ułamałam ją z wianka w gospodzie` → `że ułamałam ją z wieńca przy gospodzie` — term: the inn's WREATH = wieniec (Ch1)
+- [1322] `niż sama dałbym sobie na ich miejscu` → `niż sam bym sobie dał na ich miejscu` — gender: Theo is male
+- [1323] `Wygładził stary papier dwiema palcami.` → `Wygładził stary papier dwoma palcami.` — grammar: palec is masculine
+- [1324] `Słyszałaś? Noriko mówi` → `Słyszała pani? Noriko mówi` — address: Theo now addresses Jessica as 'Pani Claus' ([1320], EN 'Mrs. Claus' — his new distance); verb made to match
+- [1326] `kiedy miasto otwiera swoje serce` → `kiedy miasteczko otwiera swoje serce` — term: town = miasteczko
+- [1327] `– Cal po calu.` → `– Krok po kroku.` — units: 'An inch at a time' → krok po kroku (SAFE)
+- [1331] `– Wracamy do domu – powiedziałam.` → `– Ona wraca do domu – powiedziałam.` — mistranslation: EN 'It's coming home' (the magic) — PL said 'We're going home'
+- [1332] `by pomieścić całą magię świąt. perishable Ale` → `by pomieścić całą magię świąt. Ale` — untranslated: stray English word 'perishable' (MT debris)
+- [1333] `Miedziana skrzynka zamknięta w izbie Towarzystwa` → `Miedziana skrzynka zamknięta w przednim pokoju Towarzystwa` — mistranslation: 'the Society's front room' (Ch30)
+- [1333] `cal po trudnym calu` → `krok po trudnym kroku` — units: 'inch by hard inch' → idiom (SAFE)
+- [1334] `a Theo podano pomocną dłoń` → `a Theo dostał drogę powrotu` — mistranslation: 'Theo had been handed a road back' (the book's 'long road back' motif)
+- [1343] excerpt/blurb paragraph replaced: `Greta piekła tę samą bułeczkę cynamonową od czterdziestu lat…` → `Greta piekła dokładnie tę samą bułeczkę cynamonową przez czt…` — blurb copied verbatim from corrected Flour Play PL [29]
+- [1344] excerpt/blurb paragraph replaced: `Nowa mąka. Nowa woda. Pożyczona waga. Wciąż kwaśne. Do czwar…` → `Nowa mąka. Nowa woda. Pożyczona waga. Wciąż kwaśne. Do czwar…` — blurb copied verbatim from corrected Flour Play PL [31]
+- [1345] excerpt/blurb paragraph replaced: `Wtem przez szybę przelatuje cegła, a na szalówce pojawia się…` → `Wtem przez okno wlatuje cegła, a na deskach szalówki pojawia…` — blurb copied verbatim from corrected Flour Play PL [33]
+- [1346] excerpt/blurb paragraph replaced: `Miasteczko sięga po najprostsze wyjaśnienia: rzeźnik, który …` → `Miasteczko sięga po łatwe wyjaśnienia: rzeźnik, który zablok…` — blurb copied verbatim from corrected Flour Play PL [35]
+- [1347] excerpt/blurb paragraph replaced: `A na jasnym końcu alei nowa patisserie wyznaczyła otwarcie n…` → `A na jasnym końcu alei nowa cukiernia wyznaczyła swoje wielk…` — blurb copied verbatim from corrected Flour Play PL [37]
+- [1353] excerpt/blurb paragraph replaced: `Każda kobieta w kręgu przyniosła własną jodłę gałęzistą, a j…` → `Każda kobieta w kręgu przyniosła własne gałązki jodły balsam…` — verbatim FP [40]
+- [1354] excerpt/blurb paragraph replaced: `W nocy spadł śnieg. Nie ten październikowy, który znika po k…` → `W nocy spadł śnieg. Nie ten wczesny październikowy puch, któ…` — FP [42], adjusted to excerpt EN "Over the weekend … had traded"
+- [1355] excerpt/blurb paragraph replaced: `– Zwolnij – rzuciła Olivia, pochylając się z sąsiedniego krz…` → `— Zwolnij — powiedziała Olivia, pochylając się z sąsiedniego…` — verbatim FP [44]
+- [1356] excerpt/blurb paragraph replaced: `Zwolniłam dla niej. Przyłożyłam do stelaża trzy gałązki, owi…` → `Zwolniłam dla niej. Ułożyłam trzy gałązki na stelażu, obwiąz…` — verbatim FP [46]
+- [1357] excerpt/blurb paragraph replaced: `– Każda warstwa przykrywa poprzednią, jak łuski ryby. Wszyst…` → `— Każda warstwa przykrywa poprzednią, jak rybie łuski. Wszys…` — verbatim FP [47]
+- [1358] excerpt/blurb paragraph replaced: `Olivia zrobiła to samo na własnym stelażu, zręcznie i szybko…` → `Olivia zrobiła to samo na swoim stelażu, starannie i szybko,…` — verbatim FP [49]
+- [1359] excerpt/blurb paragraph replaced: `– Moje wygląda dokładnie tak samo jak twoje.…` → `— Mój wygląda dokładnie jak twój.…` — verbatim FP [50]
+- [1360] excerpt/blurb paragraph replaced: `– No prawie.…` → `— Prawie.…` — verbatim FP [52]
+- [1361] excerpt/blurb paragraph replaced: `– To gdzie w tym Północny Biegun?…` → `— No to gdzie tu jest Biegun Północny?…` — verbatim FP [54]
+- [1362] excerpt/blurb paragraph replaced: `– W nadgarstkach – odparłam, a ona zmarszczyła brwi, patrząc…` → `— W nadgarstkach — odparłam, a ona zmarszczyła brwi, spojrza…` — verbatim FP [56]
+- [1363] excerpt/blurb paragraph replaced: `Dot zaśmiała się swoim krótkim, suchym śmiechem z drugiego k…` → `Dot zaśmiała się swoim krótkim, suchym śmiechem z drugiego k…` — verbatim FP [58]
+- [1364] excerpt/blurb paragraph replaced: `– Czai się na twój trik od dnia, w którym tu przyszłaś. Czai…` → `— Poluje na twój trik od dnia, w którym tu przyszłaś. Polowa…` — FP [59], "nineteen eighty-something" made exact (IT raw had "dziewięćdziesiąt")
+- [1365] excerpt/blurb paragraph replaced: `Dot była krępa, siwowłosa i mówiła bardzo wiele w bardzo nie…` → `Dot była krępa, siwowłosa i mówiła wiele w bardzo niewielu s…` — verbatim FP [61]
+- [1366] excerpt/blurb paragraph replaced: `Tego ranka byłyśmy tam wszystkie. Cały krąg, o ile akurat ni…` → `Tego ranka byłyśmy tam wszystkie. Cały krąg, jeśli nikt akur…` — FP [63], adjusted to excerpt EN ("widow these many years"; "volunteered three days a week")
+- [1367] excerpt/blurb paragraph replaced: `I Pip, która nie należała do kręgu, ale poczułaby się śmiert…` → `I Pip, która wprawdzie nie należała do kręgu, ale poczułaby …` — FP [65], adjusted to excerpt EN
+- [1368] excerpt/blurb paragraph replaced: `– Sposób na szyszki jest taki – powiedziałam, unosząc jedną …` → `— A teraz sztuczka z szyszkami — powiedziałam, unosząc jedną…` — verbatim FP [67]
+- [1369] excerpt/blurb paragraph replaced: `Pip podniosła się i ruszyła powolnym, niedbałym krokiem prze…` → `Pip podniosła się i rozpoczęła powolny, niezobowiązujący dry…` — verbatim FP [69]
+- [1370] excerpt/blurb paragraph replaced: `– Nie ma za grosz wstydu – stwierdziła Dot z czymś, co brzmi…` → `— Nie ma wstydu — stwierdziła Dot z czymś, co brzmiało jak u…` — verbatim FP [71]
+- [1371] excerpt/blurb paragraph replaced: `– Ma go mnóstwo – zaprzeczyłam. – Po prostu zostawia go na o…` → `— Ma mnóstwo wstydu — zaprzeczyłam. — Po prostu zachowuje go…` — verbatim FP [73]
+- [1372] excerpt/blurb paragraph replaced: `Posłałam Pip spojrzenie oznaczające: „Nadal cię obserwuję”, …` → `Posłałam Pip spojrzenie oznaczające, że nie spuszczam z niej…` — verbatim FP [75]
+- [1373] excerpt/blurb paragraph replaced: `Wtedy dotarło do mnie, gdy tak układałam gałązkę na gałązce,…` → `Wtedy dotarło do mnie, gdy tak układałam gałązkę na gałązce,…` — verbatim FP [77]
+- [1374] excerpt/blurb paragraph replaced: `Dzwonek nad drzwiami zadźwięczał, wpadł powiew zimnego powie…` → `Dzwonek nad drzwiami zadźwięczał, do środka wdarł się powiew…` — verbatim FP [79]
+- [1375] excerpt/blurb paragraph replaced: `– Niech nikt nie wstaje – ogłosiła, choć nikt nie dawał najm…` → `— Niech nikt nie wstaje — oznajmiła, choć nikt nie przejawia…` — FP [81] part 1 (IT splits the EN paragraph in three)
+- [1376] excerpt/blurb paragraph replaced: `Postawiła na stole między szyszkami a wstążką pudełko po cia…` → `Położyła na stole pudło cukiernicze wielkości pudełka na kap…` — FP [81] part 2, + "and warm" from excerpt EN
+- [1377] excerpt/blurb paragraph replaced: `– Niecałą godzinę temu wyciągnęłam z pieca blachę babeczek z…` → `— Blacha czekoladowo-orzechowych babeczek wyszła mi z pieca …` — FP [81] part 3
+- [1378] excerpt/blurb paragraph replaced: `– Greta, ty nas psujesz – powiedziała Ellie.…` → `— Greta, ty nas psujesz — powiedziała Ellie.…` — verbatim FP [83]
+- [1379] excerpt/blurb paragraph replaced: `– Ktoś musi. Same tego nie zrobicie.…` → `— Ktoś musi. Same tego dla siebie nie zrobicie.…` — verbatim FP [85]
+- [1380] excerpt/blurb paragraph replaced: `Zdążyła już zdjąć pokrywkę. Zapach uniósł się w powietrze, m…` → `Już zdejmowała wieko. Zapach uwolnił się na zewnątrz i zmies…` — FP [87], + "and pecan" from excerpt EN
+- [1381] excerpt/blurb paragraph replaced: `– Na dnie są też imbirowe ciasteczka, więc uważajcie, żeby n…` → `— A na samym dnie są imbirowe ciasteczka, więc nie bierzcie …` — verbatim FP [88]
+- [1382] excerpt/blurb paragraph replaced: `– To było raz – odparła Dot – i te babeczki były bardzo dobr…` → `— To było tylko raz — odparła Dot — a babeczki były bardzo d…` — verbatim FP [90]
+- [1383] excerpt/blurb paragraph replaced: `Greta wycelowała w nią oprószony mąką palec w geście triumfu…` → `Greta wycelowała w nią oprószony mąką palec triumfalnie i za…` — verbatim FP [92]
+- [1384] excerpt/blurb paragraph replaced: `Wcisnęła mi babeczkę, zanim zdążyłam poprosić, a drugą Clair…` → `Wcisnęła mi babeczkę, zanim zdążyłam o nią poprosić, i jedną…` — verbatim FP [94]
+- [1385] excerpt/blurb paragraph replaced: `– Dlaczego wszystkie robicie wianki? – zapytała, skinieniem …` → `— Po co wy właściwie robicie te wieńce? — zapytała, skinieni…` — verbatim FP [96]
+- [1386] excerpt/blurb paragraph replaced: `– Wianki na drzwi do sklepów – wyjaśniła Olivia. – Płacą, il…` → `— Wieńce na drzwi dla sklepów — wyjaśniła Olivia. — Płacą, i…` — verbatim FP [98]
+- [1387] excerpt/blurb paragraph replaced: `Wzięłyśmy się więc do roboty na poważnie: osiem kobiet, pude…` → `Zabrałyśmy się do roboty na poważnie — osiem kobiet, pudło b…` — verbatim FP [100]
+- [1388] excerpt/blurb paragraph replaced: `To Claire poruszyła temat sklepu, bo to leżało w jej naturze…` → `To Claire poruszyła temat sklepu, bo w jej naturze leżało za…` — verbatim FP [102]
+- [1389] excerpt/blurb paragraph replaced: `– Wie ktoś, co będzie w dawnym miejscu Fenwicka? – zapytała,…` → `— Wie ktoś, co będzie w dawnym lokalu Fenwicków? — zapytała,…` — verbatim FP [104]
+- [1390] excerpt/blurb paragraph replaced: `To odciągnęło uwagę kręgu od drutów. Dawny lokal Fenwicka st…` → `To odciągnęło uwagę kręgu od drutów. Dawny lokal Fenwicków s…` — verbatim FP [106]
+- [1391] excerpt/blurb paragraph replaced: `– Jak zakleił? – zapytała Dot.…` → `— Zaklejone w jaki sposób? — zapytała Dot.…` — verbatim FP [108]
+- [1392] excerpt/blurb paragraph replaced: `– Brązowym papierem, od środka. Tak się robi, kiedy urządzas…` → `— Brązowym papierem, od środka szkła. Tak się robi, kiedy ur…` — FP [110], + permit-board sentence from excerpt EN
+- [1393] excerpt/blurb paragraph replaced: `– No proszę – stwierdziła z satysfakcją Ivy. – Coś się otwie…` → `— No proszę — powiedziała Ivy z satysfakcją. — Coś się otwie…` — verbatim FP [112]
+- [1394] excerpt/blurb paragraph replaced: `Po sali przeszła ogólna fala zgody, bo ludzie w miasteczkach…` → `Rozległ się ogólny pomruk zgody, bo ludzie w miasteczkach ta…` — FP [114], + clause present in excerpt EN
+- [1395] excerpt/blurb paragraph replaced: `Obróciłam gałązkę jodły w oblepionych żywicą palcach i poczu…` → `Obróciłam gałązkę jodły w palcach lepkich od żywicy i poczuł…` — FP [116], adjusted to excerpt EN ("cool prickle at the back of my neck"; present tense)
+- [1396] excerpt/blurb paragraph replaced: `– Cóż, kimkolwiek są – powiedziała Greta pogodnie, zbierając…` → `— Cóż, cokolwiek to będzie — powiedziała Greta swobodnie, zb…` — verbatim FP [118]
+- [1397] excerpt/blurb paragraph replaced: `To Ellie, która podeszła do okna, żeby strząsnąć z rękawa ka…` → `To Ellie, która podeszła do okna, by strząsnąć z rękawa kawa…` — verbatim FP [120]
+- [1398] excerpt/blurb paragraph replaced: `– To z kolei dziwne – oświadczyła swoim łagodnym głosem, a w…` → `— No to jest dziwne — rzekła swoim łagodnym głosem, a coś w …` — verbatim FP [122]
+- [1399] excerpt/blurb paragraph replaced: `Zielony skwer rozciągał się naprzeciwko Yarn Tales, szeroki,…` → `Skwer rozciągał się naprzeciwko Yarn Tales, szerokie, białe …` — FP [124], adjusted to excerpt EN (bandstand/war memorial; "first good snow")
+- [1400] excerpt/blurb paragraph replaced: `Dziś rano środkowy był odwrócony tyłem.…` → `Dziś rano ten środkowy obrócił się całkowicie.…` — verbatim FP [126]
+- [1401] excerpt/blurb paragraph replaced: `Stał teraz plecami do drogi, z patykowatymi ramionami wyciąg…` → `Stał teraz tyłem do drogi, z patykowatymi rękami wyciągnięty…` — FP [128], adjusted to excerpt EN (bandstand rail)
+- [1402] excerpt/blurb paragraph replaced: `Wszystkie stłoczyłyśmy się przy oknie, zapominając o babeczk…` → `Wszystkie stłoczyłyśmy się przy oknie, zapominając o babeczk…` — verbatim FP [130]
+- [1403] excerpt/blurb paragraph replaced: `– Czyjś durny żart – orzekła Dot. – Obrócili w nocy. Dziecia…` → `— Czyjś durny żart — orzekła Dot. — Obrócili go w nocy. Dzie…` — verbatim FP [132]
+- [1404] excerpt/blurb paragraph replaced: `– Nie ma śladów – zauważyła Claire. – Jak mogli go obrócić b…` → `— Nie ma żadnych śladów — zauważyła Claire. — Jak mogli go o…` — verbatim FP [134]
+- [1405] excerpt/blurb paragraph replaced: `– Zatarły po sobie. Albo wiatr zasypał.…` → `— Zatarli ślady za sobą. Albo wiatr zasypał.…` — FP [136] part 1 (no "said Dot" in excerpt EN)
+- [1406] excerpt/blurb paragraph replaced: `– To żart. Zmarznięte dzieciaki, które nie miały co ze sobą …` → `— To żart. Dziecko z zesztywniałymi z zimna palcami, które n…` — FP [136] part 2, "by Sunday, mark me" from excerpt EN
+- [1407] excerpt/blurb paragraph replaced: `– Wcale nie trzeba było go obracać. Wystarczyło przenieść tw…` → `— Nawet nie trzeba było go obracać. Wystarczyło przenieść tw…` — verbatim FP [138]
+- [1408] excerpt/blurb paragraph replaced: `To był rozsądny punkt widzenia i krąg go przyjął; ktoś mrukn…` → `I to był rozsądny punkt widzenia, który krąg natychmiast prz…` — FP [140] + final sentence present in excerpt EN
+- [1409] excerpt/blurb paragraph replaced: `Bo znam tę różnicę. Żyję już wystarczająco długo z magią świ…` → `Bo ja znam tę różnicę. Żyję już wystarczająco długo obok mag…` — FP [142], adjusted to excerpt EN (present tense "I know"; "warm"; hearth = palenisko; festival lights; snowman turned)
+- [1410] excerpt/blurb paragraph replaced: `Przeniosłam wzrok z odwróconego bałwana w górę bloku ku okzo…` → `Przeniosłam wzrok z odwróconego bałwana w górę bloku, w stro…` — FP [144] + clause present in excerpt EN
+- [1411] excerpt/blurb paragraph replaced: `Ale nic z tego nie powiedziałam kręgowi. Wzięłam ciastko imb…` → `Ale nie powiedziałam o tym kręgowi ani słowa. Wzięłam imbiro…` — FP [146] + "Something was starting."; prickle = dreszcz as in [1395]
+
+## Needs a decision
+See `_EditLedgers\PROOFREAD_DECISIONS2.md`, section `## Inn Trouble - ASSEMBLED - FORMATTED_Polish (2026-10-27)`.
+
+## Refused by verification
+None.
+
+## Quoted by a prior report but not found
+No prior report existed.
+

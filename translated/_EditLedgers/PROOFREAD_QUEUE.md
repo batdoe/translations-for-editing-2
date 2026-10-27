@@ -1,13 +1,13 @@
 # PROOFREAD QUEUE — LIVE STATUS
 
-**Updated:** 2026-10-26 · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
+**Updated:** 2026-10-27 (cloud run, 1/7 done) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
 (Previous queue file saved as `PROOFREAD_QUEUE.md.bak-20261026`.)
 
 | | |
 |---|---|
 | Queue | 28 editions (21 done locally 2026-10-26/27; 7 for the cloud) |
-| Done | 21 |
-| Next | Inn Trouble - ASSEMBLED - FORMATTED_Polish |
+| Done | 22 |
+| Next | Inn Trouble - ASSEMBLED - FORMATTED_Romanian |
 
 ## Order
 1. Inn Trouble: French, Norwegian, German, Spanish, Dutch, Italian (re-proofread on top of the web pass), Filipino
@@ -38,3 +38,4 @@
 | Flour Play_Turkish | 833 + 556 dialogue | all | 8 (Ch10 heading missing — body complete; 2nd sell line missing; Hal sen vs ruling) | EN 0 · bt titles incl. Binder's Bequest · matter PASS · verify ok except intended | cold-room slip erased Ch22-23; 'zehir' (poison) in no-poison edition |
 | Flour Play_Greek | 1046 + 482 sweep + 370 dialogue | all | 12 (9 stray chapter headings; 2nd sell line missing; Greek-script names; comma placement) | EN 0 · bt titles incl. Binder's Bequest · matter PASS · verify ok except intended | clue chain backwards: 'bolted' as un-bolted; sour base = yeast/starter; Joyce male in Ch3 |
 | Flour Play_Brazilian Portuguese | 556 | all | 9 (⚑ catalogue PT-BR title 'Farinha Envenenada' = Poisoned Flour) | EN 0 · bt titles incl. Binder's Bequest · matter PASS · verify ok except intended | Ch19 entirely European Portuguese; cold room/walk-in swapped |
+| Inn Trouble_Polish | 596 + 270 dialogue + 64 excerpt/blurb (in the 596) | all | 7 (Snowball split in Bk1; clue = 4 words; excerpt EN is an older Ch1 draft; address edge cases; szefowa; formatter TOC/H1) | EN 0 · bt titles only · matter PASS · verify ok except intended | blackmail note + clue left in English; note called 'listy' (= 1924 letters) ×22 incl. Ch19/Ch26 |
