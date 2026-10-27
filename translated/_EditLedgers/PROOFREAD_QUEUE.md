@@ -1,13 +1,13 @@
 # PROOFREAD QUEUE — LIVE STATUS
 
-**Updated:** 2026-10-27 (cloud run, 1/7 done) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
+**Updated:** 2026-10-27 (cloud run, 2/7 done) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
 (Previous queue file saved as `PROOFREAD_QUEUE.md.bak-20261026`.)
 
 | | |
 |---|---|
 | Queue | 28 editions (21 done locally 2026-10-26/27; 7 for the cloud) |
-| Done | 22 |
-| Next | Inn Trouble - ASSEMBLED - FORMATTED_Romanian |
+| Done | 23 |
+| Next | Inn Trouble - ASSEMBLED - FORMATTED_Czech |
 
 ## Order
 1. Inn Trouble: French, Norwegian, German, Spanish, Dutch, Italian (re-proofread on top of the web pass), Filipino
@@ -39,3 +39,4 @@
 | Flour Play_Greek | 1046 + 482 sweep + 370 dialogue | all | 12 (9 stray chapter headings; 2nd sell line missing; Greek-script names; comma placement) | EN 0 · bt titles incl. Binder's Bequest · matter PASS · verify ok except intended | clue chain backwards: 'bolted' as un-bolted; sour base = yeast/starter; Joyce male in Ch3 |
 | Flour Play_Brazilian Portuguese | 556 | all | 9 (⚑ catalogue PT-BR title 'Farinha Envenenada' = Poisoned Flour) | EN 0 · bt titles incl. Binder's Bequest · matter PASS · verify ok except intended | Ch19 entirely European Portuguese; cold room/walk-in swapped |
 | Inn Trouble_Polish | 596 + 270 dialogue + 64 excerpt/blurb (in the 596) | all | 7 (Snowball split in Bk1; clue = 4 words; excerpt EN is an older Ch1 draft; address edge cases; szefowa; formatter TOC/H1) | EN 0 · bt titles only · matter PASS · verify ok except intended | blackmail note + clue left in English; note called 'listy' (= 1924 letters) ×22 incl. Ch19/Ch26 |
+| Inn Trouble_Romanian | 691 (+102 dialogue, 54 excerpt from FP Ch1) | all (0 refused) | 7 (title-page anchor; stray Capitolul 3 ×2/TOC → formatter; Societatea de Istorie vs Bk1; Theo/Sam address vs FP; clue = 4 words; FP follow-ups) | EN 0 · bt titles only · matter PASS · verify ok except intended (italic −4 at [1198] declared) | clue phrase left in English (stray <bt>) at all 8 places; cidru ×10; Dancer→'Vicleana' |
