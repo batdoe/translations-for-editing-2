@@ -1,13 +1,13 @@
 # PROOFREAD QUEUE — LIVE STATUS
 
-**Updated:** 2026-10-27 (cloud run, 4/7 done) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
+**Updated:** 2026-10-27 (cloud run, 5/7 done) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
 (Previous queue file saved as `PROOFREAD_QUEUE.md.bak-20261026`.)
 
 | | |
 |---|---|
 | Queue | 28 editions (21 done locally 2026-10-26/27; 7 for the cloud) |
-| Done | 25 |
-| Next | Inn Trouble - ASSEMBLED - FORMATTED_Turkish |
+| Done | 26 |
+| Next | Inn Trouble - ASSEMBLED - FORMATTED_Greek |
 
 ## Order
 1. Inn Trouble: French, Norwegian, German, Spanish, Dutch, Italian (re-proofread on top of the web pass), Filipino
@@ -42,3 +42,4 @@
 | Inn Trouble_Romanian | 691 (+102 dialogue, 54 excerpt from FP Ch1) | all (0 refused) | 7 (title-page anchor; stray Capitolul 3 ×2/TOC → formatter; Societatea de Istorie vs Bk1; Theo/Sam address vs FP; clue = 4 words; FP follow-ups) | EN 0 · bt titles only · matter PASS · verify ok except intended (italic −4 at [1198] declared) | clue phrase left in English (stray <bt>) at all 8 places; cidru ×10; Dancer→'Vicleana' |
 | Inn Trouble_Czech | 649 (+45 dialogue, excerpt rebuilt from FP Ch1) | all (0 refused) | 8 (title page; clue 'safír v jejím srdci' = 4 words; excerpt = older FP Ch1 draft; Theo ty vs FP vy; dash glyph; formatter items; FP follow-ups) | EN 0 · bt titles only · matter PASS · verify ok except intended | clue phrase in 4 forms (incl. English in stray <bt> Ch22); note = Theo's index-card word ×37; MT loop ×400 in Ch15 |
 | Inn Trouble_Swedish | 539 + 457 dialogue (incl. 55 excerpt + 5 What's Next from FP) | all (0 refused) | 8 (Kapitel 8 heading missing — body present; clue = 4 words; excerpt = older FP Ch1 draft; du for all; Historiska sällskapet vs Bk1; FP follow-ups; formatter) | EN 0 · bt titles only · matter PASS · verify ok except intended | note = 'brev' like the 1924 letters (~50×) + Theo's card wording mismatched the note |
+| Inn Trouble_Turkish | 578 + 366 dialogue | all (0 refused) | 8 (⚑ D3 Theo↔Jessica sen here vs siz in FP — needs Lisa; Ch19 heading missing — body present; 6 spelled-out headings = formatter; 2 spurious scene breaks emptied) | EN 0 · bt titles only · matter PASS · verify ok except intended | note = 'mektup' ×9 (= 1924 letters) + clue phrase in 5 wordings, dropped at Ch26 confrontation |

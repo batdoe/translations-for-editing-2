@@ -117,3 +117,37 @@ No Heading 1 anywhere; TOC [21]–[26] lists only `Kapitel 31` (= pre-flight dup
 
 ### IT-SV-8 For the record (applied rulings, no action needed)
 Dialogue: 457 paragraphs to straight quotes; `sade` → `sa` ×97 (ruling 1 / dossier). "Fifty miles" = `fem mils avstånd` kept (ruling 4). Cider `cider` ×11 → `äppelmust` (ruling 6). Stray `<bt>` ×3 removed, 2 series-list anchors added (ruling 5). Signs translated (ruling 3): banner `FROST FALLS GENOM ÅREN` (crowded last letter now N, not S), drawer label `KÖPEBREV` (MT `SKÖTESTÄLLEN`), Ch19 B-index kept alphabetical (`Bagerikvitton, Bidrag till musikpaviljongen … Bridgeturnering, Banderoller, överskott`), file tab `FASTIGHET`, card `SAKNAS` already Swedish. Snowball, the reindeer (Dancer, Prancer, Vixen, Comet) and elf = alv as Frost and Found SV. Units by the SAFE rule only (inch, quarter-inch, four acres; figurative inches as idioms). Currency öre → cent ×4. Deed = `köpebrev` unified (Ch23 `lagfartsbrev` ×7 and four other variants).
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Turkish (2026-10-27)
+
+Proofread 2026-10-27 (raw MT, first pass, full bilingual read; 578 itemised fixes + 366 dialogue conversions; excerpt rebuilt from corrected Flour Play TR). Report: `Inn Trouble - ASSEMBLED - FORMATTED_Turkish_PROOFREAD.md`; apply-log `…_APPLIED.md`. Only IT-TR-D3 needs a ruling; the rest are formatter notes or applied provisionally.
+
+### IT-TR-D1 — Chapter 19 heading missing; six headings spelled out — formatter / Lisa
+- Ch19 body is complete (EN [628]–[657] ↔ TR [986]–[1046]) but has no heading: TR [985] `Ve korktuğum kişinin masum olduğuna inanmak için artık tek bir dürüst nedenim bile kalmamıştı.` (last line of Ch18) is followed directly by [986] `O öğleden sonra arşivde Theo’ya yardım etmeye gittim; …`. No empty paragraph exists to hold it. Option: insert "Bölüm 19" before [986] at format time (an insertion, NOT a renumbering — 20–31 are correct).
+- Ch8, 11, 18, 23, 26, 29 headings are present but spelled out: `Sekizinci Bölüm` [551], `On Birinci Bölüm` [712], `On sekizinci Bölüm` [959], `Yirmi Üçüncü Bölüm` [1161], `Yirmi Altıncı Bölüm` [1277], `Yirmi Dokuzuncu Bölüm` [1369] (pre-flight counted them missing). The dossier wants `Bölüm N`; left for the formatter (ruling 7). Ch15's heading was in English (`Chapter 15` [848]) and was translated to `Bölüm 15`.
+- TOC [21]–[25] lists only `Bölüm 31`; no Heading 1 anywhere.
+
+### IT-TR-D2 — clue phrase "kalbindeki safir" (2 words) — applied
+- "the sapphire at its heart" = **kalbindeki safir** in Ch2 [193] [227], Theo's card [996] `(kalbindeki safir)`, Ch19 [998] [1000], Ch22 [1147], Ch23 [1185], Ch26 [1291] (where the MT had dropped it: `Ve broştan safir olarak bahsediyorlar`). "five words" → `iki kelime` at [1000] ×2, [1014], [1147], [1238].
+- In the note itself [191] Turkish grammar puts it in the accusative inside the list of what the writer knows: `Büyük büyükannenizin Blackburnlerden aldığı broşu, kalbindeki safiri ve … dükkânda sattığını biliyorum.` Options: (a) keep (a Turkish reader sees the same two words); (b) rephrase the note so the phrase stands in the nominative, e.g. `…aldığı broşu biliyorum —kalbindeki safir—, ve …`. Recommend (a).
+
+### IT-TR-D3 — ⚑ NEEDS LISA — Theo ↔ Jessica: sen in Book 2, siz in Flour Play TR
+- This MT is consistently **sen** between Theo and Jessica (Ch4 `— Jessica! Geldin.`, Ch19, Ch26 confrontation `Bunlar senin kelimelerin, Theo`, Ch31 `— O hâlde yola devam et`). The English has them as friends before the betrayal (Jessica: "a friend who's lived here thirty years"; Theo greets her "Jessica!"). Kept sen.
+- Corrected Flour Play TR unified Theo ↔ Jessica to **siz** both ways (FP-TR-D5). Options: (a) keep sen in Book 2 and siz in Book 3 (warm friendship → cooler after the betrayal; defensible but the switch falls between books); (b) siz in both books (≈40 verb forms here); (c) sen in both (Flour Play would change). Recommend (a). Not settled automatically: it's a relationship call across two books.
+
+### IT-TR-D4 — the two blackmail notes unified to siz — applied
+- Note 1 [191] was sen (`Ailenin … Öde … bırak … indir … tak`) while its own quotation in Ch22 [1153] (`Ailenizin bu hanı nasıl edindiğini biliyorum`) and note 2 [1065] were siz. Unified to siz so the Ch22 quotation matches the note word for word.
+
+### IT-TR-D5 — scene breaks / separators — informational + formatter
+- Pre-flight "5 vs 3": `***` [660] (end of Ch9, directly before `Bölüm 10`) and `* * *` [1024] (mid-Ch19 — the English runs straight on from "I sat with that…" to "And then the light changed.") were spurious → emptied (paragraph count kept). Left: the three back-matter `* * *` separators [1497] [1507] [1562] (same as Flour Play TR; formatter).
+
+### IT-TR-D6 — units — applied (SAFE rule)
+- four acres → `on altı dönüm` [1410] (≈1,6 ha; dönüm is the idiomatic Turkish land unit — say if you prefer `bir buçuk hektardan fazla`); four inches → on santim [44]; an inch → bir parmak [128] [1459]; a quarter-inch → yarım santim [409]; six feet → iki metre [746]. "Fifty miles" `elli millik` [207] kept (ruling 4).
+
+### IT-TR-D7 — excerpt rebuilt from corrected Flour Play TR Ch1 — informational
+- [1512]–[1560]: 31 paragraphs copied verbatim from Flour Play TR [40]–[134] where the English matches (8 differ only by 'own'/'around'/'folks'); 18 adapted where Inn Trouble's excerpt is the older draft (bandstand/war memorial, 'widow these many years', 'volunteered … three days a week', 'Over the weekend', permit-board line, the empty-storefront sentence, present-tense 'Because I know the difference', the extra sentences). The file's split of EN [977] into [1554]/[1555] kept. What's Next blurb [1501]–[1505] copied verbatim from Flour Play TR [29]–[37].
+
+### IT-TR-D8 — address table used (ruling 2) — applied
+- sen: Jessica ↔ circle, Nick, Bram (both ways — MT had Bram → Jessica siz in places), Fiona, Claire, Mark, Emma, Theo (D3); Noriko ↔ Jessica from Ch25 (first names in the English).
+- siz: Jessica ↔ Sam, Neil, Jamal (MT sen both ways), Vera (MT Jessica → Vera sen), the Mayor, the Worthingtons, Noriko Ch6–21. Option: the Ch27 farewell to Vera [1327] (she hugs Jessica) could switch to sen as the "clear moment" — kept siz for one register throughout.
+- Series terms unified to Flour Play TR / Book 1 TR: Tarih Cemiyeti (MT Dernek/Kurum/Topluluk), çember, meydan, Snowball (MT Kartopu ×7), elf (MT cin), ren geyiği, han for the inn (Book 1 `Winter Wonderland Hanı`; the name itself kept as `Winter Wonderland Inn` as this MT has it), ilçe, kaban, büyü, elma suyu for cider (non-alcoholic).
