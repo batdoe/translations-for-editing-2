@@ -54,3 +54,37 @@ The excerpt here is Flour Play Ch1 ¶42–160 (verbatim where the English matche
 
 ### IT-RO-7 For the record (applied rulings, no action needed)
 "Fifty miles" = `optzeci de kilometri` kept (ruling 4). Cider `cidru` ×10 → suc de mere (cald) (ruling 6). Stray `<bt>` ×13 removed (ruling 5). Signs translated (ruling 3): banner FROST FALLS DE-A LUNGUL TIMPULUI (squeezed letter now "I"), drawer labels, Ch19 B-index with Romanian B-words („Bonuri de la brutărie, Bani strânși pentru chioșcul fanfarei… Bridge (turneu), Bannere (surplus)”), MISSING card, deed tab. Snowball and the reindeer (Dancer, Prancer, Vixen, Comet) as Book 1. Units by the SAFE rule (inch ×3, quarter-inch, six feet, four acres).
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Czech (2026-10-27)
+(Report `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Czech_PROOFREAD.md`, apply-log `…_APPLIED.md`. Everything below is applied provisionally or informational unless marked NOT APPLIED; none blocks the file.)
+
+### IT-CS-1 Title page (applied, as Flour Play FP-CS-1)
+The raw title page read `[0] Kapitola 1` / `[2] Problémy v hostinci` / `[4] Frost Falls` / `[6] Kniha 2` (one line more than Book 1's shape). Applied: [0] → `<bt>Inn Trouble</bt>` (stamp inserts the catalogue Czech title, as Book 1 [0] and Flour Play [0]); [2] the MT's invented title „Problémy v hostinci“ emptied (paragraph kept). Options: (a) keep (recommended); (b) if „Problémy v hostinci“ is the Czech title you want, put it in the catalogue so stamp prints it. The leftover empty line [2] is the formatter's. Book 1's own title-page line „Mrazopád“ (FP-CS-1) is still open — this book uses "Frost Falls" ([4]) like Flour Play.
+
+### IT-CS-2 The clue phrase and its word count (applied — please confirm the wording)
+One wording, „safír v jejím srdci“, at all 9 occurrences: the note [132] („Vím o broži, kterou vaše prababička vzala Blackburnovým – safír v jejím srdci – a o krámku v Ridgeline…“), [134], [168] („‚Safír v jejím srdci‘, přesně těmihle slovy“), Theo's card [956] („krádeže rodinné brože (safír v jejím srdci) služebnictvem“), [958], [960], [1085], [1136], [1243]. The MT had four different forms incl. „safíru v jejím středu“ on the card and English inside `<bt>` in Ch22. The "five words" claims now say four: [960] „stejná čtyři slova … týmiž čtyřmi podivnými slovy“, [974] „O těch čtyřech slovech“, [1085] „čtyři slova“, [1190] „se čtyřmi shodnými slovy“. Options: (a) keep (recommended — natural Czech, identical everywhere, count true); (b) a 5-word form such as „ten safír v jejím srdci“ to keep "five" (≈13 edits, reads less naturally). Lisa's call: it is the wording the plot rests on. The blurb [31] keeps the descriptive „kámen v srdci brože“ (EN "the stone at the brooch's heart", not a quotation).
+
+### IT-CS-3 Excerpt English is an older draft of Flour Play Ch1 (same as IT-PL-3 / IT-RO-6)
+Excerpt [1471]–[1565] rebuilt from corrected Flour Play Czech Ch1 ¶40–134 (48 paragraphs, 1:1): 30 copied verbatim, 15 adapted where this excerpt's English differs from final Flour Play Ch1 (bandstand at one end / war memorial at the other; "widow these many years"; "volunteered … three days a week"; "Over the weekend"; "by Sunday, mark me" with no "said Dot"; the extra sentences "And I didn't say what I was thinking", "…had always had a nose for what mattered before I did", "Something was starting"; present tense "I know the difference"), 3 already identical. Options: (a) keep the Czech faithful to this excerpt's English (as applied); (b) update the English excerpt in `translate_now\Inn Trouble…` to final Flour Play Ch1 for all languages, then copy Flour Play Ch1 verbatim. Recommended: (b) at the next English revision. Not settleable here: a source-text question.
+
+### IT-CS-4 Address edge cases (ruling 2 applied; Lisa may overrule)
+- **Theo ↔ Jessica: ty both ways** (this book is consistent, e.g. „To jsou tvoje slova, Theo“ [1243], „Tak jdi dál … Nikdo po tobě víc nechce“ [1429]); corrected Flour Play Czech made Theo ↔ Jessica formal (Jessica's ty fixed ×6 there). Same split as Romanian (IT-RO-4). Options: keep (plausible as post-scandal distance in Book 3), or make Book 2 formal (~25 verb forms).
+- **Bram ↔ Jessica: ty both ways** (Book 1 Czech), keeping Bram's vocative „paní Clausová“ for EN "Mrs. Claus", e.g. „a pověz mi, paní Clausová, jak zvíře pohne závorou…“ [582]. Alternative „Jessiko“ would depart from the English.
+- **Sam Patel formal both ways** (Ch17 had switched to ty: „Same, něco ti dlužím“ → „vám“). Option: informal from Ch17 when she confides in him.
+- **Noriko ↔ Jessica**: formal Ch6 and Ch21 („Víte, kde je stanice“), informal from Ch25 when the English moves to "Noriko"/"Jessica" („Chápeš, že to musím řešit tak, jak to je“) — matches Flour Play Czech.
+- **Greta formal** in Ch14 („Vůbec si té koule nevšímejte“) — Flour Play has them on ty; fine as the friendship grows between books.
+- **Vera formal both ways**, with first name („Udělala jste špatnou věc … Vero“ [1292]); Vera → Fiona stays ty („Nikdy jsem o tobě nepřemýšlela“ [1257]) as the raw has it.
+
+### IT-CS-5 Narration dash glyph (FP-CS-7 still open — informational)
+This edition, like Book 1 and Flour Play Czech, uses the spaced en dash „–“ for asides (e.g. „vysoký dům se štíty, natřený …“ [44] „– jako vždycky –“ [253]). Interruptions in dialogue were set to the dossier's em dash („co se—“ [54], „jenom—“ [66]); the Ch13–14 em-dash dialogue was converted to „…“, so no em-dash turns remain. Not changed globally: one ruling for all Czech editions.
+
+### IT-CS-6 Formatter items (note only, ruling 7)
+No Heading 1; TOC collapsed to a single `Kapitola 31` [24] (= pre-flight "CHAPTERS dup=[31]"; the dup=[1] was the title page, now an anchor). Body headings Kapitola 1–31 present and in order; no body text missing. Ch1 [54]: Jessica's interrupted line and the next narration paragraph are fused (EN [79]/[80]) — not split (paragraph count); this is the whole −1 of Ch1. `***` at [1449] [1465] [1567] where the EN has blank paragraphs; the empty [2] on the title page. The English final line exists and is translated („<bt>Flour Play</bt> vyjde již brzy!“) — nothing dropped.
+
+### IT-CS-7 Flour Play Czech follow-ups found while copying (NOT APPLIED there — Flour Play is a separate file)
+- Flour Play blurb [31] says „říká Jessice Claus“ while both books' bodies use „Clausová“ (copied verbatim here into What's Next [1457]); suggest „Jessice Clausové“ in both.
+- Flour Play Ch1 [74] has „Greta vlastnila Holly Jolly Bakery“; this book now writes „pekárna Holly Jolly“ (Ch14) — harmless, but one form series-wide would be tidier.
+- Book 1 Czech (raw) declines Theo as „Theov-“ (followed here); Book 1 needs no change for this book's clue.
+
+### IT-CS-8 For the record (applied rulings, no action needed)
+"Fifty miles" kept („na padesát mil daleko“, ruling 4). Cider = „mošt“ (non-alcoholic in Czech) — no change (ruling 6). Stray `<bt>` ×8 removed (ruling 5). Signs translated (ruling 3): banner was already Czech („FROST FALLS NAPŘÍČ STALETÍMI“, squeezed last letter = I); drawer labels LISTINY / POVOLENÍ / DAŇOVÉ SOUPISY / MAJETKOVÉ ZÁZNAMY [636]; deed tab NEMOVITOST [1120]; Ch19 B-index kept alphabetical with Czech B-words („Bločky z pekárny, Besídka, předplatné … Bridžový turnaj, Barevné praporky, přebytek“); CHYBÍ card already Czech. Snowball and the reindeer (Dancer, Prancer, Vixen, Comet) as Book 1. Units by the SAFE rule only (4 in snow, 1 in, ¼ in, 6 ft, 4 acres). Currency: haléř ×3, koruna ×1 → cent(s).
