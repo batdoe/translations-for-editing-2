@@ -1,0 +1,75 @@
+# PROOFCHECK FLAGS — Inn Trouble - ASSEMBLED - FORMATTED_Swedish
+
+Corrected: `translated/corrected/Inn Trouble - ASSEMBLED - FORMATTED_Swedish.docx` · raw for diff: `translated/Inn Trouble - ASSEMBLED - FORMATTED_Swedish.docx` · English: `translate_now/Inn Trouble - ASSEMBLED - FORMATTED.docx`
+Chapters detected: EN 31 · this edition 30 (sequence [1, 2, 3]…[29, 30, 31])
+
+⚑ Every line is a HINT. Confirm against the English before acting. Expect false positives (body-part 'foot', 'free' = livre, names, loanwords).
+
+## A — English left in the text (0)
+- none
+
+## B — Other alphabets / letters foreign to the language (0)
+- none
+
+## C — MT debris (notes, brackets, markup) (0)
+- none
+
+## D — MT loops (0)
+- none
+
+## E — Chapter length vs English (3)
+- heading: [555] heading “Kapitel 9” follows Ch7 — Ch8..8 heading(s) missing
+- Ch7: length 247% of this edition's normal EN ratio (LONGER — duplication/omission/heading drift?)
+- Ch8: NO text found under this chapter number (heading missing → folded into Ch7? or chapter omitted)
+
+## F — Numbers not in the English chapter (1)
+- Ch18: numbers not in the English chapter: 24
+
+## G — Names missing from a chapter (0)
+- none
+
+## H — Watch-words (units, currency, cider, poison) (2)
+- [368] Ch6 units “uns”: …n. "Förlåt så mycket, Emma. Hon har inte ett uns hyfs. Inget alls. Vi har försökt."
+- [1145] Ch19 units “uns”: …a kroppen avslöja mig, och jag behövde varje uns av den träningen just då, där jag satt vid T…
+
+## I — Dialogue system (0)
+paragraph openers: '"'×426
+- none
+
+## J — First pass's own deletions / big cuts (0)
+- none
+
+## K — Clue chain, English side (trace each in the translation)
+
+- clue phrase 'sapphire at its heart': 9 — Ch2×3, Ch19×3, Ch22×1, Ch23×1, Ch26×1
+- 'five words' claim: 3 — Ch19×2, Ch22×1
+- blackmail note(s): 85 — front×1, Ch2×14, Ch3×3, Ch4×3, Ch5×1, Ch6×1, Ch7×1, Ch8×5, Ch9×1, Ch10×4, Ch13×1, Ch16×5, Ch17×4, Ch18×3, Ch19×7, Ch20×9, Ch21×3, Ch22×10, Ch23×2, Ch24×1, Ch25×2, Ch26×2, Ch27×2
+- letters (1924 Blackburn): 68 — Ch1×1, Ch2×4, Ch3×2, Ch4×10, Ch5×4, Ch6×1, Ch11×1, Ch12×4, Ch13×2, Ch15×2, Ch16×8, Ch18×2, Ch19×4, Ch20×5, Ch22×5, Ch23×3, Ch24×1, Ch26×6, Ch30×2, Ch31×1
+- catalogue card / index card: 25 — Ch4×1, Ch9×4, Ch11×1, Ch15×2, Ch19×9, Ch22×3, Ch23×1, Ch24×1, Ch25×1, Ch26×2
+- deed: 18 — Ch11×1, Ch16×1, Ch22×3, Ch23×7, Ch24×1, Ch25×1, Ch26×4
+- twenty dollars (Sam is OWED): 14 — front×1, Ch1×3, Ch8×6, Ch13×1, Ch17×3
+- Snowball: 12 — back×2, Ch6×3, Ch21×1, Ch30×1, Ch31×5
+- cider: 11 — Ch4×6, Ch21×5
+- the green: 38 — back×3, Ch1×3, Ch2×1, Ch3×2, Ch5×2, Ch6×3, Ch9×1, Ch11×1, Ch14×1, Ch20×1, Ch21×6, Ch23×4, Ch26×1, Ch30×8, Ch31×1
+- porch: 23 — Ch1×7, Ch2×1, Ch8×1, Ch17×5, Ch20×1, Ch21×6, Ch28×2
+- Very nearly (excerpt): 1 — back×1
+
+## L — Standard checks
+
+- **looks_english:** []
+- **bt_anchors check:** 8 <bt> span(s), 0 unpaired-marker paragraph(s)
+    'Inn Trouble'
+    'Frost and Found'
+    'Flour Play'
+- **check_matter:** ['1 PASS   0 FAIL   0 unreadable']
+- **preflight --verify:** paragraphs                1698 -> 1698    ok
+    italic runs                 22 -> 24      UNDECLARED +2 (expected +0)
+    scene breaks                 3 -> 3       ok
+    bt anchors                   9 -> 8       UNDECLARED -1 (expected +0)
+    bt titles              MISMATCH  lost=['The Holly Jolly Bakery', 'Frost Falls', 'the sapphire at its heart']
+    paragraphs changed     733
+    => FAIL
+
+## M — First-pass change density per chapter (lowest first = least re-read)
+
+Ch12 23%, Ch16 26%, Ch26 27%, Ch9 27%, Ch29 28%, Ch19 28%, Ch13 29%, Ch24 30%, Ch27 30%, Ch14 30%, Ch4 32%, Ch7 33%, Ch23 33%, Ch17 36%, Ch20 40%, Ch15 40%, Ch18 42%, Ch22 50%, Ch30 50%, Ch11 57%, Ch28 59%, Ch25 61%, Ch10 63%, Ch5 64%, Ch1 66%, Ch2 72%, Ch6 72%, Ch21 74%, Ch31 75%, Ch3 86%

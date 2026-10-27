@@ -1,0 +1,75 @@
+# PROOFCHECK FLAGS — Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese
+
+Corrected: `translated/corrected/Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese.docx` · raw for diff: `_superseded/Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese.docx` · English: `translate_now/Flour Play - ASSEMBLED - FORMATTED.docx`
+Chapters detected: EN 27 · this edition 27 (sequence [1, 2, 3]…[25, 26, 27])
+
+⚑ Every line is a HINT. Confirm against the English before acting. Expect false positives (body-part 'foot', 'free' = livre, names, loanwords).
+
+## A — English left in the text (0)
+- none
+
+## B — Other alphabets / letters foreign to the language (2)
+- [1684] Ch24 letter(s) û foreign to Brazilian Portuguese: Bûches
+- [1684] Ch24 letter(s) ë foreign to Brazilian Portuguese: Noël
+
+## C — MT debris (notes, brackets, markup) (0)
+- none
+
+## D — MT loops (0)
+- none
+
+## E — Chapter length vs English (0)
+- none
+
+## F — Numbers not in the English chapter (1)
+- Ch21: numbers not in the English chapter: 27
+
+## G — Names missing from a chapter (0)
+- none
+
+## H — Watch-words (units, currency, cider, poison) (4)
+- [14] front currency “reais”: …fictícios. Nenhuma identificação com pessoas reais (vivas ou falecidas), lugares, edifícios e p…
+- [90] Ch1 currency “centavo”: … Olivia. — Elas pagam o que quiserem, e cada centavo vai para o fundo do telhado da Sociedade His…
+- [372] Ch5 currency “centavo”: …asamento da minha filha e não quis cobrar um centavo.
+- [491] Ch6 currency “centavo”: …sty's ouvi duas mulheres que economizam cada centavo dizerem que seria uma pena deixar o prédio d…
+
+## I — Dialogue system (0)
+paragraph openers: '—'×587
+- none
+
+## J — First pass's own deletions / big cuts (1)
+- [1314] Ch19 EMPTIED by first pass (was: * * *)
+
+## K — Clue chain, English side (trace each in the translation)
+
+- sour base: 20 — Ch11×3, Ch13×1, Ch17×4, Ch18×1, Ch19×1, Ch21×4, Ch22×2, Ch23×2, Ch24×2
+- walk-in (cooler): 7 — Ch9×1, Ch17×1, Ch20×3, Ch22×1, Ch23×1
+- cold room (Joyce's slip): 10 — Ch9×2, Ch18×1, Ch20×3, Ch22×1, Ch23×2, Ch24×1
+- ten times: 2 — Ch11×2
+- rye: 11 — Ch11×4, Ch15×1, Ch21×4, Ch23×2
+- gate key: 19 — back×6, Ch6×1, Ch9×1, Ch10×1, Ch12×1, Ch17×2, Ch20×2, Ch23×5
+- order book: 7 — Ch4×1, Ch20×3, Ch22×1, Ch25×1, Ch27×1
+- 'nothing I can name' (Greta): 1 — Ch11×1
+- two degrees below: 3 — Ch9×1, Ch16×2
+- flour: 92 — front×3, Ch1×1, Ch2×10, Ch3×2, Ch4×5, Ch5×1, Ch7×1, Ch8×1, Ch9×2, Ch10×7, Ch11×16, Ch12×9, Ch14×3, Ch15×3, Ch17×8, Ch18×1, Ch20×2, Ch21×5, Ch22×1, Ch23×1, Ch24×4, Ch25×5, Ch27×1
+- pounds: 3 — Ch11×1, Ch17×1, Ch23×1
+- DIRTY graffiti: 10 — Ch4×4, Ch6×1, Ch9×3, Ch14×1, Ch22×1
+- Grange: 16 — Ch1×1, Ch15×5, Ch17×1, Ch18×1, Ch19×2, Ch22×1, Ch23×2, Ch25×1, Ch26×2
+- Pip: 150 — Ch1×9, Ch2×6, Ch3×6, Ch4×9, Ch5×6, Ch6×1, Ch7×3, Ch8×7, Ch9×7, Ch10×5, Ch11×3, Ch12×6, Ch13×4, Ch14×9, Ch15×4, Ch16×3, Ch17×9, Ch18×3, Ch19×5, Ch20×6, Ch21×8, Ch22×4, Ch23×6, Ch24×7, Ch25×3, Ch26×5, Ch27×6
+- Joyce: 77 — Ch4×7, Ch5×5, Ch12×5, Ch15×3, Ch17×5, Ch20×9, Ch21×5, Ch22×6, Ch23×25, Ch24×2, Ch25×3, Ch27×2
+- Start reading The Binder's Bequest: 1 — back×1
+
+## L — Standard checks
+
+- **looks_english:** []
+- **bt_anchors check:** 10 <bt> span(s), 0 unpaired-marker paragraph(s)
+    'Flour Play'
+    'Frost and Found'
+    'Inn Trouble'
+    "The Binder's Bequest"
+- **check_matter:** ['1 PASS   0 FAIL   0 unreadable']
+- **preflight --verify:** 
+
+## M — First-pass change density per chapter (lowest first = least re-read)
+
+Ch14 10%, Ch8 11%, Ch7 12%, Ch12 13%, Ch23 13%, Ch1 14%, Ch24 14%, Ch22 16%, Ch17 16%, Ch3 17%, Ch6 18%, Ch21 22%, Ch25 23%, Ch9 23%, Ch2 24%, Ch26 24%, Ch5 25%, Ch10 25%, Ch4 27%, Ch20 28%, Ch11 29%, Ch13 34%, Ch18 34%, Ch15 37%, Ch16 41%, Ch27 43%, Ch19 89%

@@ -45,3 +45,8 @@ differ. Lisa's Frost Falls rulings are in `translated/_EditLedgers/FF_DECISIONS_
 - `_superseded/` — old raw files from earlier uploads. Do not use them.
 - `translated/Frost and Found …` — Book 1 raw translations, for reference only (FR/DE/IT/ES Book 1 corrected
   copies are in `translated/corrected/`).
+
+## Second-pass audit
+`/proofcheck` (`.claude/commands/proofcheck.md`) audits finished Inn Trouble / Flour Play proofreads for misses and
+regressions. Its free first step is `python translated/_tools/proofcheck.py --all` (flag files land in `_EditLedgers/`).
+Questions from it go in `translated/_EditLedgers/PROOFCHECK_DECISIONS.md`.
