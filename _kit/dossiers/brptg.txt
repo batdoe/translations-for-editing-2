@@ -1,0 +1,153 @@
+DOSSIER — BRAZILIAN PORTUGUESE (Português brasileiro)
+Reusable, genre-general dossier for the multi-book kit: cozy mystery, dark mafia romance, sports romance.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- PORTUGUÊS (BR): pretérito perfeito simples + imperfeito na narração. Não narrar no pretérito
+  perfeito composto ('tenho ido').
+
+REGISTER & VOICE
+- Contemporary standard BRAZILIAN Portuguese (português brasileiro padrão culto, but living and natural) —
+  literate yet warm, never the stiff peninsular register. This is NOT European Portuguese: vocabulary,
+  syntax and pronoun placement all default to BR usage.
+- 2nd person: "você" is the default for direct address (not "tu"; never the European "tu" + 2nd-person
+  conjugation). "Você" takes 3rd-person verb forms: você vai, você sabe, você quer. Possessive "seu/sua"
+  and object "te/lhe" attach to você naturally in BR speech (te amo, vou te ligar, você esqueceu o seu casaco).
+  Plural address: "vocês". Formal/deferential: "o senhor / a senhora".
+- PRONOUN PLACEMENT (proclisis is the BR default): the clitic goes BEFORE the verb in ordinary speech and
+  prose — "te amo" (NOT "amo-te"), "me dá isso" (NOT "dá-me isso"), "se chama" (NOT "chama-se"),
+  "me liga depois" (NOT "liga-me depois"). Enclisis/mesoclisis (amá-lo-ia) reads as European or archaic;
+  avoid it unless deliberately stiff/old-fashioned. Even sentence-initially, BR prose accepts "Me passa o sal"
+  in dialogue. In more formal narration you may use enclisis after a verb that opens a clause, but proclisis
+  is the safe, natural BR choice almost everywhere.
+- VOCABULARY (use Brazilian words, not European): celular (NOT telemóvel), ônibus (NOT autocarro),
+  trem (NOT comboio), geladeira (NOT frigorífico), banheiro (NOT casa de banho), açougue (NOT talho),
+  sorvete (NOT gelado), suco (NOT sumo), café da manhã (NOT pequeno-almoço), terno (NOT fato),
+  meias (NOT peúgas), grama [the lawn] (NOT relva), aterrissar (NOT aterrar). Filler/flavor: legal/maneiro
+  (cool, nice), cara (man/dude), gente (you guys / wow), nossa / nossa senhora (geez), pô / poxa (aw, come on),
+  tá / tá bom (okay), valeu (thanks/cheers), beleza (all good), grana (cash), bagunça (mess), saco (a drag;
+  "que saco" = what a pain), né (right? / huh).
+- GERUND is the BR present-progressive (NOT the European "estar a + infinitive"): estou indo (NOT estou a ir),
+  está chovendo (NOT está a chover), ela está dormindo, eles estão chegando. Use the gerund freely; it is one
+  of the clearest BR markers.
+- Restructure sentences for natural Brazilian rhythm, not word-for-word. BR prose tolerates warm, flowing,
+  slightly longer sentences in narration and clipped, contraction-heavy lines in dialogue.
+
+TONE RANGE (flex per book; the per-book note names the tone — match it)
+- COZY (mystery / small-town warmth): aconchegante is the keyword — "o aconchego de casa" (warmth of home).
+  Diminutives create coziness and affection: casinha, xícara de chá, gatinho, biscoitinho, um cafezinho.
+  Wry, gentle humor; the inconvenient is met with "fazer das tripas coração" or a sighing "ai, meu Deus".
+  Touchstone: "As aparências enganam." Keep it warm and communal, never bleak.
+- DARK / MAFIA (violence + threat + explicit sex): cold, controlled menace and full-blooded profanity.
+  BR Portuguese has a rich, unflinching register of threat and obscenity — use it at full strength (see
+  PROFANITY ladder). Short, hard sentences for violence; possessive, predatory intimacy. Touchstone for the
+  cold threat: "Você não faz ideia de com quem está mexendo." / "Vou acabar com a sua raça."
+- SPORTS ROMANCE (banter, locker-room teasing, slow burn): fast, playful, teasing dialogue full of BR
+  interjections (cara, mano, relaxa, para com isso, sério?), light profanity for ribbing (caralho de leve,
+  "que isso, porra", "vai se foder" said with a grin). Touchstone for the banter beat: "Pode rir, mas eu
+  jogo melhor que você." Warm rivalry, never cruel.
+
+DIALOGUE PUNCTUATION (critical — Brazilian prose uses the TRAVESSÃO, follow exactly)
+- BR fiction opens each spoken turn with a TRAVESSÃO (em dash —, NOT a hyphen, NOT quotation marks). A space
+  follows the dash, then the line.
+    EN: She said, "Good morning."                  ->  — Bom dia — disse ela.
+    EN: "Where are you going?" she asked.           ->  — Aonde você vai? — perguntou ela.
+- MID-LINE attribution (incise): the dash CLOSES before the verb of speaking and a second dash REOPENS the
+  speech. Note the BR convention: the attribution verb is lowercase, and if the speech continues, punctuation
+  rules resume after the second dash.
+    EN: "I don't know," he said. "It's strange."    ->  — Não sei — disse ele. — É estranho.
+    EN: "Wait," she said, "I need to think."         ->  — Espera — disse ela —, preciso pensar.
+      (the comma after the closing dash carries the pause of the original comma-spliced line)
+- INTERRUPTION / cut-off speech: trail the line with a travessão (no space before it).
+    EN: "Wait, I need to—" she began.                ->  — Espera, eu preciso— começou ela.
+    EN: "But you said—" "I lied."                     ->  — Mas você disse— / — Eu menti.
+- REPORTED / quoted speech inside narration (not a dialogue turn): BR uses ASPAS. Default to the curved
+  double quotes "…" ; the angular «…» (aspas francesas) are also valid and common in literary BR typesetting —
+  pick one system per book and keep it consistent.
+    EN: he described it as "completely normal."      ->  ele descreveu como "completamente normal".
+    EN: She kept thinking, this is wrong.             ->  Ela ficava pensando: "isso está errado".
+- A FIFTH worked example, full mid-line + continuation in the dark register:
+    EN: "You think this is over?" he said, stepping closer. "It's just starting."
+                                                     ->  — Você acha que acabou? — disse ele, dando um passo
+                                                         à frente. — Está só começando.
+- Question/exclamation marks sit tight against the last word (Aonde? not Aonde ?). Never begin a
+  narration-only paragraph with a dialogue travessão. Keep paragraph breaks 1:1 with the source.
+
+PROFANITY & INTIMACY (render English fully — do NOT soften; match exact heat)
+- BR profanity ladder, mild -> crude (escalate to match the source):
+    droga / saco             (darn / damn it; mild, even cozy-safe)
+    merda                    (shit; all-purpose)
+    porra                    (fuck / damn / "fucking" intensifier; extremely common: "que porra é essa",
+                              "porra nenhuma", "caralho de porra")
+    caralho                  (fuck / dick; "vai pro caralho", "pra caralho" = as hell, "que caralho")
+    foder / vai se foder     (to fuck / fuck you; "tô fodido" = I'm screwed, "fodido e mal pago")
+    filho da puta / FDP      (son of a bitch; the core mafia-grade insult)
+    puta que pariu           (holy fuck / goddammit; exclamatory)
+    cuzão / babaca / otário  (asshole / jerk / sucker; insult ladder)
+    desgraçado / arrombado   (bastard / motherfucker; hard menace register)
+  Threats (mafia): "Eu te mato." / "Vou te matar, porra." / "Você é um homem morto." /
+  "Eu arranco a sua cabeça." / "Vou acabar com você e com toda a sua família." / "Cala a boca, caralho."
+- Explicit sex: translate fully and bluntly in BR register, never fade-to-black or euphemize away.
+  Body/act vocabulary by heat: beijo / pele / corpo (tender) -> peito, coxa, quadril, gemido, arfar (sensual)
+  -> bunda, seios/peitos, boca, língua, chupar, lamber (explicit) -> pau / pica (cock), buceta / xoxota
+  (pussy), foder / meter / gozar (to fuck / to thrust / to come), pau duro (hard), molhada (wet),
+  "goza pra mim", "mais fundo", "não para". Match the source's exact crudeness — clinical only if the
+  source is clinical, filthy if the source is filthy.
+
+IDIOMS (find the natural Brazilian equivalent — never literal)
+- spill the beans            -> abrir o jogo / soltar a língua / dar com a língua nos dentes
+- on edge / nervous          -> estar de cabelo em pé / estar com a pulga atrás da orelha / em cima do muro [if "undecided"]
+- the plot thickens          -> a trama se complica / o caldo entornou / o bicho vai pegar
+- gut feeling                -> pressentimento / "um pressentimento na barriga" / dar um nó no estômago
+- things aren't what they seem-> as aparências enganam / nem tudo é o que parece
+- bite the bullet            -> encarar a parada / engolir o sapo / meter a cara
+- it costs an arm and a leg  -> custa os olhos da cara
+- once in a blue moon        -> de vez em nunca / uma vez na vida, outra na morte
+- speak of the devil         -> falando no diabo (e ele aparece) / falar no Diabo
+- piece of cake / easy       -> mamão com açúcar / moleza / sopa no mel
+- to drop everything / rush   -> largar tudo / sair voando
+- get cold feet              -> amarelar / dar pra trás
+
+GENRE VOCABULARY (English-kept vs. translated, by BR usage)
+- CRIME / MAFIA: máfia, chefão / capo (capo kept), o Don / o Chefe, soldado, capanga / segurança (henchman),
+  acerto de contas (settling scores), encomenda (a hit/contract), queima de arquivo (cleanup killing),
+  lavagem de dinheiro (money laundering), suborno (bribe), propina (kickback/graft), arma / ferro [slang for
+  gun], delegado (police chief), DP / delegacia (precinct), perícia (forensics), corpo (the body),
+  cena do crime (crime scene), álibi (kept), refém (hostage), ajuste de contas. Keep "FBI", "DNA", "Glock".
+- ROMANCE / INTIMACY: paixão, tesão (lust/horniness — strong, very BR), química, vontade, ciúme (jealousy),
+  carinho (tenderness), apaixonar-se / se apaixonar, ficar com alguém (to hook up / make out with), pegar
+  (to get with someone), transar / fazer amor / foder (sex, by heat), gozar (climax), arrepio (shiver),
+  borboletas no estômago. "Crush" is often kept (meu crush) in contemporary BR.
+- HOCKEY / SPORTS: BR has little native hockey lexicon, so KEEP most hockey terms in English and let the
+  prose gloss them naturally: hóquei (sport name translated/accented), but rink, puck, slapshot, power play,
+  hat-trick, goalie, body check, penalty box, faceoff are commonly KEPT in English (italicized or quoted on
+  first use, then plain). Translatable / commonly translated: gol (goal/point), técnico (coach), time
+  (the team), vestiário (locker room), arquibancada (the stands/bleachers), torcida (the fans/crowd),
+  treino (practice), temporada (season), campeonato (championship), goleiro (can stand in for goalie),
+  jogador / atleta. General sports slang for banter: "tá voando" (on fire), "pegou pesado" (went hard),
+  "relaxa, mano", "joga muito" (plays great). Keep team/league proper names (NHL) in English.
+
+TYPOGRAPHY (Brazilian conventions)
+- TRAVESSÃO vs HÍFEN: the travessão (— em dash) opens dialogue and brackets asides — it is NOT the hyphen (-).
+  The hyphen joins compounds and clitics (guarda-chuva, beija-flor, vê-lo, café da manhã has no hyphen but
+  bem-vindo does). Never use a hyphen to open speech. An en dash is not used in BR fiction; use the travessão.
+- ASPAS: double curved quotes "…" are standard for reported speech and quoted material; aspas angulares
+  «…» are an accepted literary alternative — choose one and stay consistent. Single quotes '…' only for a
+  quote inside a quote.
+- REFORMED-ORTHOGRAPHY ACCENTS (Acordo Ortográfico, current): NO trema (so "linguiça", "tranquilo",
+  "cinquenta" — never "lingüiça"). Dropped accents on "ideia", "assembleia", "heroico", "voo", "enjoo"
+  (no circumflex/accent now). Keep: á â ã à é ê í ó ô õ ú and the ç and til (ã, õ). "Para" the verb form
+  no longer takes the differentiating accent (pôr keeps its circumflex; pode/pôde distinction kept).
+  Common correct forms: você, é, está, também, então, coração, mãe, irmã, não, então, avô/avó.
+- ELLIPSIS: reticências "…" (three dots, ideally the single … glyph), tight to the preceding word
+  (Sei lá… not Sei lá ...). Use for trailing-off speech; for a hard cut-off use the travessão instead.
+- Numbers/decimals: BR uses comma for decimals and period for thousands (R$ 1.500,00) — but in fiction,
+  spell out numbers per house style unless the source uses figures.
+
+CHAPTER WORD
+- "Capítulo N" with an Arabic numeral (Capítulo 1, Capítulo 2 …). Do not invent chapter titles where the
+  source has none.

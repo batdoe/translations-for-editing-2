@@ -1,0 +1,202 @@
+DOSSIER — ITALIAN (Italiano)
+Multi-book commercial-fiction kit (cozy mystery · dark mafia romance · sports romance).
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+This dossier is GENRE-GENERAL: the per-book task note names the tone; flex the register to match it.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- ITALIAN: passato remoto + imperfetto for narration (the literary-narrative norm), kept consistent.
+  Do not drift into passato prossimo for narration mid-book. (House default = passato remoto.)
+
+  *** LISA'S RULING 2026-08-26 — BINDING ON EVERY ITALIAN BOOK, EVERY PEN NAME, FROM NOW ON ***
+  PASSATO REMOTO + IMPERFETTO IS THE HOUSE NARRATIVE TENSE FOR ITALIAN. NO EXCEPTIONS.
+  - This holds for FIRST-PERSON narration too. Passato prossimo is defensible in first person and is
+    common in contemporary Italian commercial fiction, but Lisa has ruled AGAINST it: the question was
+    put to her explicitly (2026-08-26, North of Forty Bks 1-2) and she chose remoto for both books.
+    Do NOT re-open this on the grounds that a book is first-person.
+  - remoto  = completed plot-advancing actions (disse, ando, guardo, entro)
+  - imperfetto = description, background, habit, states, weather (era, pioveva, pensava)
+  - ⚑ DIALOGUE IS EXEMPT. Inside quotation marks, characters speak naturally — passato prossimo in a
+    character's mouth is CORRECT and must NOT be converted. Same for trapassato (aveva detto) marking
+    events prior to the narrative present. Convert NARRATION only.
+  - A book that mixes remoto and prossimo across chapters is a DEFECT, not a style choice. It is the
+    fingerprint of chapters translated in separate passes and never harmonised.
+
+  *** THE THREE EXCEPTIONS — leave these in passato prossimo, converting them is an ERROR ***
+  1. DEICTIC / HODIERNAL ANCHOR. Italian grammar REQUIRES passato prossimo when the clause is anchored
+     to a time still connected to now: "ieri", "stamattina", "oggi", "questa settimana", "poco fa".
+     e.g. «Ieri si e tenuta una bellissima cerimonia» — remoto here reads as UNGRAMMATICAL to a native.
+     Found in HHH ch17, 2026-08-26.
+  2. HABITUAL / EXPERIENTIAL narratorial statement, not a plot event: a general truth about the
+     narrator's life rather than one occasion. e.g. «non ho mai dovuto svegliarmi presto per studiare»
+     ("in all my years as a fine arts major"). Remoto would wrongly make it a single episode.
+     Found in HHH ch10, 2026-08-26.
+  3. FREE INDIRECT THOUGHT — interior voice treating something as a still-live fact, usually adjacent
+     to present-tense thought. e.g. «Randy e stato assassinato» followed by «A cosa stavo pensando?».
+     Converting flattens interior voice into flat narration. Found in HHH ch9, 2026-08-26.
+  Also never convert: present-tense narratorial asides («non sono sicura che...»), imperfetto, or trapassato.
+  A converted book should land at 0-2 narrative prossimo per chapter, NOT zero — the exceptions are real.
+  - Applied 2026-08-26 to: HHH (North of Forty Bk2) chs 1,3,9,10,15,17; MMM (North of Forty Bk1) whole book.
+
+REGISTER & VOICE
+- Standard contemporary Italian (italiano standard contemporaneo): literate but living, natural and pleasurable —
+  neither the stiffness of bureaucratese nor sloppy chat-speak. Avoid regional dialect (romanesco, napoletano,
+  siciliano) unless a character is written to speak one; a touch of southern flavor can color mafia characters,
+  but keep the base text standard so any reader follows it.
+- Restructure sentences for natural Italian rhythm, not word-for-word. Italian tolerates longer, hypotactic
+  periods than English — let subordinate clauses breathe, but don't pad. Match each source paragraph's density.
+- tu / Lei is load-bearing — choose deliberately and stay consistent for each pairing:
+    · tu = intimacy, family, friends, lovers, peers, children, internal thought, flirtation once it warms.
+    · Lei = respect, distance, strangers, customer/shopkeeper, deference to authority or to a boss.
+    · voi = plural you (and, in some southern/old-school mafia speech, a deferential singular to an elder/don —
+      use only if a character is written that old-fashioned; otherwise Lei).
+    · MAFIA DEFERENCE: a soldier addresses the boss with Lei (or old-school voi); the boss answers with tu.
+      Watch the shift — the moment a powerful character switches a subordinate from Lei to tu (or vice versa)
+      is characterization; preserve it exactly where the source implies it.
+    · FLIRTATION/ROMANCE: the tu/Lei break is a beat. Two people moving from Lei to tu = the relationship turning.
+      If the source marks that turn ("are we still on formal terms?"), render it ("Ci diamo del tu?") — don't flatten.
+- Diminutives/vezzeggiativi create warmth (cozy) or menace-by-contrast (mafia): casetta (little house),
+  cagnolino (little dog), tesoro/tesoruccio (sweetheart), -ino/-ina, -etto/-etta. Use as an Italian writer would,
+  not mechanically.
+
+NOTE ON ITALIAN-AMERICAN MAFIA BOOKS (don't double-translate)
+- A mafia book set among Italian-American characters often already carries Italian (or dialect) words in the
+  English source: capo, consigliere, padrino, omertà, cosa nostra, famiglia, goombah/cumpà, capisce/capisci,
+  madonna, stronzo, cazzo, bella, tesoro, nonna. Keep these natural in the Italian text — do NOT re-translate or
+  gloss them, and do NOT "correct" an Italian-American spelling that was clearly the author's flavor in dialogue
+  unless it would read as an error to a native. When such a word IS the normal Italian word, just let it sit in
+  the sentence as ordinary Italian (a native won't see italics or strangeness where an English reader did).
+- If the English source italicized an Italian word for exotic effect, drop the italics in the Italian text — it's
+  not foreign there.
+
+TONE RANGE (one kit, three heat settings — match the per-book note)
+- COZY WARMTH: gentle, wry, communal. Understatement and affectionate irony, never despair. Mystery is an
+  inconvenience faced with a sigh and a quip. Touchstone: «Le apparenze ingannano.» Diminutives, warm domestic
+  vocabulary, light banter. Profanity minimal and soft.
+- DARK / VIOLENT MAFIA INTENSITY: clipped, controlled menace alternating with explosive violence. Power, loyalty,
+  debt, shame. Full profanity and credible threats (cazzo / stronzo / vaffanculo register — see below). Honor
+  language is concrete: rispetto, onore, debito, sangue, famiglia. Touchstone: «Il sangue paga il sangue.»
+  Let silences and short declaratives carry weight; don't soften threats into politeness.
+- BANTER SPORTS ROMANCE: fast, teasing, modern, physical. Overlapping quips, sports trash-talk, warm sarcasm,
+  slow-burn or steamy heat. Contemporary slang is welcome (but timeless, not meme-dated). Touchstone:
+  «Provaci, se hai coraggio.» Keep the rhythm snappy — short turns, interruptions, comebacks.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+House standard = CAPORALI « » (angled guillemets) to enclose every line of direct speech. (The em-dash dialogue
+style also exists in Italian publishing, but THIS KIT uses caporali for consistency across all books.)
+- Open a turn: punctuation that belongs to the speech goes INSIDE the caporali; the attribution tag stays outside,
+  lowercase verb of saying.
+    EN: She said, "Good morning."                  ->  «Buongiorno» disse lei.
+    EN: "Where are you going?" she asked.           ->  «Dove vai?» chiese lei.
+- Mid-line attribution (tag splits the speech): close caporali, comma, tag, comma, reopen caporali.
+    EN: "Wait," she said, "I need to think."        ->  «Aspetta» disse lei, «devo pensare.»
+    EN: "I don't know," he said. "It's strange."     ->  «Non lo so» disse lui. «È strano.»
+- Tag-then-speech: tag, comma (or colon for weight), open caporali.
+    EN: He smiled and said, "You're late."          ->  Sorrise e disse: «Sei in ritardo.»
+- Interruption / cut-off (em dash inside, at the break):
+    EN: "Wait, I need to—" she began.               ->  «Aspetta, devo—» cominciò lei.
+    EN: "If you so much as touch her, I'll—"         ->  «Se solo la sfiori, ti—»
+- Nested quote (a quote inside dialogue): use double straight/curly virgolette "" inside the caporali.
+    EN: "He told me 'never come back,' so I left."   ->  «Mi ha detto "non tornare mai più", così me ne sono andata.»
+- Mafia-threat worked example (full register, inside caporali):
+    EN: "You owe me, you piece of shit. Pay, or I bury you."
+                                                    ->  «Mi devi dei soldi, pezzo di merda. Paga, o ti seppellisco.»
+- Punctuation order: the final period/comma of the SPEECH goes inside « » when there's no following tag
+  («…pensare.»); when a tag follows the closing caporali, the speech's terminal period is dropped and the
+  sentence ends after the tag («Buongiorno» disse lei.). Keep ? and ! inside the caporali always.
+- Never begin a narration-only paragraph with caporali. Keep paragraph breaks 1:1 with the source; each new
+  speaker = new paragraph.
+
+PROFANITY & INTIMACY (translate fully — never soften, censor, or fade)
+Render English profanity and explicit sex at full Italian strength, matched to the source's heat. Mild→crude ladder:
+- damn / hell:            accidenti, dannazione, maledizione, porca miseria (mild) → porca puttana (stronger)
+- crap / screw it:        cavolo, accidenti → 'fanculo (clipped, casual)
+- ass / asshole:          culo; stronzo / stronza (asshole, person); testa di cazzo (dickhead)
+- bastard / bitch:        bastardo / bastarda; stronza, troia / puttana (crude, sexual — use as source does)
+- shit:                   merda; pezzo di merda (piece of shit); che cazzo… (what the fuck…)
+- fuck (exclamation):     cazzo! ; porca puttana!
+- fuck you / fuck off:    vaffanculo; va' a farti fottere; vattene affanculo
+- go to hell:             va' all'inferno; va' a quel paese (softer)
+- the F-act, vulgar:      scopare (to fuck); fottere; chiavare (crude, regional-tinged); also figurative — "ti fotto"
+- "fucking" as intensifier: del cazzo (e.g. "this fucking door" -> "questa porta del cazzo"); cazzo di…;
+                          maledetto/-a (when more anger than vulgarity).
+INTIMACY / EXPLICIT SEX: translate every beat at the source's exact bluntness and tenderness. Anatomy and acts get
+real Italian words, not euphemism, when the source is explicit. Sensual-romance register tools: pelle, fiato,
+gemito (moan), brividi (shivers), desiderio, voglia; verbs — accarezzare, stringere, mordere, ansimare. Crude when
+the source is crude (cazzo, figa, scopare); tender when tender (farti l'amore, prenderti, averti). Calibrate to the
+book's heat note — cozy = closed-door/fade light; mafia & sports romance = on-page, full heat.
+
+IDIOMS (find the natural Italian equivalent — never literal)
+- spill the beans            -> vuotare il sacco
+- on edge / nervous          -> avere i nervi a fior di pelle / essere sulle spine
+- the plot thickens          -> la trama si infittisce / le cose si complicano
+- gut feeling                -> un presentimento / averlo nello stomaco / sentirlo nelle viscere
+- things aren't what they seem -> le apparenze ingannano
+- bite the bullet            -> stringere i denti / farsene una ragione
+- speak of the devil         -> parli del diavolo (e spuntano le corna)
+- cost an arm and a leg      -> costare un occhio della testa
+- break the ice              -> rompere il ghiaccio
+- mind your own business     -> fatti gli affari tuoi
+- once in a blue moon        -> ogni morte di papa
+- it's a piece of cake       -> è un gioco da ragazzi
+- give someone the cold shoulder -> trattare qualcuno con freddezza / fare lo gnorri (play dumb)
+
+GENRE VOCABULARY
+
+  CRIME / MAFIA (authentic Italian terms — keep, don't gloss)
+  - boss / godfather: padrino, boss, il capo; the family head: il capofamiglia
+  - ranks: capo, sottocapo, consigliere, capodecina / caporegime, soldato, picciotto (low foot soldier),
+    associato; the organization: cosa nostra, l'organizzazione, la famiglia
+  - code of silence: omertà; the code/honor: il codice, l'onore, il rispetto
+  - betrayal/wrong: sgarro (an offense/breach against the family), tradimento, infame (rat/snitch),
+    pentito (state witness/turncoat — institutional term)
+  - debt / score: debito, conto in sospeso; to settle: regolare i conti
+  - hit / whacking: omicidio; "fare fuori" (to bump off), "far sparire" (make disappear); a hit = un colpo;
+    contract: la condanna / l'ordine
+  - protection/extortion: pizzo (protection money), racket, estorsione
+  - general crime: pistola, proiettile, riscatto (ransom), riciclaggio (laundering), latitante (fugitive),
+    soffiata (tip-off), guardie / sbirri (cops, derogatory)
+
+  ROMANCE / INTIMACY
+  - love/desire: amore, desiderio, voglia, passione, attrazione; "ti voglio" (I want you) vs "ti voglio bene"
+    (I care for you, non-romantic) vs "ti amo" (I love you, romantic — strong, save it)
+  - endearments: tesoro, amore, amore mio, cara/caro, piccola/piccolo, bella/bello, vita mia; mafia-flavored:
+    bella mia, tesoro, principessa
+  - body/sense: pelle, labbra, fiato, cuore, mani, brividi, calore; heartbeat: il battito
+  - tension beats: tensione, lo sguardo, il silenzio, "il cuore in gola" (heart in throat)
+
+  HOCKEY / SPORTS (English-kept vs translated — Italian sports prose code-switches)
+  - KEEP in English (standard in Italian hockey/sports talk): hockey, puck, goal (often "gol"), assist, shot,
+    power play, time-out, coach (also "allenatore"), team (also "squadra"), roster, playoff, MVP, fan, tifoso
+    for fan is fine too.
+  - TRANSLATE: rink -> pista (di ghiaccio) / il ghiaccio; stick -> bastone (da hockey); puck can be "disco";
+    goalie -> portiere; defenseman -> difensore; forward -> attaccante; faceoff -> ingaggio; penalty box ->
+    panca delle penalità; period -> tempo/periodo; locker room -> spogliatoio; bench -> panchina; whistle ->
+    fischio; trade -> scambio/cessione; rookie -> esordiente/rookie (both heard).
+  - Trash-talk register (banter sports romance): keep it fast and cocky — «Tutto qui?», «Sei finito, bello.»,
+    «Provaci, se hai coraggio.», «Nei tuoi sogni.»
+
+TYPOGRAPHY
+- Dialogue enclosure: CAPORALI « » (house standard). Reserve double virgolette "" for: nested quotes inside
+  dialogue, AND quoted/reported speech inside narration (titles, scare-quotes, a phrase someone "said").
+    EN: he called it "completely normal."           ->  l'aveva definito "del tutto normale".
+- Apostrophe / elision is mandatory Italian style — elide naturally: l'amore, dell'onore, un'amica (un' only
+  before a feminine noun), c'è, dov'è, po' (NOT pò), be' (short for bene). Use a real apostrophe ' not a backtick.
+- ACCENTS — use proper accented vowels, never vowel+apostrophe: è (is) NOT e'; perché / poiché (acute -é on
+  these); caffè, città, però, più, già, lì, sì (yes) vs si (reflexive), né (nor), sé (self). Distinguish:
+    · è (verb "is") vs e (and)
+    · dà (gives) vs da (from)   ·  là/lì (there) vs la/li   ·  sì (yes) vs si   ·  né (nor) vs ne
+- Truncation apostrophe vs accent: va' / fa' / da' / di' / sta' (imperatives, apostrophe, NOT accent).
+- Ellipsis: … (three-dot character), no space before. Suspension inside dialogue stays inside the caporali.
+- Em dash — for asides/interruptions; spaced as the source rhythm needs. Don't overuse where Italian would
+  prefer a comma or colon.
+- Capitalization: Italian does NOT capitalize io, days, months, languages, or adjectives of nationality
+  (italiano, lunedì, giugno) — lowercase them even though English capitalizes.
+- Numbers: Italian uses a comma for decimals and a period/space for thousands (1.000 or 1 000; 3,5).
+
+CHAPTER WORD
+- Chapter heading: "Capitolo N" with the numeral (Capitolo 1, Capitolo 2, …). Match the per-book formatting note
+  if it specifies otherwise; default is the numeral, not the spelled-out word.

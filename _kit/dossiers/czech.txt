@@ -1,0 +1,62 @@
+DOSSIER — CZECH (Čeština)
+Isabella Proctor paranormal cozy mystery series.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- CZECH: minulý čas for narration; keep verbal ASPECT (dokonavý/nedokonavý) and register consistent
+  across chapters. Do not switch to a historic present unless the source does.
+
+REGISTER & VOICE
+- Hovorová čeština (colloquial Czech) for narration and dialogue — a well-read person speaking naturally,
+  not officialese. Avoid archaisms and bureaucratic phrasing.
+- Prefer shorter, active sentences in natural speech rhythm. Drop pronouns where Czech naturally would
+  (don't add them just because English has them). Use flexible, case-driven word order for emphasis.
+- Diminutives (zdrobněliny) are the warmth engine: dům -> domeček, kočka -> kočička. Natural where English
+  uses "little/dear" — this is normal Czech, not babyish.
+- Calibration word: pohoda (comfortable, laid-back ease). If a scene has pohoda — slippers, tea, stay a while —
+  you're on track.
+
+HUMOR
+- Dry irony, understatement, mild absurdism (Švejk/Havel tradition); keep to the light end.
+- Understate: "docela nepříjemné" (rather unpleasant) where English shouts "completely terrifying."
+- Deadpan acceptance of the paranormal, like a broken dishwasher. Use exclamation marks sparingly.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+- Czech quotes: open „ (low-9, before the first word), close “ (high-6, after the final punctuation).
+  The attribution comma sits INSIDE the closing quote.
+    EN: She said, "Good morning."                 ->  „Dobré ráno,“ řekla.
+    EN: "Where are you going?" he asked.           ->  „Kam jdeš?“ zeptal se.
+    EN: "I don't know," she said. "It's strange."  ->  „Nevím,“ řekla. „Je to divné.“
+- Interruption: em dash —  ("Počkej, potřebuji—"). Never a hyphen.
+- Nested quote inside dialogue: single low-9/high-6 ‚ ‘  ("Hned mi řekla, ‚je tam strašidlo‘, od začátku.“).
+- Ellipsis … (single char, no space before). Em dash — spaced for parenthetical asides.
+  Comma before "a" (and) only when clarity needs it, not mechanically.
+- Never begin a narration-only paragraph with a dialogue quote.
+
+PARANORMAL TERMS
+- ghost / spirit: duch (everyday), přízrak (literary apparition), zjev
+- witch: čarodějnice (standard), ježibaba (folkloric hag), čarodějka (gentler, modern)
+- haunted: strašidelný; "tam straší"
+- spell / curse: kouzlo (spell/charm), kletba (curse), čáry (witchcraft)
+- psychic / intuition: tušení, předtucha; jasnovidec (clairvoyant)
+- omen: předznamenání, znamení
+- Tone: nonchalant ("Bývali jsme se svou čarodějnicí deset let. Nikdy problém.")
+
+IDIOMS (find the Czech equivalent — never literal)
+- spill the beans -> vysypat pytel / prozradit všechno
+- on edge / nervous -> jako na trní / na nervy
+- the plot thickens -> věc se komplikuje / to se zamotává
+- bite the bullet -> skousnout to / spolknout hořké sousto
+- gut feeling -> předtucha / tušení
+- things aren't what they seem -> zdání klame
+- works like magic -> jako by to začarovalo
+
+COZY VOCABULARY
+- cozy / snug: útulný / útulná, příjemný
+- community: sousedé, pospolitost
+- gossip: klepy, klevetit, drb
+- well-being / ease: pohoda (calibration word)

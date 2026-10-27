@@ -1,0 +1,180 @@
+DOSSIER — EUROPEAN SPANISH (Español de España / castellano)
+Reusable, genre-general kit for the multi-book program (cozy mystery, dark mafia romance, sports romance).
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- SPANISH: pretérito indefinido (perfecto simple) + imperfecto for narration. Do NOT narrate in the
+  pretérito perfecto compuesto ('he ido').
+
+REGISTER & VOICE
+- Peninsular/Castilian Spanish specifically — NOT Latin American. The target reader is in Spain.
+- Plural "you" is ALWAYS vosotros/vosotras (informal) and ustedes only for genuine formal/deferential plural.
+  Verb forms follow: vosotros tenéis, venís, sabéis; the affectionate imperative venid, mirad, callaos.
+  Never use ustedes as the default plural — that is the Latin American giveaway. Possessive vuestro/vuestra.
+- Peninsular vocabulary as default lexicon:
+    coger (to take/grab/catch — neutral and ubiquitous in Spain; never substitute tomar/agarrar to "avoid" it),
+    vale (okay/all right), móvil (cell phone, NOT celular), ordenador (computer, NOT computadora),
+    coche (car, NOT carro), piso (apartment/flat, NOT departamento), zumo (juice), patatas (potatoes/chips),
+    aparcar (to park), conducir (to drive), gilipollas / tío / tía (guy/dude/chick, colloquial),
+    flipar / molar (to be amazed / to be cool), currar (to work, slangy), guay (cool), majo/maja (nice, pleasant).
+- Castilian norms: distinción (not seseo) is the prestige norm — spell with c/z and s as standard orthography
+  dictates; do not respell to reflect seseo. Leísmo de persona masculino singular is accepted and natural in
+  Spain ("le vi" for "I saw him") — use it for male human direct objects where it reads naturally; keep "la/las"
+  for feminine and "lo/los" for things. Do not extend leísmo to feminine (laísmo) or to objects (loísmo).
+- Natural literary rhythm: restructure for Spanish cadence, not word-for-word. Spanish tolerates longer periodic
+  sentences and rich subordination; use them. Avoid the choppy calque of English subject-verb-object strings.
+  Drop redundant subject pronouns (Spanish is pro-drop) — "Lo sé" not "Yo lo sé" unless emphatic/contrastive.
+- Tú vs usted within scenes: track relationships. Lovers, friends, peers, and most cozy-village neighbors use tú.
+  Usted marks distance, deference, menace held at arm's length, or an older/authority figure being kept formal.
+  A mafia capo may use cold usted as a weapon; intimacy collapses to tú. Decide per relationship and stay consistent.
+
+TONE RANGE (flex across all three genres)
+- COZY WARMTH (cozy mystery): cálido, acogedor, hogareño. Wry, communal, gently ironic. Diminutives create
+  warmth — casita, perrito, un cafelito, un ratito, abuelita — use as a Spanish writer would, not mechanically.
+  Touchstone: "Las apariencias engañan." The crime is real but the texture is comfort, tea, and gossip.
+- DARK / VIOLENT MAFIA INTENSITY: clipped, controlled menace alternating with explosions of violence and full,
+  unsoftened profanity and threats. Peninsular swearing carries the heat: joder, hostia, cabrón, hijo de puta,
+  me cago en (la leche / en todo / en tus muertos), gilipollas, coño. Render threats with real bite — do not
+  launder them. Touchstone: "Te voy a reventar." Cold register can be crueler than loud register; flex both.
+- BANTER SPORTS ROMANCE: fast, teasing, physical, warm under the needling. Colloquial peninsular slang (tío/tía,
+  flipar, qué fuerte, en plan, mola, no me jodas as exasperated banter). Touchstone: "No me ralles, anda." Keep
+  the rhythm of a volley — short returns, interruptions, overlapping affection and competitiveness.
+
+DIALOGUE PUNCTUATION (critical — follow exactly; this is the #1 thing translators get wrong)
+- Spanish dialogue uses the RAYA (em dash —, U+2014), NOT quotation marks, to open each spoken turn.
+  The raya is attached to the first word with NO space after it.
+- Attribution (he said / she asked) verbs of speech: when they FOLLOW the line, a raya opens the attribution
+  and there is NO space; the speech verb is lowercase. When attribution is MID-LINE, a raya closes the speech
+  and a raya opens it again around the incise (—dijo ella—), then the line continues.
+- Worked EN -> ES examples:
+
+  1) Simple line, attribution after:
+     EN: She said, "Good morning."
+     ES: —Buenos días —dijo ella.
+
+  2) Question, attribution after (note inverted ¿ ... ?):
+     EN: "Where are you going?" she asked.
+     ES: —¿Adónde vas? —preguntó ella.
+
+  3) Mid-line incise (attribution interrupts, then speech resumes). The punctuation that belongs to the
+     speech goes AFTER the closing raya of the incise:
+     EN: "Wait," she said, "I need to think."
+     ES: —Espera —dijo ella—, necesito pensar.
+     EN: "I don't know," he said. "It's strange."
+     ES: —No lo sé —dijo él—. Es raro.
+     (Rule: if the speech sentence continues after the incise, comma goes after the closing dash and the
+      continuation is lowercase: —…—, necesito… If the first sentence ended, period goes after the closing
+      dash and the next sentence is capitalized: —…—. Es raro.)
+
+  4) Interruption / cut-off (use the raya at the break, no space):
+     EN: "Wait, I need to—" she began.
+     ES: —Espera, necesito que— empezó ella.
+     EN: "If you ever touch her again, I'll—"
+     ES: —Como vuelvas a tocarla, te—
+
+  5) Reported / quoted speech inside narration (NOT a dialogue turn): use angular quotes « » (comillas
+     angulares / latinas), preferred in Spain for nested or in-line quotation:
+     EN: He described it as "completely normal."
+     ES: Lo describió como «completamente normal».
+     EN: She kept thinking, He's lying.
+     ES: No dejaba de pensar: «Está mintiendo».
+
+- Inverted opening marks are MANDATORY and non-negotiable: every question is ¿…? and every exclamation is ¡…!.
+  The opening mark goes exactly where the interrogative/exclamative span begins, which may be mid-sentence:
+     EN: But seriously, where were you?
+     ES: Pero, en serio, ¿dónde estabas?
+     EN: Damn it, get out!
+     ES: Joder, ¡fuera de aquí!
+- Punctuation sits tight against the word: ¿Quién? not ¿ Quién ?. Closing ? ! before the closing raya is fine.
+- Ellipsis is the single glyph … (three dots, no spaces): —No sé… —murmuró.
+- Never begin a narration-only paragraph with a dialogue raya.
+
+PROFANITY & INTIMACY (render faithfully in peninsular register — do NOT soften, censor, or fade)
+- Mild -> crude ladder (English -> peninsular Spanish), pick by intensity of the source:
+    damn / dammit          -> maldita sea / mierda / joder (joder is the workhorse; very common, mid-strength)
+    crap / shit            -> mierda
+    hell (what the hell)   -> qué coño / qué cojones / qué demonios (softer)
+    bastard                -> cabrón / hijo de puta (stronger) / desgraciado (softer)
+    bitch                  -> zorra / cabrona / hija de puta
+    asshole / jerk         -> gilipollas / capullo / cabrón
+    fuck (exclamation)     -> joder / hostia / me cago en la puta
+    fuck you               -> que te jodan / vete a la mierda / que te den
+    fucking (intensifier)  -> puto/puta (puto coche, puta vida) / de mierda / jodido/jodida
+    motherfucker           -> hijo de puta / cabronazo
+    son of a bitch         -> hijo de puta / cabrón
+    holy shit / holy fuck  -> hostia / hostia puta / la hostia / me cago en todo
+    pissed off             -> cabreado/cabreada / de mala hostia / hasta los cojones
+- Blasphemous register ("me cago en…") is authentic, very Spanish, and stronger than literal English equivalents —
+  reach for it when the source character is at full fury (me cago en la leche / en tu puta madre / en todo lo que se menea).
+- Threats keep their menace and specificity: "I'll kill you" -> Te voy a matar / Te mato; "I'll destroy you" ->
+  Te voy a destrozar / reventar; "you're dead" -> estás muerto/muerta / eres hombre/mujer muerto. Cold, short
+  threats often hit hardest in Spanish — resist padding them.
+- INTIMACY / explicit sex: translate fully and graphically; match the source heat with no euphemistic retreat.
+  Peninsular anatomical/erotic register (mild -> crude as the scene demands):
+    polla (cock), pollón; cipote (cruder/comic); empalmarse / estar empalmado (to be hard);
+    correrse (to come/climax), correrse dentro; coño / chocho (cunt); follar (to fuck — the standard peninsular
+    verb, use it; NOT coger, which in Spain only means to take/grab), echar un polvo (to have a quick fuck),
+    tirarse a alguien (to bang someone); húmeda / mojada (wet); duro (hard); gemir (to moan); embestir /
+    penetrar (to thrust/penetrate). Tender register stays tender (hacer el amor, acariciar, besar) — let the
+    source dictate where it sits on the crude<->tender axis and do not flatten the range.
+
+IDIOMS (find the natural Castilian equivalent — never literal)
+- spill the beans              -> irse de la lengua / cantar / soltar prenda
+- on edge / nervous            -> estar de los nervios / con la mosca detrás de la oreja
+- the plot thickens            -> la cosa se complica / esto se pone interesante
+- gut feeling                  -> el pálpito / la corazonada / me da en la nariz
+- things aren't what they seem -> las apariencias engañan
+- bite the bullet              -> apechugar / hacer de tripas corazón
+- works like magic / a charm    -> funciona de maravilla / como la seda
+- get cold feet                -> echarse atrás / entrarle el canguelo
+- piece of cake                -> está chupado / es pan comido
+- speak of the devil           -> hablando del rey de Roma (… por la puerta asoma)
+- cost an arm and a leg        -> costar un ojo de la cara / un riñón
+- once in a blue moon          -> de Pascuas a Ramos / muy de vez en cuando
+
+GENRE VOCABULARY (what stays English vs. what is translated)
+- CRIME / MAFIA:
+    boss/capo -> jefe / capo (capo is established in Spain for mob bosses, keep it); the family -> la familia;
+    made man -> hombre de honor / soldado; soldier -> soldado; consigliere -> keep consigliere (italianism, known);
+    hit / contract -> encargo / trabajo / "un trabajito"; hitman -> sicario / matón; snitch/rat -> chivato / soplón /
+    rata; to snitch -> chivarse / cantar; debt -> deuda; turf -> territorio; to whack/off someone -> cargarse a /
+    liquidar / quitar de en medio; gun -> pistola / pipa (slang) / hierro (slang); piece -> hierro; safehouse ->
+    piso franco; laundering -> blanqueo (de dinero); cartel -> cártel; godfather -> padrino.
+    Italian flavor words (capo, consigliere, omertà, famiglia) may stay if the source uses them deliberately.
+- ROMANCE / INTIMACY:
+    boyfriend/girlfriend -> novio/novia (committed) or chico/chica, rollo/ligue (casual fling);
+    to hook up -> liarse (con) / enrollarse (con); date (the outing) -> cita; to flirt -> ligar / tontear / coquetear;
+    crush -> me gusta / estar pillado por alguien / el flechazo (the spark of falling); butterflies -> mariposas en
+    el estómago; soulmate -> media naranja / alma gemela; to make out -> morrearse / enrollarse; heartbreak ->
+    desamor / tener el corazón roto.
+- HOCKEY / SPORTS (in Spain ice hockey is niche, so anglicisms are common and natural — KEEP English where the
+  Spanish sports press keeps it; translate the generic):
+    KEEP: hockey, slapshot, power play, playoffs, draft, coach (often kept in hockey/American-sports contexts,
+      though entrenador is fine and more neutral), MVP, offside (or fuera de juego), face-off (often kept).
+    TRANSLATE: team -> equipo; player -> jugador/jugadora; goal -> gol / tanto; goalie/goaltender -> portero /
+      guardameta (or keep "goalie" in hockey color); puck -> disco (or keep "puck"); stick -> stick / palo;
+      rink -> pista (de hielo); locker room -> vestuario; bench -> banquillo; period -> periodo / tiempo;
+      referee -> árbitro; penalty box -> banquillo de penalización / box de penalti; to check (body-check) ->
+      cargar / placar; the season -> la temporada; training -> entrenamiento; jersey -> camiseta.
+    Rule of thumb: dialogue from players/fans can keep the imported jargon (it sounds authentic); narration should
+    lean to Spanish where a clean equivalent exists. Stay consistent within a book.
+
+TYPOGRAPHY
+- Inverted opening marks are obligatory and always paired: ¿…? and ¡…!. Place the opening mark at the true start
+  of the question/exclamation, not necessarily at sentence start (see dialogue examples above).
+- RAYA (—, em dash) vs GUION (-, hyphen): the raya opens dialogue and encloses incises/asides; the hyphen joins
+  words (teórico-práctico) and breaks at line end. Do not substitute a hyphen or an en dash for the raya in dialogue.
+- Quotation marks hierarchy in Spain: comillas angulares « » are the preferred FIRST level for quoted/reported
+  material and titles; if nesting is needed, go « " ' ' " » (angulares -> inglesas -> simples). Prefer « » over "  ".
+- Decimals/thousands per Spanish convention if numbers appear (1.000 / 3,5) — but keep author's numeral style if stylistic.
+- Ellipsis is one glyph … with no internal spaces; a space follows it before the next word unless punctuation follows.
+- Capitalization: Spanish does NOT capitalize days, months, languages, or nationalities (lunes, marzo, español, francesa).
+  Titles/headers use sentence case in Spanish convention.
+
+CHAPTER WORD
+- Use "Capítulo N" with an arabic numeral: Capítulo 1, Capítulo 2, Capítulo 17. (Not roman numerals, not spelled out,
+  unless the source's own styling demands otherwise.)

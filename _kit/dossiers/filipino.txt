@@ -1,0 +1,62 @@
+DOSSIER — FILIPINO / TAGALOG
+Isabella Proctor paranormal cozy mystery series.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- FILIPINO: narrate in a consistent past/completed aspect (aspektong perpektibo); keep the aspect
+  pattern uniform across chapters. Do not drift the narrative aspect chapter to chapter.
+
+REGISTER & VOICE
+- Standard Filipino (Tagalog-based), warm colloquial-but-literate register — a well-read person in relaxed
+  company. Channel Filipino warmth; don't restrain it.
+- Avoid heavy code-switching in narration. Fully naturalized English loanwords are fine (bus, cellphone, OK);
+  do not pepper narration with English phrases.
+- Honorifics matter: po/opo for respect to elders or strangers; informal register between close friends.
+  Getting these right signals relationships without stating them.
+- Calibration: kapitbahay (neighbor) + bayanihan (collective spirit) = the cozy community. Tsismis (gossip) is
+  the community's information-and-care network, NOT a vice — lean into it: warm, curious, slightly breathless,
+  delivered as between friends.
+
+HUMOR
+- pabiro (playful teasing), banat (witty comebacks), a talent for the absurd in the everyday.
+- Self-deprecation works (the protagonist is charmed and a little overwhelmed). Warmth under every joke —
+  meanness is never cozy. Understatement + a dramatic sigh/shrug ("ay nako") lands perfectly.
+
+DIALOGUE PUNCTUATION (follow exactly)
+- Dialogue uses curly double quotes: open “ , close ” . Attribution verbs: sabi (said), tanong (asked),
+  sagot (answered), bulong (whispered), usal (murmured).
+    EN: She said, "Good morning."                 ->  “Magandang umaga,” sabi niya.
+    EN: "Where are you going?" she asked.          ->  “Saan ka pupunta?” tanong niya.
+    EN: "I don't know," he said. "It's strange."   ->  “Hindi ko alam,” sabi niya. “Kakaiba.”
+  Pre-attribution is also natural:  Tanong niya, “Saan ka pupunta?”
+- Question mark ? and exclamation ! as in English (! is used more freely here than in Czech/Romanian — authentic).
+  Ellipsis … . Em dash — for interruptions.
+- Tagalog "siya" is gender-neutral — rely on the character bible for any explicitly gendered phrasing and keep names correct.
+- Never begin a narration-only paragraph with a dialogue quote.
+
+PARANORMAL TERMS
+- ghost / spirit: multo (everyday), kaluluwa (soul), espiritu
+- witch / hex-caster: mangkukulam (curse practitioner), bruha (colloquial, slightly comic)
+- nature spirits: engkanto / engkantada, diwata
+- haunted: may multo, tinitirhan ng multo
+- spell / charm / curse: kulam (hex), gayuma (love charm), anting-anting (amulet)
+- psychic / intuition: kutob (gut feeling — use liberally; perfect for the sleuth's hunches), manghuhula
+- Tone: matter-of-fact ("Ay, yung multo naman ulit.")
+
+IDIOMS (find the Filipino equivalent — never literal)
+- spill the beans -> nagsabi ng lahat / nabunyag ang sikreto
+- on edge / nervous -> kinakabahan / balisa
+- gut feeling -> kutob (perfect direct equivalent — use it)
+- the plot thickens -> lumalalim ang usapin / nagiging kumplikado
+- things aren't what they seem -> hindi lahat ng nakikita ay totoo
+- bite the bullet / endure -> tiisin / tiis-tiis na lang
+- works like magic -> parang mahika
+
+COZY VOCABULARY
+- cozy / warm: mainit-init, maaliwalas, komportable
+- community: kapitbahay, barangay, bayanihan
+- gossip: tsismis (the perfect cozy word), magtsismis, tsismoso/a

@@ -1,0 +1,179 @@
+DOSSIER — DUTCH (Nederlands)
+Multi-book commercial-fiction kit: cozy mystery, dark mafia romance, sports romance.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+Standard contemporary Netherlands Dutch (Noord-Nederlands), NOT Flemish/Belgian Dutch.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- DUTCH: onvoltooid verleden tijd (o.v.t., 'ik liep') for narration. Do NOT narrate in the voltooid
+  tegenwoordige tijd ('ik heb gelopen'); that belongs in dialogue.
+
+REGISTER & VOICE
+- Standard contemporary Netherlands Dutch (Algemeen Nederlands, het noordelijke register): colloquial but
+  literate, natural and pleasurable — neither stiff nor street-slang. Avoid Flemish vocabulary and word order
+  (no "ge/gij", no "goesting", no "seffens", no "kuisen"; use "jij/je", "zin", "zo meteen", "schoonmaken").
+  Avoid Belgian spellings and idiom unless a character is explicitly written as Flemish.
+- Restructure sentences for natural Dutch rhythm, not word-for-word. English loves long subordinate chains;
+  Dutch prefers to break them or use main-clause word order (V2) to keep momentum.
+- VERB-FINAL SUBORDINATE ORDER without stiffness: in subordinate clauses the finite verb goes to the end
+  ("...omdat ze hem niet vertrouwde"). This is correct and natural — but stacking three verbs at the clause end
+  ("...dat hij het had kunnen weten") reads heavy in fast prose. Manage it by: (a) splitting a long EN sentence
+  into two Dutch sentences; (b) preferring a main clause where English used a subordinate ("Ze vertrouwde hem
+  niet. Daarom..."); (c) fronting an element for V2 punch ("Toen pas begreep ze het."). Never let a tense
+  action beat die under a pile of clause-final auxiliaries.
+- JE/JIJ vs U (govern this everywhere):
+    • je/jij = default for peers, friends, lovers, family, children, most contemporary fiction dialogue. Modern
+      Netherlands Dutch leans heavily to "je"; even strangers of similar age often go straight to "je".
+    • u = respect, distance, power-down, formality, addressing the elderly, a boss, a stranger you're being
+      careful with, officialdom (police, lawyer). Also weaponized: switching from "je" to "u" can be cold,
+      sarcastic, or a deliberate freeze-out.
+    • INTIMACY ARC: a relationship warming up is marked by the move from u -> je. Render an English first-name /
+      softening beat as that switch when it fits.
+    • MAFIA DEFERENCE: a soldier to a boss/capo uses "u" (and may stay there even when close) — deference and
+      fear. The boss says "je/jij" downward. A made man speaking to the Don: "u". The Don to him: "jij". Lovers
+      inside the mafia world still slide to "je" in private; the "u/je" line tracks power and intimacy at once,
+      so let it flex within one scene.
+    • FLIRTATION: dropping to "je" early, or a teasing mock-formal "u", is a flirt move. Sports-romance banter
+      is almost always "je/jij" — fast, equal, ribbing.
+- Diminutives (-je/-tje/-pje) create warmth, affection, smallness, OR condescension depending on tone:
+  "huisje" (cozy little house), "koppie thee" (a nice cuppa), "meisje". Use as a Dutch writer would — generous
+  in cozy warmth, sparing in mafia menace, edged when a character belittles ("dappere kereltje" = "brave little
+  man," dripping). Do not over-sprinkle.
+
+TONE RANGE (one touchstone per tone — match the per-book note)
+- COZY WARMTH: het "gezellig" register — untranslatable warmth of company, snugness, low stakes endured with a
+  wry smile. Tea, a buurt (neighborhood) that knows everyone's business, soft humor. Touchstone: "Schijn bedriegt."
+  (Appearances deceive.) Diminutives flow; profanity near-absent (a "verdorie" or "jeetje" at worst).
+- DARK / VIOLENT MAFIA INTENSITY: clipped, cold, controlled menace punctuated by full eruption. Render threats
+  and violence at FULL force — no softening (see PROFANITY). Short sentences for dread; let a curse land hard.
+  Touchstone: "Bloed is dikker dan water, en in deze familie is het allebei goedkoop." Power, loyalty, debt,
+  fear. The "u/je" axis carries the menace as much as the words.
+- SPORTS-ROMANCE BANTER: fast, equal, teasing, physical confidence; locker-room ribbing and slow-burn flirt.
+  Touchstone: "Hou je kop erbij, Hartog — straks mis je de goal én de meid." Quick je/jij volleys, sports
+  metaphors leaking into the romance, warm crude affection between teammates.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+- HOUSE STANDARD (ruled 2026-09-03): SINGLE curly quotation marks ‘ … ’ around every spoken turn.
+  This is the prevailing convention in modern Dutch trade fiction — Dutch writers and editors moved to
+  single marks because they give a calmer, less cluttered page ("een rustiger tekstbeeld"). Double curly
+  “ … ” is the older/secondary look; the low-high „ …” and em-dash systems exist but are not used here.
+  Be consistent — never mix.
+- Nested quote (a quote inside dialogue): DOUBLE curly “ … ” inside the single pair.
+- Comma before the closing quote when an attribution follows; sentence punctuation stays INSIDE the quotes.
+- Worked EN -> NL examples:
+
+  1) Opening a turn / simple attribution:
+     EN: She said, "Good morning."
+     NL: Ze zei: ‘Goedemorgen.’
+     (Colon after the leading verb of speech, then the quote. Or attribution after — see #2.)
+
+  2) Mid-line / trailing attribution ("zei ze"):
+     EN: "Where do you think you're going?" she asked.
+     NL: ‘Waar denk je dat je naartoe gaat?’ vroeg ze.
+     EN: "I don't know," he said. "It's strange."
+     NL: ‘Ik weet het niet,’ zei hij. ‘Het is vreemd.’
+     (Question/exclamation mark stays before the quote; a statement takes a comma before the closing quote.)
+
+  3) Attribution splitting one sentence:
+     EN: "Wait," she said, "I need to think."
+     NL: ‘Wacht,’ zei ze, ‘ik moet nadenken.’
+     (Lowercase "ik" — the sentence continues; comma after "ze".)
+
+  4) Interruption / cut-off (em dash, no space, glued to the last letter):
+     EN: "Wait, I need to—" she began.
+     NL: ‘Wacht, ik moet—’ begon ze.
+     EN: "If you ever touch her again, I'll—"
+     NL: ‘Als je haar nog één keer aanraakt, dan—’
+
+  5) Nested quote (double curly “ ” inside the single pair):
+     EN: "He actually said 'I love you' and just left?"
+     NL: ‘Zei hij echt “ik hou van je” en liep toen gewoon weg?’
+
+  6) Trailing-off (ellipsis, single glyph … , no extra spaces):
+     EN: "I just thought maybe..."
+     NL: ‘Ik dacht gewoon dat misschien…’
+
+- CAUTION — the apostrophe collision: the closing single quote ’ is the same glyph as the Dutch
+  apostrophe (z’n, ’s morgens, auto’s). Do not let a word-internal apostrophe close a speech turn;
+  when proofing, check that every ‘ has a matching turn-final ’.
+- Each new speaker = new paragraph. Never begin a narration-only paragraph with a quote unless it opens with
+  speech. Keep paragraph breaks 1:1 with the source.
+
+
+PROFANITY & INTIMACY (render FULL — do not soften, censor, or fade)
+- Dutch profanity has a distinctive DISEASE-BASED layer: the strongest, ugliest curses invoke illness
+  (kanker = cancer, tering/tyfus/pleuris, kolere). These are genuinely harsh — use them for the nastiest mafia
+  venom, slurs, and street threats, exactly where the English reaches its filthiest. They also form compounds:
+  "kankerlijer," "tyfushoer," "tering-" as an intensifier prefix.
+- Mild -> crude ladder (pick the rung that matches the English heat):
+    verdorie / jeetje / potverdorie        (mild, cozy-safe: darn / gosh)
+    verdomme / godverdomme (godver)        (damn / goddammit — workhorse mafia & sports anger)
+    shit / kut                             (shit / fuck-as-exclamation; "kut" also = literal cunt, and as
+                                            interjection "kut!" = "fuck!/shit!", and adjective "kutdag" = shitty day)
+    klootzak / lul / eikel                 (bastard/asshole / dick-prick / dickhead — insults to a person)
+    klote / kut-                           (as intensifying prefix: "klotedag," "kutweer" = shitty weather)
+    teringlijer / kankerhoer / tyfuslijer  (top-shelf venom; mafia hatred, slurs — the worst register)
+- Common renderings:
+    fuck (excl.) -> godverdomme / kut / verdomme        fuck you -> krijg de tering / rot op / val dood
+    fuck off -> rot op / flikker op / sodemieter op      asshole -> klootzak / eikel
+    bitch -> trut (mild) / kreng / teef (harsh)          motherfucker -> klootzak / kankerlijer (top force)
+    bastard -> klootzak / hufter                          dick (person) -> lul / eikel
+    son of a bitch -> klootzak / hufter                   piss off -> donder op / lazer op
+    shut up -> hou je kop / kop dicht / bek dicht         goddammit -> godverdomme / godver
+- EXPLICIT SEX: translate fully and at the source's exact heat — no fade-to-black the author didn't write.
+  Anatomy ranges clinical -> crude; pick to match tone. Common crude/sensual register: pik / lul (cock),
+  kut / poesje (cunt/pussy — "kut" harsh, "poesje" softer), tepels (nipples), kreunen (to moan), klaarkomen
+  (to come/climax), neuken (to fuck — blunt), vingeren (to finger), pijpen (to give head), kont (ass),
+  nat (wet). Keep the bluntness blunt and the tenderness tender; don't average them out.
+
+IDIOMS (find the natural Dutch equivalent — never literal)
+- spill the beans            -> uit de school klappen / met de billen bloot
+- on edge / nervous          -> op scherp staan / met de zenuwen in de keel
+- the plot thickens          -> het plot verdikt / nu wordt het pas echt interessant / de zaak wordt mistiger
+- gut feeling                -> onderbuikgevoel / dat zei mijn gevoel
+- things aren't what they seem -> schijn bedriegt
+- bite the bullet            -> door de zure appel heen bijten
+- works like magic           -> werkt als een tierelier
+- speak of the devil         -> als je het over de duivel hebt (..., trap je op zijn staart)
+- the ball is in your court   -> de bal ligt bij jou
+- give it your all / leave it on the ice -> alles geven / je helemaal leeggeven
+- cost an arm and a leg      -> een rib uit het lijf kosten
+- once in a blue moon        -> met een blauwe maandag / heel af en toe
+
+GENRE VOCABULARY (note EN-kept vs translated in real Dutch usage)
+- CRIME / MAFIA:
+    de familie (the Family) · de baas / de Don (Don stays; "de baas" everyday) · onderbaas/capo (capo often kept)
+    soldaat (soldier) · maatje/handlanger (associate) · verrader (traitor) · omertà (kept) · de zwijgplicht (the
+    code of silence, native) · afpersing (extortion) · witwassen (money laundering) · schuld (debt) · contract /
+    een contract op iemand (a hit — "contract" kept) · liquidatie / iemand omleggen (a hit, native blunt) ·
+    pistool / wapen (gun) · de politie / rechercheur (detective) · getuige (witness) · onderwereld (underworld).
+    English KEPT in Dutch crime register: don, capo, omertà, consigliere, made man (often kept), boss (sometimes).
+- ROMANCE / INTIMACY:
+    verliefd (in love) · smoorverliefd (head over heels) · hunkeren (to yearn) · verlangen (desire) · kus / zoenen
+    (kiss/to make out) · strelen (to caress) · de vlinders (butterflies) · hartslag (heartbeat) · slow burn (KEPT
+    in Dutch romance fandom) · meant-to-be / soulmate -> zielsverwant. English KEPT among Dutch romance readers:
+    slow burn, enemies-to-lovers, spice/spicy, swoon (sometimes).
+- HOCKEY / SPORTS (this kit = ICE hockey; Dutch default "hockey" = FIELD hockey, so disambiguate):
+    ijshockey (ice hockey — use this; plain "hockey" reads as field hockey to a Dutch reader) · de schaats /
+    schaatsen (skate/to skate) · de baan / het ijs (the rink / the ice) · puck (KEPT) · stick (KEPT) · doel /
+    goal (goal — "goal" kept for the score, "doel" for the net) · scoren (to score) · keeper / doelman (goalie) ·
+    aanvoerder (captain) · het team / de ploeg (team) · kleedkamer (locker room) · training (KEPT) · coach (KEPT) ·
+    blessure (injury) · wedstrijd (match/game) · play-offs / play-offs (KEPT) · check / bodycheck (KEPT) ·
+    powerplay (KEPT) · penalty / strafschot (penalty). English KEPT throughout Dutch sports talk: puck, stick,
+    coach, training, fit, comeback, play-offs, powerplay, assist.
+
+TYPOGRAPHY
+- Quotation marks: double curly " " for dialogue (house standard, see above); single curly ' ' for nested quotes.
+  Apostrophe = ' (curly). Do not use the straight " or '.
+- IJ: the Dutch digraph "ij" is one letter-sound. Capitalize BOTH letters at the start of a word/sentence:
+  "IJsbaan," "IJsland," "IJsje," a sentence opening "IJ..." — never "Ijsbaan." Mid-word stays lowercase "ij".
+- Ellipsis: … or "..." with no space before it ("misschien..."), tight to the word.
+- Em dash —: for interruption/cut-off, glue it to the last letter with NO space ("ik moet—"). For a parenthetical
+  aside mid-sentence, Dutch typically uses spaced en/em dashes ( – ... – ) or commas; keep asides readable.
+- Numbers/decimals as Dutch: comma decimal (3,5), period thousands (1.000) — only where numerals appear in prose.
+
+CHAPTER WORD
+- "Hoofdstuk N" with a NUMERAL (Hoofdstuk 1, Hoofdstuk 2, ...). No chapter titles unless the source carries them.

@@ -1,0 +1,212 @@
+DOSSIER — GERMAN (Deutsch)
+Multi-book commercial-fiction kit: cozy mystery, dark mafia romance, sports romance.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+This dossier is genre-general; the per-book note in your task names the tone. Match it.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- GERMAN: Präteritum for narration ('ich ging'). Do NOT narrate in the Perfekt ('ich bin gegangen');
+  Perfekt belongs in dialogue, not the narrative line.
+
+REGISTER & VOICE
+- Standard contemporary German (Standarddeutsch, neutral-überregional): colloquial but literate, natural
+  and pleasurable to read — neither stiff Behördendeutsch nor sloppy chat-speak. Avoid regionalisms
+  (Bairisch, Schwäbisch, Austrian/Swiss variants) unless a character is written to speak one.
+- Restructure for natural German rhythm, NOT word-for-word. German tolerates longer, hypotactic
+  sentences than English, but commercial fiction wants forward momentum — break monster periods, let
+  the verb land cleanly, and don't let subordinate clauses stack into a wall. Read it aloud in your head:
+  if the finite verb is buried so deep the reader forgets the subject, recast.
+- WORD ORDER without stiffness: respect the V2 main-clause rule and the verb-final subordinate clause,
+  but vary the Vorfeld (the slot before the finite verb) — open sometimes with the subject, sometimes
+  with an adverbial or object for emphasis ("Dann sah sie ihn." / "Ihn hatte sie nicht erwartet.").
+  Avoid the calque of fronting "Es" or chaining "und dann ... und dann." Keep the Satzklammer
+  (bracket: finite verb ... infinitive/participle at the end) but don't let the bracket span half a page.
+- COMPOUNDS: German compresses noun phrases into compounds (Mordermittlung, Schutzgeld, Eishockeyspiel).
+  Build them where a native writer would, but don't manufacture grotesque Bandwurmwörter for color.
+  Prefer one clear compound over a noun-pile; hyphenate for readability where convention allows
+  (Undercover-Einsatz, Ex-Freundin).
+
+du / Sie HANDLING (intimacy, power, hierarchy, flirtation)
+- This is a primary expressive resource German has that English lacks. English "you" is a single form;
+  in German you MUST decide du vs. Sie for every address, and the choice carries meaning. Decide per
+  relationship from the character bible and the scene.
+- Default mappings:
+    * Family, close friends, lovers, children, animals: du.
+    * Strangers, professional/formal, first meetings between adults: Sie.
+    * Workplace varies — modern/casual teams du, traditional/hierarchical Sie.
+- COZY MYSTERY: small-town neighbors and shopkeepers who know each other lean du or first-name Sie;
+  a newcomer/sleuth addressing officials, a suspect being formally questioned, or an elderly
+  villager being respected gets Sie. The warmth of a town can be shown by characters slipping to du.
+- MAFIA HIERARCHY: power lives in the du/Sie axis. A boss may du his subordinates downward (dominance,
+  ownership) while they Sie him upward (deference, fear) — asymmetry is deliberate, keep it. Among made
+  men / equals: du. The capo addressing an outsider or a victim he's about to threaten can use an icy
+  Sie that is more menacing than du. A switch from Sie to du can be a power move (forced intimacy,
+  contempt) — preserve that beat, don't normalize it.
+- FLIRTATION / ROMANCE ARC: the du/Sie shift IS the relationship arc. Two people who start at Sie and
+  move to du have crossed a line; render the moment of switching with care — it may be marked in the
+  source only by tone, but in German it's an event. In sports-romance banter, antagonists-to-lovers
+  often spar at a needling Sie before tumbling into du. If the source has a "you can call me [first name]"
+  beat, that is usually the du-invitation ("Wir können uns ruhig duzen.").
+- Once a pair is established at du, keep it consistent for the whole book unless the source breaks it.
+
+TONE RANGE (flex across the kit)
+- COZY WARMTH: gemütlich, warmherzig, einladend. Touchstone: "Es duftete nach frischem Kaffee und
+  Zimt, und für einen Augenblick war die Welt in Ordnung." Wry, communal humor; the inconvenience of
+  a dead body in the village endured with a raised eyebrow, never despair. Diminutives and warmth via
+  "-chen/-lein" used sparingly (Häuschen, Tässchen) — German diminutives are softer-keyed than Romanian,
+  don't overdo.
+- DARK / VIOLENT MAFIA INTENSITY: cold, clipped, brutal. Full profanity and threat register (see below).
+  Touchstone: "Er legte die Waffe auf den Tisch, ohne zu blinzeln. »Du redest jetzt, oder du redest gar
+  nicht mehr.«" Short sentences, present menace, no softening. Sex is explicit and rendered fully.
+- SPORTS-ROMANCE BANTER: quick, teasing, competitive, modern. Touchstone: "»Schöner Pass, Hotshot.« —
+  »Eifersüchtig?« — »In deinen Träumen.«" Contemporary slang, dry comebacks, English loanwords kept
+  where a German athlete would keep them (Coach, Locker Room, Game Day).
+
+DIALOGUE PUNCTUATION (CRITICAL — follow exactly)
+HOUSE STANDARD (ruled 2026-09-03): German FICTION uses GUILLEMETS »…« for direct speech — the German
+orientation, points turned INWARD toward the text: » opens, « closes. (This is the opposite of French
+« … ».) Do NOT use English "…". Do NOT use „…" for dialogue in a novel.
+WHY: „…" is the German NON-FICTION / Sachbuch convention (and school-taught standard); German trade
+novels use »…« almost without exception, because a page of „…" reads visually "ausgefranst" (frayed) while
+guillemets sit evenly on the line. Earlier editions of this kit had the two conventions swapped.
+- Nested / inner quote (a quote inside a quote): single guillemets ›…‹.
+- „…" survives ONLY where a per-book note explicitly designates it (e.g. a non-fiction pastiche, an
+  in-world document, a children's/YA line that asks for it).
+
+Rules:
+- Opening a turn: speech goes in » … «, attribution outside.
+- Comma BEFORE the closing guillemet when an attribution (sagte sie / fragte er) follows: the
+  sentence-internal comma sits OUTSIDE the closing mark, after the «. A ? or ! stays INSIDE.
+- Mid-line attribution (Inquit interrupts the speech): close the guillemet, comma, attribution, comma,
+  reopen. Attribution verb stays lowercase.
+- Interruption mid-word: em dash — hard against the cut-off word, then close the guillemet.
+- Nested / inner quote: ›…‹ inside the outer »…«.
+
+WORKED EXAMPLES (EN -> DE):
+1. Opening a turn / statement + following attribution:
+   EN: She said, "Good morning."
+   DE: »Guten Morgen«, sagte sie.
+   (Comma after the closing «; sagte lowercase.)
+
+2. Question + following attribution:
+   EN: "Where are you going?" she asked.
+   DE: »Wohin gehst du?«, fragte sie.
+   (? stays inside the guillemets, then comma, then fragte — du because they're intimate.)
+
+3. Mid-line attribution splitting two sentences:
+   EN: "I don't know," he said. "It's strange."
+   DE: »Ich weiß nicht«, sagte er. »Es ist seltsam.«
+   (Comma after first closing «; period after the said-segment; new sentence reopens with », capital E.)
+
+4. Mid-line attribution splitting ONE sentence (continuation lowercase):
+   EN: "Wait," she said, "I need to think."
+   DE: »Warte«, sagte sie, »ich muss nachdenken.«
+   (Continuation "ich" stays LOWERCASE because it's the same sentence resuming.)
+
+5. Interruption (em dash, speech cut off):
+   EN: "Wait, I need to—" she began.
+   DE: »Warte, ich muss—«, begann sie.
+   (Em dash hard against the cut-off word, then close guillemet, comma, attribution.)
+
+6. Nested quote (quote within a quote):
+   EN: "He literally said, 'I'll burn it down,' to my face," she hissed.
+   DE: »Er hat mir wortwörtlich ins Gesicht gesagt: ›Ich brenne es nieder‹, und das war’s«, zischte sie.
+   (Outer »…«, inner ›…‹ ; colon before the inner direct quote.)
+
+- Question mark / exclamation hug the word: »Wohin?« not »Wohin ?«. Ellipsis: … (with a hard space before
+  if a word trails off: »Ich dachte nur …«). Em dash — for interruptions and asides (spaced as an aside:
+  »Sie kam — falls sie überhaupt kam — zu spät.«).
+- Never begin a narration-only paragraph with an opening guillemet unless someone actually speaks.
+
+
+PROFANITY & INTIMACY (render in FULL — do not soften, censor, or fade)
+Match the source's exact heat and bluntness. German profanity is largely scatological/sexual; map by force,
+not by literal word. Mild -> crude ladder:
+- damn / damn it      -> verdammt / verdammt noch mal / verflucht
+- crap / shoot        -> Mist / verdammter Mist
+- hell (what the —)   -> Was zum Teufel / Was zur Hölle
+- ass / asshole       -> Arsch / Arschloch
+- bastard             -> Bastard / Mistkerl / Dreckskerl
+- shit                -> Scheiße / Scheiß (prefix: Scheißkerl, Scheißtag)
+- son of a bitch      -> Hurensohn (very strong) / Mistkerl (milder)
+- prick / wanker      -> Wichser / Schwanz
+- bitch               -> Schlampe (whore-coded) / Miststück (nastier-cold)
+- cunt                -> Fotze (extreme; reserve for the most violent/degrading mafia register)
+- motherfucker        -> Wichser / Hurensohn / Drecksau (force-match per line)
+- fuck (interj.)      -> Fick / Scheiße / Fuck (loan kept in modern/young voices)
+- fuck (verb, sex)    -> ficken (blunt, crude — matches explicit source)
+- fuck you            -> Fick dich / Leck mich (am Arsch) / Verpiss dich
+- fucking (intensifier) -> verdammt / verfickt / Scheiß- (prefix): "verdammt gut", "verficktes Glück"
+MAFIA INTENSITY: use the full crude tier without flinching — Scheiße, Fotze, Wichser, verdammt, Hurensohn,
+Drecksau land cold and hard. Threats stay concrete and present-tense menacing. Don't elevate the diction.
+INTIMACY / EXPLICIT SEX: render anatomy and acts at the source's exact bluntness. Romance-explicit German
+uses a workable register — Schwanz (cock), Muschi (pussy, softer) / Fotze (crude), kommen (to come),
+stöhnen (moan), hart, tief, ficken/nehmen/vögeln. Tender scenes can stay softer (in dich, spüren,
+zittern); crude scenes stay crude. Don't fade to euphemism unless the source does.
+
+IDIOMS (find the natural German equivalent — never literal)
+- spill the beans            -> mit der Sprache herausrücken / die Katze aus dem Sack lassen
+- on edge / nervous          -> mit den Nerven am Ende / wie auf glühenden Kohlen
+- the plot thickens          -> die Sache wird immer undurchsichtiger / jetzt wird's spannend
+- gut feeling                -> Bauchgefühl
+- things aren't what they seem -> der Schein trügt
+- bite the bullet            -> in den sauren Apfel beißen
+- works like magic           -> funktioniert wie von Zauberhand
+- piece of cake              -> ein Kinderspiel
+- speak of the devil         -> wenn man vom Teufel spricht
+- get cold feet              -> kalte Füße bekommen
+- the ball is in your court   -> jetzt bist du am Zug
+- throw in the towel         -> das Handtuch werfen
+- play hardball              -> hart auf hart spielen / keine Gefangenen machen
+
+GENRE VOCABULARY
+CRIME / MYSTERY / MAFIA:
+- murder / homicide: Mord; murder investigation: Mordermittlung; detective: Kommissar/Kommissarin
+  (police), Ermittler/in, Detektiv/in (private)
+- evidence: Beweis(e), Indiz; clue: Hinweis, Spur; suspect: Verdächtige(r); alibi: Alibi
+- crime scene: Tatort; motive: Motiv; weapon: (Tat)Waffe; corpse: Leiche
+- mob / mafia: Mafia, das Syndikat, die Organisation; boss: der Boss, der Don, der Pate
+- soldier / made man: Soldat; capo; underboss: Unterboss; consigliere kept
+- protection money: Schutzgeld; debt: Schulden; hit / contract: Auftrag, Auftragsmord; snitch: Ratte,
+  Verräter; territory: Revier, Territorium; loyalty: Loyalität, Treue
+ROMANCE / INTIMACY:
+- to kiss: küssen; to hold: halten; heartbeat: Herzschlag; butterflies: Schmetterlinge im Bauch
+- crush / falling for: verknallt sein, sich verlieben; longing: Sehnsucht; desire: Verlangen, Begierde
+- to flirt: flirten; tease: necken, aufziehen; blush: erröten, rot werden
+- explicit register: see PROFANITY & INTIMACY above
+HOCKEY / SPORTS (EN kept vs. translated in German usage — German hockey culture keeps many anglicisms):
+- ice hockey: Eishockey (the sport); a hockey game: Eishockeyspiel / das Spiel
+- KEEP English (idiomatic in German hockey/sports speech): Coach, Goalie (also Torwart/Torhüter),
+  Power Play, Hattrick, Penalty, Faceoff, Game Day, Locker Room (or Kabine), Rookie, Captain (or Kapitän),
+  Forward / Defender (or Stürmer/Verteidiger), Puck, Body Check / Check (verb: checken)
+- TRANSLATE: rink -> Eisbahn / das Eis; goal (score) -> Tor; goal (net) -> das Tor; period -> Drittel
+  (hockey is played in three Drittel); shot -> Schuss; assist -> Vorlage (or kept "Assist"); team ->
+  Team / Mannschaft; coach as a verb / training -> Training, trainieren; season -> Saison; playoffs ->
+  Playoffs (kept); overtime -> Verlängerung (or "Overtime"); fans -> Fans; jersey -> Trikot
+- Choose the kept-English form for cocky young-athlete banter, the German form for narration/neutral.
+
+TYPOGRAPHY
+- Quotation marks: »…« primary (German orientation, points inward); ›…‹ for nested. (Ruled 2026-09-03
+  — see DIALOGUE PUNCTUATION. „…" is the non-fiction convention and is used ONLY where a per-book note
+  designates it.) Use the correct guillemet glyphs, never straight " or '.
+- ß vs. ss: ß after a long vowel or diphthong (Straße, draußen, groß, heißen, Fuß); ss after a short
+  vowel (dass, muss, Fluss, küssen, Scheiße — short e). Follow current Rechtschreibung. (Do NOT use the
+  Swiss convention of ss-only.) Capital ß is ẞ but in practice use SS in all-caps unless ẞ is intended.
+- Noun capitalization: ALL nouns are capitalized (das Haus, die Liebe, der Mord), and nominalized verbs/
+  adjectives too (das Lächeln, das Gute, beim Schwimmen). This is non-optional German orthography.
+- Polite "Sie" / "Ihnen" / "Ihr" (formal address) is capitalized; informal "du/dich/dir/ihr" is now
+  lowercase by default in narrative prose (capitalizing Du in letters is optional/old-fashioned — keep
+  lowercase unless the source is epistolary and wants the courtesy).
+- Ellipsis: … (single glyph), space before it when a word trails off ("Ich weiß nicht …"), no space when
+  it elides letters within a word.
+- Em dash —: interruptions (hard against the word) and parenthetical asides (spaced: " — … — ").
+  German also uses the en dash – as a "Gedankenstrich" with spaces for asides; either is acceptable but
+  be consistent within a book — default to em dash — for interruptions.
+- Numbers/quotes follow German convention; decimal comma, thousands point where numbers are spelled in figures.
+
+CHAPTER WORD
+- "Kapitel N" (the word Kapitel followed by the Arabic numeral): Kapitel 1, Kapitel 2, Kapitel 17.
+  No chapter titles unless the source has them.

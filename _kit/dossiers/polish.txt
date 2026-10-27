@@ -1,0 +1,61 @@
+DOSSIER — POLISH (Polski)
+Isabella Proctor paranormal cozy mystery series.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- POLISH: czas przeszły for narration; keep verbal ASPECT (dokonany/niedokonany) and register
+  consistent across chapters. Do not switch to a historic present unless the source does.
+
+REGISTER & VOICE
+- Colloquial contemporary Polish; polished but never stiff — an educated, witty everyday voice.
+- Use flexible word order (Polish cases) for emphasis as a Polish writer would, not as English dictates.
+- Avoid calques. If a phrase "sounds translated," replace it with the natural Polish equivalent.
+- Diminutives (zdrobnienia) are the warmth engine — use them naturally, not cutely:
+  domek (little house), koteczek (little kitty), kawusia (a nice little coffee).
+- Cozy calibration word: przytulny / przytulna (snug, intimate); the setting is kameralny.
+  If a scene feels przytulny, the translation is on track.
+
+HUMOR
+- Lighter end of Polish irony/absurdism. Dry irony, self-deprecation for the protagonist.
+- Dial back czarny humor (black humor) for the cozy register. Understatement beats overstatement.
+- The paranormal gets a resigned shrug, like bad autumn weather — matter-of-fact, not horror.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+- Direct speech: an em dash (—) opens each spoken line; attribution is set off by a second em dash.
+    EN: She said, "Good morning."            ->  — Dzień dobry — powiedziała.
+    EN: "Where are you going?" she asked.     ->  — Dokąd idziesz? — zapytała.
+    EN: "I don't know," he said. "It's strange." ->  — Nie wiem — odparł. — To dziwne.
+    Interrupted:  "Wait, I need to—" she began. ->  — Poczekaj, muszę— zaczęła.
+- Quoted speech INSIDE narration (reported, not direct dialogue): use „low-9 … high-6” marks.
+    EN: She told him it was "completely normal." ->  Powiedziała mu, że to „coś zupełnie normalnego”.
+    NOTE: the CLOSING mark is ” (U+201D), never a straight ". A straight closer is a defect;
+    it produced 12 of them across 5 chapters of Book 5 before it was caught.
+- Ellipsis: … (single character). Use ! and ? as in English, with Polish restraint.
+- Never begin a narration-only paragraph with a dialogue em dash.
+
+PARANORMAL TERMS
+- ghost / spirit: duch (common), zjawa / widmo (literary), mara (shade)
+- witch: czarownica (standard), wiedźma (more powerful / knowing)
+- haunted: nawiedzony / nawiedzona; "tam straszy" (something haunts there)
+- spell / curse: zaklęcie (spell), klątwa (curse), czary (witchcraft)
+- psychic / intuition: przeczucie, jasnowidz (clairvoyant), medium
+- omen: zły omen, znak, przepowiednia
+- Tone example: "Tak, wiedźma z naprzeciwka. Ma najlepsze ciasto w okolicy."
+
+IDIOMS (find the Polish equivalent — never literal)
+- spill the beans -> puścić farbę / wysypać się
+- on edge / nervous -> jak na szpilkach
+- the plot thickens -> sprawa się komplikuje / coraz ciekawiej
+- gut feeling / hunch -> przeczucie / szósty zmysł
+- things aren't what they seem -> pozory mylą  (genre touchstone)
+- bite the bullet -> wziąć byka za rogi / stawić czoła
+- works like magic -> jak za dotknięciem czarodziejskiej różdżki
+
+COZY VOCABULARY
+- cozy / snug: przytulny / przytulna; kameralny (intimate, small-scale)
+- community: sąsiedztwo, wspólnota, znajomi
+- gossip: plotki, plotkować, plotka

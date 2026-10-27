@@ -1,0 +1,251 @@
+# APPLIED — Inn Trouble - ASSEMBLED - FORMATTED_Norwegian (2026-10-26, second pass)
+
+File: `translated\corrected\Inn Trouble - ASSEMBLED - FORMATTED_Norwegian.docx`. Edits made at the <w:t> level only (no paragraph collapsed; a span crossing runs was merged only when every spanned run had identical formatting). Paragraph numbers = order of <w:p> in document.xml (claude_translate.paras).
+
+- Applied: 130 targeted + 37 dialogue conversions. Refused by verification: 0. Report quotes not found: 0.
+- Needs a decision: 1 (NO2-D1, circle term across books).
+
+## Targeted (para · was → now · why)
+- [0] 1 Title page: «Kapittel 1» → «<bt>Inn Trouble</bt>» — title page carried a chapter label instead of the book title (EN 'Inn Trouble', web NO-D1); anchored as in IT2 FR / FF1 so bt_anchors stamp localises it
+- [10] Ruling 5: «Frost and Found» → «<bt>Frost and Found</bt>» — series-page title anchored (real book title; matches IT2 FR)
+- [11] Ruling 5: «Inn Trouble» → «<bt>Inn Trouble</bt>» — series-page title anchored (real book title; matches IT2 FR)
+- [19] 6 Term: «Brevet krever en halv million dollar. Det vet hva oldemoren» → «Lappen krever en halv million dollar. Den vet hva oldemoren» — the note = 'lappen' (blurb)
+- [19] 6 Term: «og det nevner safiren i hjertet av brosjen» → «og den nevner safiren i hjertet av brosjen» — agreement with 'lappen'
+- [20] 3 Reversed meaning: «En smed skyldte tjue dollar og nektet å gi et rett svar.» → «En smed som har tjue dollar til gode og ikke får et rett svar.» — EN 'A blacksmith owed twenty dollars and refused a straight answer' = Sam is OWED the money and is refused an answer; NO made him the debtor who refuses to answer
+- [28] 6 Term: «Lokalaviskontoret hadde» → «Gazette-kontoret hadde» — EN 'The Gazette office'; paper's name is Gazette (FF1 NO 'lokalspalten for Gazette')
+- [30] 3 Mistranslation: «med en enslig kvist bitterhet for sesongens oransje farge» → «med en enslig kvist med oransje bær for sesongens oransje farge» — EN 'a sprig of bittersweet' (orange-berried vine); 'bitterhet' = bitterness (web NO-D9)
+- [34] 6 Term: «Lobbyen var god og gjennomvarm» → «Foajeen var god og gjennomvarm» — the inn lobby = 'foajeen' (18x elsewhere vs 6x 'lobby', all in Ch1; web NO-D11)
+- [36] 3 Mistranslation: «som en kvinne som tar på seg en kappe hun» → «som en kvinne som tar på seg en kåpe hun» — EN 'coat'; 'kappe' = cape
+- [49] 6 Term: «akkurat der i lobbyen» → «akkurat der i foajeen» — lobby = 'foajeen'
+- [51] 6 Term: «i en stille lobby» → «i en stille foajé» — lobby = 'foajé'
+- [57] 6 Term: «ta inn lobbyen» → «ta inn foajeen» — lobby = 'foajeen'
+- [69] 6 Term: «tvers over lobbyen» → «tvers over foajeen» — lobby = 'foajeen'
+- [72] 6 Term: «uroen inne i lobbyen» → «uroen inne i foajeen» — lobby = 'foajeen'
+- [78] 6 Term: «forbi lokalavisens avislesende skjelett» → «forbi Gazettes avislesende skjelett» — EN 'the Gazette's newspaper-reading skeleton'
+- [84] 6 Term: «hvilken ettermiddag syforeningen møttes» → «hvilken ettermiddag syklubben møttes» — the circle = 'syklubben' throughout this edition (31x)
+- [101] 6 Term: «Det var et brev. Håndskriften» → «Det var en lapp. Håndskriften» — the blackmail note = 'lappen' (book alternated brev/lapp, web NO-D11); 'brev' is reserved for the 1924 letters
+- [101] 6 Term: «for den som hadde skrevet det, ville» → «for den som hadde skrevet den, ville» — pronoun agreement with 'lappen'
+- [102] 6 Term: «Jeg leste det gjennom to ganger.» → «Jeg leste den gjennom to ganger.» — pronoun agreement with 'lappen'
+- [104] 6 Term: «Jeg har lest det tre hundre ganger.» → «Jeg har lest den tre hundre ganger.» — pronoun agreement with 'lappen'
+- [112] 6 Term: «og brevet i den andre» → «og lappen i den andre» — the note = 'lappen'
+- [119] 6 Term: «senket brevet. – Les det igjen. Det nevner safiren.» → «senket lappen. – Les den igjen. Den nevner safiren.» — the note = 'lappen' + agreement
+- [119] 6 Term: «Og det nevner Ridgeline» → «Og den nevner Ridgeline» — pronoun agreement with 'lappen'
+- [124] 4 Proper name: «Theo har esker med ting fra Blackburn.» → «Theo har esker med ting fra Blackburn-familien.» — EN 'Blackburn things' = the family's papers, not a place
+- [126] 6 Typo: «og Worthingtons’ gode uke» → «og Worthington-ekteparets gode uke» — wrong genitive apostrophe; edition uses 'Worthington-ekteparet'
+- [137] 3 Mistranslation: «Nick holdt suppen varm da jeg kom hjem, noe han pleide å gjøre når verden hadde kjølnet og blitt urolig.» → «Nick hadde suppe på komfyren da jeg kom hjem, noe han pleide å gjøre når verden hadde blitt urolig.» — EN 'had soup on ... when the world had gone uneasy'; 'kjølnet' is an addition, 'holdt suppen varm' wrong
+- [139] 6 Term: «Brevet, det røde båndet» → «Lappen, det røde båndet» — the note = 'lappen'
+- [140] 6 Term: «Da jeg la brevet på bordet» → «Da jeg la lappen på bordet» — the note = 'lappen'
+- [141] 6 Term: «og brevet foldet mot hjertet mitt» → «og lappen foldet mot hjertet mitt» — the note = 'lappen'
+- [143] 6 Grammar: «Du må nesten tro på henne hvis du hadde sett ansiktet hennes.» → «Du ville også ha trodd henne, hvis du hadde sett ansiktet hennes.» — EN 'You'd have to believe her, if you'd seen her face'; tense mismatch
+- [179] Ruling 6: «et bord med eplesider og ingefærkaker» → «et bord med varm eplemost og ingefærkaker» — cider must be non-alcoholic (served to children); 'eplesider' is alcoholic
+- [181] Ruling 6: «merket eplesideren også» → «merket eplemosten også» — cider non-alcoholic
+- [183] 8 Units: «trekke seg unna tomme for tomme» → «trekke seg unna, litt etter litt» — idiomatic 'by inches' -> imperial token removed (idiom rule)
+- [196] Ruling 6: «ved siderbordet i stad» → «ved eplemostbordet i stad» — cider non-alcoholic
+- [202] Ruling 6: «invitere alle sammen til cideren» → «invitere alle sammen til eplemosten» — cider non-alcoholic; 'cider' was English spelling
+- [207] Ruling 6: «gikk videre mot cideren» → «gikk videre mot eplemosten» — cider non-alcoholic
+- [208] 6 Grammar: «fra en girlander med granbar» → «fra en girlande med granbar» — 'girlander' is plural after 'en'
+- [209] 6 Term: «den eksakte rødfargen brevet hadde bedt Fiona» → «den eksakte rødfargen lappen hadde bedt Fiona» — the note = 'lappen'
+- [211] 6 Term: «ved siden av brevet.» → «ved siden av lappen.» — the note = 'lappen'
+- [211] Ruling 6 + 3: «som nå stod bøyd ved siderbordet og fortalte en liten gutt om grunnleggelsen av byen av hele sitt trette hjerte, med store øyne av undring.» → «som nå stod bøyd ved eplemostbordet og fortalte en liten gutt om grunnleggelsen av byen av hele sitt trette hjerte, mens gutten lyttet med store øyne.» — cider non-alcoholic; EN 'the boy's eyes wide' (NO gave the wide eyes to Theo)
+- [215] 3 Mistranslation: «som lo av ting før de nesten var ferdig med å være morsomme» → «som lo av ting før de helt var ferdige med å være morsomme» — EN 'before they were quite finished being funny'; 'nesten' = almost
+- [217] Ruling 5: «en uke før det sto å lese i <bt>Gazette</bt>.» → «en uke før det sto å lese i Gazette.» — stray <bt> on the newspaper name removed
+- [231] Ruling 5: «for jeg spurte ham for <bt>Gazette</bt> sin del» → «for jeg spurte ham på vegne av Gazette» — stray <bt> removed; 'X sin' genitive replaced by idiomatic 'på vegne av'
+- [233] Currency: «gi en eneste rød øre for å holde lysene på» → «gi en eneste cent for å holde lysene på» — EN 'one thin dime'; 'rød øre' relocates the dollar economy
+- [235] 6 Term: «alene blant boksene til Blackburn» → «alene blant Blackburn-eskene» — EN 'the Blackburn boxes' = 'Blackburn-eskene' elsewhere
+- [237] Ruling 5: «Theo har bedt <bt>Gazette</bt> om å sende noen.» → «Theo har bedt Gazette om å sende noen.» — stray <bt> removed
+- [256] 3 Mistranslation: «av en lykt som noen hadde skåret ut tidligere» → «av en gresskarlykt som noen hadde skåret ut tidligere» — EN 'jack-o'-lantern'; 'lykt' alone = lantern
+- [260] 4 Proper name: «Snøball satt ved Emmas føtter» → «Snowball satt ved Emmas føtter» — dog's name rendered Snøball 5x / Snowball 7x; unified to Snowball (names stay English, cf. Pip; web NO-D10)
+- [267] 4 Proper name: «at Snøball nesten hadde lært seg» → «at Snowball nesten hadde lært seg» — dog's name unified to Snowball
+- [269] 4 Proper name: «mellom Snøball og et gresskar» → «mellom Snowball og et gresskar» — dog's name unified to Snowball
+- [273] 6 Term: «Noriko Tanaka stod midt på gressletten» → «Noriko Tanaka stod midt på allmenningen» — the green = 'allmenningen'
+- [279] 3 Mistranslation: «Hun hadde gått tilbake til lykten Pip hadde herjet med» → «Hun hadde gått tilbake til gresskarlykten Pip hadde herjet med» — EN 'jack-o'-lantern'
+- [302] Currency: «krevde aldri en øre for det» → «krevde aldri en cent for det» — EN 'never charged a cent'
+- [310] 3 Mistranslation: «hva i all verden det var jeg kjempet for» → «hva det egentlig var jeg kjempet for» — EN 'what, exactly, I was fighting for'; 'i all verden' adds exasperation
+- [313] 6 Grammar/Term: «Jeg hadde holdt utpressingsbrevet opp til nesen» → «Jeg hadde holdt utpressingslappen opp til nesen» — 'brevet ... ga den' gender clash; the note = 'lappen'
+- [319] 6 Term: «Den var på brevet, og den var her.» → «Den var på lappen, og den var her.» — the note = 'lappen'
+- [321] Currency: «Ikke det at jeg har sett snurten av en krone for den siste biten.» → «Ikke det at jeg har sett snurten av en cent for den siste biten.» — EN 'a penny'; 'krone' relocates the book's (dollar) economy
+- [325] 6 Term: «og lukten var på brevet.» → «og lukten var på lappen.» — the note = 'lappen'
+- [327] 6 Idiom: «Sam, ting er i en knipe, gi meg frist til våren» → «Sam, det er trangt for tiden, gi meg frist til våren» — EN 'things are tight'; 'ting er i en knipe' unidiomatic
+- [335] 6 Term: «Brevet luktet av smia. Men luktet det av smia fordi Sam Patel hadde bøyd seg over det med en penn, eller fordi det hadde vært et sted» → «Lappen luktet av smia. Men luktet den av smia fordi Sam Patel hadde bøyd seg over den med en penn, eller fordi den hadde vært et sted» — the note = 'lappen' + agreement
+- [339] 6 Term: «lukten på brevet markerte hvor det hadde vært» → «lukten på lappen markerte hvor den hadde vært» — the note = 'lappen' + agreement
+- [373] 6 Term: «Den som hadde skrevet det brevet, arbeidet i mørket.» → «Den som hadde skrevet den lappen, arbeidet i mørket.» — the note = 'lappen'
+- [394] 8 Units: «Hun lot seg ikke rikke en tomme av Bram» → «Hun lot seg ikke rikke en millimeter av Bram» — idiom 'not one inch' -> imperial token removed (idiom rule)
+- [409] 6 Term: «større enn en brosje og et brev.» → «større enn en brosje og en lapp.» — the note = 'lappen'
+- [410] 6 Term: «Jeg hadde brevet i kåpelommen, og nå gjorde hun det hun hadde begynt med hver gang brevet var i nærheten.» → «Jeg hadde lappen i kåpelommen, og nå gjorde hun det hun hadde begynt med hver gang lappen var i nærheten.» — the note = 'lappen'
+- [410] 3 Mistranslation: «så opp på meg og sa et enkelt, skarpt og bestemt lite kvek, som en pekende finger.» → «så opp på meg og kvitret én gang, skarpt og bestemt, som en pekende finger.» — EN 'chirped'; Pip 'kvitrer' everywhere else, 'kvek' = croak
+- [412] 6 Term: «– Brevet lukter smie,» → «– Lappen lukter smie,» — the note = 'lappen'
+- [412] 6 Term: «Uansett hvor det brevet har vært,» → «Uansett hvor den lappen har vært,» — the note = 'lappen'
+- [417] 6 Typo: «som et stykke familie-sølv» → «som et stykke familiesølv» — compound written with stray hyphen
+- [446] Ruling 5: «skjøtet til <bt>Winter Wonderland Inn</bt> et sted» → «skjøtet til Winter Wonderland Inn et sted» — stray <bt> on the inn's name removed
+- [450] 6 Term: «halvt fordi Avisen ville ha et vennlig ansikt» → «halvt fordi Gazette ville ha et vennlig ansikt» — EN 'the Gazette'; paper's name rendered as generic 'Avisen' (web NO-D5)
+- [476] 8 Units: «på den ærlige, slitsomme, tomme-for-tomme-måten» → «på den ærlige, slitsomme, skritt-for-skritt-måten» — idiom 'inch-by-inch' -> imperial token removed (idiom rule)
+- [480] 3 Mistranslation: «Han hadde båret esken med blikket festet på føttene.» → «Han hadde båret eskene med blikket festet på føttene.» — EN 'carried the boxes' (plural)
+- [482] 6 Grammar: «hvor jeg skulle plassere en montre,» → «hvor jeg skulle plassere en monter,» — 'montre' is the plural; singular 'en monter'
+- [490] Ruling 5: «stående på disken i <bt>The Holly Jolly Bakery</bt>, en sånn» → «stående på disken i Holly Jolly Bakery, en sånn» — stray <bt> removed; shop name matched to the edition's own form 'Holly Jolly Bakery' (para 803)
+- [498] 3 Mistranslation: «med den nøysomme tilfredsheten til en som ser på et godt show» → «med den dype tilfredsheten til en som ser på et godt show» — EN 'satisfaction of a man at a good show'; 'nøysom' = frugal
+- [502] 3 Mistranslation: «Lenge etterpå sto hun og speidet oppover stien» → «Så ble hun stående en lang stund og speide oppover stien» — EN 'For a long moment after that she looked'; 'Lenge etterpå' = long afterwards
+- [507] 6 Term: «til en peis hun aldri hadde sett» → «til et ildsted hun aldri hadde sett» — EN 'a hearth she'd never seen'; hearth = 'ildsted'
+- [519] 3 Mistranslation: «Theo fortsatte å beklage seg over taket,» → «Theo ba om unnskyldning for taket gang på gang,» — EN 'kept apologizing for the roof'; 'beklage seg over' = complain about
+- [554] Currency: «for å presse henne for en krone.» → «for å presse henne for en eneste cent.» — EN 'a dime'; 'krone' relocates the dollar economy
+- [577] 3 Mistranslation: «Jeg hadde lest den baklengs. Nå kunne jeg lese den riktig vei,» → «Jeg hadde lest det baklengs. Nå kunne jeg lese det riktig vei,» — EN 'I'd been reading it backward' = the clue ('sporet', neuter), not the note
+- [595] 6 Term: «Den sa mer enn brevet, og den sa det snillere.» → «Den sa mer enn lappen, og den sa det snillere.» — the note = 'lappen' (here next to Constance's real letter)
+- [596] Currency: «det fantes ikke penger til lege, ikke et øre.» → «det fantes ikke penger til lege, ikke en cent.» — EN 'none'; 'øre' relocates the dollar economy
+- [596] 6 Term: «på den enkle måten brevet vil ha venninnen din til å tro» → «på den enkle måten lappen vil ha venninnen din til å tro» — the note = 'lappen'; 'brevet' here collides with Constance's letter in the same speech
+- [620] Currency: «Theo ville aldri stjålet en øre for sin egen del.» → «Theo ville aldri stjålet en eneste cent for sin egen del.» — EN 'a penny'; 'øre' relocates the dollar economy
+- [627] 6 Term: «der den gamle peisen på Nordpolen ville ha stått» → «der det gamle ildstedet på Nordpolen ville ha stått» — EN 'the old hearth of the Pole'; hearth = 'ildsted' (Ch10 [404] [408])
+- [628] 6 Term: «– En peis, sa jeg,» → «– Et ildsted, sa jeg,» — EN 'A hearth' — echoes Nick's 'Et ildsted' in Ch10
+- [629] 6 Term: «– En peis. Armen hans la seg rundt meg. – Den er ikke ferdig. Den kan ikke holde på den ennå,» → «– Et ildsted. Armen hans la seg rundt meg. – Det er ikke ferdig. Det kan ikke holde på den ennå,» — hearth = 'ildsted' + agreement
+- [641] 6 Term: «hun holdt brevet ut på utstrakt arm, klemt fast mellom to fingre, som om det kunne snu seg og bite henne.» → «hun holdt lappen ut på utstrakt arm, klemt fast mellom to fingre, som om den kunne snu seg og bite henne.» — the note = 'lappen' (same chapter calls it 'den andre lappen'); also fixes 'Den lå...'/'brevet' gender clash
+- [662] Ruling 6: «Boder med eplesider og stekte kastanjer» → «Boder med varm eplemost og stekte kastanjer» — cider non-alcoholic
+- [665] Ruling 6: «Emma Redfern fant meg ved sideren» → «Emma Redfern fant meg ved eplemosten» — cider non-alcoholic (served to an 8-year-old)
+- [665] Ruling 6: «med to kopper sider og» → «med to kopper eplemost og» — cider non-alcoholic
+- [668] Ruling 6: «Hun stod ved siderboden» → «Hun stod ved eplemostboden» — cider non-alcoholic
+- [671] Ruling 6: «Hun tok en slurk av sideren.» → «Hun tok en slurk av eplemosten.» — cider non-alcoholic (the police chief on duty)
+- [676] 4 Proper name: «siden uken da vi fant Snøball.» → «siden uken da vi fant Snowball.» — dog's name unified to Snowball
+- [685] 6 Term: «de to brevene, kopien jeg hadde laget» → «de to lappene, kopien jeg hadde laget» — the notes = 'lappene'; chapter otherwise collides with the Blackburn letters
+- [686] 6 Term: «Brevet siterte Theos egne ord.» → «Lappen siterte Theos egne ord.» — the note = 'lappen'
+- [686] 6 Term: «Brevet var skrevet på Historielagets kremfargede brevpapir» → «Lappen var skrevet på Historielagets kremfargede brevpapir» — the note = 'lappen'
+- [688] 6 Term: «Jeg tok det andre brevet og et ark» → «Jeg tok den andre lappen og et ark» — the note = 'lappen'
+- [688] 6 Term: «Brevet var skrevet på papir fra Theos eget lager» → «Lappen var skrevet på papir fra Theos eget lager» — the note = 'lappen'
+- [691] 6 Term: «Theo hadde skrevet brevene. Men Theo kunne ikke ha båret det andre brevet inn i en foajé full av festivalgjester og gått igjen uten at et menneske la merke til det. Noen andre hadde levert det til vertshuset.» → «Theo hadde skrevet lappene. Men Theo kunne ikke ha båret den andre lappen inn i en foajé full av festivalgjester og gått igjen uten at et menneske la merke til det. Noen andre hadde levert den til vertshuset.» — the notes = 'lappene' + agreement
+- [692] 6 Term: «Brevet visste ikke bare at brosjen var stjålet. Det visste at vertshuset var kjøpt for pengene.» → «Lappen visste ikke bare at brosjen var stjålet. Den visste at vertshuset var kjøpt for pengene.» — the note = 'lappen' + agreement; 'Brevet' here sits beside 'Blackburn-brevene' and misleads
+- [692] 6 Term: «hadde det første brevet stått.» → «hadde det stått i den første lappen.» — the note = 'lappen'
+- [695] 6 Term: «og Theo kunne ikke ha båret brevene til vertshuset.» → «og Theo kunne ikke ha båret lappene til vertshuset.» — the notes = 'lappene'
+- [697] Ruling 5: «med skjøtet til <bt>Winter Wonderland Inn</bt> liggende» → «med skjøtet til Winter Wonderland Inn liggende» — stray <bt> removed
+- [704] 3 Mistranslation: «og den maskinskrevne lappen på permen,» → «og den maskinskrevne etiketten på permen,» — EN 'typed tab'; 'lappen' is the blackmail note's word
+- [713] 6 Term: «Og han kunne ikke ha båret brevene tvers over byen» → «Og han kunne ikke ha båret lappene tvers over byen» — the notes = 'lappene' (sentence follows 'Blackburn-brevene')
+- [714] 6 Term: «den morgenen det andre brevet kom,» → «den morgenen den andre lappen kom,» — the note = 'lappen'
+- [715] 8 Units: «Theo for Historielaget han så dø tomme for tomme.» → «Theo for Historielaget han så dø litt etter litt.» — idiom 'die by inches' -> imperial token removed (idiom rule)
+- [722] 6 Term: «Brevene ville slutte, og Fiona ville være trygg.» → «Lappene ville slutte, og Fiona ville være trygg.» — the notes = 'lappene'
+- [733] 8 Units: «jeg hadde arbeidet meg inn tomme for tomme,» → «jeg hadde arbeidet meg inn bit for bit,» — idiom 'an inch at a time' -> imperial token removed (idiom rule)
+- [741] 6 Term: «De to brevene. Theos katalogkort» → «De to lappene. Theos katalogkort» — the notes = 'lappene'
+- [743] 6 Term: «To brev, krav om penger,» → «To lapper, krav om penger,» — the notes = 'lappene'
+- [773] 6 Term: «Men brevene visste at vertshuset var kjøpt for brosjepengene,» → «Men lappene visste at vertshuset var kjøpt for brosjepengene,» — the notes = 'lappene'; 'brevene' reads as the Blackburn letters, reversing the logic of the reveal
+- [781] 6 Term: «De to brevene ble til bevis,» → «De to lappene ble til bevis,» — the notes = 'lappene'
+- [795] 6 Term: «Brevene hadde stanset.» → «Lappene hadde stanset.» — the notes = 'lappene'
+- [811] 6 Grammar: «Den eneste måten stedet noen gang er trygg på,» → «Den eneste måten stedet noen gang blir trygt på,» — adjective agreement with neuter 'stedet'
+- [828] 6 Term: «Hun lot Claire skrive den for avisen,» → «Hun lot Claire skrive den for Gazette,» — EN 'for the Gazette'; paper's name
+- [846] 4 Proper name: «Snøball hadde på seg gevirhatten.» → «Snowball hadde på seg gevirhatten.» — dog's name unified to Snowball
+- [889] 8 Units: «– Fortsett da å holde det gående, sa jeg. – En tomme av gangen.» → «– Fortsett da å holde det gående, sa jeg. – Ett skritt av gangen.» — idiom 'An inch at a time' -> imperial token removed (idiom rule)
+- [892] 6 Term: «Arnen han hadde bygd glødet midt i rommet, de runde marksteinene var varme og gyldne, og magien hang over det tomme ildstedet i langsomme sirkler.» → «Ildstedet han hadde bygd, glødet midt i rommet, de runde marksteinene var varme og gyldne, og magien hang over den tomme risten i langsomme sirkler.» — hearth = 'ildsted' (Ch10/19/30), grate = 'rist' (Ch19); NO had hearth/grate swapped
+- [897] 6 Term: «så på hvordan gullet snurret i langsomme sirkler over ildstedet,» → «så på hvordan gullet snurret i langsomme sirkler over risten,» — EN 'over the grate'
+- [897] 8 Units: «gikk sine lange veier tilbake, tomme for hard tomme.» → «gikk sine lange veier tilbake, tungt skritt for tungt skritt.» — idiom 'inch by hard inch' -> imperial token removed (idiom rule)
+- [901] 6 Term: «fortsatte arnen å gløde inne i verkstedet.» → «fortsatte ildstedet å gløde inne i verkstedet.» — EN 'the hearth glowed on'; hearth = 'ildsted'
+- [914] 3 Mistranslation: «byttet ut skjelettene og lyktene med maisstengler» → «byttet ut skjelettene og gresskarlyktene med maisstengler» — EN 'jack-o'-lanterns'
+- [920] 3 Reversed meaning: «– Så absolutt.» → «– Nesten.» — EN 'Very nearly.' (then 'where's the North Pole in it?'); 'Så absolutt' = absolutely
+- [926] 6 Term: «Claire Bennett, som skrev for avisa,» → «Claire Bennett, som skrev for Gazette,» — EN 'who wrote for the Gazette'
+- [941] 3 Mistranslation: «jeg så du gjorde det på Bedehuset,» → «jeg så du gjorde det på grendehuset,» — EN 'at the Grange' (community hall); 'Bedehuset' = a prayer house
+- [946] Currency: «og hver eneste øre går til Historielagets takfond.» → «og hver eneste cent går til Historielagets takfond.» — EN 'every penny'; 'øre' relocates the dollar economy
+
+## Dialogue conversions (ruling 1) — full paragraph before → after
+- [255]
+  - was: Jeg holdt på å plassere dem langs scenekanten, fra størst til minst, da en liten, alvorlig stemme bak meg sa: «Fru Claus, pingvinen din spiser et gresskar.»
+  - now: Jeg holdt på å plassere dem langs scenekanten, fra størst til minst, da en liten, alvorlig stemme bak meg sa: – Fru Claus, pingvinen din spiser et gresskar.
+- [257]
+  - was: «Å nei, Pip.» Jeg dro henne opp etter magen. Hun kom opp igjen med frø hengende fra nebbet, gresskarrester på haken og ikke et gran av skam i hele kroppen. «Beklager så mye, Emma. Hun har overhodet ikke folkeskikk. Ingen verdens ting. Vi har forsøkt.»
+  - now: – Å nei, Pip. Jeg dro henne opp etter magen. Hun kom opp igjen med frø hengende fra nebbet, gresskarrester på haken og ikke et gran av skam i hele kroppen. – Beklager så mye, Emma. Hun har overhodet ikke folkeskikk. Ingen verdens ting. Vi har forsøkt.
+- [261]
+  - was: «Han liker henne ikke,» betrodde Emma meg og bøyde seg ned for å legge en beskyttende hånd på ryggen hans.
+  - now: – Han liker henne ikke, betrodde Emma meg og bøyde seg ned for å legge en beskyttende hånd på ryggen hans.
+- [262]
+  - was: «Han stoler ikke på henne,» sa jeg. «Det er ikke det samme, og det er klokere. Jeg stoler ikke på henne jeg heller, og jeg klekket henne ut selv.»
+  - now: – Han stoler ikke på henne, sa jeg. – Det er ikke det samme, og det er klokere. Jeg stoler ikke på henne jeg heller, og jeg klekket henne ut selv.
+- [264]
+  - was: «Hun har mast på meg i en uke for å høre om pingvinen kom til festivalen,» sa han. «Jeg tror nok at for Emmas del er Pip hele festivalen. Resten er bare det som må til for at pingvinen skal dukke opp.»
+  - now: – Hun har mast på meg i en uke for å høre om pingvinen kom til festivalen, sa han. – Jeg tror nok at for Emmas del er Pip hele festivalen. Resten er bare det som må til for at pingvinen skal dukke opp.
+- [265]
+  - was: «Pip ville vært hjertens enig med henne,» sa jeg. «Hun kommer til å forvente en scene og et flomlys. Ikke oppmuntre henne.»
+  - now: – Pip ville vært hjertens enig med henne, sa jeg. – Hun kommer til å forvente en scene og et flomlys. Ikke oppmuntre henne.
+- [269]
+  - was: «Hvordan går det med deg, Mark?» spurte jeg lavt neste gang vi passerte hverandre, mens Emma holdt på å forhandle frem en skjør fred mellom Snowball og et gresskar som hadde fornærmet ham.
+  - now: – Hvordan går det med deg, Mark? spurte jeg lavt neste gang vi passerte hverandre, mens Emma holdt på å forhandle frem en skjør fred mellom Snowball og et gresskar som hadde fornærmet ham.
+- [270]
+  - was: «Bedre.» Han sa det forsiktig, som en mann som setter foten på is han ennå ikke stoler på. «Vi har det bedre. Det finnes hele timer nå hvor jeg glemmer det, og så husker jeg det igjen, og det å minnes slår meg ikke i bakken lenger. Det bare går ved siden av meg en stund og så letter det igjen.» Han satte ned sin ende av en benk. «Det var byen som gjorde det. Jeg prøver hele tiden å finne ut hvordan man takker en hel by, og det finnes ingen måte å gjøre det på. Folk bare dukket opp hele tiden. Gryteretter. Noen tok med seg Emma en ettermiddag. Martha og den hunden. Du og den håpløse fuglen. Ingen ordnet opp i noe. Ingen kunne det. De bare fortsatte å dukke opp til det å dukke opp ble et liv igjen, og en dag så jeg meg rundt og oppdaget at vi levde det.»
+  - now: – Bedre. Han sa det forsiktig, som en mann som setter foten på is han ennå ikke stoler på. – Vi har det bedre. Det finnes hele timer nå hvor jeg glemmer det, og så husker jeg det igjen, og det å minnes slår meg ikke i bakken lenger. Det bare går ved siden av meg en stund og så letter det igjen. Han satte ned sin ende av en benk. – Det var byen som gjorde det. Jeg prøver hele tiden å finne ut hvordan man takker en hel by, og det finnes ingen måte å gjøre det på. Folk bare dukket opp hele tiden. Gryteretter. Noen tok med seg Emma en ettermiddag. Martha og den hunden. Du og den håpløse fuglen. Ingen ordnet opp i noe. Ingen kunne det. De bare fortsatte å dukke opp til det å dukke opp ble et liv igjen, og en dag så jeg meg rundt og oppdaget at vi levde det.
+- [271]
+  - was: Jeg skjønte hva han mente. Jeg hadde lest en mengde brev fra mennesker som befant seg midt oppe i det verste. «Det er det en by er til for, Mark,» sa jeg. «Du kommer til å gjøre det samme for den neste.»
+  - now: Jeg skjønte hva han mente. Jeg hadde lest en mengde brev fra mennesker som befant seg midt oppe i det verste. – Det er det en by er til for, Mark, sa jeg. – Du kommer til å gjøre det samme for den neste.
+- [272]
+  - was: «Det skal jeg,» sa han, og gikk for å hente en benk til.
+  - now: – Det skal jeg, sa han, og gikk for å hente en benk til.
+- [274]
+  - was: «Fru Claus.» Hun tok imot vottene, talte dem og skrev tallet ned. «Håndarbeidsbordet i bortre ende. Takk skal du ha. Og reinsdyrene dine står ikke på programmet i år.»
+  - now: – Fru Claus. Hun tok imot vottene, talte dem og skrev tallet ned. – Håndarbeidsbordet i bortre ende. Takk skal du ha. Og reinsdyrene dine står ikke på programmet i år.
+- [275]
+  - was: «Jeg skal si det til dem.»
+  - now: – Jeg skal si det til dem.
+- [276]
+  - was: «Si det til Bram. Jeg skrev ut en advarsel til ham i forrige uke på grunn av Komet i Maple Street, og han takket meg for det.» Ene munnviken hennes rykket oppover. «Ingen takker meg for en advarsel.»
+  - now: – Si det til Bram. Jeg skrev ut en advarsel til ham i forrige uke på grunn av Komet i Maple Street, og han takket meg for det. Ene munnviken hennes rykket oppover. – Ingen takker meg for en advarsel.
+- [279]
+  - was: Hun hadde gått tilbake til gresskarlykten Pip hadde herjet med, den med avrevet lokk og frøene strødd utover i det kalde gresset. Hun hadde stivnet til foran den, og så sa hun med en lav, varsom stemme som ikke bar preg av frykt: «Fru Claus. Se.»
+  - now: Hun hadde gått tilbake til gresskarlykten Pip hadde herjet med, den med avrevet lokk og frøene strødd utover i det kalde gresset. Hun hadde stivnet til foran den, og så sa hun med en lav, varsom stemme som ikke bar preg av frykt: – Fru Claus. Se.
+- [282]
+  - was: «Gjorde du det?» visket Emma, og det var ikke et gram av frykt i henne, bare en spent og skinnende undring. «Er det en Julenissen-greie? Fikk du julen til å gro opp av et gresskar?»
+  - now: – Gjorde du det? visket Emma, og det var ikke et gram av frykt i henne, bare en spent og skinnende undring. – Er det en Julenissen-greie? Fikk du julen til å gro opp av et gresskar?
+- [283]
+  - was: «Jeg gjorde det ikke,» sa jeg, og det var sant. «Men jeg tror likevel det kan være en juleting. Hjemme hos oss hender det at julen kommer tidlig.»
+  - now: – Jeg gjorde det ikke, sa jeg, og det var sant. – Men jeg tror likevel det kan være en juleting. Hjemme hos oss hender det at julen kommer tidlig.
+- [284]
+  - was: Emma bøyde seg ned og berørte et av de røde bærene med en enkelt, forsiktig fingertupp. «Det er vakkert,» sa hun, så lavt at det nesten ikke var et pust. Så så hun opp på meg, brå og intens. «Ikke fortell det til noen. De kommer til å ville grave det opp og sette det på glass. La oss få ha det for oss selv. Bare oss og Pip.»
+  - now: Emma bøyde seg ned og berørte et av de røde bærene med en enkelt, forsiktig fingertupp. – Det er vakkert, sa hun, så lavt at det nesten ikke var et pust. Så så hun opp på meg, brå og intens. – Ikke fortell det til noen. De kommer til å ville grave det opp og sette det på glass. La oss få ha det for oss selv. Bare oss og Pip.
+- [285]
+  - was: «For oss selv,» samtykket jeg, krysset hjertet og så henne kupe hånden over kristtornen for å skjule den for den travle komiteen, akkurat som om hun holdt en liten, varm hemmelighet i live mellom hendene.
+  - now: – For oss selv, samtykket jeg, krysset hjertet og så henne kupe hånden over kristtornen for å skjule den for den travle komiteen, akkurat som om hun holdt en liten, varm hemmelighet i live mellom hendene.
+- [289]
+  - was: «Samme tid i morgen?» spurte Emma håpefullt, med hånden fremdeles over kristtornen. «For Pips skyld?»
+  - now: – Samme tid i morgen? spurte Emma håpefullt, med hånden fremdeles over kristtornen. – For Pips skyld?
+- [290]
+  - was: «Samme tid i morgen,» sa jeg. «For Pips skyld. Pass på at hun ikke river ned resten av festivalen.»
+  - now: – Samme tid i morgen, sa jeg. – For Pips skyld. Pass på at hun ikke river ned resten av festivalen.
+- [456]
+  - was: «Så,» sa en av de gamle kvinnene, fru Pelletier, som hadde sortert fotografiene, da han var ferdig, «det du forteller oss, Theo, er at vi kan holde dørene åpne til det nye året. Og deretter kan vi ikke det.»
+  - now: – Så, sa en av de gamle kvinnene, fru Pelletier, som hadde sortert fotografiene, da han var ferdig, – det du forteller oss, Theo, er at vi kan holde dørene åpne til det nye året. Og deretter kan vi ikke det.
+- [457]
+  - was: «Det er det regnestykket sier.» Theo tok av seg brillene og trykket fingrene mot neseroten, og et øyeblikk sviktet den omhyggelige stemmen. «Jeg har søkt overalt. Det vil jeg at dere alle skal vite. Hver eneste tilskuddsordning, hver stiftelse, hvert fond i tre stater. Jeg har en mappe med avslag. Jeg kunne ha tapetsert dette rommet med dem, og da hadde i det minste rommet vært tørt.» Noen av dem lo, den triste, hjelpeløse latteren til folk ved veis ende. «Kommunen vil ikke hjelpe. Jeg dro til ordføreren selv i vår, og fru Claus her dro igjen i morges, og han sier det samme som han alltid sier. Historien brøyter ikke veiene.» Han satte brillene ned på papirene sine. «Jeg vet ikke hva annet jeg skal prøve. Jeg har prøvd å være rimelig. Jeg har prøvd å være ynkelig. Jeg er ikke for stolt til å si at jeg prøvde å være ynkelig, skriftlig, til en stiftelse i storbyen, og de sendte tilbake et svært vennlig brev der det sto nei.»
+  - now: – Det er det regnestykket sier. Theo tok av seg brillene og trykket fingrene mot neseroten, og et øyeblikk sviktet den omhyggelige stemmen. – Jeg har søkt overalt. Det vil jeg at dere alle skal vite. Hver eneste tilskuddsordning, hver stiftelse, hvert fond i tre stater. Jeg har en mappe med avslag. Jeg kunne ha tapetsert dette rommet med dem, og da hadde i det minste rommet vært tørt. Noen av dem lo, den triste, hjelpeløse latteren til folk ved veis ende. – Kommunen vil ikke hjelpe. Jeg dro til ordføreren selv i vår, og fru Claus her dro igjen i morges, og han sier det samme som han alltid sier. Historien brøyter ikke veiene. Han satte brillene ned på papirene sine. – Jeg vet ikke hva annet jeg skal prøve. Jeg har prøvd å være rimelig. Jeg har prøvd å være ynkelig. Jeg er ikke for stolt til å si at jeg prøvde å være ynkelig, skriftlig, til en stiftelse i storbyen, og de sendte tilbake et svært vennlig brev der det sto nei.
+- [463]
+  - was: «Det er en god historie,» sa jeg. Hjertet mitt brast litt, for det var en god historie, og han var en god mann i et kaldt rom der regnet trengte seg inn.
+  - now: – Det er en god historie, sa jeg. Hjertet mitt brast litt, for det var en god historie, og han var en god mann i et kaldt rom der regnet trengte seg inn.
+- [584]
+  - was: «Ekte firma,» sa hun, før jeg i det hele tatt rakk å få frem et hei. «Et gammelt et, to stater unna, gjør nøyaktig det han din sier det gjør, skifteforvaltning og dødsboer og oppsporing av tapt eiendom for advokater som har mer penger enn tid. Og det finnes et Blackburn-bo, Jessica, et ekte, pågående et. Den siste i Adelaide Blackburns linje døde nede i storbyen i vår, ingen barn, ikke noe testament verdt papiret det er skrevet på, og etterlot seg et gedigent rot. Ordføreren vår er fra fetter- og kusinesiden, den siden som fikk nesen og ingenting av pengene. Han har ingenting med det å gjøre. Carter står i firmaets bøker som forskeren de leide inn for å gre det ut. Jeg fikk det fra en saksbehandler som bekreftet hele greia uten en eneste gang å skjønne at hun bekreftet noe som helst. Han er nøyaktig, på prikken den han sa til deg at han er. En snoker med lisens og representasjonskonto.»
+  - now: – Ekte firma, sa hun, før jeg i det hele tatt rakk å få frem et hei. – Et gammelt et, to stater unna, gjør nøyaktig det han din sier det gjør, skifteforvaltning og dødsboer og oppsporing av tapt eiendom for advokater som har mer penger enn tid. Og det finnes et Blackburn-bo, Jessica, et ekte, pågående et. Den siste i Adelaide Blackburns linje døde nede i storbyen i vår, ingen barn, ikke noe testament verdt papiret det er skrevet på, og etterlot seg et gedigent rot. Ordføreren vår er fra fetter- og kusinesiden, den siden som fikk nesen og ingenting av pengene. Han har ingenting med det å gjøre. Carter står i firmaets bøker som forskeren de leide inn for å gre det ut. Jeg fikk det fra en saksbehandler som bekreftet hele greia uten en eneste gang å skjønne at hun bekreftet noe som helst. Han er nøyaktig, på prikken den han sa til deg at han er. En snoker med lisens og representasjonskonto.
+- [586]
+  - was: «Herr Carter,» sa jeg. «Jeg kommer til å fortelle deg noe, og så kommer jeg til å se på ansiktet ditt mens jeg gjør det, og jeg ville satt pris på om du lot meg gjøre begge deler.»
+  - now: – Herr Carter, sa jeg. – Jeg kommer til å fortelle deg noe, og så kommer jeg til å se på ansiktet ditt mens jeg gjør det, og jeg ville satt pris på om du lot meg gjøre begge deler.
+- [587]
+  - was: Han la fra seg forstørrelsesglasset, interessert med det samme. «Vær så god. Jeg liker å bli iakttatt. Det er smigrende i min alder å være verdt å se på.»
+  - now: Han la fra seg forstørrelsesglasset, interessert med det samme. – Vær så god. Jeg liker å bli iakttatt. Det er smigrende i min alder å være verdt å se på.
+- [589]
+  - was: «En venninne av meg blir utpresset,» sa jeg. «På grunn av brosjen din. Om hvor den tok veien i 1924, og hvem som tok den, og hva som ble kjøpt for pengene den innbrakte. Noen truer med å ødelegge familien hennes med historien med mindre hun betaler dem en halv million dollar som hun ikke har og ikke ville klare å skaffe i løpet av ti år.»
+  - now: – En venninne av meg blir utpresset, sa jeg. – På grunn av brosjen din. Om hvor den tok veien i 1924, og hvem som tok den, og hva som ble kjøpt for pengene den innbrakte. Noen truer med å ødelegge familien hennes med historien med mindre hun betaler dem en halv million dollar som hun ikke har og ikke ville klare å skaffe i løpet av ti år.
+- [591]
+  - was: «En halv million.» Han lente seg tilbake og slapp ut en lav plystring. «Herre min gud. Noen skviser etterkommeren. Over en ting loven ikke kan røre.» Han ristet langsomt på hodet, og det var avsky i det, ekte avsky. «Det er grusomt, fru Claus, og det er dumt. Det er ingen tiltale noen kan reise over den brosjen nå. Blackburn-boet vil ikke ha pengene til venninnen din, og det vil sannelig ikke ha huden hennes heller. Det vil ha én linje i en hovedbok som forteller hvor gjenstanden tok veien, slik at advokatene kan avslutte saken og slutte å sende regninger til hverandre. Den som presser venninnen din, selger henne en skrekk som ikke engang er ekte. Skammen er det eneste våpenet i den. Det finnes intet juridisk etterspill lenger, ikke etter hundre år.»
+  - now: – En halv million. Han lente seg tilbake og slapp ut en lav plystring. – Herre min gud. Noen skviser etterkommeren. Over en ting loven ikke kan røre. Han ristet langsomt på hodet, og det var avsky i det, ekte avsky. – Det er grusomt, fru Claus, og det er dumt. Det er ingen tiltale noen kan reise over den brosjen nå. Blackburn-boet vil ikke ha pengene til venninnen din, og det vil sannelig ikke ha huden hennes heller. Det vil ha én linje i en hovedbok som forteller hvor gjenstanden tok veien, slik at advokatene kan avslutte saken og slutte å sende regninger til hverandre. Den som presser venninnen din, selger henne en skrekk som ikke engang er ekte. Skammen er det eneste våpenet i den. Det finnes intet juridisk etterspill lenger, ikke etter hundre år.
+- [593]
+  - was: «Du virker ikke som du vil sverte noen,» sa jeg.
+  - now: – Du virker ikke som du vil sverte noen, sa jeg.
+- [594]
+  - was: «Jeg sa det til deg den første dagen. Jeg sporer hvor ting har tatt veien. Resten er opp til folk selv og hva enn de står til ansvar for.» Han dro en tjukk mappe ut fra stablen sin og skjøv den over bordet til meg etter et øyeblikks betenkningstid. «Vær så god. Du kan like gjerne ha denne, siden vi er ærlige mot hverandre, og siden en eller annen småtyv i den fine byen din bruker det verste av den til å torturere en god kvinne. Det er alt jeg har funnet ut om stuepiken. Constance Okafor.»
+  - now: – Jeg sa det til deg den første dagen. Jeg sporer hvor ting har tatt veien. Resten er opp til folk selv og hva enn de står til ansvar for. Han dro en tjukk mappe ut fra stablen sin og skjøv den over bordet til meg etter et øyeblikks betenkningstid. – Vær så god. Du kan like gjerne ha denne, siden vi er ærlige mot hverandre, og siden en eller annen småtyv i den fine byen din bruker det verste av den til å torturere en god kvinne. Det er alt jeg har funnet ut om stuepiken. Constance Okafor.
+- [596]
+  - was: «Hun hadde penger til gode,» sa Neil mens han så på at jeg leste. «Det er den biten slarvet alltid utelater, fordi slarv vil ha en ren og pen skurk og en ren og pen forbrytelse. Blackburn-familien hadde ikke betalt husholdningspersonalet sitt på måneder, den vinteren i tjuefire. Jeg har klagene der inne, de andre tjenestefolkene som gikk sin veg, og et brev, fru Claus, et brev fra Constance selv, der hun ber, svært høflig, om den ubetalte lønnen sin, og får til svar at hun skal være takknemlig for at hun har et tak over hodet. Moren hennes lå for døden den samme vinteren, tre gater unna, og det fantes ikke penger til lege, ikke en cent. Og der var hun, dag etter dag, og tørket støv av en brosje som var verdt mer enn hun ville tjene på tre livstider, mens familien som eide den, ba henne være takknemlig.» Han bredde ut hendene. «Jeg sier ikke at hun gjorde rett i å ta den. Jeg sier at hun ikke var en tyv på den enkle måten lappen vil ha venninnen din til å tro at hun var. Hun var en desperat jente, ranet først av rike mennesker som hadde råd til å betale henne og valgte å la være. Hun betalte seg selv tilbake med det eneste hun kunne nå, og bygget hundre år med ærlig gjestfrihet oppå det. Det finnes verre fundamenter for et vertshus.»
+  - now: – Hun hadde penger til gode, sa Neil mens han så på at jeg leste. – Det er den biten slarvet alltid utelater, fordi slarv vil ha en ren og pen skurk og en ren og pen forbrytelse. Blackburn-familien hadde ikke betalt husholdningspersonalet sitt på måneder, den vinteren i tjuefire. Jeg har klagene der inne, de andre tjenestefolkene som gikk sin veg, og et brev, fru Claus, et brev fra Constance selv, der hun ber, svært høflig, om den ubetalte lønnen sin, og får til svar at hun skal være takknemlig for at hun har et tak over hodet. Moren hennes lå for døden den samme vinteren, tre gater unna, og det fantes ikke penger til lege, ikke en cent. Og der var hun, dag etter dag, og tørket støv av en brosje som var verdt mer enn hun ville tjene på tre livstider, mens familien som eide den, ba henne være takknemlig. Han bredde ut hendene. – Jeg sier ikke at hun gjorde rett i å ta den. Jeg sier at hun ikke var en tyv på den enkle måten lappen vil ha venninnen din til å tro at hun var. Hun var en desperat jente, ranet først av rike mennesker som hadde råd til å betale henne og valgte å la være. Hun betalte seg selv tilbake med det eneste hun kunne nå, og bygget hundre år med ærlig gjestfrihet oppå det. Det finnes verre fundamenter for et vertshus.
+- [598]
+  - was: «Kan jeg beholde denne?» spurte jeg.
+  - now: – Kan jeg beholde denne? spurte jeg.
+- [599]
+  - was: «Behold den. Jeg har kopier av hver eneste side.» Han stanset, og for en gangs skyld stilnet glansen i ham av og ble mild. «Si en ting til venninnen din, fra en mann som leser døde menneskers post til livets opphold. Hemmelighetene som ødelegger folk, er de halvt fortalte. Hver eneste gang. Det er fortielsen som setter tenner i dem, ikke sannheten. Jeg har gravd opp hundre begravde familiehemmeligheter i karrieren min, og hver eneste en av dem viste seg å være mindre og tristere enn familien hadde brukt livene sine på å frykte.»
+  - now: – Behold den. Jeg har kopier av hver eneste side. Han stanset, og for en gangs skyld stilnet glansen i ham av og ble mild. – Si en ting til venninnen din, fra en mann som leser døde menneskers post til livets opphold. Hemmelighetene som ødelegger folk, er de halvt fortalte. Hver eneste gang. Det er fortielsen som setter tenner i dem, ikke sannheten. Jeg har gravd opp hundre begravde familiehemmeligheter i karrieren min, og hver eneste en av dem viste seg å være mindre og tristere enn familien hadde brukt livene sine på å frykte.
+- [783]
+  - was: «Gjenopprettende rettferdighet», forklarte hun oss alle sammen etterpå, på enklere ord, over en kopp kaffe på vertshuset. «Det fungerer bare når den som har gjort feilen, ser skaden i øynene og hjelper til med å reparere den med egne hender. Så det er det de skal gjøre. Ikke en celle. Noe som på sin måte er hardere enn en celle. De skal gjøre det godt igjen, foran menneskene de såret, over lang tid. Og hvis de mislykkes med det, står den hardere døren fremdeles der like bak ryggen på dem.»
+  - now: – Gjenopprettende rettferdighet, forklarte hun oss alle sammen etterpå, på enklere ord, over en kopp kaffe på vertshuset. – Det fungerer bare når den som har gjort feilen, ser skaden i øynene og hjelper til med å reparere den med egne hender. Så det er det de skal gjøre. Ikke en celle. Noe som på sin måte er hardere enn en celle. De skal gjøre det godt igjen, foran menneskene de såret, over lang tid. Og hvis de mislykkes med det, står den hardere døren fremdeles der like bak ryggen på dem.
+- [789]
+  - was: «Det er mer enn jeg fortjener», sa Theo da de fortalte ham det. Han gråt, og det var gråten til en mann som hadde stålsatt seg for galgen og i stedet fått utlevert en lang og hard vei.
+  - now: – Det er mer enn jeg fortjener, sa Theo da de fortalte ham det. Han gråt, og det var gråten til en mann som hadde stålsatt seg for galgen og i stedet fått utlevert en lang og hard vei.
+- [790]
+  - was: «Det er nøyaktig det du fortjener», sa Fiona til ham, og det lå stål i bunnen av all vennligheten. «Nemlig sjansen til å bli en mann som aldri ville ha funnet på å gjøre noe slikt i utgangspunktet. Du slipper den enkle utveien, Theo, der alle klemmer deg og alt er glemt til jul. Du får den virkelige. Du må fortjene det tilbake, år etter år, og kjenne på hvert år av det. Jeg er ikke slem med deg. Jeg tror du kan klare det. Jeg ville ikke giddet å måke fram en vei for deg om jeg trodde du ikke var mann til å gå den.»
+  - now: – Det er nøyaktig det du fortjener, sa Fiona til ham, og det lå stål i bunnen av all vennligheten. – Nemlig sjansen til å bli en mann som aldri ville ha funnet på å gjøre noe slikt i utgangspunktet. Du slipper den enkle utveien, Theo, der alle klemmer deg og alt er glemt til jul. Du får den virkelige. Du må fortjene det tilbake, år etter år, og kjenne på hvert år av det. Jeg er ikke slem med deg. Jeg tror du kan klare det. Jeg ville ikke giddet å måke fram en vei for deg om jeg trodde du ikke var mann til å gå den.
+- [793]
+  - was: «Du gjorde noe galt», sa jeg. «Og du gjør opp for deg, ordentlig, og det er riktig. Men du tok støyten i det aller første sekundet du ble spurt, Vera. Du løy ikke, og du vridde deg ikke unna. Det betyr noe. Det er den siden ved deg som fremdeles er god, og den er større enn den siden som gjorde uretten, og den vil jeg at du skal holde fast ved. Veien tilbake er lang for din del også. Men det finnes en. Ikke la noen fortelle deg noe annet, og fremfor alt, ikke fortell det til deg selv.»
+  - now: – Du gjorde noe galt, sa jeg. – Og du gjør opp for deg, ordentlig, og det er riktig. Men du tok støyten i det aller første sekundet du ble spurt, Vera. Du løy ikke, og du vridde deg ikke unna. Det betyr noe. Det er den siden ved deg som fremdeles er god, og den er større enn den siden som gjorde uretten, og den vil jeg at du skal holde fast ved. Veien tilbake er lang for din del også. Men det finnes en. Ikke la noen fortelle deg noe annet, og fremfor alt, ikke fortell det til deg selv.

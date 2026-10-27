@@ -1,0 +1,57 @@
+DOSSIER — GREEK (Ελληνικά)
+Isabella Proctor paranormal cozy mystery series.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- GREEK: αόριστος + παρατατικός for narration, kept consistent. Do not drift into the historic present
+  unless the source itself does.
+
+REGISTER & VOICE
+- Standard modern demotic Greek (δημοτική). Avoid formal/archaic καθαρεύουσα. A warm, natural narrator — not a government form.
+- Greek is naturally expressive and warm; match it without tipping into melodrama.
+- Diminutives are natural and affectionate: σπιτάκι (little house), γατούλα (little cat). Use freely.
+- Draw on the vocabulary of hospitality (φιλοξενία) and community for cozy scenes.
+- Calibration: γειτονιά (the neighborhood that always notices, knows, and brings food) and κουβέντα
+  (warm, slightly nosy chitchat — the social glue). If gossip/concern scenes feel like κουβέντα, you're on track.
+
+HUMOR
+- Ironic, self-aware, with warm hyperbole. Ironic acceptance of the absurd: "Ναι, το φάντασμα. Πάλι. Τέτοια μοίρα."
+- Grumbling-with-affection is a form of intimacy in Greek. A moderate amount of hyperbole is authentic.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+- Dialogue uses guillemets: open « , close » , no space inside the marks.
+    EN: She said, "Good morning."                 ->  «Καλημέρα,» είπε.
+    EN: "I don't know," he said. "It's strange."  ->  «Δεν ξέρω,» είπε. «Είναι παράξενο.»
+- ! THE GREEK QUESTION MARK IS A SEMICOLON (;), NOT "?". Single most important rule.
+    EN: "Where are you going?"  ->  «Πού πας;»
+- Exclamation: ! (as English). Ellipsis: … . Em dash — for interruptions/asides, with spaces.
+  Άνω τελεία (·) is rare — only for a weighty pause.
+- Never begin a narration-only paragraph with a dialogue guillemet.
+
+PARANORMAL TERMS
+- ghost / spirit: φάντασμα (common), πνεύμα
+- place-bound haunting spirit: στοιχειό (uniquely Greek)
+- witch: μάγισσα (standard), στρίγλα (folkloric hag)
+- haunted: στοιχειωμένο / στοιχειωμένη
+- spell / curse: ξόρκι (spell), μάγια (magic), κατάρα (curse)
+- psychic / intuition: ένστικτο, μέντιουμ
+- folkloric-dark revenant: βρυκόλακας
+- Tone: casual ("Αρχίσαμε να ζούμε με τα φαντάσματα σαν απλούς ενοικιαστές.")
+
+IDIOMS (find the Greek equivalent — never literal)
+- spill the beans -> τα είπε όλα / τα ξεχύλησε όλα
+- on edge / nervous -> στα κάρβουνα / νευρικός
+- the plot thickens -> τα πράγματα μπλέκονται
+- gut feeling -> ένστικτο / αίσθημα στο στομάχι
+- things aren't what they seem -> τα φαινόμενα απατούν
+- bite the bullet -> σφίγγω τα δόντια
+- works like magic -> σαν μαγεία
+
+COZY VOCABULARY
+- cozy / welcoming: ζεστός/ή, άνετος, φιλόξενος
+- community: γειτονιά, παρέα
+- gossip: κουτσομπολιό, κουτσομπολεύω (community care, not malice)

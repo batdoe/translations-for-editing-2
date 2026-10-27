@@ -1,0 +1,152 @@
+DOSSIER — FRENCH (Français)
+Multi-book commercial fiction: cozy mystery, dark mafia romance, sports romance.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- FRENCH: passé composé + imparfait. NEVER the passé simple for narration (it reads literary/
+  soutenu and is wrong for this voice). Passé simple only inside a quoted classic text.
+
+REGISTER & VOICE
+- Standard contemporary metropolitan French (français standard contemporain): literate but natural, the
+  prose a French reader buys and enjoys today — neither stiff "français soutenu" nor slangy verlan.
+  Avoid regional or Québécois markers unless a character is written to speak them.
+- Restructure for natural French rhythm; do not calque English word order or punctuation. French tolerates
+  longer, more subordinated sentences than English — let clauses breathe with relatives (qui/que/dont) and
+  participles rather than chopping into staccato.
+- Avoid the dead giveaways of translated-from-English prose: the over-used possessive (English "she put her
+  hand in her pocket" -> "elle mit la main dans sa poche", drop the redundant possessive), the literal
+  progressive ("she was running" -> "elle courait", not "elle était en train de courir" unless emphatic),
+  and the calqued "I guess / I mean / you know" — render with "je suppose / enfin / tu sais" only where a
+  French speaker would actually use them.
+
+TU / VOUS (the single most important voice decision per scene)
+- vous: strangers, distance, deference, professional remove, and — crucially in mafia material — HIERARCHY.
+  A soldier addresses the don as "vous". An underling kept at arm's length stays "vous".
+- tu: intimacy, family, peers, lovers, contempt, and dominance. A captor or a man asserting ownership over
+  a woman may force "tu" downward as a power move while she still owes him "vous" — that asymmetry is
+  meaningful; preserve it.
+- THE SHIFT IS A STORY BEAT. Flirtation and seduction live in the tu/vous slide. The moment a couple drops
+  vous for tu is a scene; mark it where the source marks the equivalent intimacy shift. In banter-driven
+  sports romance, teammates and friends are "tu" from the first line; a rival or coach may be "vous".
+  When in doubt for lovers mid-arc, track the relationship temperature, not a fixed rule.
+- Power can run "I'll address you as tu, you address me as vous" (mépris / domination) or snap to mutual tu
+  the instant violence or sex collapses the distance. Render the asymmetry the source implies.
+
+TONE RANGE (must flex across three registers — match the per-book note)
+- Cozy warmth (cozy mystery): "chaleur du foyer". Wry, communal, gently ironic; the corpse is an
+  inconvenience handled over tea. Touchstone: « Les apparences sont trompeuses. »
+- Dark mafia intensity: crude, violent, controlled menace. Profanity and threats land at FULL strength
+  (see PROFANITY). Render coldness as economy — short verbs, present-tense threat. Touchstone:
+  « Tu vas regretter d'être né. »
+- Breezy sports romance: fast banter, teasing, double-entendre, locker-room ribbing. Light, contraction-
+  friendly, quick comebacks. Touchstone: « T'inquiète, je vais te laisser gagner… une fois. »
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+French narrative prose opens each turn of dialogue with an EM DASH (tiret cadratin —), and/or frames a
+whole exchange in guillemets « » (with non-breaking spaces inside). The em-dash-per-turn system is the
+default for modern novels; use guillemets to bracket a sustained exchange or for a single quoted reply.
+- Opening a line (em dash, space after the dash):
+    EN: She said, "Good morning."                  ->  — Bonjour, dit-elle.
+    EN: "Where are you going?" she asked.           ->  — Où vas-tu ? demanda-t-elle.
+- Mid-line incise attribution (verb+pronoun inverted, set off by commas; speech resumes after):
+    EN: "I don't know," he said. "It's strange."    ->  — Je ne sais pas, dit-il. C'est étrange.
+    EN: "Wait," she said, "I need to think."         ->  — Attends, dit-elle, j'ai besoin de réfléchir.
+- Interruption (em dash cuts the line off, no space before it):
+    EN: "Wait, I need to—" she began.               ->  — Attends, il faut que je— commença-t-elle.
+- Quoted exchange in guillemets (NBSP after « and before »; interior turns still take em dashes):
+    EN: "Get in the car." / "No." / "Now."           ->  « Monte dans la voiture.
+                                                          — Non.
+                                                          — Tout de suite. »
+- Quoted / reported speech inside narration (NOT live dialogue — use guillemets inline):
+    EN: He described it as "completely normal."      ->  Il l'a décrit comme « tout à fait normal ».
+- Question/exclamation marks take a NON-BREAKING SPACE before them (Où ? not Où?). Ellipsis is the single
+  glyph … . Never begin a narration-only paragraph with a dialogue dash.
+
+PROFANITY & INTIMACY (do NOT soften — match exact heat and bluntness)
+- English profanity is rendered fully and idiomatically; French profanity ("les gros mots") is its own
+  system, not a transliteration. "Fuck" is rarely "baiser" as an interjection — French swears with merde,
+  putain, bordel, and the verb foutre. Pick the French speakers actually use, at the same intensity.
+- Register ladder (mild -> crude):
+    damn / hell        -> zut / mince  (mild)  ·  bon sang / nom de Dieu (stronger)
+    crap               -> merde (general workhorse; covers "shit" and "damn it")
+    pissed off         -> énervé(e) / en rogne / vénère (casual)
+    shut up            -> tais-toi / ferme-la / ta gueule (crudest)
+    asshole / bastard  -> connard / salaud / enfoiré
+    bitch              -> salope / garce
+    fuck (interj.)     -> putain / bordel / putain de bordel (escalated)
+    fuck off / fuck you-> va te faire foutre / nique ta mère (gutter, mafia-crude)
+    motherfucker       -> fils de pute / enculé (most violent)
+- Mafia threats stay cold and concrete: "I'll bury you" -> « Je vais te buter / t'enterrer ». "You're a dead
+  man" -> « T'es un homme mort ». Keep the menace economical, not florid.
+- Explicit/sexual content is translated at full heat. French erotica is direct: bite (cock), chatte (pussy),
+  jouir (to come), bander (to be hard), mouillée (wet). Do not retreat into euphemism the source didn't use;
+  match crude with crude and tender with tender, scene by scene.
+
+IDIOMS (find the natural French equivalent — never literal)
+- spill the beans          -> vendre la mèche / cracher le morceau
+- on edge / nervous        -> à cran / sur les nerfs
+- the plot thickens        -> l'intrigue se corse / l'affaire se complique
+- gut feeling              -> intuition / le pressentiment / au feeling
+- things aren't what they seem -> les apparences sont trompeuses
+- bite the bullet          -> prendre son courage à deux mains / serrer les dents
+- speak of the devil       -> quand on parle du loup (on en voit la queue)
+- cost an arm and a leg    -> coûter les yeux de la tête / un bras
+- piece of cake            -> les doigts dans le nez / du gâteau
+- get cold feet            -> se dégonfler / avoir la frousse
+- play hardball            -> jouer la carte de la fermeté / ne pas faire de cadeau
+- back to square one       -> retour à la case départ
+
+GENRE VOCABULARY
+Crime / mafia (Italian-American terms usually KEPT in the source form, italicized; French gloss when the
+context needs it):
+- the Family / the mob    -> la Famille / la mafia / la pègre (the underworld)
+- don / boss              -> le don (kept) / le parrain (the French word, common and strong)
+- made man                -> homme fait / "intronisé"; usually keep "made man" italic with the don's blessing implied
+- capo / capodecina       -> le capo (kept)
+- soldier                 -> soldat / homme de main (muscle, hired hand)
+- consigliere             -> le consigliere (kept)
+- underboss               -> le sous-chef / l'underboss (kept in mob context)
+- hit / contract          -> un contrat / une commande; "a hit" -> « un contrat sur quelqu'un »
+- hitman                  -> tueur à gages
+- to whack / take out     -> buter, descendre, liquider, éliminer
+- the debt / the ledger   -> la dette / les comptes; "settle the ledger" -> « solder les comptes »
+- protection / racket     -> le racket / la protection
+- snitch / rat            -> une balance / un mouchard; "to rat" -> balancer
+- omertà                  -> l'omertà (kept) / la loi du silence
+Romance / intimacy:
+- to fall for someone     -> tomber amoureux/amoureuse, craquer (pour qqn)
+- to hook up              -> coucher (ensemble) / un coup d'un soir (one-night)
+- crush                   -> un béguin / un faible (pour)
+- to make out             -> se rouler une pelle / s'embrasser (à pleine bouche)
+- soulmate                -> âme sœur
+- to tease / flirt        -> taquiner / draguer / flirter
+Hockey / sports (English terms commonly LEFT in English in French usage vs. translated):
+- usually KEPT in English: le slap shot, le power play, le forecheck, le puck (or "la rondelle" in Québec),
+  le coach (very common), le draft, le rookie (or "recrue"), le hat trick, le faceoff, le goon
+- usually TRANSLATED: but -> goal/"but", gardien (de but) -> goalie, défenseur -> defenseman,
+  attaquant/avant -> forward, palet/rondelle -> puck (FR-France often "palet"), patinoire -> rink,
+  glace -> ice, prolongation -> overtime, tirs au but / fusillade -> shootout, banc des pénalités ->
+  penalty box, vestiaire -> locker room
+- NOTE: metropolitan France leans more toward the English loanwords for hockey than France does for football;
+  default to the kept-English term in dialogue, the French term in narration unless the source is gear-jargon heavy.
+
+TYPOGRAPHY (French spacing & punctuation rules)
+- ESPACE INSÉCABLE (non-breaking space) before the "high" punctuation: ; : ! ? and immediately INSIDE
+  guillemets — « texte » (space after «, space before »). So: « Où es-tu ? » dit-elle.
+- French quotation marks are guillemets « » for primary speech/quotes; use English-style " " or single
+  guillemets ‹ › only for a quote-within-a-quote.
+- Apostrophe: use the typographic apostrophe ' (U+2019), not the straight ' — l'amour, j'ai, qu'il.
+  (Author normalizes straight/curly at proofread; produce clean typographic by default.)
+- Ellipsis is the single character … , no space before it, one space after (unless followed by closing punct).
+- Em dash — for dialogue turns and for parenthetical asides (spaced: — comme ceci — ). En dash – is not used
+  for French dialogue.
+- Capitalization: French does not capitalize titles/days/months/nationalities-as-adjectives the way English
+  does (lundi, janvier, un Français [noun] vs. la cuisine française [adj.]).
+
+CHAPTER WORD
+- Chapter headings are localized as "Chapitre N" with the numeral (Chapitre 1, Chapitre 2, …).
+  Follow the manuscript-format house rule: numeral only, no chapter title text added.

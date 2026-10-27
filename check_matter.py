@@ -43,13 +43,14 @@ import collections
 import sys
 import unicodedata
 from datetime import date
+import os
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from claude_translate import paras, looks_english, lang_of, CHAP_WORDS
 
-ROOT = Path(r"C:\Users\User\Scripts")
+ROOT = Path(os.environ.get("SCRIPTS_ROOT") or r"C:\Users\User\Scripts")  # cloud: export SCRIPTS_ROOT=<repo root>
 
 # Localized markers for the sections the formatter emits as back matter.
 # Deliberately generous: a false "present" is safer here than a false "missing",

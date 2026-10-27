@@ -1,0 +1,60 @@
+DOSSIER — SWEDISH (Svenska)
+Spine & Spells / Bookbinding paranormal cozy mystery series.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+Built to MATCH the existing published Swedish editions of this series (Books 1–3) — keep their
+conventions so the whole series reads consistently.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- SWEDISH: preteritum ('jag gick') for narration. Do NOT narrate in perfekt ('jag har gått').
+
+REGISTER & VOICE
+- Colloquial contemporary Swedish; polished but never stiff — an educated, witty everyday voice.
+- Natural Swedish syntax and V2 word order; use it for emphasis as a Swedish writer would, not as
+  English dictates. Avoid English calques and Anglicisms — if a phrase "sounds translated," replace
+  it with the idiomatic Swedish equivalent.
+- Warmth comes from word choice and rhythm, not diminutives (Swedish has few). Cozy-calibration words:
+  mysig / gosig (snug, cozy), lagom, hemtrevlig. If a scene feels mysig, the translation is on track.
+
+HUMOR
+- Dry Swedish understatement (lagom-flavoured); self-deprecation for the protagonist. Irony over
+  slapstick. The paranormal gets a matter-of-fact shrug, like bad November weather — not horror.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+- HOUSE STANDARD (ruled 2026-09-04 by Lisa — SUPERSEDES the 2026-09-03 citattecken ruling):
+  STRAIGHT DOUBLE QUOTES "..." (U+0022 at both ends) for dialogue. This is what the published
+  Spine and Spells Swedish editions actually use (Book 1: 1,000+ spans; Book 4: 1,710), and the
+  corpus is not to be retrofitted to the 99-99 form.
+  NOT the 99-99 citattecken (”…”), NOT the English 66-99 pair (“…”), NOT talstreck (—).
+    EN: She said, "Good morning."               ->  "God morgon," sa hon.
+    EN: "Where are you going?" she asked.       ->  "Vart är du på väg?" frågade hon.
+    EN: "I don't know," he said. "It's strange." ->  "Jag vet inte," sa han. "Det är konstigt."
+  Attribution verb stays lower-case after the comma ("sa hon", "frågade hon", "sa jag").
+  NB Book 5 Dutch and some sibling editions use curly marks; that is per-language, not a reason
+  to change Swedish. Never mix two dialogue systems inside one book.
+- Quoted words inside narration: also "...".
+- Nested quote (a quote inside dialogue): single ’…’ (U+2019 at both ends, same 99-99 logic).
+- Question mark ? and exclamation ! as in English. Ellipsis … (single character). Em dash — for an
+  interruption or aside, with spaces.
+- Never begin a narration-only paragraph with a dialogue quote that isn’t actually speech.
+
+
+NAMES & PROPER NOUNS (keep English — do NOT translate or transliterate)
+- Characters: Fiona Flanagan, Colleen Flanagan, Tavi, Asher, Iris, Bindy (the cat, male), Dr. Liam
+  Hargrove, the Blackwoods. Place/shop names stay English: Pinecrest, "Flanagan's Fine Binding &
+  Restoration", The Binding Thread, Martinelli's, Main Street, Elm Street, the Pinecrest Inn.
+- Swedish genitive on a name just adds -s, no apostrophe: "Fionas verkstad", "Ashers kafé".
+- Use the bookbinding bible for character gender/role so every agreement (adjective, participle,
+  pronoun: han/hon/den/det) is correct.
+
+SERIES TERMS (match existing Swedish editions / the bible)
+- grimoire -> grimoar ;  bookbinder -> bokbindare ;  binding (the spell) -> bindning ;
+  anchor stone -> ankringssten ;  the rot/corruption -> rötan/korruptionen ;  familiar (the cat) ->
+  (magisk) följeslagare. Verify against the bible's glossary; keep a term identical every time it recurs.
+
+REMINDERS
+- Translate IN FULL and idiomatically; keep paragraph count 1:1; preserve the author's voice,
+  repetition, fragments, and any mature content. Do not summarize, condense, or "improve."

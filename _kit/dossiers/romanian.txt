@@ -1,0 +1,61 @@
+DOSSIER — ROMANIAN (Română)
+Isabella Proctor paranormal cozy mystery series.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- ROMANIAN: perfect compus + imperfect for narration ('am mers'). NEVER the perfect simplu (regional/
+  archaic) for narration.
+
+REGISTER & VOICE
+- Contemporary standard Romanian (limba română standardă): colloquial but literate, natural and pleasurable —
+  neither stiff nor overly casual. Avoid regional dialect unless a character is written to speak one.
+- Restructure sentences for natural Romanian rhythm, not word-for-word.
+- Diminutives create warmth: căsuță (little house), cățeluș (little dog). Use as a Romanian writer would.
+- Calibration: "căldura casei" (warmth of home) for cozy scenes; "haz de necaz" (laughing at one's troubles)
+  is the genre register — wry laughter at the absurd/inconvenient, never despair. Touchstone: "Aparențele înșeală."
+- Use correct Romanian diacritics throughout: ă â î ș ț.
+
+HUMOR
+- Ironic, self-deprecating, wry. The paranormal is an inconvenience endured with a sigh and a wry comment.
+- Romanian understatement is warm and communal — less detached than British understatement.
+
+DIALOGUE PUNCTUATION (critical — follow exactly)
+- Direct speech: an em dash (—) opens each spoken line.
+    EN: She said, "Good morning."                 ->  — Bună dimineața, spuse ea.
+    EN: "Where are you going?" she asked.          ->  — Unde te duci? întrebă ea.
+    EN: "I don't know," he said. "It's strange."   ->  — Nu știu, spuse el. E ciudat.
+  Mid-line attribution: a second em dash closes, a third opens the continuation:
+    EN: "Wait," she said, "I need to think."       ->  — Așteaptă — spuse ea — trebuie să mă gândesc.
+  Interruption:  "Wait, I need to—" she began.     ->  — Așteaptă, trebuie să— începu ea.
+- Quoted speech inside narration (reported, not direct dialogue): „ … " (low-9 open, high-6 close).
+    EN: described it as "completely normal."        ->  O descrisese drept „cu totul normală".
+- Question mark ? right after the last word (Unde? not Unde ?). Ellipsis … . Em dash — spaced for asides.
+- Never begin a narration-only paragraph with a dialogue dash.
+
+PARANORMAL TERMS
+- ghost / spirit: fantomă (phantom), duh (warmer, colloquial)
+- undead / revenant: strigoi (folkloric; this is Dracula's homeland — paranormal matter-of-factness resonates)
+- witch: vrăjitoare (standard), babă (folkloric)
+- haunted: bântuit / bântuită; "în care bântuie"
+- spell / curse: vrajă, farmec (charm), blestem (curse)
+- psychic / intuition: presimțire, medium, ghicitoare
+- omen: semn, presemn, profeție
+- lighter spirits: iele; darker folkloric flavor: Muma-Pădurii
+
+IDIOMS (find the Romanian equivalent — never literal)
+- spill the beans -> a da cărțile pe față / a divulga secretul
+- on edge / nervous -> pe ghimpi / ca pe ace
+- the plot thickens -> lucrurile se complică / misterul se adâncește
+- gut feeling -> presimțire / instinct
+- things aren't what they seem -> aparențele înșeală
+- bite the bullet -> a înghiți hapul
+- works like magic -> ca prin farmec
+
+COZY VOCABULARY
+- cozy / welcoming: primitor/primitoare, confortabil, călduros/ă
+- community: comunitate, vecini, mahala (affectionate/nostalgic)
+- gossip: bârfă, a bârfi, bârfitor/bârfitoare

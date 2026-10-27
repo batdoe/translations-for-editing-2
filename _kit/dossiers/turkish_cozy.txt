@@ -1,0 +1,188 @@
+DOSSIER - TURKISH / COZY (Turkce - cozy paranormal mystery)
+Lisa Bouchard's Spine & Spells / Bookbinding cozy mysteries (and any other CLEAN cozy series).
+Read with TRANSLATOR_CORE.txt - the completeness mandate and "do not improve" rule bind here too.
+
+** THIS IS THE COZY KIT. A sibling dossier (turkish.txt) is calibrated for DARK MAFIA (The Devil's
+   Ledger). Do NOT borrow its register, its profanity table, or its crime vocabulary. This series is
+   CLEAN: no profanity, no explicit content, no menace. The murder happens off the page.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the past (the usual case), narrate in the past.
+- TURKISH: narrate in the görülen/-di'li geçmiş zaman — the witnessed definite past ("gördüm," "girdi,"
+  "dedi," "yürüdüm"). This is the tense of Turkish novels. Keep it identical in EVERY chapter.
+- Do NOT narrate in the -mişli geçmiş (inferential/reported past: "görmüş," "gitmiş") — in Turkish that
+  reads as hearsay / fairy-tale storytelling and is WRONG for first-person witnessed narration. Use -miş
+  only where the source itself reports something second-hand ("duyduğuma göre… gitmişler").
+- Present-tense interior thought and dialogue follow natural Turkish (geniş zaman / şimdiki zaman as the
+  moment demands); only the NARRATIVE spine is locked to -di past.
+
+REGISTER & VOICE
+- Standard contemporary İstanbul Turkish — the literate-colloquial middle a Turkish trade-fiction reader
+  expects: natural and pleasurable, neither stiff-officialese (no Ottoman/bureaucratic ağdalı diction) nor
+  sloppy chat-Turkish. Prefer living everyday words over heavy Arabic/Persian learned synonyms, but keep the
+  common ones a normal reader uses.
+- Turkish is agglutinative and pro-drop: DROP subject pronouns when the verb ending carries the person
+  ("geldim," not "ben geldim") unless the source is emphasizing the subject. Overusing "ben/sen/o" is the #1
+  translated-Turkish tell — cut it.
+- Word order is SOV and flexible for emphasis: the element right before the verb is the focus. Reorder to
+  put the stressed word there rather than aping English S-V-O. Never translate word-for-word from English.
+- Turkish loves compact converb chains (-ip, -erek, -ince, -diğinde, -dikçe) to fuse clauses. Use them for
+  natural flow, but do NOT fuse two source paragraphs — keep paragraph breaks 1:1.
+- No grammatical gender: "o" covers he/she/it. Where English gender matters and Turkish "o" would be
+  ambiguous, disambiguate by NAME or role, not by inventing a gendered word. Use the bible for who is who.
+
+TONE — COZY WARMTH (this is the only setting for this series)
+- sıcak, gündelik, hafif alaycı: warm, everyday, lightly wry. The corpse and the supernatural alike are
+  inconveniences met with a dry shrug, never with dread or menace.
+- Soft interjections carry the warmth — işte, ya, canım, hani, valla — used the way a Turkish author writes
+  a small town, not the way chat-Turkish sprays them. One well-placed "işte" beats three.
+- Touchstone: "Bir çaresi bulunur." (It'll sort itself out.) The narrator's default is competence plus
+  self-deprecation, not anxiety.
+- Turkish humor here is dry, ironic, quick, fond of deadpan understatement. Trust the irony; never
+  over-explain a joke or add an exclamation mark the source did not earn.
+- NO PROFANITY. This series is clean. Where the mafia kit would reach for a curse, this register reaches for
+  exasperated understatement ("Yine mi?", "Eh, olur böyle şeyler."). Never coarsen the prose.
+- Warmth comes from domestic detail rather than sentiment: the shop, the kettle, the bench, the cat. Keep the
+  author's dryness — she is never gushing.
+
+ADDRESS / T–V (cozy small-town calibration)
+- sen = family, close friends, the cat, long-standing neighbours, anyone the narrator is fond of.
+- siz = strangers, professionals on business (a visiting lawyer, an official), an elder addressed with
+  respect, and any wary or newly-met character.
+- A shift matters: a stranger warming into the circle moves siz to sen. Let it happen where the source's
+  intimacy shifts. Do not flip it for drama the source does not have.
+- Elders: "Bayan X" / "Bay X" for Mrs./Mr. where the source uses the title; "teyze/amca" only where the
+  source's warmth genuinely supports it, never as a default.
+
+PARANORMAL TERMS (cozy-magic register — matter-of-fact, never horror)
+- ghost / spirit: hayalet (standard), ruh (spirit, warmer)
+- lingering benevolent presence: varlık, or a plain phrase — keep it gentle, never spooky
+- witch: cadı. NOTE: Turkish "cadı" can carry a pejorative edge (witch as insult). In this series it is a
+  NEUTRAL descriptor of what these people are. Keep it plain and unloaded.
+- magic: büyü (worked magic), sihir (the wondrous quality). Prefer büyü for something a character performs.
+- spell / working: büyü, okumak (to work a verbal charm) · charm object: muska, tılsım
+- curse: lanet · blessing/luck: uğur
+- enchanted / bewitched: büyülü, tılsımlı · haunted (a place): perili
+- second sight / psychometry: sezgi (intuition), önsezi (premonition), "içine doğmak" (to sense it coming).
+  The narrator's object-reading gift reads best as sezgi/okumak, never clinical parapsychology terms.
+- omen: işaret, alâmet · fate: kader, kısmet
+- the witch's cat: he is simply the cat — name him, do not reach for a technical term for "familiar".
+- grimoire: match whatever the earlier Turkish chapters of this series use; otherwise keep "grimoire"
+  italicised on first use, or büyü kitabı. Be consistent across the whole book.
+
+SERIES TERM LOCK (RULED after the Book 5 ch01 pilot — use these EXACT terms in EVERY chapter of
+EVERY book. Inconsistency across chapters on these is the single most visible defect a reader
+would find in the finished Turkish edition.)
+- the binding (the founding spell)      -> bağ
+- "the binding spell" (the full phrase) -> bağ büyüsü  (NOT "bağlama büyüsü" — ruled after a
+    5-instance drift in one chapter; all other chapters use bağ büyüsü. Inflect normally:
+    bağ büyüsünü, bağ büyüsünün, bağ büyüleri.)
+    NOTE: "bağ" is also everyday Turkish for tie/bond. Where a sentence could read generically,
+    disambiguate with context ("kasabanın bağı", "eski bağ"), never by switching to another noun.
+- the rot (the spreading corruption)    -> çürüme
+- an anchor stone / the heart-stone     -> çapa taşı  (the south stone -> güney taşı)
+- the fourth corner                     -> dördüncü köşe
+- a founding line / bloodline           -> soy   (the four founding families -> dört kurucu soy)
+- the grimoire                          -> grimoire  (KEEP the English word, with Turkish apostrophe
+    suffixes: grimoire'ı, grimoire'ın, grimoire'a). Do NOT drift to "büyü kitabı".
+- loupe (the bookbinder's magnifier)    -> loupe  (KEEP, apostrophe suffixes: loupe'u, loupe'la).
+    Do NOT use "büyüteç" — that is a plain magnifying glass and loses the craft specificity.
+    ⚑ ONE EXCEPTION, already ruled: where the SOURCE ITSELF glosses the word (e.g. "With my loupe, my
+    magnifying glass pendant" / "It was a small brass magnifying glass"), translate the author's gloss
+    as "büyüteç" and keep "loupe" for the term itself. This is CORRECT, not drift — three proofreaders
+    have flagged it in error. Check the English line before "fixing" any büyüteç.
+- the gift (a character's inherited magic) -> yetenek; where the source stresses inheritance,
+    "miras kalan yetenek". Do NOT use "hediye" (that is a present you unwrap).
+- the give-back / the release (Book 5)  -> geri verme  (the act); "bırakmak" for letting go.
+
+COZY / SMALL-TOWN VOCABULARY
+- cozy / snug: sıcacık, rahat, huzurlu · welcoming: sıcakkanlı, misafirperver
+- small town: kasaba (the right word — not şehir) · neighbours: komşular
+- community: "cemaat" is religious — prefer kasabalı, buranın insanları, komşuluk
+- gossip: dedikodu, dedikodu yapmak · the town is talking: "kasaba çalkalanıyor"
+- shop / workshop: dükkân, atölye · workbench: tezgâh · kettle: çaydanlık
+- tea and coffee ritual: çay demlemek, kahve pişirmek — lean into it; it is culturally load-bearing warmth
+
+BOOKBINDING (this series' craft — get it right, a reader will notice)
+- bookbinding: ciltçilik · binder/bookbinder: mücellit (traditional, dignified) or ciltçi
+- to bind a book: ciltlemek · the binding (cover structure): cilt · spine: sırt
+- signature/gathering: forma · endpaper: iç kapak kâğıdı · headband: şiraze
+- restoration: restorasyon · to restore: restore etmek, onarmak
+- bone folder: kemik katlayıcı · awl: biz · waxed thread: mumlu iplik · paste/glue: tutkal · press: mengene
+  ⚑ AWL HAZARD: the accusative of `biz` (awl) is `bizi` — IDENTICAL to the pronoun "us". Never write a bare
+    "Bizi …" for the tool; force the tool reading with a possessive or locative ("Bizi kendi çengeline astım",
+    "Bizi tezgâha bıraktım") or name it another way. A bare accusative reads as "I hung US on the hook".
+- Turkish has a real classical bookbinding vocabulary (mücellit, şiraze, forma) — using it makes the craft
+  passages sing. Use it, but keep the narrator plain-spoken, not academic.
+
+MYSTERY VOCABULARY (cozy register — investigative, not procedural-hard)
+- murder: cinayet · victim: kurban · killer: katil · body: ceset (plain; the source is not gory)
+- clue: ipucu · evidence: kanıt · suspect: şüpheli · witness: tanık · motive: sebep, güdü
+- sheriff: şerif (keep — an American office) · deputy: yardımcısı · investigation: soruşturma
+- to look into it: araştırmak, "bir bakmak" — the amateur sleuth's register, not police jargon
+
+IDIOMS (find the Turkish equivalent — never literal)
+- spill the beans -> ağzından baklayı çıkarmak
+- speak of the devil -> iyi insan lafının üstüne gelirmiş
+- the plot thickens -> işler karışıyor / iş sarpa sarıyor
+- gut feeling -> içine doğmak / içinde bir his
+- things aren't what they seem -> göründüğü gibi değil
+- bite the bullet -> dişini sıkmak
+- the last straw -> bardağı taşıran son damla
+- works like magic -> sihir gibi
+- on edge -> diken üstünde
+- keep your mouth shut -> ağzını sıkı tutmak
+- piece of cake -> çocuk oyuncağı
+- to let something go / release a debt -> bırakmak, elini çekmek, helal etmek
+  (the Book 5 finale turns on this register — releasing rather than repairing)
+
+NAMES & PROPER NOUNS (keep as written — do NOT translate or transliterate)
+- Characters keep their spelling: Fiona Flanagan, Asher Blackwood, Colleen Flanagan, Octavia "Tavi" Donovan,
+  Sheriff Cooper, Bindy (the cat), Maeve, Vivian Crane, Desmond "Des" Hale, Marcus Whittington,
+  Richard Holloway, Iris Blackwood.
+- The four founding surnames are Flanagan, Blackwood, Whittington, Holloway — spell them EXACTLY.
+  ("Hollowey" is a misspelling that has occurred in other languages. Do not repeat it.)
+- Place and business names stay: Pinecrest, The Binding Thread, Flanagan's Fine Binding & Restoration,
+  the Pinecrest Gazette, Crane and Associates.
+- Turkish adds case suffixes to proper nouns with an APOSTROPHE: "Fiona'yı", "Pinecrest'te",
+  "Blackwood'ların", "Asher'a". The name root itself never changes.
+- "Des" is short for "Desmond" — the same man. Keep both forms as they appear; never unify them.
+- Use the bookbinding bible (bibles/bookbinding.json, or bookbinding5.json for Book 5) for who is who.
+
+CHAPTER WORD
+- "Bölüm N" with an Arabic numeral (Bölüm 1, Bölüm 2 …). No chapter titles unless the source has them.
+
+REMINDERS
+- Translate IN FULL and idiomatically; keep paragraph count 1:1; preserve the author's voice, repetition,
+  fragments, and dry asides. Do not summarize, condense, or "improve."
+- Drop redundant subject pronouns, keep the -di narrative past locked, let sen/siz carry the relationship.
+- CLEAN series: no profanity, no explicit content. Warm and wry, never hard or cold.
+
+DIALOGUE PUNCTUATION (critical — Turkish differs from English; follow exactly)
+- Direct speech opens each spoken turn with the konuşma çizgisi — the long dash "—", followed by a space.
+  There is NO closing quote mark on a spoken turn (same family as the Norwegian/French system).
+- Mid-line or trailing attribution (dedi / sordu / diye fısıldadı) sits with a comma, lower-case verb:
+    EN: She said, "Good morning."                 ->  — Günaydın, dedi.
+    EN: "Where are you going?" he asked.           ->  — Nereye gidiyorsun? diye sordu.
+    EN: "I don't know," she said. "It's strange."  ->  — Bilmiyorum, dedi. Tuhaf bir şey bu.
+    EN: "Wait," he said, "I need to think."        ->  — Dur, dedi, düşünmem lazım.
+  Note the idiomatic "diye" + verb of speaking frame (diye sordu / diye bağırdı / diye mırıldandı) — use it
+  naturally; it is how Turkish attributes reported manner of speech.
+- Interruption / cut-off uses the dash at the break:
+    EN: "Wait, I need to—" she began.              ->  — Dur, benim— diye başladı.
+- Trailing off uses the ellipsis (three-dot character …):
+    EN: "I just thought maybe…" he muttered.       ->  — Sadece belki diye düşündüm… diye mırıldandı.
+- QUOTED / REPORTED words inside NARRATION (a word, phrase, title, or embedded quote — NOT a spoken turn)
+  use Turkish double quotes "…" (tırnak işareti):
+    EN: He called it "completely normal."          ->  Ona "gayet normal" dedi.
+    EN: The sign read "Closed."                     ->  Tabelada "Kapalı" yazıyordu.
+- Question/exclamation marks sit tight against the last word. Use … for ellipsis. Use the spaced em dash —
+  for asides and dramatic breaks inside narration.
+- Never begin a narration-only paragraph with a dialogue dash. One dash = one spoken turn.
+
+TYPOGRAPHY
+- Dialogue: konuşma çizgisi "—" opening each spoken turn, space after. Quotes inside narration: "…".
+- Full Turkish letter set — never substitute ASCII: ç ğ ı i ö ş ü and Ç Ğ I İ Ö Ş Ü. Mind the dotted/dotless
+  i (i/ı, İ/I) — getting it wrong is a glaring error.
+- Ellipsis: … (single character). Em dash — spaced for asides in narration.
+- Numbers: Turkish uses a decimal comma and a period as thousands separator (1.000, 3,5) where numerals appear.

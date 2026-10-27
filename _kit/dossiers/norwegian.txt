@@ -1,0 +1,128 @@
+DOSSIER — NORWEGIAN (Bokmål)
+Reusable, genre-general kit for commercial fiction: cozy mystery, dark mafia romance, sports romance.
+Read with TRANSLATOR_CORE.txt — the completeness mandate and "do not improve" rule bind here too.
+
+NARRATIVE TENSE (LOCKED — must be IDENTICAL across every chapter of a book)
+- First mirror the SOURCE: if the book narrates in the present, narrate in the present; if in the
+  past (the usual case), narrate in the past. Never change a book's basic tense.
+- For PAST-TENSE narration, use the tense named below and keep it identical in EVERY chapter.
+  Mixing narrative tenses across chapters is a visible continuity error a reader WILL notice.
+- NORWEGIAN: preteritum ('jeg gikk') for narration. Do NOT narrate in presens perfektum ('jeg har gått').
+
+REGISTER & VOICE
+- Standard contemporary Bokmål (bokmål, NOT Nynorsk). Aim for the literate-colloquial middle a Norwegian
+  trade-fiction reader expects: natural and pleasurable, neither stiff-textbook nor sloppy-chat.
+- Address: du throughout, for everyone — strangers, bosses, elders, enemies. Modern Norwegian has effectively
+  dropped the formal De/Dem/Deres; using it now reads as archaic, ironic, or aristocratic. EXCEPTION: keep De
+  only as a deliberate period/class/satirical marker (royalty, a stiff old-money character, a knowing joke),
+  and capitalize it (De/Dem/Deres) when you do.
+- Word order: respect the V2 rule (finite verb in second position) — "I morgen drar vi" not "I morgen vi drar."
+  But do not let V2 stiffen the prose: vary openings (adverbial, object, subordinate clause first) so fronting
+  feels natural, not like a grammar drill. Norwegian narration loves leading with a time/place adverbial.
+- Restructure for natural Norwegian rhythm — never word-for-word from English. Norwegian favors shorter main
+  clauses, the "og"/"men"/"så" connective flow, and the light sentence adverbs (jo, da, vel, nok, altså, liksom)
+  that carry attitude. Use them as a native author would; they are most of what makes dialogue sound Norwegian.
+- Definite-form warmth: Norwegian attaches the article (huset, jenta, kaffen) and uses possessive-after-noun
+  (boka mi, hunden hans) in warm, intimate register — lean into it for cozy and tender beats.
+
+TONE RANGE (one kit, three heat settings — the per-book note names the tone; match it)
+- COZY WARMTH (cozy mystery): koselig is the load-bearing word and a whole worldview — snug, safe, candle-lit
+  belonging. Soft sentence adverbs (jo, da, vel), diminutive-ish warmth, gentle wry humor. The supernatural or
+  the corpse is an inconvenience met with a sigh and a dry remark, never gore-horror. Touchstone: "Det ordner
+  seg." (It'll work itself out / it'll be fine.)
+- DARK / VIOLENT MAFIA INTENSITY (dark mafia romance): clipped, hard, present-tense menace. Full profanity and
+  threats — do not soften (see PROFANITY). Short brutal sentences; sentence adverbs drop away under pressure.
+  Possession and threat run hot: "Du er min." / "Rør henne, og jeg dreper deg." Touchstone: "Ingen rører det
+  som er mitt." (No one touches what's mine.)
+- BANTER SPORTS ROMANCE (hockey/sports): fast, teasing, overlapping. Quick comebacks, locker-room crudeness
+  played for laughs, affectionate insults (idiot, din tulling, kødd). Rhythm is volley-and-return; keep lines
+  short and let the jab land last. Touchstone: "Hold kjeft og spill." (Shut up and play.)
+- Norwegian humor leans dry, understated, self-deprecating and communal — closer to flat deadpan than to
+  big punchlines. Trust the understatement; don't over-explain the joke.
+
+DIALOGUE PUNCTUATION (critical — Norwegian differs from English; follow exactly)
+- Direct speech opens each spoken turn with a DASH — the tankestrek (em-length dash, "—"), followed by a space.
+  There is NO closing quote mark on a dialogue turn. (Some Norwegian houses use the shorter "–"; default to "—"
+  and be consistent across the whole book.)
+- Mid-line attribution (sa hun / spurte han) sits inside the line, set off with commas, lower-case verb:
+    EN: She said, "Good morning."                  ->  — God morgen, sa hun.
+    EN: "Where are you going?" he asked.            ->  — Hvor skal du? spurte han.
+    EN: "I don't know," she said. "It's strange."   ->  — Jeg vet ikke, sa hun. Det er rart.
+    EN: "Wait," he said, "I need to think."         ->  — Vent, sa han, jeg må tenke.
+- Interruption / cut-off uses the dash at the break (no closing quote):
+    EN: "Wait, I need to—" she began.               ->  — Vent, jeg må— begynte hun.
+- Trailing-off uses the ellipsis:
+    EN: "I just thought maybe…" he muttered.        ->  — Jeg tenkte bare kanskje … mumlet han.
+- QUOTED / REPORTED speech inside narration (a word, phrase, title, or quote embedded in prose — NOT a spoken
+  turn) uses the guillemets « … » (point outward, hug the text, space outside):
+    EN: He called it "completely normal."           ->  Han kalte det «helt normalt».
+    EN: She'd described the house as "charming."     ->  Hun hadde beskrevet huset som «sjarmerende».
+    EN: The sign read "Closed."                       ->  På skiltet sto det «Stengt».
+- A whole quoted sentence inside narration keeps its terminal punctuation inside the guillemets:
+    Hun husket farens ord: «Aldri stol på en mann som smiler for mye.»
+- Question/exclamation marks sit tight against the last word (Hvor? not Hvor ?). Use … for ellipsis (spaced
+  as above). Use the spaced em dash — for asides and dramatic breaks in narration.
+- Never begin a narration-only paragraph with a dialogue dash. One dash = one spoken turn.
+
+PROFANITY & INTIMACY (render English fully — do not censor, fade, or upgrade to "polite")
+Profanity ladder, mild -> crude:
+- mild / exasperation: pokker, søren, fy søren, herregud, jøss, faen meg da (light)
+- standard hard: faen (the workhorse "fuck/damn"), helvete (hell), dritt (shit/crap), jævla / jævlig
+  (fucking/damn, intensifier — "jævla idiot," "det gjør jævlig vondt")
+- crude / sexual-anatomical (mafia register, threats, locker-room): kuk (cock/dick), fitte (cunt — very strong,
+  use where English uses the hardest register), ræva / i ræva (ass / up the ass), pikk (dick), rævhøl (asshole
+  as insult), kødd / kødde (jerk / to mess with). Compounds carry weight: jævla dritt, faen i helvete, for faen.
+- Threats stay blunt and physical: "Jeg knuser deg." (I'll break you.) "Jeg skal drepe deg." (I'll kill you.)
+  "Hold kjeft." (Shut up.) "Ikke faen." (No fucking way / like hell.) "Dra til helvete." (Go to hell.)
+- INTIMACY / explicit sex: translate at the source's exact heat. Match the source's bluntness — clinical,
+  euphemistic, or graphic — don't split the difference. Useful register, soft -> graphic:
+    elske / ligge med (make love / sleep with) · ta / knulle (take / fuck) · pule (fuck, blunt) ·
+    komme (come/climax) · kåt (horny/turned on) · stå (be hard) · våt (wet) · pupper/bryster (tits/breasts) ·
+    rumpe (ass, neutral) / ræv (cruder) · skritt / mellom beina (between the legs).
+  In a dark scene "fuck me" is — Knull meg / Pul meg, not — Elsk med meg. Keep possessive heat: "Du er min."
+
+IDIOMS (find the natural Norwegian equivalent — never literal)
+- spill the beans            -> sladre / røpe / si det rett ut
+- on edge / nervous          -> på helspenn / nervene utenpå
+- the plot thickens          -> det begynner å bli interessant / mysteriet tilspisser seg
+- gut feeling                -> magefølelse
+- once in a blue moon        -> en gang i ny og ne
+- speak of the devil         -> når man snakker om sola (… så skinner den)
+- bite the bullet            -> bite i det sure eplet
+- the last straw             -> dråpen som fikk begeret til å renne over
+- cost an arm and a leg      -> koste skjorta
+- piece of cake / a breeze   -> en lek / fjert i vinden (crude) / bare-bare
+- play your cards right      -> spille kortene riktig
+- get cold feet              -> få kalde føtter
+
+GENRE VOCABULARY (translate vs keep-English noted)
+CRIME / MAFIA
+- murder drap · killer/murderer morder · corpse/body lik · weapon våpen · gun pistol / skytevåpen · knife kniv
+- evidence bevis · clue spor/ledetråd · suspect mistenkt · witness vitne · alibi alibi
+- police politi · detective etterforsker (police) / privatdetektiv · inspector politibetjent/etterforsker
+- crime scene åsted · investigation etterforskning · gang/syndicate gjeng / syndikat · boss sjef / bossen
+- the family familien · debt gjeld · ransom løsepenger · betrayal svik · revenge hevn · enforcer torpedo
+  (keep "don," "capo," "consigliere," "omertà" untranslated as mafia loanwords — italicize on first use)
+ROMANCE / INTIMACY
+- crush forelskelse / være dau etter · to date date / være sammen med · boyfriend/girlfriend kjæreste (gender-
+  neutral — use freely) · ex eks · heartbreak hjertesorg · longing lengsel · jealousy sjalusi
+- kiss kyss/kysse · hug klem/klemme · blush rødme · butterflies sommerfugler i magen
+HOCKEY / SPORTS (ishockey is a major sport in Norway — use natural, established Norwegian terms, do NOT calque)
+- hockey ishockey/hockey · the rink / ice isen / hockeybanen · puck pucken · stick køllen · goal mål
+- to score score / sette inn · goalie/goaltender keeper/målvakt · period periode · power play overtall
+- penalty box utvisningsboks · check (body) takling / takle · faceoff tegning/cluss (use "faceoff" if neutral)
+- locker room garderoben · coach trener · team lag · captain kaptein · jersey drakt · playoffs sluttspill
+  (English-kept where Norwegian fans actually code-switch: "playoff," "power play," "slapshot," "faceoff" are
+  often left English in casual speech — keep them when the banter is breezy; translate in straight narration.)
+
+TYPOGRAPHY
+- Dialogue dash: tankestrek "—" opening each spoken turn (consistent house choice; "–" acceptable if used
+  uniformly). Space after the dash.
+- Quotes inside narration: guillemets « » (hug the quoted text; never use English "curly" quotes for these).
+- Letters: full Norwegian set including æ ø å (lower) and Æ Ø Å (upper) — never substitute ae/oe/aa.
+- Ellipsis: … (spaced when standing alone in dialogue: «…», — ord …). Em dash — spaced for asides.
+- Decimal comma and space thousands as Norwegian convention (1 000, 3,5) where numerals appear in prose.
+
+CHAPTER WORD
+- "Kapittel N" with an Arabic numeral (Kapittel 1, Kapittel 2 …). Do not spell the number out; no chapter titles
+  unless the source has them.
