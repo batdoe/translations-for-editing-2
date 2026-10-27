@@ -1,13 +1,13 @@
 # PROOFREAD QUEUE — LIVE STATUS
 
-**Updated:** 2026-10-27 (cloud run, 6/7 done) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
+**Updated:** 2026-10-27 (cloud run complete, 7/7) · Frost Falls Bk2 Inn Trouble + Bk3 Flour Play · brief: `FF_PROOFREAD_BRIEF_20261026.md`
 (Previous queue file saved as `PROOFREAD_QUEUE.md.bak-20261026`.)
 
 | | |
 |---|---|
 | Queue | 28 editions (21 done locally 2026-10-26/27; 7 for the cloud) |
-| Done | 27 |
-| Next | Inn Trouble - ASSEMBLED - FORMATTED_Brazilian Portuguese |
+| Done | 28 |
+| Next | — (cloud queue complete) |
 
 ## Order
 1. Inn Trouble: French, Norwegian, German, Spanish, Dutch, Italian (re-proofread on top of the web pass), Filipino
@@ -44,3 +44,4 @@
 | Inn Trouble_Swedish | 539 + 457 dialogue (incl. 55 excerpt + 5 What's Next from FP) | all (0 refused) | 8 (Kapitel 8 heading missing — body present; clue = 4 words; excerpt = older FP Ch1 draft; du for all; Historiska sällskapet vs Bk1; FP follow-ups; formatter) | EN 0 · bt titles only · matter PASS · verify ok except intended | note = 'brev' like the 1924 letters (~50×) + Theo's card wording mismatched the note |
 | Inn Trouble_Turkish | 578 + 366 dialogue | all (0 refused) | 8 (⚑ D3 Theo↔Jessica sen here vs siz in FP — needs Lisa; Ch19 heading missing — body present; 6 spelled-out headings = formatter; 2 spurious scene breaks emptied) | EN 0 · bt titles only · matter PASS · verify ok except intended | note = 'mektup' ×9 (= 1924 letters) + clue phrase in 5 wordings, dropped at Ch26 confrontation |
 | Inn Trouble_Greek | 965 (262 dialogue, 60 excerpt + 5 blurb from FP, 229 name-script sweep) | all (0 refused) | 12 (stray Κεφάλαιο 3 ×3/TOC; title page; name script/reindeer; Snowball; Theo informal vs FP formal; acres; excerpt older draft; ⚑ FP Greek ¶85 'Αποκριών' ≠ Halloween) | EN 0 · bt titles only · matter PASS · verify ok except intended | clue left in English at Ch26 confrontation + gender mismatch in Ch22 recap; translator note printed in Ch24; Pip male ×5 |
+| Inn Trouble_Brazilian Portuguese | 375 (excerpt rebuilt from FP Ch1; 1 dialogue straggler) | all (0 refused) | 12 (⚑ catalogue title — MT invented 'Problema na Pousada'; Capítulo 31 heading missing — body present; Sam register; rest informational) | EN 0 · bt titles only · matter PASS · verify ok except intended (7 'imperial' tokens = 'livre' false positives) | note = 'nota'/'cartas' (= 1924 letters) incl. Ch25/26; Theo's card 'o safira'; clue English in Ch22 recap + confrontation |
