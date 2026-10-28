@@ -158,3 +158,26 @@
   - [1165] »reingestürmt« ("stormed in") became »hereingespaziert« ("walked in").
   - [1239] »von orange in gold« became »von Orange in Gold«.
 - Lisa's ruling on PC-FIL2-1 applies here too.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Italian — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Italian_PROOFCHECK.md`. 25 one-answer edits in 23 paragraphs are applied, incl. Ch25 «Non sfonderò una porta a calci e metterò le manette» (negation lost → "I WILL handcuff him") → «…per mettere le manette», and the Ch22/23 deed drift «rogito»/«concessione» → «atto». Nothing below blocks the file.)
+
+### PC-IT2-1. Excerpt is a separate rendering of Flour Play Ch1 (PC-FIL2-1 class, informational)
+- The excerpt [1195]–[1242] (48/48 paragraphs) follows Inn Trouble's own English (bandstand/war memorial, "Over the weekend", permit board, "by Sunday", "widow these many years", "Something was starting"). Where the two English texts are identical, it does not reuse corrected Flour Play IT Ch1's wording. For example, [1200] «Molto simile.» vs FP «Quasi.» ("Very nearly"; both are fine).
+- Fixed here, using Flour Play IT's wording where it had one: [1203] «cerchio» → «circolo»; [1214] «Voi tipe…» → «Voi non lo farete di certo da sole.» and «alla Sala della Comunità» → «alla Grange»; [1217] «e uno su Claire» → «e lo stesso fece con Claire»; [1240] «Lenta e paziente» → «Con lentezza e pazienza».
+- **Flour Play IT follow-up (NOT changed: a separate file):** corrected Flour Play IT Ch1 has three defects that this excerpt has right:
+  - «grande il doppio di quella di chiunque altra» for "half again the size" (should be «una volta e mezza»);
+  - «muffin al cioccolato e noci» for "chocolate-pecan" (should be «noci pecan»);
+  - «ti ho vista farlo alla fiera» for "at the Grange" (should be «alla Grange», the word Flour Play IT uses 15× elsewhere).
+- Lisa's ruling on PC-FIL2-1 applies here too.
+
+### PC-IT2-2. Front-matter blurb is in the past tense; the English blurb is in the present. OPEN
+- **Italian now:** [30]–[36] «Il Winter Wonderland Inn **aveva riscaldato** … Il biglietto **chiedeva** … Jessica Claus **partì** … Dimostrarlo **sarebbe costato** …»
+- **English:** "has warmed … The note demands … Jessica Claus starts … Proving it will cost …"
+- **Series:** Book 1 IT's blurb is in the present («Jessica Claus è a Frost Falls da undici giorni…»). Flour Play IT's blurb is in the past («Greta preparava…»), both its own and this book's What's Next copy [1185]–[1189]. This is the same split as PC-DE2-1.
+- **Options:**
+  - (a) Put [30]–[36] in the present (about 12 verbs in 4 paragraphs).
+  - (b) Leave it as it is.
+  - (c) Settle one blurb tense for all three Italian books.
+- **Recommendation:** (a), plus (c). Italian back-cover copy normally uses the present, as Book 1 does.
+- **Why it isn't automatic:** it rewrites marketing copy, and the series is split on it.
