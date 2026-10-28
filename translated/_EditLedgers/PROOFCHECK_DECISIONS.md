@@ -547,3 +547,20 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
 - **Month and weekday capitals:** `Kasım ayının` (FP [40] [60]; IT [1512] [1522]), `Perşembe günü` and `Cumartesi günü`. These are lower-cased here, following the targeted pass's `Ocak` → `ocak`. FP TR capitalises month names book-wide; that is your call there.
 - **Dialogue dash:** IT [1514] [1547] `dedi …, eğilerek. — …` had a stray re-opening dash, now removed. FP TR may have the same pattern.
 - **Recommendation:** apply the two meaning fixes to FP TR [46] and [58], so the excerpt stays word-for-word. It is not done here because FP TR is not this audit's file.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Brazilian Portuguese — FULL PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Brazilian Portuguese_PROOFCHECK_FULL.md`. The open items IT-PTBR-1…12 and PC-IT-PTBR-1 were re-checked. They are unchanged and are not raised again.)
+
+### PC-IT-PTBR-F1 "Theo had the theft" now reads «Theo tinha o segredo do roubo/furto» (applied, informational)
+- **What the file had:**
+  - Ch22 [1058] «Ele tinha o roubo.»
+  - Ch23 [1088] «Theo tinha o furto.»
+  - Ch26 [1211] «— Theo tinha o roubo. … Ele tinha o roubo. A senhora tinha a escritura.» This was the targeted pass's own fix of «cometeu o furto».
+- **English:** "Theo had the theft. / He had the theft. You had the deed."
+- **Why it was changed:** the literal «tinha o roubo» reads oddly in BR, and it can still be heard as "had the robbery done". The run lesson asks for the sense: he held that half of the secret.
+- **What it reads now:** «Theo tinha o segredo do roubo.» / «Theo tinha o segredo do furto.» Ch23 keeps «furto» to echo Theo's card [944], «o furto do broche». In Ch26: «Ele tinha o segredo do roubo. A senhora tinha a escritura.»
+- **Options:**
+  - (a) Keep this wording.
+  - (b) Use «Theo sabia do roubo.» instead.
+  - (c) Make «roubo» and «furto» one word in all three places.
+- **Recommendation:** (a). The meaning is now unambiguous, and Constance remains the thief.

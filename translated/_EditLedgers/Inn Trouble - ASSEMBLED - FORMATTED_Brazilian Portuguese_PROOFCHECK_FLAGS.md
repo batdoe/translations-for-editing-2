@@ -75,9 +75,9 @@ paragraph openers: '—'×338
     scene breaks                 4 -> 3       UNDECLARED -1 (expected +0)
     bt anchors                  12 -> 8       UNDECLARED -4 (expected +0)
     bt titles              MISMATCH  lost=['Winter Wonderland Inn', 'The Holly Jolly Bakery', 'the sapphire at its heart', 'Yarn Tales']
-    paragraphs changed     290
+    paragraphs changed     309
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch3 7%, Ch14 9%, Ch20 9%, Ch15 10%, Ch1 11%, Ch29 11%, Ch22 11%, Ch6 12%, Ch25 13%, Ch27 14%, Ch2 15%, Ch7 15%, Ch8 15%, Ch24 15%, Ch16 17%, Ch18 19%, Ch26 20%, Ch11 20%, Ch9 20%, Ch5 21%, Ch19 22%, Ch12 24%, Ch23 24%, Ch28 25%, Ch17 27%, Ch4 30%, Ch30 31%, Ch21 33%, Ch10 37%, Ch13 42%
+Ch3 7%, Ch14 9%, Ch15 10%, Ch1 11%, Ch29 11%, Ch20 11%, Ch27 14%, Ch6 14%, Ch24 15%, Ch2 16%, Ch22 17%, Ch8 17%, Ch25 17%, Ch16 17%, Ch7 20%, Ch26 20%, Ch9 20%, Ch19 22%, Ch11 22%, Ch18 22%, Ch5 23%, Ch28 25%, Ch23 27%, Ch12 29%, Ch17 30%, Ch30 31%, Ch4 35%, Ch21 38%, Ch10 41%, Ch13 42%
