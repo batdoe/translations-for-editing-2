@@ -494,3 +494,23 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
   - (c) leave. Both words read naturally, and context always makes the object clear.
 - **Recommendation:** (c), or (a) if you want strict term consistency.
 - **Why it isn't automatic:** neither word is wrong, and the bin is not a word the deduction turns on, so this is a style choice.
+
+## Flour Play - ASSEMBLED - FORMATTED_Swedish — PROOFCHECK (2026-10-28)
+(Report: `Flour Play - ASSEMBLED - FORMATTED_Swedish_PROOFCHECK.md`. 37 one-answer fixes were applied. Nothing here blocks the file. FP-SV-D1…D5 in PROOFREAD_DECISIONS.md are unchanged and still accurate, and D3 is still open.)
+
+### PC-FPSV-1 — Inn Trouble SV excerpt: apply today's Flour Play Ch1 fix (cross-book follow-up to PC-SV-1)
+- Flour Play SV [108] now reads `Martha sa att dagarna krympte så fort nu att Emma kom för att gå ut med Snowball nästan i mörker` (EN 'the days were drawing in so fast now'). It was `dagarna drar sig ihop`, a present-tense slip.
+- Inn Trouble SV [1667] still has `drar sig ihop`.
+- **Options:**
+  - (a) change Inn Trouble SV [1667] to `dagarna krympte så fort nu`, identical to Flour Play;
+  - (b) use `drog sig ihop` in both files (PC-SV-1's original suggestion; Flour Play would then need re-editing);
+  - (c) leave it.
+- **Recommendation:** (a). This audit may edit only the Flour Play file, which is why it can't be settled here.
+
+### PC-FPSV-2 — Ch9 [905]–[911]: one English paragraph split into five, with a narration fragment opening in lower case (low priority, formatter)
+- `En kvinna sa lågmält till en annan, ovetande om att jag stod i närheten:` / `"Nå, de stänger ju inte ner en för intet, eller hur?"` / `och den andra svarade:` / `"Nej, det gör de väl knappast."` / `Ingendera av dem …`.
+- EN [479] is one paragraph. The speakers read correctly, but [909] is a paragraph that starts in lower case.
+- **Options:**
+  - (a) the formatter merges [905]–[911] into one paragraph;
+  - (b) leave it.
+- **Recommendation:** (a). Merging changes the paragraph count, so this pass cannot do it.
