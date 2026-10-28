@@ -276,3 +276,28 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK.md`. The 29
 - **FIL3-D2:** Kelly and Hal are still informal throughout.
 - **FIL3-D3:** `dalawang digri ang baba sa kodigo` is identical at [419][704][706]. `sandaang libra` [498] is unchanged.
 - **FIL3-D4:** the excerpt is still the published text, with `Ginoo`/`Binibini` as quoted.
+
+## Flour Play - ASSEMBLED - FORMATTED_Dutch — PROOFCHECK (2026-10-28)
+(Report: `Flour Play - ASSEMBLED - FORMATTED_Dutch_PROOFCHECK.md`. The 17 one-answer fixes are listed there. Open first-pass items FP-NL-1…8 are unchanged and still accurate.)
+
+### PC-FPNL-1 — Ch20 [1503] «overval» for Greta's "hasp"
+- NL: `Dat hij hem eraf haalde om een punt te maken over mijn overval.`
+- EN [965]: "Taking it off to make a point about my hasp."
+- «overval» is the correct Dutch hardware word for a hasp (hangslotoverval). But most readers know it only as "robbery/hold-up", which is an odd misreading in a crime plot.
+- **Options:**
+  - (a) `over mijn hangslotbeslag`;
+  - (b) `over mijn sluiting`;
+  - (c) leave it.
+- **Recommendation:** (a).
+- **Why it isn't automatic:** the current word is technically right, so changing it is a register/clarity choice.
+
+### PC-FPNL-2 — Ch9 [698] "a week into the season"
+- NL: `‘U sluit me midden in het seizoen.’`
+- EN [460]: "You're closing me a week into the season."
+- The English can mean "one week after the season started" or "for a week, in the season". «midden in» (in the middle of) picks neither and drops the week.
+- **Options:**
+  - (a) `‘U sluit me een week, en dat midden in het seizoen.’`;
+  - (b) `‘U sluit me, nog geen week na het begin van het seizoen.’`;
+  - (c) leave it.
+- **Recommendation:** (a). It keeps the week, which is the closure figure the whole plot (the flyer week) turns on.
+- **Why it isn't automatic:** the English is ambiguous.
