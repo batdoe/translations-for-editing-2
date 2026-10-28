@@ -72,9 +72,9 @@ paragraph openers: '„'×312
     scene breaks                 3 -> 3       ok
     bt anchors                  12 -> 8       UNDECLARED -4 (expected +0)
     bt titles              MISMATCH  lost=['the sapphire at its heart', 'Yarn Tales', 'Gazette', 'Gazette']
-    paragraphs changed     468
+    paragraphs changed     481
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch18 15%, Ch4 17%, Ch2 18%, Ch6 19%, Ch10 20%, Ch15 20%, Ch16 21%, Ch3 22%, Ch24 24%, Ch30 26%, Ch26 26%, Ch27 27%, Ch22 27%, Ch14 28%, Ch8 29%, Ch20 29%, Ch19 30%, Ch7 30%, Ch25 30%, Ch12 32%, Ch23 32%, Ch17 33%, Ch9 35%, Ch13 35%, Ch29 35%, Ch31 37%, Ch5 42%, Ch28 45%, Ch11 52%, Ch21 57%, Ch1 72%
+Ch6 19%, Ch10 20%, Ch4 20%, Ch2 20%, Ch18 21%, Ch15 22%, Ch3 22%, Ch16 23%, Ch24 24%, Ch30 26%, Ch26 26%, Ch27 27%, Ch22 27%, Ch20 29%, Ch19 30%, Ch7 30%, Ch14 30%, Ch25 30%, Ch8 31%, Ch12 32%, Ch17 33%, Ch9 35%, Ch23 35%, Ch29 35%, Ch13 37%, Ch31 37%, Ch5 42%, Ch28 45%, Ch11 52%, Ch21 57%, Ch1 72%

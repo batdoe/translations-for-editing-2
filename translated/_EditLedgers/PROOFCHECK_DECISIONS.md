@@ -83,3 +83,12 @@
 - **What's there:** the excerpt [1468]–[1562] is 48/48 paragraphs and follows Inn Trouble's own English (bandstand, weekend, permit board, "Something was starting", and so on). But it does not reuse corrected Flour Play NL Ch1's wording, even where the two English texts are identical (e.g. `‘Nagenoeg wel.’` vs FP `‘Nou ja, bijna.’`).
 - **What it needs:** whatever Lisa rules on PC-FIL2-1 (a: copy FP Ch1 verbatim; b: keep) should also be applied to Dutch.
 - **One direction fix applied here:** [1556] `die de straat op stond te staren`. It is wrong against both English texts, and Flour Play NL [the same sentence] already reads `het blok opkeek`.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Czech — PROOFCHECK (2026-10-28)
+(Report `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Czech_PROOFCHECK.md`. 33 fixes applied in 32 paragraphs. Nothing below blocks the file.)
+
+### PC-CS-1 Flour Play Czech follow-up from the excerpt copy (informational — NOT APPLIED to Flour Play, a separate file)
+- **Broken case, fixed in Inn Trouble:** the Inn Trouble excerpt [1487] was copied verbatim from corrected Flour Play CZ [56] and inherited a broken case: `…svého věnce, který byl už teď o polovinu větší než kdokoli jiného a dvakrát tak hustý` (EN "already half again the size of anyone else's"). `kdokoli jiného` mixes nominative and genitive. Fixed here to `než věnec kohokoli jiného`. Suggested: make the same fix in Flour Play CZ [56] so the two stay identical.
+- **Optional tidy-up, not fixed in either file:** `Ten od Ivy je pro kostel a Ellie pro nemocnici.` (FP [88] = IT [1519]; EN "Ivy's is for the church and Ellie's is for the hospital") reads more clearly as `…a ten od Ellie pro nemocnici`. Not changed, because it is not wrong.
+- **Already logged, not re-raised:** `Jessice Claus` (IT-CS-7).
+- **Why it can't be settled here:** the fix belongs in another edition's file.
