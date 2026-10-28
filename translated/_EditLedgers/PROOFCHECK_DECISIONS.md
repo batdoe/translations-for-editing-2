@@ -18,3 +18,14 @@
 - **Options:**
   - (a) Copy corrected Flour Play Ch1 into [1500]–[1547] word for word, 48 paragraphs to 48 with no change to the paragraph count. Recommended: the excerpt then reads exactly like the book it sells. It would also be worth updating the English Inn Trouble master's excerpt to the current Flour Play Ch1.
   - (b) Keep the current excerpt. It is faithful to Inn Trouble's older English, and only the one-answer fix above has been applied.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Greek — PROOFCHECK (2026-10-28)
+
+### PC-EL-1. Flour Play Greek (corrected) Ch1 [39]: «Κάτσαμε εκεί» ("we sat") should be "I sat". OPEN, not applied: other edition
+- **Target:** `translated/corrected/Flour Play - ASSEMBLED - FORMATTED_Greek.docx` [39] reads «…Κάτσαμε εκεί με ρετσίνι στα δάχτυλα και έναν γυμνό σκελετό στα γόνατά μου, μία από τις επτά γυναίκες…». The subject is "we", but the sentence goes on with «μου… μία», which only fits "I".
+- **English (both books):** "I sat there with sap on my fingers and a bare frame in my lap, one of seven women bent over the same work."
+- **Fixed in Inn Trouble Greek's excerpt [1653]:** «Κάθισα εκεί με ρετσίνι…».
+- **Options:** (a) apply the same one-word fix to Flour Play Greek [39], «Κάτσαμε» → «Κάθισα»; (b) leave it.
+- **Recommendation:** (a). It has one safe answer, but it sits in another edition that this audit doesn't own, so it is left for the Flour Play Greek proofcheck or for Lisa.
+- **Note on the IT-EL-8 excerpt:** five more paragraphs had kept Flour Play English details that Inn Trouble's English doesn't have, and they are now adapted: [1655] "Over the weekend", [1699] "warm", [1707] "pecan", [1753] "bandstand rail" instead of the war memorial, and [1767] present tense "I know… I've lived" plus "warm". If Lisa takes IT-EL-8's option of updating the English excerpt to final Flour Play Ch1 and copying the FP Greek verbatim, these adaptations should be reverted together with the other eight.
+
