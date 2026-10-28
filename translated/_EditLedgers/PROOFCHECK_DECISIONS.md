@@ -247,11 +247,13 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK.md`. The 29
   - (a) Change Inn Trouble ES [1505] to «en la Grange» so that both books match.
   - (b) Use «el Grange» in both books. That means 18 edits in Flour Play.
 - **Recommendation:** (a). It is left to you because it is a file this audit doesn't own (Inn Trouble ES has already been audited).
+- **Follow-up applied 2026-10-28:** option (a) — Inn Trouble ES [1505] «en el Grange» → «en la Grange».
 
 ### PC-FPES-2 — "half again the size": the old Flour Play wording was copied into Inn Trouble (cross-book follow-up)
 - **Flour Play ES Ch1 [60]:** «que ya era la mitad más grande que la de cualquier otra» was changed here to «que ya era una vez y media más grande que la de cualquier otra». The reason: «la mitad más grande» reads as "the bigger half" and does not mean 1.5×. EN: "already half again the size of anyone else's".
 - **Inn Trouble ES [1469]:** the excerpt now has the old wording, «la mitad más grande». The Inn Trouble audit copied it in from Flour Play (its item #8).
 - **Recommendation:** make the same change in Inn Trouble ES [1469]: «una vez y media más grande». It is not applied there because this audit edits only Flour Play.
+- **Follow-up applied 2026-10-28:** Inn Trouble ES [1469] «la mitad más grande» → «una vez y media más grande» (IT EN = FP EN: "half again the size").
 
 ## Flour Play - ASSEMBLED - FORMATTED_Filipino — PROOFCHECK (2026-10-28)
 
@@ -320,6 +322,7 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
 - IT [1396]: „Cóż, cokolwiek to będzie” → „Cóż, kimkolwiek oni są” (EN "whoever it is").
 - IT [1344] (Flour Play blurb in What's Next): „Do czwartku Greta stoi we własnej piekarni” → „W czwartek Greta stoi już we własnej piekarni” (EN "By Thursday"; „do czwartku” = "until Thursday"). Flour Play's own blurb [29] was also put into the present tense („od czterdziestu lat piecze…”, „wychodzi jej z pieca kwaśna”). IT [1343] has the same past-tense opening („Greta piekła… przez czterdzieści lat… wyciąga je z pieca kwaśne”) and IT [1346] has „za olej”. Copy Flour Play [29] and [35] there as well.
 - **Recommendation:** copy the changed Flour Play texts ([29] [31] [35] [81] [118]) into Inn Trouble verbatim.
+- **Follow-up applied 2026-10-28:** excerpt only — IT [1376] «pudło cukiernicze» → «pudło z piekarni» and the apron sentence → «Tego ranka cały fartuch miała w mące, której nawet nie zadała sobie trudu otrzepać.» («ciepła» kept: IT EN has "round and warm"); [1377] «czekoladowo-orzechowych» → «czekoladowo-pekanowych»; [1396] «Cóż, cokolwiek to będzie» → «Cóż, kimkolwiek oni są». **NOT applied:** the What's Next blurb items ([1343] tense, [1344] «Do czwartku», [1346]) — marketing copy tied to the open blurb-tense question; left for Lisa.
 
 ### PC-FPPL-3 — Ch1 [87]/[88]: Greta's turn is split after Jessica's thought (low priority)
 - **Polish:** [87] ends with narration „…Pomyślałam, że to najbliższe zapachowi całego zbliżającego się sezonu…”. Then [88] opens a new dash turn: „— A na samym dnie są imbirowe ciasteczka… Dot, widziałam cię w świetlicy…”
@@ -348,6 +351,7 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
   - (b) Revert Flour Play to « boîte à pâtisserie », the stock French term for a cake box.
 - **Recommendation:** (a). It wasn't applied here because that file is outside this edition.
 - **Informational:** "Very nearly" now reads « À très peu de choses près. » in Flour Play [51] (it was « À peu près. », which weakens it to "roughly"). That matches Inn Trouble [1402], so the two books now agree.
+- **Follow-up applied 2026-10-28:** option (a) — Inn Trouble FR [1426] «une boîte à pâtisserie» → «une boîte de boulangerie».
 
 ### PC-FR3-3 FP-FR-2 status (informational)
 - "Two degrees under code" now reads « deux degrés sous la norme » in all three places: [676], [1134] and [1138]. [676] said « en dessous de la norme » before.
@@ -398,6 +402,7 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
   - (b) Revert Flour Play to «scatola da pasticceria» (the stock Italian term for a cake box) and «laboratorio».
 - **Recommendation:** (a).
 - **Why it isn't automatic:** that file is outside this edition.
+- **Follow-up applied 2026-10-28:** option (a) — Inn Trouble IT [1212] «una scatola da pasticceria» → «una scatola della panetteria»; [1240] «nel suo laboratorio» → «nella sua officina».
 
 ## Flour Play - ASSEMBLED - FORMATTED_Turkish — PROOFCHECK (2026-10-28)
 
@@ -411,6 +416,7 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
 - **Still old in Inn Trouble TR:** [1520] (the "despite" line), [1529] (`pastane kutusunu`, `çikolatalı cevizli kek`), [1531] (`çikolata, ceviz ve esmer şeker`, a walnut mention that FP [78] doesn't have) and [1560] (`kökünden`).
 - **Recommendation:** copy the four FP fixes into Inn Trouble TR, and make [1531] say `çikolata ve esmer şeker`, so the excerpt stays word-for-word.
 - **Why it isn't automatic:** Inn Trouble TR has already been audited, and it isn't this audit's file.
+- **Follow-up applied 2026-10-28:** Inn Trouble TR [1520] "despite" clause → «herkesinkinden şimdiden bir buçuk kat büyük ve iki kat sık olan çelenginden»; [1529] «pastane kutusunu» → «fırın kutusunu», «cevizli» → «pekanlı»; [1560] «kökünden» → «sımsıkı yerine». [1531]: «ceviz» → «pekan» («çikolata, pekan ve esmer şeker»), NOT deleted as recommended — Inn Trouble's English here reads "chocolate and pecan and brown sugar" (Flour Play's later English dropped the pecan), so the excerpt keeps the nut.
 
 ### PC-FPTR-2 — Grange and Yarn Tales take back-vowel suffixes (vowel harmony by pronunciation)
 - **The text:** `Grange’a` ×2, `Grange’da` ×5, `Grange’dan`, `Grange’daki`, `Grange’ın` ×3 (12 forms, all back-vowel). `Yarn Tales’ın` ×2 and `Tales'da` ×2, but `Tales'i` ×1. Inn Trouble TR has the same pattern (`Grange’da`, `Tales’ın` ×2 / `Tales'in` ×1).
@@ -433,6 +439,7 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
 - **Recommendation:** (a), so the excerpt stays word-for-word with Flour Play.
 - **Why it isn't automatic:** Inn Trouble PT-BR is already audited and is not this audit's file.
 - Informational: both books keep «em mil novecentos e lá vai fumaça» for Dot's "nineteen eighty-something" (an idiom that drops "eighty") and «A praça gramada» for "The green" in Ch1 — left as they are, identical in both.
+- **Follow-up applied 2026-10-28:** option (a) — Inn Trouble PT-BR [1459] «Fazia coroas» → «Fazia guirlandas»; [1477] «uma caixa de confeitaria» → «uma caixa de padaria», «dona da Holly Jolly Bakery» → «dona da padaria Holly Jolly».
 
 ### PC-FPPTBR-2 — Excerpt: the ball's name differs inside the published PT-BR text (informational)
 - **Target:** What's Next [1952] «Baile de Máscaras à Luz do Luar» vs excerpt [2006] «Baile de Máscaras do Luar». EN: "Moonlight Masquerade Ball" / "the Moonlight Masquerade".
@@ -479,6 +486,7 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
 - **Recommendation:** (a), so the excerpt stays word-for-word with Flour Play.
 - **Why it isn't automatic:** Inn Trouble Romanian is already audited and is not this audit's file.
 - **Capitalisation:** „Bulevardul Evergreen” is now capitalised throughout this book (×10), matching Inn Trouble's majority. DOOM prefers a lowercase generic (*bulevardul Evergreen*). If you want that, it is one global change in both books.
+- **Follow-up applied 2026-10-28:** option (a) — Inn Trouble RO [1525] «pe jumătate» → «cu jumătate»; [1572] «unui bloc luminos» → «unui șir luminos de prăvălii»; [1596] «al blocului» → «al șirului de prăvălii»; [1608] «în sus pe bloc» → «în susul străzii»; [1612] «întors în sus pe bloc spre» → «întors, în susul străzii, spre».
 
 ## Flour Play - ASSEMBLED - FORMATTED_Czech — PROOFCHECK (2026-10-28)
 (Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Czech_PROOFCHECK.md`. 31 fixes applied in 31 paragraphs: 26 missed by the first pass and 5 first-pass regressions. PC-CS-1 from the Inn Trouble CS audit is now applied: [56] `než věnec kohokoli jiného`, so FP Ch1 = IT CS excerpt. Paddock unified to `výběh` [694], as in IT CS. Nothing below blocks the file.)
@@ -506,6 +514,7 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
   - (b) use `drog sig ihop` in both files (PC-SV-1's original suggestion; Flour Play would then need re-editing);
   - (c) leave it.
 - **Recommendation:** (a). This audit may edit only the Flour Play file, which is why it can't be settled here.
+- **Follow-up applied 2026-10-28:** option (a) — Inn Trouble SV [1667] «dagarna drar sig ihop så fort» → «dagarna krympte så fort».
 
 ### PC-FPSV-2 — Ch9 [905]–[911]: one English paragraph split into five, with a narration fragment opening in lower case (low priority, formatter)
 - `En kvinna sa lågmält till en annan, ovetande om att jag stod i närheten:` / `"Nå, de stänger ju inte ner en för intet, eller hur?"` / `och den andra svarade:` / `"Nej, det gör de väl knappast."` / `Ingendera av dem …`.

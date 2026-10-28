@@ -1,12 +1,12 @@
 # PROOFCHECK QUEUE — LIVE STATUS
 
-**Updated:** 2026-10-28 · second-pass audit, targeted mode · command: `.claude/commands/proofcheck.md`
+**Updated:** 2026-10-28 · ✅ COMPLETE 28/28 · MINOR 11 · SIGNIFICANT 17 · missed defects fixed 640 · first-pass regressions fixed 69 · edits 741 · second-pass audit, targeted mode · command: `.claude/commands/proofcheck.md`
 
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
 | Done | 28 |
-| Next | — cross-book follow-ups, then wrap |
+| Next | — run complete. Cross-book follow-ups applied to 8 Inn Trouble excerpts (ES PL FR IT TR PT-BR RO SV). |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -43,3 +43,6 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Flour Play_Romanian | targeted | 46 | 9 | 55 | 3 (~146 narration beats without dashes; Ch25 split turn; IT RO excerpt follow-ups) | SIGNIFICANT → full re-read recommended | Ch23 [2008] 'N-ai schimbat-o' = the key, not the lock; printer's proof → evidence |
 | Flour Play_Czech | targeted | 26 | 5 | 31 | 1 (flour bin nádoba/bedna, info) | SIGNIFICANT (borderline) → full re-read recommended | Ch19 printer's proof → 'důkaz' (evidence); Ch23 lock not named; Ch24 took Danny aside |
 | Flour Play_Swedish | targeted | 37 | 0 | 37 | 2 (IT SV excerpt follow-up; Ch9 paragraph merge) | SIGNIFICANT → full re-read recommended | Ch19 [1594] 'I heard the gold shop' → 'someone told me' (undoes Jessica's self-correction); Ch23 Joyce's line given to Tanaka |
+
+## Recommended for a `full` re-read
+Inn Trouble_Turkish, Inn Trouble_Brazilian Portuguese, Inn Trouble_Dutch, Inn Trouble_Czech, Inn Trouble_Polish, Inn Trouble_French, Inn Trouble_Norwegian, Flour Play_Spanish, Flour Play_Filipino, Flour Play_Polish, Flour Play_Italian, Flour Play_Turkish, Flour Play_Romanian, Flour Play_Czech, Flour Play_Swedish
