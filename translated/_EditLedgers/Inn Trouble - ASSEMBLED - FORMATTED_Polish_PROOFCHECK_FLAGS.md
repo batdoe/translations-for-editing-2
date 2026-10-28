@@ -23,8 +23,8 @@ Chapters detected: EN 31 · this edition 31 (sequence [1, 2, 3]…[29, 30, 31])
 ## F — Numbers not in the English chapter (0)
 - none
 
-## G — Names missing from a chapter (1)
-- Ch1: 'Gazette' ×2 in English, ×0 here (renamed? passage dropped?)
+## G — Names missing from a chapter (0)
+- none
 
 ## H — Watch-words (units, currency, cider, poison) (19)
 - [27] front units_num “pół miliona”: Notatka żąda pół miliona dolarów. Nadawca wie, co jej prababcia zabra…
@@ -82,9 +82,9 @@ paragraph openers: '—'×353, '„'×1
     scene breaks                 3 -> 3       ok
     bt anchors                  14 -> 8       UNDECLARED -6 (expected +0)
     bt titles              MISMATCH  lost=['Winter Wonderland Inn', 'Frost Falls', 'Winter Wonderland Inn', 'Yarn Tales']
-    paragraphs changed     639
+    paragraphs changed     641
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch2 21%, Ch22 24%, Ch20 25%, Ch19 30%, Ch24 30%, Ch26 30%, Ch17 30%, Ch11 31%, Ch6 34%, Ch9 37%, Ch23 37%, Ch14 38%, Ch1 38%, Ch27 38%, Ch25 41%, Ch21 48%, Ch29 50%, Ch30 50%, Ch18 57%, Ch12 59%, Ch4 65%, Ch5 67%, Ch7 67%, Ch28 67%, Ch8 68%, Ch16 68%, Ch15 72%, Ch3 72%, Ch13 75%, Ch31 77%, Ch10 81%
+Ch2 21%, Ch22 24%, Ch20 25%, Ch19 30%, Ch24 30%, Ch26 30%, Ch17 30%, Ch11 31%, Ch6 34%, Ch9 37%, Ch23 37%, Ch14 38%, Ch27 38%, Ch1 39%, Ch25 41%, Ch21 48%, Ch29 50%, Ch30 50%, Ch18 57%, Ch12 59%, Ch4 65%, Ch5 67%, Ch7 67%, Ch28 67%, Ch8 68%, Ch16 68%, Ch15 72%, Ch3 72%, Ch13 75%, Ch31 77%, Ch10 81%

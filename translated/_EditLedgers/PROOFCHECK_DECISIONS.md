@@ -107,3 +107,14 @@
   Each now matches corrected Flour Play ES.
 - **What it needs:** whatever Lisa rules on PC-FIL2-1 (a: copy Flour Play Ch1 verbatim; b: keep) should also be applied to Spanish.
 - **Corrected Flour Play ES:** has no matching defect. It already reads «pacana», «la mitad más grande» and «Halloween», so no follow-up is needed there.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Polish — PROOFCHECK (2026-10-28)
+(report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Polish_PROOFCHECK.md`. All 15 one-answer fixes are already applied, incl. Ch26 "Theo had the theft" ×2 and Ch27 "ruined himself".)
+
+### PC-PL-IT-1 Excerpt "chocolate-pecan cupcakes" (low priority, both books)
+- **Polish now:** [1377] „Blacha czekoladowo-orzechowych babeczek wyszła mi z pieca…”. EN: "a tray of chocolate-pecan cupcakes". Two paragraphs later [1380] does say „czekolada, orzechy pekan i brązowy cukier”.
+- **Problem:** 'orzechowy' on its own suggests walnut/hazelnut. The wording is verbatim from corrected Flour Play Polish [81], and under the excerpt policy the two books must match.
+- **Options:**
+  - (a) Leave both books as they are (the pecans are named in [1380]).
+  - (b) Change both books to „czekoladowo-pekanowych babeczek”: Inn Trouble [1377] + Flour Play PL [81], one edit each.
+- **Recommendation:** (b). It can't be done automatically because it changes the corrected Flour Play edition, which is outside this audit.
