@@ -235,3 +235,20 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Greek_PROOFCHECK.md`. The 20 o
 - In Greek the masculine is the normal generic form for an unknown person, and Danny's account (Ch17) is neutral («αυτό το άτομο»). Even so, some readers could take it as "a man".
 - **Options:** (a) leave it (standard Greek generic masculine); (b) make the forms agree with «σιλουέτα» (feminine: Ψηλότερη… σκεπασμένη…), which is neutral as grammar but could tip readers off early.
 - **Recommendation:** (a). It's a judgment call because both options are correct Greek and the choice is about how much the clue gives away.
+
+## Flour Play - ASSEMBLED - FORMATTED_Spanish — PROOFCHECK (2026-10-28)
+
+Audit report: `Flour Play - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK.md`. The 29 one-answer fixes are applied. FP-ES-1…6 in PROOFREAD_DECISIONS.md are still open or informational, and their quotes still match the file. Paragraph numbers below count every paragraph in the file, the same way the flag file does.
+
+### PC-FPES-1 — Grange is «la Grange» in Flour Play but «el Grange» in Inn Trouble's excerpt (cross-book follow-up)
+- **Flour Play ES:** 18× «la Grange» (Ch15–Ch26, e.g. «El salón de la Grange»). The one exception, Ch1 [96] «te vi hacerlo en el Grange», was changed here to «en la Grange», because the brief asks for one Grange rendering.
+- **Inn Trouble ES:** «el Grange» occurs once, at [1505], and that one is inside the Flour Play Ch1 excerpt («…que te vi hacerlo en el Grange…»).
+- **Options:**
+  - (a) Change Inn Trouble ES [1505] to «en la Grange» so that both books match.
+  - (b) Use «el Grange» in both books. That means 18 edits in Flour Play.
+- **Recommendation:** (a). It is left to you because it is a file this audit doesn't own (Inn Trouble ES has already been audited).
+
+### PC-FPES-2 — "half again the size": the old Flour Play wording was copied into Inn Trouble (cross-book follow-up)
+- **Flour Play ES Ch1 [60]:** «que ya era la mitad más grande que la de cualquier otra» was changed here to «que ya era una vez y media más grande que la de cualquier otra». The reason: «la mitad más grande» reads as "the bigger half" and does not mean 1.5×. EN: "already half again the size of anyone else's".
+- **Inn Trouble ES [1469]:** the excerpt now has the old wording, «la mitad más grande». The Inn Trouble audit copied it in from Flour Play (its item #8).
+- **Recommendation:** make the same change in Inn Trouble ES [1469]: «una vez y media más grande». It is not applied there because this audit edits only Flour Play.
