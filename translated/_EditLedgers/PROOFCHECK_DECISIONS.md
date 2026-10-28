@@ -118,3 +118,21 @@
   - (a) Leave both books as they are (the pecans are named in [1380]).
   - (b) Change both books to „czekoladowo-pekanowych babeczek”: Inn Trouble [1377] + Flour Play PL [81], one edit each.
 - **Recommendation:** (b). It can't be done automatically because it changes the corrected Flour Play edition, which is outside this audit.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_French — PROOFCHECK (2026-10-28)
+(report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_French_PROOFCHECK.md`. 22 one-answer fixes are applied. They include the Ch26 / Ch7 / Ch13 blackmail note called « lettre de chantage » → « note de chantage », "Theo had the theft" → « détenait le secret du vol » in Ch22 / Ch23 / Ch26, and porch → porche, paddock → paddock unification.)
+
+### PC-FR2-1 « pas un centime » idiom ×8 vs the dollars-only lesson (same class as PC-IT-TR-1)
+- **French now:** [352] « Il ne donnera pas un seul centime », [437] « n'a jamais fait payer un centime », [466] « un centime pour la dernière partie », [815], [842] « chaque centime », [863], [917] « Theo ne volerait jamais un centime pour lui-même », [1440] (excerpt) « chaque centime va au fonds ».
+- **English:** "a penny / a cent / every penny".
+- **Series:** Book 1 FR and corrected Flour Play FR use « centime » twice each, and Flour Play also has « sou » once.
+- **Options:**
+  - (a) Leave it: « pas un centime » is the stock French idiom and carries no currency claim.
+  - (b) Use « pas un sou » (currency-neutral) in all three books.
+  - (c) Use « cent » (Québec / US usage). It reads oddly in metropolitan French.
+- **Recommendation:** (a). It needs your call because the run's rule is literally "dollars/cents only", and TR's « kuruş » was escalated the same way.
+
+### PC-FR2-2 IT2-FR-26-1 status (informational)
+- IT2-FR-26-1 said the note was « mot / note / lettre », called it all correct French, and said the clue does not depend on the word.
+- The three « lettre de chantage » instances ([439], [700], and the Ch26 confrontation [1160] « Les lettres de chantage envoyées à Fiona ») broke the brief's rule that the note never shares the 1924 letters' word. They are now « note », which is a one-answer fix.
+- **What stays open for you:** only the « mot » / « note » mix, which is a style choice. Both words are distinct from « lettres » and from « fiche ».
