@@ -327,3 +327,29 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
 - **Problem:** the reader can just about take [88] as Jessica speaking. The content ("I saw you do it at the Grange") and Dot's reply point back to Greta.
 - **Options:** (a) the formatter merges [87]+[88] (the English layout); (b) add an attribution in [88]: „— A na samym dnie są imbirowe ciasteczka — dodała Greta — więc…”; (c) leave it.
 - **Recommendation:** (c) or (a). If (a) or (b) is chosen, mirror it in Inn Trouble's excerpt. It can't be fixed here because it needs a paragraph merge or a new attribution in shared excerpt text.
+
+## Flour Play - ASSEMBLED - FORMATTED_French — PROOFCHECK (2026-10-28)
+(report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_French_PROOFCHECK.md`. 20 one-answer fixes are applied. Paragraph numbers are full-document indices, empty paragraphs included.)
+
+### PC-FR3-1 Closing CTA "Start reading The Binder's Bequest today!" is missing (same as FP-NL-5, FP-CS-8)
+- **English:** [1444] *Start reading* The Binder's Bequest *today!* is the last line of the book.
+- **French:** the excerpt ends at [2225] « Et sur ce, elle était partie… ». There is no closing paragraph, and the first pass did not log this.
+- **Options:**
+  - (a) The formatter adds a final paragraph « *Commencez la lecture de* <bt>The Binder's Bequest</bt> *dès aujourd’hui !* » (italic, as in the English). `stamp` then gives the French title.
+  - (b) Leave it out.
+- **Recommendation:** (a). It can't be done here because the audit must not add paragraphs.
+
+### PC-FR3-2 Cross-book follow-up for the Inn Trouble FR excerpt (Flour Play Ch1)
+- Flour Play FR is the reference for this excerpt (CLAUDE.md).
+- **Change made here:** [76] the bakery box was « une boîte à pâtisserie de la taille d’une boîte à chapeau » (EN "a bakery box the size of a hatbox"). It is now « une boîte de boulangerie… ». The lesson is that Greta's BAKERY must never take the rival Pâtisserie's word.
+- **Inn Trouble FR still has the old wording:** [1426] still reads « une boîte à pâtisserie ».
+- **Options:**
+  - (a) Change Inn Trouble [1426] to « une boîte de boulangerie » to match.
+  - (b) Revert Flour Play to « boîte à pâtisserie », the stock French term for a cake box.
+- **Recommendation:** (a). It wasn't applied here because that file is outside this edition.
+- **Informational:** "Very nearly" now reads « À très peu de choses près. » in Flour Play [51] (it was « À peu près. », which weakens it to "roughly"). That matches Inn Trouble [1402], so the two books now agree.
+
+### PC-FR3-3 FP-FR-2 status (informational)
+- "Two degrees under code" now reads « deux degrés sous la norme » in all three places: [676], [1134] and [1138]. [676] said « en dessous de la norme » before.
+- The Fahrenheit question in FP-FR-2 is unchanged and still open.
+- The « centime » ×2 ([89], [432]) and « sou » ×1 ([400]) uses come under PC-FR2-1. No separate ruling is needed.

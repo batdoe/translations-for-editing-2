@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 20 |
-| Next | Flour Play_French |
+| Done | 21 |
+| Next | Flour Play_German |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -35,3 +35,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Flour Play_Filipino | targeted | 25 | 5 | 30 | 1 (Ch22 Tanaka turn split → reads as Jessica) | SIGNIFICANT → full re-read recommended | Ch13 'a temper he didn't have' = anger, so Pete's clearing read backwards; Ch17 Danny made to walk past the light |
 | Flour Play_Dutch | targeted | 17 | 0 | 17 | 2 ('overval' for hasp; 'a week into the season') | MINOR | Ch20/Ch23 'you never changed it' read as the key, not the lock; Pete's 'temper' = mood |
 | Flour Play_Polish | targeted | 35 | 2 | 38 | 3 (pie 'orzechowy' ×11 → pekanowy?; IT PL excerpt/blurb need FP text; Ch1 split turn) | SIGNIFICANT → full re-read recommended | Ch23 'never changed it' = the key, not the lock; Ch19 Danny (not the figure) went into Sugarplum |
+| Flour Play_French | targeted | 17 | 3 | 20 | 3 (closing 'Start reading' line missing; IT FR 'boîte à pâtisserie'; two-degrees status) | MINOR | closing 'Start reading The Binder's Bequest today!' missing (decision); Ch17 'doesn't have to show you' → 'has nothing to show' |
