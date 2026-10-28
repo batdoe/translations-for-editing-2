@@ -92,3 +92,18 @@
 - **Optional tidy-up, not fixed in either file:** `Ten od Ivy je pro kostel a Ellie pro nemocnici.` (FP [88] = IT [1519]; EN "Ivy's is for the church and Ellie's is for the hospital") reads more clearly as `…a ten od Ellie pro nemocnici`. Not changed, because it is not wrong.
 - **Already logged, not re-raised:** `Jessice Claus` (IT-CS-7).
 - **Why it can't be settled here:** the fix belongs in another edition's file.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Spanish — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK.md`. 12 one-answer fixes were applied. ES2-D1 and ES2-D2 in PROOFREAD_DECISIONS.md are unchanged and their quotes are still accurate. Nothing below blocks the file.)
+
+### PC-ES2-1 Excerpt = separate translation, same class as PC-FIL2-1 (informational, not re-raised)
+- **What's there:** the excerpt [1449]–[1563] follows Inn Trouble's own English (bandstand / war memorial, "Over the weekend", the permit board, "Something was starting", "a nose for what mattered"). It does not reuse corrected Flour Play ES Ch1's wording, even where the two English texts are identical. For example, IT [1463] «Casi del todo.» vs FP [54] «Casi.», and IT [1461] «El mío se parece al tuyo.» vs FP [52] «El mío es igualito que el tuyo.».
+- **Fixed here,** because these are wrong against Inn Trouble's English:
+  - [1469] «casi el doble» → «la mitad más grande» ("half again the size").
+  - [1497]/[1503] «nuez» → «pacana» ("pecan").
+  - [1451] «Todos los Santos» → «Halloween».
+  - [1435] the Flour Play blurb «pastelería» → «panadería» (Greta's bakery; «pastelería» is the rival patisserie).
+  
+  Each now matches corrected Flour Play ES.
+- **What it needs:** whatever Lisa rules on PC-FIL2-1 (a: copy Flour Play Ch1 verbatim; b: keep) should also be applied to Spanish.
+- **Corrected Flour Play ES:** has no matching defect. It already reads «pacana», «la mitad más grande» and «Halloween», so no follow-up is needed there.

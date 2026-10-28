@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 8 |
-| Next | Inn Trouble_Spanish |
+| Done | 9 |
+| Next | Inn Trouble_Polish |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -23,3 +23,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Inn Trouble_Swedish | targeted | 6 | 0 | 6 | 1 (excerpt tense slip shared with FP SV) | SIGNIFICANT (borderline) | Ch26 'Theo stod för stölden' = Theo committed the theft ×2 |
 | Inn Trouble_Dutch | targeted | 6 | 1 | 8 | 0 (2 informational) | SIGNIFICANT → full re-read recommended | Ch27 [1313] 'ruined himself' → Theo destroying the Society; Ch1 heading read 'Hoofdstuk 3' (fixed) |
 | Inn Trouble_Czech | targeted | 32 | 1 | 33 | 1 (same slip in FP CS) | SIGNIFICANT → full re-read recommended | Ch19 [964] note-rename made the blackmail note 'in Theo's hand' (it was the card); 'Theo had the theft' → committed it (Ch23/26) |
+| Inn Trouble_Spanish | targeted | 11 | 0 | 12 | 1 (info: excerpt = separate translation, as PC-FIL2-1) | MINOR | Ch18 [866] 'tu hombre' for 'your man'; excerpt pecan→walnut, 'half again'→'almost double' |
