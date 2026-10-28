@@ -564,3 +564,20 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
   - (b) Use «Theo sabia do roubo.» instead.
   - (c) Make «roubo» and «furto» one word in all three places.
 - **Recommendation:** (a). The meaning is now unambiguous, and Constance remains the thief.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Dutch — FULL PROOFCHECK (2026-10-28)
+(Report: `Inn Trouble - ASSEMBLED - FORMATTED_Dutch_PROOFCHECK_FULL.md`. 21 one-answer fixes in 20 paragraphs were applied and are listed there. The items already logged for this edition (PC-NL2-1, PC-NL2-2, NL2-D1…D5, FP-NL-3 Snowball) are not re-raised.)
+
+### PC-NL2F-1 Ch14: one English paragraph split in two — paras 799 / 801 (informational, formatter)
+- **Dutch:** [799] ends `…‘Ik ga Vixen wel uit de kerk halen voordat ze de kerststalfiguren oppeuzelt.’` and [801] starts `Mompelend sjokte hij weg. De menigte loste op…`.
+- **English:** E526 is one paragraph (Bram's speech, then "He trudged off, muttering. The crowd drifted apart…").
+- **Issue:** no text is lost. The two Dutch paragraphs together equal the English one. Merging them would change the paragraph count, which the proofcheck rules forbid, so it was not done.
+- **Options:** (a) merge at formatting (recommended); (b) keep.
+
+### PC-NL2F-2 English source arithmetic: "six letters" — para 870 (Ch15)
+- **Dutch:** `Je had jezelf zes letters kunnen besparen.`
+- **English:** "His mother calls him Max … You could have saved yourself six letters."
+- **Issue:** MAXIMILIAN has 10 letters and MAX has 3, so the saving is 7 letters, not 6. The Dutch faithfully copies the English slip. Fixing only the Dutch would make it disagree with the English source and the other editions.
+- **Options:**
+  - (a) Correct the English to "seven" and then every edition (recommended).
+  - (b) Leave it everywhere.
