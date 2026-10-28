@@ -136,3 +136,25 @@
 - IT2-FR-26-1 said the note was « mot / note / lettre », called it all correct French, and said the clue does not depend on the word.
 - The three « lettre de chantage » instances ([439], [700], and the Ch26 confrontation [1160] « Les lettres de chantage envoyées à Fiona ») broke the brief's rule that the note never shares the 1924 letters' word. They are now « note », which is a one-answer fix.
 - **What stays open for you:** only the « mot » / « note » mix, which is a style choice. Both words are distinct from « lettres » and from « fiche ».
+
+## Inn Trouble - ASSEMBLED - FORMATTED_German — PROOFCHECK (2026-10-28)
+(report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_German_PROOFCHECK.md`. 26 one-answer edits in 24 paragraphs are applied. They include Ch22 "Theo had the theft" calque → »Er wusste vom Diebstahl«, Ch27 "ruined himself" made grammatical with the reflexive kept, Ch5 [301] "demanded of a woman" (read as demanded *by* her), and the Ch25 evidence list calling the inn's deed »Grundbucheintrag«. DE2-D1, DE2-D3 and DE2-D4 are still open, and their quotes are still accurate.)
+
+### PC-DE2-1. Front-matter blurb is in the past tense; the English blurb is in the present. OPEN
+- **German now:** [27]–[30] »Das Winter Wonderland Inn **hatte** … die Hälfte von Frost Falls erwärmt. Fiona Okafor **führte** es … Der Zettel **forderte** … Jessica Claus **fing** dort an … Das zu beweisen, **würde** Jessica die wärmste Woche kosten …«
+- **English:** "The Winter Wonderland Inn has warmed … The note demands … Jessica Claus starts … Proving it will cost Jessica …"
+- **Series:** the German Book 1 blurb is in the present (»Jessica Claus ist seit elf Tagen in Frost Falls …«). The first pass already moved this book's back-matter Flour Play blurb [1133] to the present. The corrected Flour Play German's own blurb is in the past (»Greta backte …«).
+- **Options:**
+  - (a) Put [27]–[30] in the present, matching the English and Book 1. This means rewriting about 12 verbs in 4 paragraphs.
+  - (b) Leave it as it is.
+  - (c) Settle one blurb tense for all three German books, and change Flour Play's blurb too.
+- **Recommendation:** (a), plus (c) when Flour Play is next opened. German back-cover copy normally uses the present tense.
+- **Why it isn't automatic:** it rewrites a whole section of marketing copy, and the series is split on it.
+
+### PC-DE2-2. Excerpt is a separate rendering of Flour Play Ch1 (PC-FIL2-1 class, informational)
+- 35 of the 48 excerpt paragraphs have English identical to Flour Play's, but the German differs from corrected Flour Play DE. For example, [1159] »Ziemlich genau.« vs FP »Fast.«. Both are correct for "Very nearly".
+- Only defects that are wrong against Inn Trouble's own English were fixed here, using Flour Play DE's wording:
+  - [1237] »so wie früher habe es nie geschneit, als ich ein Mädchen war« became »so habe es nie geschneit, als sie ein Mädchen gewesen sei«.
+  - [1165] »reingestürmt« ("stormed in") became »hereingespaziert« ("walked in").
+  - [1239] »von orange in gold« became »von Orange in Gold«.
+- Lisa's ruling on PC-FIL2-1 applies here too.

@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 11 |
-| Next | Inn Trouble_German |
+| Done | 12 |
+| Next | Inn Trouble_Italian |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -26,3 +26,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Inn Trouble_Spanish | targeted | 11 | 0 | 12 | 1 (info: excerpt = separate translation, as PC-FIL2-1) | MINOR | Ch18 [866] 'tu hombre' for 'your man'; excerpt pecan→walnut, 'half again'→'almost double' |
 | Inn Trouble_Polish | targeted | 11 | 1 | 15 | 1 (excerpt 'orzechowych' shared with FP PL) | SIGNIFICANT → full re-read recommended | Ch26 'Theo had the theft' → committed it ×2; Ch27 'ruined himself' → ruined the Society |
 | Inn Trouble_French | targeted | 21 | 1 | 22 | 2 (centime idiom; IT2-FR-26-1 status) | SIGNIFICANT → full re-read recommended | Ch26 [1160] blackmail notes = 'lettres de chantage' (the 1924 letters' word); 'Theo had the theft' calqued ×4 |
+| Inn Trouble_German | targeted | 15 | 1 | 26 | 2 (blurb past vs present tense; excerpt info) | MINOR | Ch22 [837] 'Theo had the theft' calque left; Ch5 [301] reversed who demanded the money |
