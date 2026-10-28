@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 14 |
-| Next | Flour Play_Norwegian |
+| Done | 15 |
+| Next | Flour Play_Greek |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -29,3 +29,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Inn Trouble_German | targeted | 15 | 1 | 26 | 2 (blurb past vs present tense; excerpt info) | MINOR | Ch22 [837] 'Theo had the theft' calque left; Ch5 [301] reversed who demanded the money |
 | Inn Trouble_Italian | targeted | 15 | 0 | 25 | 2 (FP IT Ch1 defects for info; blurb past tense, as DE) | MINOR (borderline) | Ch25 [1006] negation lost — 'I WILL handcuff Theo' |
 | Inn Trouble_Norwegian | targeted | 29 | 2 | 33 | 1 (PC-NO2-3 Dot's line split into two speakers, excerpt) | SIGNIFICANT → full re-read recommended | Ch26 [1274] 'Theo sto for tyveriet' made Theo the thief; note = 'utpressingsbrev' ×6 |
+| Flour Play_Norwegian | targeted (read all chapters) | 26 | 4 | 30 | 2 (8 split dialogue turns in Ch22 read as wrong speaker; 'gale opplysningene') | MINOR | Ch23 [1779] resumed speech without dash made Tanaka 'offer' to fill Greta's orders; Ch14 accusation against Danny read as fact |

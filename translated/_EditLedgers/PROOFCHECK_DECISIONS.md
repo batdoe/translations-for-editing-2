@@ -196,3 +196,25 @@
 
 ### PC-NO2-3 (added by the orchestrator) — Inn Trouble Norwegian [1648]–[1649], excerpt
 EN [977] gives Dot two lines in ONE paragraph; the Norwegian splits them into two separate dash turns, so they read as two different speakers. Fixing it needs a paragraph merge (or turning [1649]'s dash into a continuation), which this pass may not do. **Recommendation:** merge into one paragraph (or drop the second dash and attach it as Dot's continuing speech) when the formatter runs. Lisa's call.
+
+## Flour Play - ASSEMBLED - FORMATTED_Norwegian — PROOFCHECK (2026-10-28)
+
+### PC-FPNO-1 — Ch22: the raw MT split one speaker's turn into two dash paragraphs, so the second half reads as the OTHER speaker
+In Ch22 (and nowhere else in the body) the MT broke English paragraphs at every speech/narration boundary. Most splits are harmless. In these 8, a turn ends "– …, sa X." and the next paragraph opens with a fresh "– ", which in Norwegian dash dialogue means a new speaker:
+- [1685]/[1686] `– Jessica, sa Tanaka.` / `– Sett deg.` (EN [1060] Tanaka says both) → "Sett deg" reads as Jessica's line.
+- [1689]/[1690] `– Gretas Thanksgiving-bestillingsbok … morgenen ruten gikk, sa jeg.` / `– Joyce Wendt satt ved siden av den …` (EN [1063], all Jessica) → reads as Tanaka answering.
+- [1699]/[1700] `– Isolerer man det, … sa hun.` / `– Jeg kan finne det på halvparten av engroskjøkkenene i staten.` (EN [1070], Tanaka)
+- [1735]/[1736] `– Hun lagde den alltid som en fiskehake, sa hun.` / `– Selv på melbestillingene.` (EN [1090], Greta)
+- [1738]/[1739] `– Det advokatbrevet i august, sa hun.` / `– Stillwater. De ville ha alt, med hud, hår og navn.` (EN [1091], Greta)
+- [1742]/[1743] `– Jeg rev i stykker det brevet og kastet det i søpla, sa hun.` / `– Jeg var så fornøyd med meg selv.` (EN [1093], Greta)
+- [1745]/[1746] `– Hun kommer inn i ettermiddag, sa Tanaka.` / `– Du behøver ikke å være i rommet. …` (EN [1095], Tanaka)
+- [1755]/[1756] `– Jeg tar praten, sa hun.` / `– Jeg legger det frem, og hun svarer. …` (EN [1100], Tanaka)
+- **Options:** (a) the formatter merges each pair into one paragraph and drops the second dash (`– Jessica, sa Tanaka. – Sett deg.`); (b) let a pass move the second text onto the end of the first paragraph and leave the second paragraph empty (the count stays the same, but an empty paragraph would show inside Ch22, which has no blank paragraphs); (c) leave it.
+- **Recommendation:** (a). This is the same class as PC-NO2-3 (Inn Trouble NO). It can't be settled automatically because the fix needs a paragraph merge, and this pass may not change the paragraph count.
+
+### PC-FPNO-2 — Ch14 [1088] "all the wrong details"
+- NO: `Han ga meg for mange detaljer og alle de gale opplysningene, temperaturen, smaken på hostedropsene, og det lød som sannheten.`
+- EN [637]: "He gave me too much of it and all the wrong details, the temperature, the flavor of the cough drops, and it sounded like the truth."
+- «gale opplysningene» reads as *incorrect* information, which works against "it sounded like the truth". The English means details nobody would invent to sound good.
+- **Options:** (a) «alle de «feile» detaljene» (keeps the English joke); (b) «alle de uvesentlige detaljene»; (c) leave it.
+- **Recommendation:** (a). It's a judgment call because the English depends on irony that has no single Norwegian rendering.
