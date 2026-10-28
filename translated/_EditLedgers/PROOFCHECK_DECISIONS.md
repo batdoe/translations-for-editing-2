@@ -72,3 +72,14 @@
 
 ### PC-SV-1 Excerpt tense slip copied from Flour Play SV (informational, NOT APPLIED)
 [1667] `Martha sa att dagarna drar sig ihop så fort nu att Emma kom för att gå ut med Snowball nästan i mörker` — EN 'Martha said the days were drawing in so fast now that Emma came…'. The present `drar` sits among past-tense verbs. This sentence is word for word the same as corrected Flour Play SV [108], and the excerpt policy is to reuse FP wording. Options: (a) leave both as they are (it reads as reported speech); (b) change to `drog sig ihop` in BOTH files. Recommendation: (b), at the next Flour Play SV touch-up, so the two files stay identical. I can't settle it automatically because the change belongs in Flour Play first.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Dutch — PROOFCHECK (2026-10-28)
+(Report: `Inn Trouble - ASSEMBLED - FORMATTED_Dutch_PROOFCHECK.md`. No new question for Lisa. The 8 one-answer fixes are listed in the report.)
+
+### PC-NL2-1 NL2-D1 (chapter heading, para 37) — RESOLVED by this audit (informational)
+- [37] `Hoofdstuk 3` → `Hoofdstuk 1`. The body under it is EN Chapter 1, and the next heading is `Hoofdstuk 2`. It was a single wrong digit, and no other chapter needed renumbering. The TOC [22] (lists only `Hoofdstuk 31`) is still formatter work.
+
+### PC-NL2-2 Excerpt = separate translation, same class as PC-FIL2-1 (informational, not re-raised)
+- **What's there:** the excerpt [1468]–[1562] is 48/48 paragraphs and follows Inn Trouble's own English (bandstand, weekend, permit board, "Something was starting", and so on). But it does not reuse corrected Flour Play NL Ch1's wording, even where the two English texts are identical (e.g. `‘Nagenoeg wel.’` vs FP `‘Nou ja, bijna.’`).
+- **What it needs:** whatever Lisa rules on PC-FIL2-1 (a: copy FP Ch1 verbatim; b: keep) should also be applied to Dutch.
+- **One direction fix applied here:** [1556] `die de straat op stond te staren`. It is wrong against both English texts, and Flour Play NL [the same sentence] already reads `het blok opkeek`.

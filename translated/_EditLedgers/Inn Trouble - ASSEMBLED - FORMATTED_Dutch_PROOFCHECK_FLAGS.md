@@ -18,8 +18,8 @@ Chapters detected: EN 31 · this edition 31 (sequence [1, 2, 3]…[29, 30, 31])
 ## D — MT loops (0)
 - none
 
-## E — Chapter length vs English (1)
-- heading: [37] Chapter 1 heading reads “Hoofdstuk 3”
+## E — Chapter length vs English (0)
+- none
 
 ## F — Numbers not in the English chapter (0)
 - none
@@ -65,4 +65,4 @@ Chapters detected: EN 31 · this edition 31 (sequence [1, 2, 3]…[29, 30, 31])
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch17 21%, Ch29 23%, Ch23 24%, Ch9 24%, Ch19 25%, Ch26 26%, Ch4 28%, Ch14 29%, Ch24 30%, Ch13 30%, Ch22 30%, Ch12 32%, Ch31 35%, Ch1 35%, Ch25 35%, Ch27 35%, Ch8 36%, Ch10 37%, Ch20 37%, Ch3 37%, Ch15 39%, Ch6 41%, Ch18 48%, Ch30 52%, Ch5 59%, Ch7 60%, Ch16 61%, Ch28 70%, Ch11 71%, Ch2 72%, Ch21 79%
+Ch17 21%, Ch29 23%, Ch23 24%, Ch9 24%, Ch19 25%, Ch26 26%, Ch4 28%, Ch14 29%, Ch24 30%, Ch13 30%, Ch22 30%, Ch12 32%, Ch25 35%, Ch27 35%, Ch31 35%, Ch1 36%, Ch8 36%, Ch10 37%, Ch20 37%, Ch3 37%, Ch15 39%, Ch6 41%, Ch18 48%, Ch30 52%, Ch5 59%, Ch7 60%, Ch16 61%, Ch28 70%, Ch11 71%, Ch2 74%, Ch21 79%
