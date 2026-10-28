@@ -614,3 +614,25 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
   - The Czech is one single piece of news. IT [1521] now reads `drobné novinky celého dopoledne vměstnané do mezer mezi vázáním snítek`.
 - **Recommendation:** apply both to FP CZ, so that the excerpt stays word for word.
 - **Why it is not done here:** FP CZ is not this audit's file.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Polish — FULL PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Polish_PROOFCHECK_FULL.md`. 96 one-answer fixes in 89 paragraphs are listed there. IT-PL-1…7 and PC-PL-IT-1 were re-checked and are not raised again; PC-PL-IT-1 (pecan) is now in the file. Nothing below blocks the file.)
+
+### PC-PL-ITF-1 — "Theo had the theft" now rendered by sense (applied, informational)
+- **What the file had** (the targeted pass's literal fix of «Kradzież popełnił Theo»): Ch22 [1009] `Miał kradzież.` · Ch23 [1045] `Theo miał kradzież.` · Ch26 [1183] `Theo miał kradzież.` and [1187] `On miał kradzież. Pani miała akt własności.`
+- **English:** "He had the theft." / "Theo had the theft." / "He had the theft. You had the deed."
+- **Why:** bare `mieć kradzież` is not Polish and can be heard as "had a theft (done)" — the reversal the run lesson warns about.
+- **Now:** `Miał w ręku tajemnicę kradzieży.` / `Theo miał w ręku tajemnicę kradzieży.` and in the confrontation `On miał w ręku tajemnicę kradzieży. Pani miała w ręku akt własności.` (had/had parallel kept).
+- **Options:** (a) keep (recommended); (b) `Theo wiedział o kradzieży` (loses the parallel with the deed); (c) back to `miał kradzież`.
+
+### PC-PL-ITF-2 — Flour Play PL follow-up: excerpt lines fixed here, still in FP PL (informational, NOT applied to FP)
+- The Inn Trouble excerpt was rebuilt verbatim from corrected FP PL, so these came with it. The English is identical in both books:
+  - FP [124] `zbudowali wzdłuż niego rzędami bałwany` ("a row of snowmen" — there are three) → IT [1399] `zbudowali wzdłuż niego rząd bałwanów`.
+  - FP [77] `jak miasto bywa życzliwe wobec gościa` and FP [110] `żeby miasto ci się gapiło na ręce` (town = miasteczko, the series term) → IT [1373] / [1392] `miasteczko`.
+- Also in both books' What's Next / "O tej książce" blurb (IT [1346], left verbatim): `ktokolwiek to zrobił, kupił proszek, znał dawkę i złożył skargę` — masculine past for Flour Play's culprit (a woman); EN "whoever did this bought… knew… filed" is neutral. Generic masculine is normal Polish, so not a hard error, but it is the same spoiler-gender pattern. Possible neutral: `ten, kto to zrobił, musiał kupić proszek…` is still masculine; `to sprawka kogoś, kto kupił…` likewise — a fully neutral form needs a recast, e.g. `Proszek kupiono, dawkę znano, a skarga powołuje się na podpunkt przepisów sanitarnych.`
+- **Recommendation:** apply the three excerpt fixes to FP PL so the excerpt stays word-for-word; decide the blurb recast once, for both books. Not done here: FP PL is not this audit's file.
+
+### PC-PL-ITF-3 — Theo's declension is mixed; generic-masculine policy (low priority)
+- **Theo:** the edition declines him in 20 places (`Thea` ×17 — e.g. [264] `W archiwum Thea`, [1187] `wszyscy znają Thea`; `Theowi` ×3) and leaves him undeclined in the other oblique cases (`Pismo Theo` [303], `dział Theo` [501], `pomóc Theo` [852], `Z udziałem Theo` [1289], …). Both are acceptable Polish, but the book should pick one.
+- **Options:** (a) declined `Thea/Theowi/Theem` throughout (≈40–50 edits; reads most natural); (b) undeclined `Theo` throughout (20 edits). Check FP PL and Book 1 PL for the series form first. Recommendation: (a) if Book 1/FP decline him, else (b). A judgment call across three books, so not done here.
+- **For the record:** in the spoiler-gender sweep I removed explicit gendered forms the English lacks (the note's own `żebym wiedział` [185], `On trzymał` [791], `na nim` [957], and four soft cases) but kept the generic noun `szantażysta` and `ktoś … -ł`, which are unmarked Polish, and every "he/his" the English itself uses. If you want the blackmailer fully neutral before Ch22 (e.g. `osoba szantażująca`), say so — ≈20 places.

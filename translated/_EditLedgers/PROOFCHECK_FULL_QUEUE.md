@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 4 |
-| Next | Inn Trouble_Polish |
+| Done | 5 |
+| Next | Inn Trouble_French |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -21,3 +21,4 @@
 | Inn Trouble_Brazilian Portuguese | full | all 31 + front + back | 34 | 0 | 37 | 1 (theft wording, info) | SIGNIFICANT | Ch20 [1015] feminine pronoun gave away the female courier (Vera) before the reveal; Ch7 friend/sleuth swapped |
 | Inn Trouble_Dutch | full | all 31 + front + back | 21 | 0 | 21 | 2 (Ch14 split paragraph; ⚑ English source: MAXIMILIAN − MAX = 7 letters, text says six) | MINOR | [1295] 'buurman' made Fiona a man; 2 spoiler-gender possessives neutralised |
 | Inn Trouble_Czech | full | all 31 + front + back | 44 | 2 | 46 | 2 (theft wording info; FP CS Ch1 follow-ups) | SIGNIFICANT | Ch2 [172] said Fiona broke into her own trunk; blackmail note used a masculine form (spoiler) |
+| Inn Trouble_Polish | full | all 31 + front + back | 88 | 4 | 96 | 3 (theft wording info; FP PL follow-ups + gendered blurb; Theo declined vs undeclined) | SIGNIFICANT | Ch2 note 'żebym wiedział' gendered the blackmailer male from Ch2 (also Ch16, Ch20 courier); Ch14 reversed |

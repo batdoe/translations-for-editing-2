@@ -39,7 +39,7 @@ Chapters detected: EN 31 · this edition 31 (sequence [1, 2, 3]…[29, 30, 31])
 - [484] Ch8 units_num “kilka stopni”: …ą krótkimi, równymi uderzeniami, obracając o kilka stopni po każdym ciosie. Nie zauważył mnie od razu,…
 - [676] Ch13 units_num “pół miliona”: … co nijak nie pasowało do liściku żądającego pół miliona dolarów. Te rachunki się nie zgadzały. Gdyby…
 - [731] Ch14 units_num “pół miliona”: … z mojej przyjaciółki ktoś próbował wycisnąć pół miliona dolarów. Ale oto renifer wyszedł z fontanny,…
-- [767] Ch15 units_num “jedną stopę”: …uż obok ciepłego boku pieca. Martha wysunęła jedną stopę z buta i oparła ją na grzbiecie Pip.
+- [767] Ch15 units_num “jedną stopę”: …tuż obok ciepłego boku kozy. Martha wysunęła jedną stopę z buta i oparła ją na grzbiecie Pip.
 - [837] Ch18 units_num “pół miliona”: …e jej rodzinę tą historią, jeśli nie zapłaci pół miliona dolarów, których nie ma i których nie uzbier…
 - [839] Ch18 units_num “Pół miliona”: — Pół miliona. — Odchylił się i cicho gwizdnął. — Dobry Bo…
 - [999] Ch22 units_num “pół miliona”: …ę broszy w swoim archiwum i dostrzegł w niej pół miliona dolarów, które mogły uratować tę jedną rzecz…
@@ -82,9 +82,9 @@ paragraph openers: '—'×353, '„'×1
     scene breaks                 3 -> 3       ok
     bt anchors                  14 -> 8       UNDECLARED -6 (expected +0)
     bt titles              MISMATCH  lost=['Winter Wonderland Inn', 'Frost Falls', 'Winter Wonderland Inn', 'Yarn Tales']
-    paragraphs changed     641
+    paragraphs changed     667
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch2 21%, Ch22 24%, Ch20 25%, Ch19 30%, Ch24 30%, Ch26 30%, Ch17 30%, Ch11 31%, Ch6 34%, Ch9 37%, Ch23 37%, Ch14 38%, Ch27 38%, Ch1 39%, Ch25 41%, Ch21 48%, Ch29 50%, Ch30 50%, Ch18 57%, Ch12 59%, Ch4 65%, Ch5 67%, Ch7 67%, Ch28 67%, Ch8 68%, Ch16 68%, Ch15 72%, Ch3 72%, Ch13 75%, Ch31 77%, Ch10 81%
+Ch2 23%, Ch20 26%, Ch22 27%, Ch24 30%, Ch17 30%, Ch19 33%, Ch26 33%, Ch11 34%, Ch6 34%, Ch9 37%, Ch23 37%, Ch14 38%, Ch27 38%, Ch1 39%, Ch25 41%, Ch29 56%, Ch21 57%, Ch18 57%, Ch12 59%, Ch30 60%, Ch4 68%, Ch16 68%, Ch5 69%, Ch8 71%, Ch7 71%, Ch28 71%, Ch15 74%, Ch13 75%, Ch3 77%, Ch31 78%, Ch10 81%
