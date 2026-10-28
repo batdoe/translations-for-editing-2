@@ -66,3 +66,9 @@
   - (b) Leave it.
 - **Recommendation:** (a). It has one correct answer, but it is in another edition, so it is left for the Flour Play PT-BR proofcheck or for Lisa.
 - **Also for the record (no action needed in Flour Play):** Flour Play splits the English "She has a great deal of shame…" paragraph into FP [68] and [69]. The first pass had copied only FP [68] into Inn Trouble [1471] and dropped the "I gave Pip the look…" sentences. They are restored here from FP [69], in roman type to match Inn Trouble's English (FP italicises the two looks).
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Swedish — PROOFCHECK (2026-10-28)
+(Report: `Inn Trouble - ASSEMBLED - FORMATTED_Swedish_PROOFCHECK.md`. Nothing here blocks the file. The first-pass items IT-SV-1…8 in PROOFREAD_DECISIONS2.md are unchanged and still accurate.)
+
+### PC-SV-1 Excerpt tense slip copied from Flour Play SV (informational, NOT APPLIED)
+[1667] `Martha sa att dagarna drar sig ihop så fort nu att Emma kom för att gå ut med Snowball nästan i mörker` — EN 'Martha said the days were drawing in so fast now that Emma came…'. The present `drar` sits among past-tense verbs. This sentence is word for word the same as corrected Flour Play SV [108], and the excerpt policy is to reuse FP wording. Options: (a) leave both as they are (it reads as reported speech); (b) change to `drog sig ihop` in BOTH files. Recommendation: (b), at the next Flour Play SV touch-up, so the two files stay identical. I can't settle it automatically because the change belongs in Flour Play first.

@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 5 |
-| Next | Inn Trouble_Swedish |
+| Done | 6 |
+| Next | Inn Trouble_Dutch |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -20,3 +20,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Inn Trouble_Romanian | targeted | 16 | 3 | 19 | 1 (PC-IT-RO-1 same excerpt slips in FP Romanian) | MINOR | Ch27 [1313] reversed: Theo ruined the Society, not himself |
 | Inn Trouble_Turkish | targeted | 18 | 4 | 25 | 2 (kuruş idioms; FP TR follow-ups) | SIGNIFICANT (borderline) → full re-read recommended | Ch19 [1020] love lets 'you' instead of 'him' (reversed); excerpt snowmen question inverted |
 | Inn Trouble_Brazilian Portuguese | targeted | 5 | 1 | 7 | 1 (FP PT-BR 'nozes' slip) | SIGNIFICANT → full re-read recommended | Ch26 [1211] 'Theo cometeu o furto' — made Theo the 1924 thief; first pass had dropped half an excerpt paragraph |
+| Inn Trouble_Swedish | targeted | 6 | 0 | 6 | 1 (excerpt tense slip shared with FP SV) | SIGNIFICANT (borderline) | Ch26 'Theo stod för stölden' = Theo committed the theft ×2 |
