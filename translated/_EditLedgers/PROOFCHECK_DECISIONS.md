@@ -370,3 +370,31 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
   - (b) Leave it as it is.
 - **Recommendation:** (a), together with PC-DE2-1, so that all three German blurbs are in the present.
 - **Why it isn't automatic:** it rewrites a whole section of marketing copy, it is tied to the open series-wide tense question (PC-DE2-1), and the Inn Trouble audit logged the same issue as a decision.
+
+## Flour Play - ASSEMBLED - FORMATTED_Italian — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Italian_PROOFCHECK.md`. 31 one-answer edits in 27 paragraphs are applied, including the three PC-IT2-1 Ch1 slips (now «una volta e mezza», «noci pecan», «alla Grange»), Ch20 [1314] «Non l'ho mai cambiata» (it named the key, not the lock) → «cambiato», Ch19 [1265] «una prova» → «una bozza» (printer's proof), and Ch24 [1585] "took Danny's word" (it said "took Danny aside"). FP-IT-1…5 are still open, and their quotes are still accurate. Nothing below blocks the file.)
+
+### PC-IT3-1. Front-matter blurb is in the past tense; the English is in the present (same issue as PC-IT2-2)
+- **Italian now:** [29]–[37] «Greta **preparava** la stessa girella alla cannella da quarant'anni… Questa settimana **usciva** dal suo forno acida… Per giovedì Greta **si trovava**… Poi un mattone **sfondò** la vetrina… Il paese **cercò**… Jessica **cercò**… Quello non **era** uno scatto d'ira… una nuova pasticceria **aveva fissato**… la Holly Jolly **sarebbe rimasta** al buio.»
+- **English:** "Greta has made … This week it comes out of her oven sour … By Thursday Greta is standing … Then a brick comes through … The town reaches … Jessica reaches … That is not a temper … a new patisserie has dated its grand opening …"
+- **Options:**
+  - (a) Put it in the present, as the English and Book 1 IT are. The ready text:
+    - [29] «Greta prepara la stessa girella alla cannella da quarant'anni. L'ha preparata la mattina dopo il funerale di suo marito perché non sapeva cos'altro fare delle proprie mani. Questa settimana esce dal suo forno acida, e così l'infornata successiva, e quella dopo ancora.»
+    - [31] «Nuova farina. Nuova acqua. Una bilancia presa in prestito. Ancora acida. Giovedì Greta è nella sua panetteria a dire a Jessica Claus che le sue mani hanno finalmente dimenticato come si fa.»
+    - [33] «Poi un mattone sfonda la vetrina, e una parola compare in rosso sul rivestimento in legno, dove ogni bambino di Evergreen Avenue la leggerà passando.»
+    - [35] «Il paese cerca i colpevoli più facili: il macellaio che ha incatenato il cancello di carico, la famiglia in arretrato con il gasolio, un ragazzo annoiato con una bomboletta spray rubata. Jessica cerca ciò che quadra, perché chiunque lo abbia fatto ha comprato la polvere, conosceva la dose e ha presentato un esposto che cita il codice sanitario comma per comma. Questo non è uno scatto d'ira. Questo è un mestiere.»
+    - [37] «E all'estremità luminosa del viale, una nuova pasticceria ha fissato la sua grande apertura proprio nella settimana in cui la Holly Jolly resterà al buio.»
+  - (b) Leave it as it is.
+- **Recommendation:** (a), together with PC-IT2-2, so that all three Italian blurbs are in the present. The What's Next copy in Inn Trouble IT ([1185]–[1189]) would follow the same choice.
+- **Why it isn't automatic:** it rewrites a whole section of marketing copy, and the series-wide tense question (PC-IT2-2) is still open.
+
+### PC-IT3-2. Cross-book follow-up for the Inn Trouble IT excerpt (Flour Play Ch1)
+- Flour Play IT is the reference for that excerpt (CLAUDE.md). Two Ch1 changes made here are not yet in Inn Trouble IT:
+  - Flour Play [74]: the bakery box was «una scatola da pasticceria» (EN "a bakery box"). It is now «una scatola della panetteria», so that Greta's bakery never takes the rival pasticceria's word. **Inn Trouble IT [1212] still reads «una scatola da pasticceria».**
+  - Flour Play [130]: Nick's workshop was «laboratorio». It is now «officina», the Book 1 and Inn Trouble IT word (Flour Play [1618] was changed too). **Inn Trouble IT [1240] still reads «nel suo laboratorio».** The Inn Trouble audit kept that word only because Flour Play had it.
+- Informational: Flour Play [56] now reads «Dava la caccia al mio nel millenovecentottanta e qualcosa» (the MT had dropped "eighty"). Inn Trouble [1203] has «millenovecentoottantaqualcosa», which means the same thing.
+- **Options:**
+  - (a) Change Inn Trouble IT [1212] to «una scatola della panetteria» and [1240] to «nella sua officina», to match.
+  - (b) Revert Flour Play to «scatola da pasticceria» (the stock Italian term for a cake box) and «laboratorio».
+- **Recommendation:** (a).
+- **Why it isn't automatic:** that file is outside this edition.

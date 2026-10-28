@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 22 |
-| Next | Flour Play_Italian |
+| Done | 23 |
+| Next | Flour Play_Turkish |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -37,3 +37,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Flour Play_Polish | targeted | 35 | 2 | 38 | 3 (pie 'orzechowy' ×11 → pekanowy?; IT PL excerpt/blurb need FP text; Ch1 split turn) | SIGNIFICANT → full re-read recommended | Ch23 'never changed it' = the key, not the lock; Ch19 Danny (not the figure) went into Sugarplum |
 | Flour Play_French | targeted | 17 | 3 | 20 | 3 (closing 'Start reading' line missing; IT FR 'boîte à pâtisserie'; two-degrees status) | MINOR | closing 'Start reading The Binder's Bequest today!' missing (decision); Ch17 'doesn't have to show you' → 'has nothing to show' |
 | Flour Play_German | targeted | 18 | 1 | 19 | 1 (blurb past tense, as PC-DE2-1 — ready present-tense text) | SIGNIFICANT (borderline) | Ch23 'Du hast ihn nie ausgewechselt' = the key, not the lock; Ch18 1.5× → double |
+| Flour Play_Italian | targeted | 31 | 0 | 31 | 2 (blurb past tense; IT IT excerpt pasticceria/laboratorio) | SIGNIFICANT → full re-read recommended | Ch20 'Non l'ho mai cambiata' = the key, not the lock; proof → evidence; 'Ha visto'/'Lei sa' wrong person |
