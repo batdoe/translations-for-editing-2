@@ -420,3 +420,22 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
   - (b) Keep the spelling-based back vowels. They are consistent for Grange, and many readers will say the names as they are written.
 - **Recommendation:** (a) for correctness, done in both books together. If you prefer (b), only the stray `Tales'i` [1519] needs to go to `Tales'ı`.
 - **Why it isn't automatic:** it depends on how readers are expected to say the name, and it reaches into another edition. (By contrast, I fixed Duval’in→’ın, Dot’ın→’un, Varney’in→’nin, Bennett’a→’e and Sugarplum’un→’ın, because those followed the book's own majority.)
+
+## Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese_PROOFCHECK.md`. 34 one-answer edits in 32 paragraphs are applied, including PC-IT-PTBR-1 (FP [77] «nozes» → «noz-pecã»), the Ch22 recap [1473] «Ele viu uma van» → «Pete viu uma van» (it read as the culprit seeing the van), Ch23 [1573] «Você nunca trocou o cadeado» (lock, not key) and four agreement/punctuation regressions from the first pass's term swaps. FP-PTBR-1…9 are unchanged and their quotes are still accurate; FP-PTBR-1 («Farinha Envenenada») is still open. Nothing below blocks the file.)
+
+### PC-FPPTBR-1 — Inn Trouble PT-BR excerpt: apply two Ch1 fixes made today (cross-book follow-up)
+- **Fixed today in Flour Play PT-BR Ch1** (the same English is in Inn Trouble's excerpt; CLAUDE.md makes corrected Flour Play the reference):
+  - FP [57] «Fazia coroas naquela loja» → «Fazia guirlandas naquela loja» (wreath = «guirlanda» everywhere else in both books).
+  - FP [76] «uma caixa de confeitaria» → «uma caixa de padaria» (EN "a bakery box"; «confeitaria» is the rival Sugarplum's word, and Greta's BAKERY must never take it), and «dona da Holly Jolly Bakery» → «dona da padaria Holly Jolly» (Inn Trouble PT-BR [775] already says «padaria Holly Jolly»).
+- **Still old in Inn Trouble PT-BR:** [1459] «Fazia coroas» and [1477] «uma caixa de confeitaria» / «dona da Holly Jolly Bakery».
+- **Options:** (a) make the same three word changes in Inn Trouble PT-BR [1459] [1477]; (b) leave Inn Trouble as is.
+- **Recommendation:** (a), so the excerpt stays word-for-word with Flour Play.
+- **Why it isn't automatic:** Inn Trouble PT-BR is already audited and is not this audit's file.
+- Informational: both books keep «em mil novecentos e lá vai fumaça» for Dot's "nineteen eighty-something" (an idiom that drops "eighty") and «A praça gramada» for "The green" in Ch1 — left as they are, identical in both.
+
+### PC-FPPTBR-2 — Excerpt: the ball's name differs inside the published PT-BR text (informational)
+- **Target:** What's Next [1952] «Baile de Máscaras à Luz do Luar» vs excerpt [2006] «Baile de Máscaras do Luar». EN: "Moonlight Masquerade Ball" / "the Moonlight Masquerade".
+- **Options:** (a) unify both to one form (e.g. «Baile de Máscaras à Luz do Luar»), also in the published *O Legado do Encadernador* if it has the same split; (b) leave — the excerpt was copied verbatim from the published edition.
+- **Recommendation:** (b) here, unless you change the published book too.
+- **Why it isn't automatic:** the text comes from a published edition; changing it here would make the excerpt differ from the book it advertises.

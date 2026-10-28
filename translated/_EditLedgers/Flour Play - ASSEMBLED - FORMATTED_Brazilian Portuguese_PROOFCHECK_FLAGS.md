@@ -21,8 +21,8 @@ Chapters detected: EN 27 · this edition 27 (sequence [1, 2, 3]…[25, 26, 27])
 ## E — Chapter length vs English (0)
 - none
 
-## F — Numbers not in the English chapter (1)
-- Ch21: numbers not in the English chapter: 27
+## F — Numbers not in the English chapter (0)
+- none
 
 ## G — Names missing from a chapter (0)
 - none
@@ -72,4 +72,4 @@ paragraph openers: '—'×587
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch14 10%, Ch8 11%, Ch7 12%, Ch12 13%, Ch23 13%, Ch1 14%, Ch24 14%, Ch22 16%, Ch17 16%, Ch3 17%, Ch6 18%, Ch21 22%, Ch25 23%, Ch9 23%, Ch2 24%, Ch26 24%, Ch5 25%, Ch10 25%, Ch4 27%, Ch20 28%, Ch11 29%, Ch13 34%, Ch18 34%, Ch15 37%, Ch16 41%, Ch27 43%, Ch19 89%
+Ch14 11%, Ch7 12%, Ch8 13%, Ch12 13%, Ch24 14%, Ch23 15%, Ch1 16%, Ch22 16%, Ch17 17%, Ch3 17%, Ch6 19%, Ch25 23%, Ch9 23%, Ch2 24%, Ch21 24%, Ch26 24%, Ch5 25%, Ch10 25%, Ch4 27%, Ch20 28%, Ch18 34%, Ch11 35%, Ch13 37%, Ch15 37%, Ch16 41%, Ch27 43%, Ch19 89%

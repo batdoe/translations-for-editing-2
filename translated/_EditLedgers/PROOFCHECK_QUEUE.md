@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 24 |
-| Next | Flour Play_Brazilian Portuguese |
+| Done | 25 |
+| Next | Flour Play_Romanian |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -39,3 +39,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Flour Play_German | targeted | 18 | 1 | 19 | 1 (blurb past tense, as PC-DE2-1 — ready present-tense text) | SIGNIFICANT (borderline) | Ch23 'Du hast ihn nie ausgewechselt' = the key, not the lock; Ch18 1.5× → double |
 | Flour Play_Italian | targeted | 31 | 0 | 31 | 2 (blurb past tense; IT IT excerpt pasticceria/laboratorio) | SIGNIFICANT → full re-read recommended | Ch20 'Non l'ho mai cambiata' = the key, not the lock; proof → evidence; 'Ha visto'/'Lei sa' wrong person |
 | Flour Play_Turkish | targeted | 62 | 15 | 77 | 2 (copy Ch1 fixes into IT TR excerpt; Grange/Yarn Tales vowel harmony) | SIGNIFICANT → full re-read recommended | Ch13 'a temper he didn't have' = anger; Ch19 Danny named the gold shop; Ch23 key not lock; pecan→walnut ×13 |
+| Flour Play_Brazilian Portuguese | targeted | 30 | 4 | 34 | 2 (IT PT-BR excerpt follow-ups; ball name spelt two ways) | MINOR | Ch22 [1473] 'Ele viu uma van' = the culprit, not Pete; Greta's bakery box = patisserie word |
