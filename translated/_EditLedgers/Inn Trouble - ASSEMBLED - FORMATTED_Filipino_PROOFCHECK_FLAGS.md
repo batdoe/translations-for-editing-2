@@ -8,9 +8,8 @@ Chapters detected: EN 31 · this edition 29 (sequence [1, 2, 3]…[29, 30, 31])
 ## A — English left in the text (0)
 - none
 
-## B — Other alphabets / letters foreign to the language (2)
-- [377] Ch5 letter(s) ô foreign to Filipino: punô
-- [411] Ch5 letter(s) ô foreign to Filipino: punô
+## B — Other alphabets / letters foreign to the language (0)
+- none
 
 ## C — MT debris (notes, brackets, markup) (0)
 - none
@@ -94,4 +93,4 @@ paragraph openers: '“'×314
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch26 23%, Ch29 26%, Ch24 27%, Ch9 29%, Ch27 30%, Ch1 30%, Ch30 31%, Ch19 31%, Ch25 33%, Ch17 33%, Ch13 35%, Ch28 35%, Ch6 35%, Ch3 36%, Ch2 36%, Ch16 37%, Ch11 38%, Ch14 40%, Ch18 41%, Ch8 42%, Ch10 43%, Ch20 44%, Ch21 50%, Ch31 50%, Ch4 56%, Ch12 59%, Ch5 64%, Ch7 67%, Ch15 83%
+Ch26 26%, Ch29 26%, Ch24 27%, Ch9 29%, Ch27 30%, Ch1 30%, Ch30 31%, Ch19 31%, Ch17 33%, Ch13 35%, Ch25 35%, Ch28 35%, Ch6 35%, Ch3 36%, Ch16 37%, Ch11 38%, Ch2 38%, Ch14 40%, Ch18 41%, Ch8 42%, Ch10 43%, Ch20 44%, Ch21 50%, Ch31 51%, Ch4 56%, Ch12 59%, Ch5 67%, Ch7 67%, Ch15 83%
