@@ -479,3 +479,18 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
 - **Recommendation:** (a), so the excerpt stays word-for-word with Flour Play.
 - **Why it isn't automatic:** Inn Trouble Romanian is already audited and is not this audit's file.
 - **Capitalisation:** „Bulevardul Evergreen” is now capitalised throughout this book (×10), matching Inn Trouble's majority. DOOM prefers a lowercase generic (*bulevardul Evergreen*). If you want that, it is one global change in both books.
+
+## Flour Play - ASSEMBLED - FORMATTED_Czech — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Czech_PROOFCHECK.md`. 31 fixes applied in 31 paragraphs: 26 missed by the first pass and 5 first-pass regressions. PC-CS-1 from the Inn Trouble CS audit is now applied: [56] `než věnec kohokoli jiného`, so FP Ch1 = IT CS excerpt. Paddock unified to `výběh` [694], as in IT CS. Nothing below blocks the file.)
+
+### PC-FP-CS-1 — Greta's flour bin has two words (informational)
+- **Target:**
+  - `nádoba (na mouku)`: Ch2 [187] `víko nádoby na mouku`, [199] `vrátila víko na nádobu`, [201] `z vrcholu nádoby`; Ch11 [816] `od nádoby s moukou`; Ch18 [1308] `Nadávkovaná nádoba s moukou`.
+  - `bedna (na mouku)`: Ch4 [261] `Žádná bedna.`, [275] `od bedny na mouku`; Ch8 [684] `u Gretiny bedny na mouku`; Ch11 [801] `v suchu v bedně`, [805] `bedna dobré mouky`.
+- **English:** "flour bin" / "bin" throughout. It is the same object every time, the one Pip recoils from.
+- **Options:**
+  - (a) unify to `bedna na mouku` (5 edits in Ch2/Ch11/Ch18);
+  - (b) unify to `nádoba na mouku` (5 edits in Ch4/Ch8/Ch11);
+  - (c) leave. Both words read naturally, and context always makes the object clear.
+- **Recommendation:** (c), or (a) if you want strict term consistency.
+- **Why it isn't automatic:** neither word is wrong, and the bin is not a word the deduction turns on, so this is a style choice.

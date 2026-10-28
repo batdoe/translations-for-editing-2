@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions (Inn Trouble 14, then Flour Play 14; most script flags first) |
-| Done | 26 |
-| Next | Flour Play_Czech |
+| Done | 27 |
+| Next | Flour Play_Swedish |
 
 ## Order
 Inn Trouble: Filipino, Greek, Romanian, Turkish, Brazilian Portuguese, Swedish, Dutch, Czech, Spanish, Polish, French, German, Italian, Norwegian
@@ -41,3 +41,4 @@ Flour Play: Norwegian, Greek, Spanish, Filipino, Dutch, Polish, French, German, 
 | Flour Play_Turkish | targeted | 62 | 15 | 77 | 2 (copy Ch1 fixes into IT TR excerpt; Grange/Yarn Tales vowel harmony) | SIGNIFICANT → full re-read recommended | Ch13 'a temper he didn't have' = anger; Ch19 Danny named the gold shop; Ch23 key not lock; pecan→walnut ×13 |
 | Flour Play_Brazilian Portuguese | targeted | 30 | 4 | 34 | 2 (IT PT-BR excerpt follow-ups; ball name spelt two ways) | MINOR | Ch22 [1473] 'Ele viu uma van' = the culprit, not Pete; Greta's bakery box = patisserie word |
 | Flour Play_Romanian | targeted | 46 | 9 | 55 | 3 (~146 narration beats without dashes; Ch25 split turn; IT RO excerpt follow-ups) | SIGNIFICANT → full re-read recommended | Ch23 [2008] 'N-ai schimbat-o' = the key, not the lock; printer's proof → evidence |
+| Flour Play_Czech | targeted | 26 | 5 | 31 | 1 (flour bin nádoba/bedna, info) | SIGNIFICANT (borderline) → full re-read recommended | Ch19 printer's proof → 'důkaz' (evidence); Ch23 lock not named; Ch24 took Danny aside |
