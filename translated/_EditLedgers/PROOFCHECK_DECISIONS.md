@@ -301,3 +301,29 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK.md`. The 29
   - (c) leave it.
 - **Recommendation:** (a). It keeps the week, which is the closure figure the whole plot (the flyer week) turns on.
 - **Why it isn't automatic:** the English is ambiguous.
+
+## Flour Play - ASSEMBLED - FORMATTED_Polish — PROOFCHECK (2026-10-28)
+(Report: `Flour Play - ASSEMBLED - FORMATTED_Polish_PROOFCHECK.md`. The 38 one-answer fixes are applied. First-pass items FP-PL-1…8 are still open or informational, and their quotes still match the file.)
+
+### PC-FPPL-1 — the pie is „placek czekoladowo-orzechowy” throughout (EN "chocolate-pecan")
+- **Polish now:** 11 places: Ch14 [981] [1000], Ch20 [1310] [1360], Ch23 [1617], Ch25 [1774] [1794] [1804] [1808], Ch26 capsule card [1846] (not italic), plus the declined forms. Joyce [1617] says the pie came „z placka pekanowego mojej matki”, so the pecans are named once.
+- **Problem:** on its own, „orzechowy” reads as walnut or hazelnut. This audit changed Greta's Ch1 cupcakes [81] to „czekoladowo-pekanowych” (PC-PL-IT-1). The pie is the first pass's settled term (FP-PL-8), so it was not changed.
+- **Options:**
+  - (a) Change the pie to „czekoladowo-pekanowy” in all 11 places (inflected forms included). **Recommended.**
+  - (b) Leave it as it is. Joyce's line names the pecans.
+- **Why it isn't automatic:** it is a settled term that recurs book-wide, including the capsule card that must stay identical in Ch15 and Ch26.
+
+### PC-FPPL-2 — follow-up for Inn Trouble Polish (its Flour Play excerpt and What's Next blurb)
+These Flour Play lines changed in this audit and are copied in corrected Inn Trouble Polish. Under the excerpt policy the two books should match. They were not applied there because this audit edits only Flour Play.
+- IT [1376]: „pudło cukiernicze” → „pudło z piekarni” (EN "bakery box"; „cukierniczy” is the rival patisserie's word). Also „Tego ranka miała fartuch tak zaznaczony mąką, że nawet nie zadała sobie trudu, by ją otrzepać.” → „Tego ranka cały fartuch miała w mące, której nawet nie zadała sobie trudu otrzepać.”
+- IT [1377]: „czekoladowo-orzechowych babeczek” → „czekoladowo-pekanowych babeczek” (resolves PC-PL-IT-1 on the Flour Play side).
+- IT [1396]: „Cóż, cokolwiek to będzie” → „Cóż, kimkolwiek oni są” (EN "whoever it is").
+- IT [1344] (Flour Play blurb in What's Next): „Do czwartku Greta stoi we własnej piekarni” → „W czwartek Greta stoi już we własnej piekarni” (EN "By Thursday"; „do czwartku” = "until Thursday"). Flour Play's own blurb [29] was also put into the present tense („od czterdziestu lat piecze…”, „wychodzi jej z pieca kwaśna”). IT [1343] has the same past-tense opening („Greta piekła… przez czterdzieści lat… wyciąga je z pieca kwaśne”) and IT [1346] has „za olej”. Copy Flour Play [29] and [35] there as well.
+- **Recommendation:** copy the changed Flour Play texts ([29] [31] [35] [81] [118]) into Inn Trouble verbatim.
+
+### PC-FPPL-3 — Ch1 [87]/[88]: Greta's turn is split after Jessica's thought (low priority)
+- **Polish:** [87] ends with narration „…Pomyślałam, że to najbliższe zapachowi całego zbliżającego się sezonu…”. Then [88] opens a new dash turn: „— A na samym dnie są imbirowe ciasteczka… Dot, widziałam cię w świetlicy…”
+- **EN [77]:** one paragraph, all Greta.
+- **Problem:** the reader can just about take [88] as Jessica speaking. The content ("I saw you do it at the Grange") and Dot's reply point back to Greta.
+- **Options:** (a) the formatter merges [87]+[88] (the English layout); (b) add an attribution in [88]: „— A na samym dnie są imbirowe ciasteczka — dodała Greta — więc…”; (c) leave it.
+- **Recommendation:** (c) or (a). If (a) or (b) is chosen, mirror it in Inn Trouble's excerpt. It can't be fixed here because it needs a paragraph merge or a new attribution in shared excerpt text.
