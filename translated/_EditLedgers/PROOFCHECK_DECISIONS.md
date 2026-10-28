@@ -523,3 +523,27 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
   - (a) the formatter merges [905]–[911] into one paragraph;
   - (b) leave it.
 - **Recommendation:** (a). Merging changes the paragraph count, so this pass cannot do it.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Turkish — FULL PROOFCHECK (2026-10-28)
+
+### PC-IT-TR-F1 — Emma → Jessica set to siz (applied, informational)
+- **What the text had:** the first pass's address table (IT-TR-D8) lists Emma under sen. In practice the edition was mixed inside the one Ch6 scene.
+  - siz: [458] `Bayan Claus, pengueniniz…` and [506] `Bayan Claus. Bakın.`
+  - sen: [512] `Bunu sen mi yaptın? … sen mi çıkardın?` and [516] `Kimseye söyleme.`
+  - Ch31 [1457] `— Bekle, dedi. Gitme.` was also sen.
+- **What I did:** all of these are now **siz** (`siz mi yaptınız / çıkardınız`, `söylemeyin`, `Bekleyin … Gitmeyin`).
+- **Why:** ruling 2 says "Children (Emma) … address adults formally unless the English shows otherwise". Emma calls her "Mrs. Claus" throughout. Jessica → Emma stays sen.
+- **Check Book 1 TR:** Book 1 TR (raw, not corrected) has Emma using sen with adults (`Sen o hanımsın`). If you prefer sen for Emma across the series, revert the 5 forms above and [458] [506].
+
+### PC-IT-TR-F2 — Flour Play TR follow-up: more excerpt lines wrong against the English (informational)
+These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play TR, where the English is identical:
+- **FP [46]** `Hepsi de aynı yöne bakar.`
+  - English: "All of them pointing home."
+  - Now in IT [1515]: `Hepsi de eve doğru bakar.`
+  - Inn Trouble's raw text had it right (`Hepsi evi gösteriyor`). The excerpt rebuild had overwritten it.
+- **FP [58]** `Soğuğa yenik düşen ya da torun bakanlar hariç bütün çember oradaydı.` ("everyone except the sick").
+  - English: "We were all there… The whole of the circle, when nobody was laid up with a cold or minding grandchildren."
+  - Now in IT [1521]: `Kimsenin soğuk algınlığıyla yatağa düşmediği ya da torun bakmadığı günlerdeki gibi, bütün çember oradaydı.`
+- **Month and weekday capitals:** `Kasım ayının` (FP [40] [60]; IT [1512] [1522]), `Perşembe günü` and `Cumartesi günü`. These are lower-cased here, following the targeted pass's `Ocak` → `ocak`. FP TR capitalises month names book-wide; that is your call there.
+- **Dialogue dash:** IT [1514] [1547] `dedi …, eğilerek. — …` had a stray re-opening dash, now removed. FP TR may have the same pattern.
+- **Recommendation:** apply the two meaning fixes to FP TR [46] and [58], so the excerpt stays word-for-word. It is not done here because FP TR is not this audit's file.

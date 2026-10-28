@@ -90,9 +90,9 @@ paragraph openers: '—'×311, '"'×1
     scene breaks                 5 -> 3       UNDECLARED -2 (expected +0)
     bt anchors                  10 -> 8       UNDECLARED -2 (expected +0)
     bt titles              MISMATCH  lost=['Yarn Tales', 'Winter Wonderland Inn', 'Frost Falls', 'Winter Wonderland Inn']
-    paragraphs changed     612
+    paragraphs changed     630
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch8 22%, Ch26 23%, Ch28 24%, Ch18 26%, Ch4 28%, Ch24 31%, Ch1 31%, Ch9 32%, Ch23 32%, Ch6 33%, Ch30 33%, Ch25 35%, Ch20 35%, Ch29 35%, Ch21 36%, Ch11 36%, Ch3 36%, Ch2 38%, Ch17 39%, Ch13 40%, Ch16 40%, Ch10 41%, Ch22 44%, Ch27 50%, Ch12 59%, Ch7 65%, Ch31 67%, Ch14 70%, Ch5 79%, Ch15 89%
+Ch26 23%, Ch28 24%, Ch8 25%, Ch4 30%, Ch24 31%, Ch18 31%, Ch1 33%, Ch30 33%, Ch25 35%, Ch23 35%, Ch20 35%, Ch6 35%, Ch29 35%, Ch21 36%, Ch9 36%, Ch3 37%, Ch2 38%, Ch17 39%, Ch13 40%, Ch16 40%, Ch11 40%, Ch10 41%, Ch22 44%, Ch27 50%, Ch12 59%, Ch7 65%, Ch31 67%, Ch14 70%, Ch5 79%, Ch15 89%

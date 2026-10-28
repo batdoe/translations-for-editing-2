@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 0 |
-| Next | Inn Trouble_Turkish |
+| Done | 1 |
+| Next | Inn Trouble_Brazilian Portuguese |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -17,3 +17,4 @@
 ## Done
 | Edition | Mode | Chapters read | Missed | Regressions | Applied | Decisions | Verdict | Worst miss |
 |---|---|---|---|---|---|---|---|---|
+| Inn Trouble_Turkish | full | all 31 + front + back | 62 | 23 | 85 | 2 (Emma siz per ruling 2; FP TR follow-ups) | SIGNIFICANT | Ch22 [1155] Theo held the theft itself (not the knowledge); Ch17 'let him in' → 'let myself in' |
