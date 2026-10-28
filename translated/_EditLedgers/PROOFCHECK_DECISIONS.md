@@ -252,3 +252,27 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK.md`. The 29
 - **Flour Play ES Ch1 [60]:** «que ya era la mitad más grande que la de cualquier otra» was changed here to «que ya era una vez y media más grande que la de cualquier otra». The reason: «la mitad más grande» reads as "the bigger half" and does not mean 1.5×. EN: "already half again the size of anyone else's".
 - **Inn Trouble ES [1469]:** the excerpt now has the old wording, «la mitad más grande». The Inn Trouble audit copied it in from Flour Play (its item #8).
 - **Recommendation:** make the same change in Inn Trouble ES [1469]: «una vez y media más grande». It is not applied there because this audit edits only Flour Play.
+
+## Flour Play - ASSEMBLED - FORMATTED_Filipino — PROOFCHECK (2026-10-28)
+
+### PC-FIL3-1. Ch22: Tanaka's turn is split into two paragraphs, so its second half reads as Jessica speaking — docx [1881]/[1882] (ledger index [1031]/[1032]) — OPEN
+- **Filipino now:**
+  - [1881] `“At pagkatapos ang kaso ay trabaho ko na, at susunod iyon.” Isang tuyo at mainit na ngiti ang sumilip at nawala sa gilid ng kanyang labi.`
+  - [1882] `“Naupo ako sa sala ni Fiona kasama mo noong nakaraang buwan. Alam ko kung paano mo gusto ang mga itong isagawa. Gusto ko ring isagawa ang mga ito sa ganoong paraan.”`
+- **English (one paragraph, all Tanaka):** "And then the charge is my job, and it comes after." A dry, warm smile came and went at the edge of her mouth. "I sat in Fiona's sitting room with you last month. I know how you like these done. I like them done that way too."
+- **The problem:** [1881] ends on narration. Because of that, the new quoted paragraph [1882] reads as the next speaker, which is Jessica. That makes Jessica say "I sat in Fiona's sitting room with you… I like them done that way too", the reverse of who says it. The first pass noted the split ("nothing lost") but did not log what it does to the dialogue.
+- **Why this can't be fixed automatically:** the fix is a paragraph merge, and the paragraph count must not change.
+- **Options:**
+  - (a) Merge: append [1882]'s text to [1881] after a space, then delete [1882]. **Recommended.** This is the English layout.
+  - (b) Keep the split and add an attribution to [1882], e.g. `“Naupo ako sa sala ni Fiona kasama mo noong nakaraang buwan,” dagdag niya. “Alam ko…”`
+
+### Note on PC-FIL2-1 (Inn Trouble excerpt)
+- This audit changed Flour Play Ch1 [56] (Dot's wreath, "half again the size") to `na mas malaki nang kalahati kaysa sa sinuman`.
+- If Lisa picks PC-FIL2-1 option (a) (copy corrected Flour Play Ch1 into the Inn Trouble excerpt), copy the current file, which includes this fix.
+- The Inn Trouble excerpt's own wording at [1508], `kalahating beses nang mas malaki`, is acceptable as it stands.
+
+### Open first-pass decisions re-checked (no change made)
+- **FIL3-D1:** the four `Kabanata 3` lines are still at ledger [381][384][387][393] (docx [711][717][723][731]). The quote is accurate, and no text is missing around them.
+- **FIL3-D2:** Kelly and Hal are still informal throughout.
+- **FIL3-D3:** `dalawang digri ang baba sa kodigo` is identical at [419][704][706]. `sandaang libra` [498] is unchanged.
+- **FIL3-D4:** the excerpt is still the published text, with `Ginoo`/`Binibini` as quoted.
