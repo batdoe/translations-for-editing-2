@@ -218,3 +218,20 @@ In Ch22 (and nowhere else in the body) the MT broke English paragraphs at every 
 - «gale opplysningene» reads as *incorrect* information, which works against "it sounded like the truth". The English means details nobody would invent to sound good.
 - **Options:** (a) «alle de «feile» detaljene» (keeps the English joke); (b) «alle de uvesentlige detaljene»; (c) leave it.
 - **Recommendation:** (a). It's a judgment call because the English depends on irony that has no single Norwegian rendering.
+
+## Flour Play - ASSEMBLED - FORMATTED_Greek — PROOFCHECK (2026-10-28)
+
+Audit report: `Flour Play - ASSEMBLED - FORMATTED_Greek_PROOFCHECK.md`. The 20 one-answer fixes are applied. FP-EL-1…12 in PROOFREAD_DECISIONS.md are still open and their quotes still match the file. Note: FP-EL-1 numbers paragraphs among non-empty paragraphs only ([316] [422] [435] [439] [445] [465] [609] [618] [1287]). The flag file numbers them across the full grid ([467] [608] [625] [633] [645] [684] [911] [922] [1859]), but these are the same nine headings. The body text around each one is complete.
+
+### PC-FPEL-1 — "Stillwater" written in two scripts
+- Ch21 [1451] Greta: `«Στιλγουότερ. Στιλγουότερ κάτι.»`, and Jessica [1459] `«Στιλγουότερ κάτι.»` (Greek script, spoken). Ch21 [1461]/[1462]: `Stillwater` / `Stillwater Provisions, LLC` (registry, Latin script). Ch22 [1556] Greta: `«Το Stillwater.»` (Latin script, spoken).
+- EN: "Stillwater" throughout.
+- **Options:** (a) keep Latin for the registry name and use Greek script whenever a character says it (change [1556] to «Το Στιλγουότερ»); (b) use Latin everywhere, as the business-name policy in FP-EL-5 does; (c) leave it.
+- **Recommendation:** (b), so it matches FP-EL-5 (shop and business names stay in Latin script). It's a judgment call because the edition's name-script policy (FP-EL-5) is still waiting for your ruling.
+
+### PC-FPEL-2 — the unseen figure at Greta's door is grammatically masculine (Ch13 [865])
+- `«Ενήλικας. Όχι παιδί… Ψηλότερος από την Γκρέτα… Χωρίς να ζεσταίνει τα χέρια του… Και σκεπασμένος… Κολλημένος στον τοίχο της…»` (Pete)
+- EN [608]: "A grown-up. Not a kid… Taller than Greta… No warming its hands. It knew why it was there. And covered…": the English keeps the figure "it", with no gender (the culprit is Joyce).
+- In Greek the masculine is the normal generic form for an unknown person, and Danny's account (Ch17) is neutral («αυτό το άτομο»). Even so, some readers could take it as "a man".
+- **Options:** (a) leave it (standard Greek generic masculine); (b) make the forms agree with «σιλουέτα» (feminine: Ψηλότερη… σκεπασμένη…), which is neutral as grammar but could tip readers off early.
+- **Recommendation:** (a). It's a judgment call because both options are correct Greek and the choice is about how much the clue gives away.
