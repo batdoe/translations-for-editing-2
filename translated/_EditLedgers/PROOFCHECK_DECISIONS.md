@@ -29,3 +29,12 @@
 - **Recommendation:** (a). It has one safe answer, but it sits in another edition that this audit doesn't own, so it is left for the Flour Play Greek proofcheck or for Lisa.
 - **Note on the IT-EL-8 excerpt:** five more paragraphs had kept Flour Play English details that Inn Trouble's English doesn't have, and they are now adapted: [1655] "Over the weekend", [1699] "warm", [1707] "pecan", [1753] "bandstand rail" instead of the war memorial, and [1767] present tense "I know… I've lived" plus "warm". If Lisa takes IT-EL-8's option of updating the English excerpt to final Flour Play Ch1 and copying the FP Greek verbatim, these adaptations should be reverted together with the other eight.
 
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Romanian — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Romanian_PROOFCHECK.md`. The first-pass items IT-RO-1…7 in PROOFREAD_DECISIONS2.md were re-checked. Their quotes and paragraph numbers still match the file, and nothing in them needs re-raising.)
+
+### PC-IT-RO-1 Flour Play Romanian follow-up: two excerpt slips copied from corrected Flour Play Ch1 (informational)
+- **Fixed here, in Inn Trouble's excerpt:** [1604] „O să fie un rând întreg **întoarse**" → „un rând întreg **întors**" (agreement: *rând* is masculine/neuter, so *întoarse* is wrong). [1512] „de-a lungul **bulevardului** Evergreen" → „**Bulevardului** Evergreen", matching the book's settled capitalised form (9 other places).
+- **The same text is still in corrected Flour Play Romanian:** FP [150] „O să fie un rând întreg întoarse până în weekend" and „bulevardului Evergreen" at FP [44] and [726].
+- **Options:** (a) apply the same two one-word fixes to corrected Flour Play Romanian; (b) leave it.
+- **Recommendation:** (a). Each fix has only one correct answer, but they sit in another edition that this audit doesn't own, so they are left for the Flour Play Romanian proofcheck or for Lisa. They can go in together with the four IT-RO-6 follow-ups.
