@@ -353,3 +353,20 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
 - "Two degrees under code" now reads « deux degrés sous la norme » in all three places: [676], [1134] and [1138]. [676] said « en dessous de la norme » before.
 - The Fahrenheit question in FP-FR-2 is unchanged and still open.
 - The « centime » ×2 ([89], [432]) and « sou » ×1 ([400]) uses come under PC-FR2-1. No separate ruling is needed.
+
+## Flour Play - ASSEMBLED - FORMATTED_German — PROOFCHECK (2026-10-28)
+(report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_German_PROOFCHECK.md`. 19 one-answer fixes are applied: 18 misses and 1 first-pass regression. Paragraph numbers are full-document indices. FP-DE-1…7 are still open, and their quotes are still accurate.)
+
+### PC-DE3-1 Front-matter blurb is in the past tense; the English is in the present (same issue as PC-DE2-1 in Inn Trouble DE)
+- **German now:** [29]–[37] »Greta **backte** seit vierzig Jahren … Diese Woche **kam** sie sauer aus dem Ofen … Bis Donnerstag **stand** Greta … Dann **flog** ein Backstein … Die Stadt **griff** … Jessica **suchte** … Das **war** kein Jähzorn … hatte eine neue Patisserie ihre große Eröffnung … terminiert, in der die Holly Jolly dunkel bleiben **würde**.«
+- **English:** "Greta has made the same cinnamon roll for forty years … This week it comes out of her oven sour … By Thursday Greta is standing … Then a brick comes through … The town reaches … Jessica reaches … That is not a temper … a new patisserie has dated its grand opening to the one week the Holly Jolly will be dark."
+- **Options:**
+  - (a) Put it in the present, as the English and Book 1 DE are. The ready text:
+    - [29] »Greta backt seit vierzig Jahren exakt dieselbe Zimtschnecke. Am Morgen nach dem Begräbnis ihres Mannes hat sie eine gebacken, weil sie nicht wusste, was sie sonst mit ihren Händen anfangen sollte. Diese Woche kommt sie sauer aus dem Ofen, und mit ihr die nächste Ladung und die danach.«
+    - [31] »… Immer noch sauer. Am Donnerstag steht Greta in ihrer eigenen Bäckerei und erzählt Jessica Claus, ihre Hände hätten es nun endgültig verlernt.«
+    - [33] »Dann fliegt ein Backstein durch das Fenster, und an der Holzverkleidung prangt ein Wort in roter Farbe, das jedes Kind aus der Evergreen Avenue beim Vorbeigehen lesen muss.«
+    - [35] »Die Stadt greift nach den naheliegenden Namen: dem Metzger, der das Ladetor verriegelt hat, der Familie, die mit ihrem Heizöl im Rückstand ist, einem gelangweilten Jungen mit einer gestohlenen Sprühdose. Jessica sucht nach dem, was wirklich passt – denn wer immer das getan hat, hat das Pulver besorgt, die Dosis gekannt und eine Beschwerde eingereicht, die die Hygienevorschriften bis auf den Unterabsatz genau zitiert. Das ist kein Jähzorn. Das ist Fachwissen.«
+    - [37] »Und am hellen Ende der Avenue hat eine neue Patisserie ihre große Eröffnung auf genau die eine Woche terminiert, in der die Holly Jolly dunkel bleibt.«
+  - (b) Leave it as it is.
+- **Recommendation:** (a), together with PC-DE2-1, so that all three German blurbs are in the present.
+- **Why it isn't automatic:** it rewrites a whole section of marketing copy, it is tied to the open series-wide tense question (PC-DE2-1), and the Inn Trouble audit logged the same issue as a decision.
