@@ -181,3 +181,18 @@
   - (c) Settle one blurb tense for all three Italian books.
 - **Recommendation:** (a), plus (c). Italian back-cover copy normally uses the present, as Book 1 does.
 - **Why it isn't automatic:** it rewrites marketing copy, and the series is split on it.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Norwegian — PROOFCHECK (2026-10-28)
+(Report: `Inn Trouble - ASSEMBLED - FORMATTED_Norwegian_PROOFCHECK.md`. 33 one-answer fixes in 31 paragraphs. No new question for Lisa; nothing below blocks the file.)
+
+### PC-NO2-1 Paddock unified to «luftegården» (informational)
+- The edition mixed «luftegården» ×4 (Ch10), «innhegningen» ×4 (Ch14 [805], Ch19 [1003], Ch30 [1430] [1436]) and «hagen» ×2 (Ch3 [203] [231]; *hage* = garden). EN: "paddock" every time.
+- Frost and Found NO and Flour Play NO both use «luftegård», so all 6 were changed to «luftegården». Undo only if Lisa prefers «innhegningen» series-wide.
+
+### PC-NO2-2 Excerpt circle word follows NO2-D1 (informational, not re-raised)
+- The first pass changed the excerpt's «sirkelen» to «syklubben» ([1549] [1569] [1571] [1609] [1615] [1628] [1653] [1659]). Corrected Flour Play NO Ch1 uses «sirkelen».
+- Whatever NO2-D1 decides should be applied to the excerpt too.
+- Otherwise the excerpt is a separate translation of Inn Trouble's own English. It is the same class as PC-FIL2-1: it is accurate, but it does not reuse FP NO wording.
+
+### PC-NO2-3 (added by the orchestrator) — Inn Trouble Norwegian [1648]–[1649], excerpt
+EN [977] gives Dot two lines in ONE paragraph; the Norwegian splits them into two separate dash turns, so they read as two different speakers. Fixing it needs a paragraph merge (or turning [1649]'s dash into a continuation), which this pass may not do. **Recommendation:** merge into one paragraph (or drop the second dash and attach it as Dot's continuing speech) when the formatter runs. Lisa's call.
