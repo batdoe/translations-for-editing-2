@@ -398,3 +398,25 @@ These Flour Play lines changed in this audit and are copied in corrected Inn Tro
   - (b) Revert Flour Play to «scatola da pasticceria» (the stock Italian term for a cake box) and «laboratorio».
 - **Recommendation:** (a).
 - **Why it isn't automatic:** that file is outside this edition.
+
+## Flour Play - ASSEMBLED - FORMATTED_Turkish — PROOFCHECK (2026-10-28)
+
+Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77 one-answer edits (67 paragraphs) are applied. FP-TR-D1…D8 in PROOFREAD_DECISIONS.md are still open or informational, and their quotes still match the file. PC-IT-TR-1 (the *kuruş* idioms) covers this edition too ([88] [482] [1140] [1164]): nothing changed here. IT-TR-D3 (Theo sen/siz) was not touched.
+
+### PC-FPTR-1 — Inn Trouble TR excerpt: apply the Flour Play Ch1 fixes made today (cross-book follow-up)
+- **Fixed today in Flour Play TR Ch1** (the same English is in Inn Trouble's excerpt):
+  - FP [56] `çelengi herkesten bir buçuk kat daha büyük ve iki kat daha sıkı olmasına rağmen çelenginden` → `herkesinkinden şimdiden bir buçuk kat büyük ve iki kat sık olan çelenginden`. The old wording had a false "despite" and compared the wreath with people, not with their wreaths. EN: "not looking up from her wreath, which was already half again the size of anyone else's".
+  - FP [74] `bir pastane kutusunu` → `bir fırın kutusunu`, because Greta's BAKERY box must not use the rival patisserie's word (*pastane*). Also `çikolatalı cevizli kek` → `çikolatalı pekanlı kek`, because *ceviz* is walnut. The whole book now says *pekanlı* (13 places).
+  - FP [134] `Köknarı kökünden bağladım` → `Köknarı sımsıkı yerine bağladım`, as PC-IT-TR-2 recommended.
+- **Still old in Inn Trouble TR:** [1520] (the "despite" line), [1529] (`pastane kutusunu`, `çikolatalı cevizli kek`), [1531] (`çikolata, ceviz ve esmer şeker`, a walnut mention that FP [78] doesn't have) and [1560] (`kökünden`).
+- **Recommendation:** copy the four FP fixes into Inn Trouble TR, and make [1531] say `çikolata ve esmer şeker`, so the excerpt stays word-for-word.
+- **Why it isn't automatic:** Inn Trouble TR has already been audited, and it isn't this audit's file.
+
+### PC-FPTR-2 — Grange and Yarn Tales take back-vowel suffixes (vowel harmony by pronunciation)
+- **The text:** `Grange’a` ×2, `Grange’da` ×5, `Grange’dan`, `Grange’daki`, `Grange’ın` ×3 (12 forms, all back-vowel). `Yarn Tales’ın` ×2 and `Tales'da` ×2, but `Tales'i` ×1. Inn Trouble TR has the same pattern (`Grange’da`, `Tales’ın` ×2 / `Tales'in` ×1).
+- **The rule:** Turkish suffixes follow how the name is pronounced. Grange is said "greynç" and Tales "teylz", so TDK style would be `Grange’e / ’de / ’in` and `Tales’in / ’i / ’de`.
+- **Options:**
+  - (a) Change to the front-vowel forms in both books (about 15 forms in FP and 4 in IT).
+  - (b) Keep the spelling-based back vowels. They are consistent for Grange, and many readers will say the names as they are written.
+- **Recommendation:** (a) for correctness, done in both books together. If you prefer (b), only the stray `Tales'i` [1519] needs to go to `Tales'ı`.
+- **Why it isn't automatic:** it depends on how readers are expected to say the name, and it reaches into another edition. (By contrast, I fixed Duval’in→’ın, Dot’ın→’un, Varney’in→’nin, Bennett’a→’e and Sugarplum’un→’ın, because those followed the book's own majority.)
