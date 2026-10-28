@@ -30,9 +30,9 @@ Chapters detected: EN 27 · this edition 27 (sequence [1, 2, 3]…[25, 26, 27])
 ## H — Watch-words (units, currency, cider, poison) (1)
 - [982] Ch12 units_num “o milă”: …scă și să aibă parte de o pală de vânt rece, o milă pentru un brutar care stătea pe lângă cuptoa…
 
-## I — Dialogue system (0)
-paragraph openers: '—'×647
-- none
+## I — Dialogue system (1)
+paragraph openers: '—'×646, '„'×1
+- [847] Ch9 opens with '„' (book mostly '—'): „Păi, doar nu te închid degeaba, nu?”, iar cealaltă i-a răspuns: „Nu, presupun că nu.”
 
 ## J — First pass's own deletions / big cuts (1)
 - [1691] Ch19 EMPTIED by first pass (was: * * *)
@@ -69,4 +69,4 @@ paragraph openers: '—'×647
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch1 10%, Ch12 15%, Ch14 15%, Ch25 16%, Ch17 18%, Ch5 18%, Ch3 18%, Ch15 20%, Ch24 21%, Ch21 22%, Ch10 22%, Ch8 22%, Ch13 23%, Ch7 25%, Ch2 26%, Ch4 27%, Ch9 29%, Ch20 30%, Ch16 31%, Ch11 32%, Ch18 33%, Ch6 35%, Ch26 35%, Ch19 38%, Ch22 49%, Ch27 52%, Ch23 78%
+Ch14 15%, Ch25 16%, Ch1 17%, Ch17 18%, Ch12 18%, Ch5 18%, Ch3 18%, Ch15 20%, Ch10 22%, Ch24 22%, Ch8 22%, Ch13 23%, Ch21 23%, Ch7 25%, Ch2 26%, Ch4 27%, Ch9 29%, Ch20 30%, Ch16 31%, Ch18 33%, Ch6 35%, Ch11 35%, Ch26 35%, Ch19 38%, Ch22 50%, Ch27 53%, Ch23 78%

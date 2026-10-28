@@ -439,3 +439,43 @@ Audit report: `Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK.md`. The 77
 - **Options:** (a) unify both to one form (e.g. «Baile de Máscaras à Luz do Luar»), also in the published *O Legado do Encadernador* if it has the same split; (b) leave — the excerpt was copied verbatim from the published edition.
 - **Recommendation:** (b) here, unless you change the published book too.
 - **Why it isn't automatic:** the text comes from a published edition; changing it here would make the excerpt differ from the book it advertises.
+
+## Flour Play - ASSEMBLED - FORMATTED_Romanian — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Romanian_PROOFCHECK.md`. Paragraph numbers are on the python-docx grid of 2,499 paragraphs. The first-pass items FP-RO-1…8 were re-checked and are still accurate. PC-IT-RO-1 and the IT-RO-6 follow-ups are now applied in this book.)
+
+### PC-FP-RO-1 — Dialogue: narration beats inside speech are not bracketed with dashes (ruling 1 consistency with Inn Trouble)
+- **Target, for example:**
+  - [1134] „— Danny. Și-a șters mâinile de șorț. Se zvonește că a fost Danny. … A ieșit de după tejghea. Jessica, l-am dat afară…”
+  - [1126] „— Probabil că știi familia… Și-a băgat bărbia în guler. Așa că orașul a pus cap la cap lucrurile.”
+- **Corrected Inn Trouble Romanian** brackets the beat with dashes, e.g. [163]: „— La Societatea de Istorie. — A rostit-o aproape ca pe o șoaptă. — Theo are cutii…”. The dossier does the same („— Așteaptă — spuse ea — trebuie să mă gândesc.”).
+- **Size:** about 146 of this book's 662 dash paragraphs carry an unbracketed beat. Only about 20 use the inner dashes.
+- **Options:**
+  - (a) Bracket every beat in this book with „ — … — ”, as Inn Trouble does. This is about 150 paragraphs, each read against the English, because the beat boundary has to be judged sentence by sentence.
+  - (b) Leave as is. It is readable, and the speaker is never in doubt in the passages I read.
+- **Recommendation:** (a), done as one dedicated pass, so the two books match.
+- **Why it isn't automatic:** it is a bulk change that needs a judgment at every paragraph about where the beat ends.
+
+### PC-FP-RO-2 — Ch25 [2234]/[2236]: one speaker's turn split into two dash paragraphs
+- **Target:** [2234] „— Nu asta, i-am spus.” followed by [2236] „— Acasă te așteaptă un hering cu numele tău pe el.”
+- **English:** E1253 "Not this," I told her. "There's a herring at home with your name on it." This is one turn, by Jessica.
+- **Why it matters:** the second dash paragraph reads as a new speaker. Here that can only be Pip, which is harmless but wrong. The raw had [2236] without a dash; the first pass added it.
+- **Options:**
+  - (a) Merge into [2234]: „— Nu asta, i-am spus. Acasă te așteaptă un hering cu numele tău pe el.”, and leave [2236] empty.
+  - (b) Leave as is.
+- **Recommendation:** (a), at format time.
+- **Why it isn't automatic:** it is a paragraph merge.
+
+### PC-FP-RO-3 — Inn Trouble Romanian follow-ups from fixes made here (informational)
+- **Fixed here, in Flour Play Ch1** (the text Inn Trouble's excerpt copies):
+  - [62] „**pe** jumătate mai mare” → „**cu** jumătate mai mare” ("half again the size" = 1.5×; „pe jumătate” is ambiguous);
+  - „bloc” (= an apartment block in Romanian) → „șir(ul) de prăvălii” / „în susul străzii” at [116] [142] [154] [158].
+- **Still old in the Inn Trouble excerpt:**
+  - [IT 1525] „pe jumătate mai mare”;
+  - [IT 1572] „la capătul unui bloc luminos”;
+  - [IT 1596] „capătul îndepărtat al blocului”;
+  - [IT 1608] „în sus pe bloc”;
+  - [IT 1612] „întors în sus pe bloc spre ferestrele”.
+- **Options:** (a) apply the same five word changes there; (b) leave.
+- **Recommendation:** (a), so the excerpt stays word-for-word with Flour Play.
+- **Why it isn't automatic:** Inn Trouble Romanian is already audited and is not this audit's file.
+- **Capitalisation:** „Bulevardul Evergreen” is now capitalised throughout this book (×10), matching Inn Trouble's majority. DOOM prefers a lowercase generic (*bulevardul Evergreen*). If you want that, it is one global change in both books.
