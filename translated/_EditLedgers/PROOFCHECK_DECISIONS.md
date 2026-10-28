@@ -38,3 +38,18 @@
 - **The same text is still in corrected Flour Play Romanian:** FP [150] „O să fie un rând întreg întoarse până în weekend" and „bulevardului Evergreen" at FP [44] and [726].
 - **Options:** (a) apply the same two one-word fixes to corrected Flour Play Romanian; (b) leave it.
 - **Recommendation:** (a). Each fix has only one correct answer, but they sit in another edition that this audit doesn't own, so they are left for the Flour Play Romanian proofcheck or for Lisa. They can go in together with the four IT-RO-6 follow-ups.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Turkish — PROOFCHECK (2026-10-28)
+
+### PC-IT-TR-1 — "kuruş" idioms against the dollars-only lesson — needs Lisa
+- **The text:** nine "penny / cent / dime" idioms are rendered with *kuruş* (the Turkish lira's subunit): [430] `üç beş kuruşla idare ediyorlardı`, [433] `tek bir kuruş bile vermez` (one thin dime), [542] `tek kuruş almamış` (never charged a cent), [575] `bir kuruş gördüğüm söylenemez ya` (seen a penny), [905] `beş kuruş koparmak` (for a dime), [942] `tek bir kuruşunu bile` (every cent), [1020] `asla bir kuruş çalmazdı` (a penny), [1305] `bana kuruş ödemiyor` (pays me nothing), and the excerpt [1536] `bütün kuruşlar … çatı fonuna gidiyor` (every penny). No sum anywhere is in lira. All the figures are dollars.
+- **The rule:** run-brief lesson "Currency: dollars/cents only — no krone/øre/euro idioms" (Norwegian had 7, and they were fixed).
+- **Options:** (a) keep them. In Turkish, *bir kuruş bile* is a dead idiom for "not a penny", and no reader takes it as a lira amount. (b) Convert to cent forms (`tek bir sent bile`, `bir sent gördüğüm`, `beş sent koparmak` …), and do the same in corrected Flour Play TR, which also has *kuruş* (FP [88] = the excerpt line).
+- **Recommendation:** (a), because the idiom reads naturally and carries no currency. If you want the Norwegian rule applied literally, choose (b) for both books together.
+- **Why it isn't automatic:** it is a choice between idiom and rule, and it reaches into another edition (the excerpt has to match Flour Play TR).
+
+### PC-IT-TR-2 — Flour Play TR follow-up: excerpt wording copied from corrected Flour Play Ch1 (informational)
+- **Fixed here, in Inn Trouble's excerpt:** [1547] `— Dün çocukların kardan adamları yola bakmıyordu sanki?` read as "it seems they *weren't* facing the road", which reverses "Weren't the children's snowmen all facing the road yesterday?" and contradicts [1548] (`yola bakıyorlardı`). It now reads `— Dün çocukların kardan adamları hep yola bakmıyor muydu?`
+- **The same text is still in corrected Flour Play TR [110],** and the English is identical there.
+- **Also shared, not changed:** [1560] = FP [134] `Köknarı kökünden bağladım` for "I bound the balsam home". *Kökünden* means "by the root", but the English means "bound it firmly in place". Suggested for both books: `Köknarı sımsıkı yerine bağladım`.
+- **Recommendation:** apply both to corrected Flour Play TR, plus the [1560] change here, so the excerpt stays word-for-word. It is left as a decision because Flour Play TR is not this audit's file.

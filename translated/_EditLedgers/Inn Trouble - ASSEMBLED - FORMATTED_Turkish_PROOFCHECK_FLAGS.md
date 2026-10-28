@@ -19,7 +19,7 @@ Chapters detected: EN 31 · this edition 30 (sequence [1, 2, 3]…[29, 30, 31])
 
 ## E — Chapter length vs English (3)
 - heading: [1047] heading “Bölüm 20” follows Ch18 — Ch19..19 heading(s) missing
-- Ch18: length 232% of this edition's normal EN ratio (LONGER — duplication/omission/heading drift?)
+- Ch18: length 231% of this edition's normal EN ratio (LONGER — duplication/omission/heading drift?)
 - Ch19: NO text found under this chapter number (heading missing → folded into Ch18? or chapter omitted)
 
 ## F — Numbers not in the English chapter (0)
@@ -90,9 +90,9 @@ paragraph openers: '—'×311, '"'×1
     scene breaks                 5 -> 3       UNDECLARED -2 (expected +0)
     bt anchors                  10 -> 8       UNDECLARED -2 (expected +0)
     bt titles              MISMATCH  lost=['Yarn Tales', 'Winter Wonderland Inn', 'Frost Falls', 'Winter Wonderland Inn']
-    paragraphs changed     607
+    paragraphs changed     612
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch8 22%, Ch26 23%, Ch28 24%, Ch18 26%, Ch4 27%, Ch24 31%, Ch1 31%, Ch6 32%, Ch9 32%, Ch23 32%, Ch25 33%, Ch30 33%, Ch20 35%, Ch29 35%, Ch21 36%, Ch11 36%, Ch3 36%, Ch2 37%, Ch22 39%, Ch17 39%, Ch13 40%, Ch16 40%, Ch10 41%, Ch27 50%, Ch12 59%, Ch7 65%, Ch31 67%, Ch14 70%, Ch5 79%, Ch15 89%
+Ch8 22%, Ch26 23%, Ch28 24%, Ch18 26%, Ch4 28%, Ch24 31%, Ch1 31%, Ch9 32%, Ch23 32%, Ch6 33%, Ch30 33%, Ch25 35%, Ch20 35%, Ch29 35%, Ch21 36%, Ch11 36%, Ch3 36%, Ch2 38%, Ch17 39%, Ch13 40%, Ch16 40%, Ch10 41%, Ch22 44%, Ch27 50%, Ch12 59%, Ch7 65%, Ch31 67%, Ch14 70%, Ch5 79%, Ch15 89%
