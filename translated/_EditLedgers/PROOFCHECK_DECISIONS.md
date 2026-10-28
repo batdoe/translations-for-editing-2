@@ -581,3 +581,36 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
 - **Options:**
   - (a) Correct the English to "seven" and then every edition (recommended).
   - (b) Leave it everywhere.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Czech — FULL PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Czech_PROOFCHECK_FULL.md`. 46 one-answer fixes in 44 paragraphs are listed there. IT-CS-1…8 and PC-CS-1 were re-checked and are not raised again. Nothing below blocks the file.)
+
+### PC-CS-F1 — "Theo had the theft" now rendered by sense (applied, informational)
+- **What the file had:**
+  - Ch22 [1101] `Měl krádež.`
+  - Ch23 [1136] `Theo měl krádež.` (the targeted pass's own fix of `měl na svědomí`)
+  - Ch26 [1253] `„Theo měl krádež. … On měl krádež. Vy jste měla listinu.“`
+- **English:** "He had the theft. / Theo had the theft. / He had the theft. You had the deed."
+- **Why it was changed:**
+  - The bare `mít krádež` is not idiomatic Czech, and it can be heard as "had a theft (done)". That is the reversal the run lesson warns about.
+  - The lesson asks for the sense: he held that half of the secret.
+- **What it reads now:**
+  - [1101] `Měl tajemství krádeže.` This continues `Krádež brože a koupě hostince byly dvě různá tajemství… Theo měl jedno z nich.`
+  - [1136] `Theo věděl o krádeži. Našel ji v Blackburnových dopisech…`
+  - [1253] `„Theo věděl o krádeži. Ale…“` … `„On měl tajemství krádeže. Vy jste měla listinu.“`
+- **Options:**
+  - (a) keep this wording;
+  - (b) `Theo věděl o krádeži` at all three places (this loses the had/had parallel with `Vy jste měla listinu`);
+  - (c) go back to `měl krádež`.
+- **Recommendation:** (a). The meaning is unambiguous, Constance stays the thief, and the two-halves line stays parallel.
+
+### PC-CS-F2 — Flour Play Czech follow-up: two excerpt lines fixed here, still wrong in FP CZ Ch1 (informational, NOT APPLIED to FP)
+- **FP [114]** `Toho rána byl ten prostřední otočený úplně dokola.`
+  - English (identical in both books): "This morning the middle one had turned clean around."
+  - `úplně dokola` means a full 360° turn, which would leave the snowman facing the road again and undo the clue.
+  - IT [1545] now reads `otočený čelem vzad`. IT's raw text had it right (`otočil úplně dozadu`); the excerpt rebuild had overwritten it.
+- **FP [90]** `drobná dopolední novinka vměstnaná do prostor mezi vázáním snítek`
+  - English: "a whole morning's small news held in the spaces between binding sprigs".
+  - The Czech is one single piece of news. IT [1521] now reads `drobné novinky celého dopoledne vměstnané do mezer mezi vázáním snítek`.
+- **Recommendation:** apply both to FP CZ, so that the excerpt stays word for word.
+- **Why it is not done here:** FP CZ is not this audit's file.
