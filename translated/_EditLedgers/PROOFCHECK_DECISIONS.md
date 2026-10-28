@@ -53,3 +53,16 @@
 - **The same text is still in corrected Flour Play TR [110],** and the English is identical there.
 - **Also shared, not changed:** [1560] = FP [134] `Köknarı kökünden bağladım` for "I bound the balsam home". *Kökünden* means "by the root", but the English means "bound it firmly in place". Suggested for both books: `Köknarı sımsıkı yerine bağladım`.
 - **Recommendation:** apply both to corrected Flour Play TR, plus the [1560] change here, so the excerpt stays word-for-word. It is left as a decision because Flour Play TR is not this audit's file.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Brazilian Portuguese — PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Brazilian Portuguese_PROOFCHECK.md`. The first-pass items IT-PTBR-1…12 in PROOFREAD_DECISIONS2.md were re-checked. Their quotes still match the file, and none needs re-raising.)
+
+### PC-IT-PTBR-1 Flour Play PT-BR follow-up: "chocolate-pecan cupcakes" rendered as «chocolate com nozes» (informational)
+- **Target:** corrected Flour Play PT-BR [77] reads «Tirei uma fornada de cupcakes de chocolate com nozes do forno…». *Nozes* means walnuts or nuts in general.
+- **English (both books):** "I had a tray of chocolate-pecan cupcakes come out of the oven…". Flour Play PT-BR uses «chocolate com noz-pecã» everywhere else (×10), and two lines later in the same scene the text has «noz-pecã».
+- **Fixed here, in Inn Trouble's excerpt:** [1477] now reads «cupcakes de chocolate com noz-pecã».
+- **Options:**
+  - (a) Apply the same one-word fix to corrected Flour Play PT-BR [77].
+  - (b) Leave it.
+- **Recommendation:** (a). It has one correct answer, but it is in another edition, so it is left for the Flour Play PT-BR proofcheck or for Lisa.
+- **Also for the record (no action needed in Flour Play):** Flour Play splits the English "She has a great deal of shame…" paragraph into FP [68] and [69]. The first pass had copied only FP [68] into Inn Trouble [1471] and dropped the "I gave Pip the look…" sentences. They are restored here from FP [69], in roman type to match Inn Trouble's English (FP italicises the two looks).

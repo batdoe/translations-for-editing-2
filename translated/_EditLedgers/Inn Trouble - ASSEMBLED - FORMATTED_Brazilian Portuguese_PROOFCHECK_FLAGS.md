@@ -43,10 +43,9 @@ Chapters detected: EN 31 · this edition 30 (sequence [1, 2, 3]…[28, 29, 30])
 paragraph openers: '—'×338
 - none
 
-## J — First pass's own deletions / big cuts (3)
+## J — First pass's own deletions / big cuts (2)
 - [2] front EMPTIED by first pass (was: Problema na Pousada)
 - [1162] Ch25 EMPTIED by first pass (was: ***)
-- [1471] back cut to 43% (was: — Ela tem muita vergonha — retruquei. — Ela simplesmente a guarda para ocasiões  → now: — Ela tem muita vergonha — retruquei. — Simplesmente guarda para ocasiões em que)
 
 ## K — Clue chain, English side (trace each in the translation)
 
@@ -76,9 +75,9 @@ paragraph openers: '—'×338
     scene breaks                 4 -> 3       UNDECLARED -1 (expected +0)
     bt anchors                  12 -> 8       UNDECLARED -4 (expected +0)
     bt titles              MISMATCH  lost=['Winter Wonderland Inn', 'The Holly Jolly Bakery', 'the sapphire at its heart', 'Yarn Tales']
-    paragraphs changed     289
+    paragraphs changed     290
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch3 7%, Ch29 8%, Ch14 9%, Ch20 9%, Ch15 10%, Ch1 11%, Ch22 11%, Ch6 12%, Ch25 13%, Ch27 14%, Ch2 15%, Ch7 15%, Ch8 15%, Ch24 15%, Ch16 17%, Ch18 19%, Ch26 20%, Ch11 20%, Ch9 20%, Ch5 21%, Ch19 22%, Ch12 24%, Ch23 24%, Ch28 25%, Ch17 27%, Ch4 30%, Ch30 31%, Ch21 33%, Ch10 37%, Ch13 42%
+Ch3 7%, Ch14 9%, Ch20 9%, Ch15 10%, Ch1 11%, Ch29 11%, Ch22 11%, Ch6 12%, Ch25 13%, Ch27 14%, Ch2 15%, Ch7 15%, Ch8 15%, Ch24 15%, Ch16 17%, Ch18 19%, Ch26 20%, Ch11 20%, Ch9 20%, Ch5 21%, Ch19 22%, Ch12 24%, Ch23 24%, Ch28 25%, Ch17 27%, Ch4 30%, Ch30 31%, Ch21 33%, Ch10 37%, Ch13 42%
