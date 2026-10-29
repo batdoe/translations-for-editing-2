@@ -726,3 +726,15 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - Excerpt Ch1 [65] „w gnieździe uknutym z upadłego motka” → „w gnieździe uwitym ze spadłego motka” (uknuty = plotted; IT [1367] has the same).
 - Excerpt Ch1 [142] „Inaczej mówiąc, wciąż wałęsała się nocami” → „Wciąż wałęsała się nocami” (addition; check whether IT's excerpt reaches this paragraph).
 - Blurb [31] „Wciąż kwaśne.” → „Wciąż kwaśna.” (the roll); [35] the PC-PL-ITF-2 neutral recast: „ponieważ tu proszek kupiono, dawkę znano, a w złożonej skardze powołano się na odpowiedni podpunkt przepisów sanitarnych.” IT [1343]–[1346] still has the past-tense blurb and the masculine „ktokolwiek to zrobił, kupił…”; copy FP [29] [31] [33] [35] [37] there when Lisa rules on the blurb.
+
+## Flour Play - ASSEMBLED - FORMATTED_Swedish — FULL PROOFCHECK (2026-10-29)
+(Report: `Flour Play - ASSEMBLED - FORMATTED_Swedish_PROOFCHECK_FULL.md`. 33 one-answer fixes applied in 32 paragraphs. Nothing here blocks the file. FP-SV-D1…D5, PC-FPSV-1 and PC-FPSV-2 were re-checked: unchanged, still accurate, not re-raised.)
+
+### PC-FPSV-F1 — Ch1 calque left untouched to keep the Inn Trouble excerpt identical (informational, NOT APPLIED)
+- [42] `Den djupsäsongsbetonade sorten som hade börjat vid halloween och skulle ligga kvar till våren.` (EN "The deep-season kind that had begun at Halloween and would lie till spring.") `djupsäsongsbetonad` is a coined calque, not a Swedish word, though the meaning is clear.
+- **Options:** (a) leave (current); (b) change to `Högvintersnön, den sort som hade börjat vid halloween och skulle ligga kvar till våren.` in BOTH Flour Play SV [42] and the Inn Trouble SV excerpt twin, so the excerpt stays word for word.
+- **Recommendation:** (b) at the next touch of both files. Not done here because it is style rather than an error, and changing only Flour Play would break the excerpt match.
+
+### PC-FPSV-F2 — Inn Trouble SV follow-up: Flour Play blurb tense (informational, NOT APPLIED there)
+- Flour Play SV blurb [35] `familjen som låg efter med oljan` (past verb in a present-tense blurb; EN "the family behind on their oil") → now `familjen som ligger efter med oljan`.
+- Inn Trouble SV [1627] (its What's Next copy of the Flour Play blurb) still reads `låg`. **Recommendation:** make the same one-word change there so the two blurbs match. Not done here: this audit edits only Flour Play.
