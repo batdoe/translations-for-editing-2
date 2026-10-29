@@ -856,3 +856,17 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - Inn Trouble Filipino uses `trangka` for the reindeer-gate latch ×9. Its one stray `aldaba` at Ch30 [1420] was unified to `trangka`.
 - Frost and Found Filipino uses `trangka` ×10 and `aldaba` ×7. Flour Play Filipino uses `aldaba` ×3.
 - **Recommendation:** none needed for this edition. If Lisa wants one word across the series, `trangka` is the majority; the change would fall on the Flour Play side.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Greek — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Greek_PROOFCHECK_FULL.md`. Every chapter, the front matter, blurb and back matter were read against the English: 103 one-answer edits in 76 paragraphs, 0 refused. IT-EL-1…12 and PC-EL-1 were re-checked; they are still accurate and are not re-raised.)
+
+### PC-ELF-1 — "Theo had the theft" now reads «είχε το μυστικό της κλοπής» (applied, informational)
+- **What the file had:** Ch22 [1239] «Είχε την κλοπή.», Ch23 [1269] «Ο Θίο είχε την κλοπή.», Ch26 [1399] «Ο Θίο είχε την κλοπή.» and [1403] «Εκείνος είχε την κλοπή. Εσείς είχατε το συμβόλαιο.»
+- **English:** "He had the theft." / "Theo had the theft." / "He had the theft. You had the deed."
+- **Why:** the literal «είχε την κλοπή» reads oddly in Greek and can be heard as "he had the theft done". The run lesson asks for the sense: he held that half of the secret. All four now say «είχε το μυστικό της κλοπής»; «Εσείς είχατε το συμβόλαιο» is unchanged, so the two-halves contrast still stands.
+- **Option:** if you prefer a shorter line, «Ο Θίο ήξερε για την κλοπή» says the same thing.
+
+### PC-ELF-2 — three more excerpt lines adapted to Inn Trouble's English (applied; add these to the IT-EL-8 revert list)
+- [1679]: Martha «χήρα ούτε έναν χρόνο» ("widowed not yet a year", the Flour Play wording) → «χήρα εδώ και πολλά χρόνια». Inn Trouble's English says "widow these many years", so the meaning was the opposite. The same paragraph also had Ellie «είχε αυξήσει την εθελοντική της εργασία… σε τρεις μέρες» ("stepped up to", FP) → «έκανε εθελοντική εργασία… τρεις μέρες την εβδομάδα».
+- [1681]: «…στις διαδικασίες και σε ό,τι γυάλιζε» → «…στις διαδικασίες. Σε ό,τι γυάλιζε, κυρίως.» (IT English: "On anything that shone, particularly.")
+- **Note:** if Lisa takes IT-EL-8's option of updating the English excerpt to final Flour Play Ch1 and copying the FP Greek verbatim, revert these together with the eight IT-EL-8 lines and the five PC-EL-1 lines. Corrected Flour Play Greek [52] is right as it stands, because its own English says "widowed not yet a year".

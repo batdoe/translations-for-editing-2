@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 17 |
-| Next | Inn Trouble_Greek |
+| Done | 18 |
+| Next | Inn Trouble_Romanian |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -34,3 +34,4 @@
 | Flour Play_Czech | full | all 27 + front + back | 59 | 2 | 63 | 3 (spoiler-gender info; IT CS 'Jessiko' ×5 follow-up; cedar box word) | SIGNIFICANT | Ch10 [770] dose clue 'how much' → 'how to use it'; 3 gendered references to the unknown figure |
 | Inn Trouble_Swedish | full | all 31 + front + back | 61 | 1 | 62 | 1 (FP SV 'novembres' typo) | MINOR | [1092] Claire's 'your man' (Neil) → 'din man' = your husband |
 | Inn Trouble_Filipino | full | all 31 + front + back | 295 | 0 | 295 | 2 (hearth → 'apuyan' per Bk1/Bk3 — confirm; latch word cross-book note) | SIGNIFICANT | Ch27 [1319] 'ruined himself' → ruined the Society; Ch10 latch puzzle reversed; 'Theo had the theft' literal ×3 |
+| Inn Trouble_Greek | full | all 31 + front + back | 103 | 0 | 103 | 2 (theft wording info; excerpt changes tied to IT-EL-8) | SIGNIFICANT | Ch21 [1214] feminine 'κάποια άλλη' gave away the courier's sex 5 chapters early; Ch7 reversed; excerpt 'widowed not a year' |
