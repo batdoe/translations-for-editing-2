@@ -711,3 +711,18 @@ Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Romanian_PROOFCHECK_FUL
   - (a) Keep as it is.
   - (b) Rephrase around *silueta* so the agreement is purely grammatical: „Silueta era acoperită… Fără grabă… având grijă să nu fie văzută” (about 4 edits).
 - **Recommendation:** (a).
+
+## Flour Play - ASSEMBLED - FORMATTED_Polish — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Polish_PROOFCHECK_FULL.md`. 205 one-answer fixes in 177 paragraphs are applied, PC-PL-ITF-2 included (excerpt [77] [110] [124] and the blurb [35]). Items already logged for this edition (FP-PL-1…8, PC-FPPL-1…3, PC-PL-IT-1, PC-PL-ITF-1…3) are not raised again; PC-FPPL-1 (pie „orzechowy”), PC-FPPL-3 (Ch1 split turn) and FP-PL-6 (closing CTA) are still open and untouched.)
+
+### PC-FPPL-F1 — Pete's description of the figure is masculine (Ch13 [899]) — low priority
+- **Polish now:** „Dorosły człowiek. Żaden gówniarz… Wyższy od Grety i poruszający się z wyraźnym celem… Wiedział, po co tam przyszedł. I okryty… Trzymał się blisko jej ściany… zniknął… po prostu sobie poszedł.”
+- **English [608]:** "A grown-up… Taller than Greta, and moving with a purpose… It knew why it was there. And covered… it was gone… a leaving." — neutral "it" throughout.
+- **Why it isn't automatic:** Polish past tense must agree with some noun. Masculine (człowiek) misleads toward a man but gives nothing away; feminine (postać/osoba) would hint at the woman. Danny's matching description in Ch17 [1111] was bare feminine („Stała… ruszyła… Nigdzie nie weszła. Zgubiłem ją”) and read as "she", so it was changed to neuter „To stało… ruszyło… weszło… Zgubiłem to” (mirrors the English "it", like Ch13's own „przeganiał pan to”). The same neuter recast is possible here (≈8 forms).
+- **Options:** (a) keep (generic masculine, a red herring at worst) — **recommended**; (b) recast [899] to neuter „to” like [1111].
+
+### PC-FPPL-F2 — follow-up for Inn Trouble Polish (its Flour Play excerpt and What's Next blurb) — informational
+These Flour Play lines changed in this full read and are copied verbatim in corrected Inn Trouble Polish (not applied there: this audit edits only Flour Play):
+- Excerpt Ch1 [65] „w gnieździe uknutym z upadłego motka” → „w gnieździe uwitym ze spadłego motka” (uknuty = plotted; IT [1367] has the same).
+- Excerpt Ch1 [142] „Inaczej mówiąc, wciąż wałęsała się nocami” → „Wciąż wałęsała się nocami” (addition; check whether IT's excerpt reaches this paragraph).
+- Blurb [31] „Wciąż kwaśne.” → „Wciąż kwaśna.” (the roll); [35] the PC-PL-ITF-2 neutral recast: „ponieważ tu proszek kupiono, dawkę znano, a w złożonej skardze powołano się na odpowiedni podpunkt przepisów sanitarnych.” IT [1343]–[1346] still has the past-tense blurb and the masculine „ktokolwiek to zrobił, kupił…”; copy FP [29] [31] [33] [35] [37] there when Lisa rules on the blurb.
