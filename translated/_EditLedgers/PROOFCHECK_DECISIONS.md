@@ -790,3 +790,18 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - **Options:**
   - (a) Keep as it is. **Recommended.**
   - (b) Recast [1008]/[1010] to «Y la ahuyentó…» / «Lo espanté… cuando lo pillé de cerca» (masculine «lo» = «eso»), about 4 forms.
+
+## Flour Play - ASSEMBLED - FORMATTED_Filipino — FULL PROOFCHECK (2026-10-29)
+(Report: `Flour Play - ASSEMBLED - FORMATTED_Filipino_PROOFCHECK_FULL.md`. Every chapter was read. 93 one-answer fixes were applied in 87 paragraphs, with 0 refused. **There are no new decisions.**)
+
+- **Still open and re-checked:** FIL3-D1–D4 and PC-FIL3-1 (the Ch22 split). The quotes still match the file; none of them is re-raised here.
+- **Note for PC-FIL2-1** (the Inn Trouble excerpt):
+  - This pass changed three more Ch1 paragraphs:
+    - [70] `pag-upo` → `pagtulog`
+    - [120] `“Ideya ng isang tao ng biro,”` → `“Biro lang ng kung sino,”`
+    - [130] `lumalakad nitong atensyon` → `pagala-gala nitong atensyon`
+  - If Lisa picks option (a), she should copy the current file.
+- **Cross-book note, informational:**
+  - Inn Trouble Filipino uses `lalawigan` ×3 ([199], [395], [931]) and never `kondado`.
+  - Flour Play now uses `kondado` throughout (×24). Its single stray `lalawigan` at [248] was unified to `kondado`.
+  - If those Inn Trouble lines render "county", the series is split. They are left for an Inn Trouble pass, because they are not this edition's to change.
