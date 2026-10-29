@@ -893,3 +893,6 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
   - (a) Keep. This matches Flour Play, as the excerpt policy asks.
   - (b) Change to „prin parc” and „în parc” here and in FP Ch1 [142] and [160] together.
 - **Recommendation:** (a).
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Spanish — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK_FULL.md`. 45 one-answer edits in 41 paragraphs (42 defects) are applied, among them stationery unified to «papel de carta» (5 strays), «chantaje» for "blackmail" (3 strays), and four excerpt lines brought into line with Inn Trouble's English, three of them using corrected Flour Play ES wording. The spoiler-gender check is clean: no feminine form refers to the unknown writer or courier before the reveal. ES2-D1, ES2-D2, PC-ES2-1 and the TOC formatter note are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
