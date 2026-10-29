@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 6 |
-| Next | Inn Trouble_Norwegian |
+| Done | 7 |
+| Next | Flour Play_Turkish |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -23,3 +23,4 @@
 | Inn Trouble_Czech | full | all 31 + front + back | 44 | 2 | 46 | 2 (theft wording info; FP CS Ch1 follow-ups) | SIGNIFICANT | Ch2 [172] said Fiona broke into her own trunk; blackmail note used a masculine form (spoiler) |
 | Inn Trouble_Polish | full | all 31 + front + back | 88 | 4 | 96 | 3 (theft wording info; FP PL follow-ups + gendered blurb; Theo declined vs undeclined) | SIGNIFICANT | Ch2 note 'żebym wiedział' gendered the blackmailer male from Ch2 (also Ch16, Ch20 courier); Ch14 reversed |
 | Inn Trouble_French | full | all 31 + front + back | 62 | 1 | 64 | 1 (generic masculine for unknown blackmailer ×6 — recommend keep) | SIGNIFICANT | Ch16 [823] reversed Jessica's fairness rule; Ch12 stated Theo's guilt as fact; excerpt 'pivot complet' undid the snowman clue |
+| Inn Trouble_Norwegian | full | all 31 + front + back | 60 | 1 | 61 | 0 | SIGNIFICANT | Ch24 [1192] reversed 'never has to become a man who could be forgiven'; Ch27 'wronged' rendered as sexual abuse |

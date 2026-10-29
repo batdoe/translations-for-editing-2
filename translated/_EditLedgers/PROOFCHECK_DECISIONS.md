@@ -653,3 +653,9 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
   - (a) Leave it as it is (recommended).
   - (b) Neutralise the courier line only: [976] « qu'aucun regard ne s'y accrocherait jamais ».
   - (c) Rephrase all six places to avoid any pronoun (for example « cette personne »).
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Norwegian — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Norwegian_PROOFCHECK_FULL.md`. 61 one-answer edits in 55 paragraphs, including the reversed Ch24 [1192] «Theo slipper aldri å bli en mann som kan bli tilgitt» → «trenger aldri», Ch27 [1291] «kvinnen de hadde forgrepet seg på» (sexual-abuse connotation) → «gjort urett mot», Ch8 [469] "wear a feeling", and the note's «oldemor» → «oldemoren din» [116]. NO2-D1 and PC-NO2-1/2/3 re-checked and not raised again. No new question for Lisa; nothing blocks the file.)
+
+### PC-NO2F-1 — Spoiler-gender check (informational, no change)
+- Every pre-reveal reference to the writer/courier is neutral in Norwegian (`den som hadde skrevet den`, `forfatteren`, `noen andre`, `en skikkelse`, `de/dem`, `vedkommende`). The only gendered ones (`han`, `hans makt` [566] [878], `En mann hadde strukket seg ut fra mørket` [1092], Fiona's `han har gått inn i foajeen min` [1038] [1066]) translate an English "he / a man" and stay.
