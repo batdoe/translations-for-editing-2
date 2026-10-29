@@ -896,3 +896,12 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 
 ## Inn Trouble - ASSEMBLED - FORMATTED_Spanish — FULL PROOFCHECK (2026-10-29)
 (Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK_FULL.md`. 45 one-answer edits in 41 paragraphs (42 defects) are applied, among them stationery unified to «papel de carta» (5 strays), «chantaje» for "blackmail" (3 strays), and four excerpt lines brought into line with Inn Trouble's English, three of them using corrected Flour Play ES wording. The spoiler-gender check is clean: no feminine form refers to the unknown writer or courier before the reveal. ES2-D1, ES2-D2, PC-ES2-1 and the TOC formatter note are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
+
+## Inn Trouble - ASSEMBLED - FORMATTED_German — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_German_PROOFCHECK_FULL.md`. 109 one-answer edits in 101 paragraphs are applied. Among them:
+- the Ch7 [346] friend/sleuth reversal;
+- five spoiler-gender pronouns neutralised before the reveal, including the courier [798] »an ihm« → »an dieser Person«;
+- [655] »Groschen« → Cent;
+- term drift in the deduction unified: Blackburn-Papiere, Funkenschirm, Halterungen, Heizkessel, (Empfangs)Tresen, Magie.
+
+DE2-D1, DE2-D3, DE2-D4, PC-DE2-1 (the blurb tense was not rewritten) and PC-DE2-2 are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)

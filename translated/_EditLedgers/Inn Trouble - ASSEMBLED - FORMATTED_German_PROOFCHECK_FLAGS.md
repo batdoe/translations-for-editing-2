@@ -73,4 +73,4 @@ paragraph openers: '»'×312
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch26 20%, Ch23 22%, Ch24 22%, Ch9 24%, Ch14 28%, Ch28 30%, Ch19 31%, Ch31 32%, Ch16 33%, Ch3 35%, Ch27 35%, Ch13 37%, Ch12 41%, Ch29 47%, Ch11 50%, Ch17 50%, Ch22 50%, Ch4 54%, Ch30 57%, Ch1 60%, Ch7 60%, Ch18 60%, Ch10 61%, Ch6 65%, Ch21 65%, Ch25 68%, Ch5 68%, Ch2 70%, Ch8 70%, Ch20 70%, Ch15 74%
+Ch26 20%, Ch9 24%, Ch24 27%, Ch14 30%, Ch19 31%, Ch31 32%, Ch23 32%, Ch16 35%, Ch3 35%, Ch13 40%, Ch28 40%, Ch27 41%, Ch22 50%, Ch12 53%, Ch11 54%, Ch30 57%, Ch18 60%, Ch10 61%, Ch17 61%, Ch4 62%, Ch1 65%, Ch29 65%, Ch6 65%, Ch7 65%, Ch21 70%, Ch2 72%, Ch25 73%, Ch8 73%, Ch5 74%, Ch20 74%, Ch15 80%

@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 20 |
-| Next | Inn Trouble_German |
+| Done | 21 |
+| Next | Inn Trouble_Italian |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -37,3 +37,4 @@
 | Inn Trouble_Greek | full | all 31 + front + back | 103 | 0 | 103 | 2 (theft wording info; excerpt changes tied to IT-EL-8) | SIGNIFICANT | Ch21 [1214] feminine 'κάποια άλλη' gave away the courier's sex 5 chapters early; Ch7 reversed; excerpt 'widowed not a year' |
 | Inn Trouble_Romanian | full | all 31 + front + back | 85 | 4 | 89 | 2 (hearth word; excerpt 'pajiște' kept per FP) | SIGNIFICANT | 'Theo had the theft' word-for-word in Ch22/26; Blackburn papers shared the deed's word 'acte' ×7; note paper called letterhead |
 | Inn Trouble_Spanish | full | all 31 + front + back | 42 | 0 | 45 | 0 | SIGNIFICANT | Ch1 [70] 'such a small sum to put that much strain' reversed; 'I keep meaning to ask' → 'I keep asking' |
+| Inn Trouble_German | full | all 31 + front + back | 109 | 0 | 109 | 0 | SIGNIFICANT | Ch7 [346] friend/sleuth reversed; 5 spoiler-gender pronouns (incl. the courier) neutralised |
