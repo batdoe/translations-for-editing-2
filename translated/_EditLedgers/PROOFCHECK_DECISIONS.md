@@ -908,3 +908,16 @@ DE2-D1, DE2-D3, DE2-D4, PC-DE2-1 (the blurb tense was not rewritten) and PC-DE2-
 
 ## Inn Trouble - ASSEMBLED - FORMATTED_Italian — FULL PROOFCHECK (2026-10-29)
 (Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Italian_PROOFCHECK_FULL.md`. 59 one-answer edits in 57 paragraphs are applied, among them the Ch7 [414] friend/sleuth reversal («a fare la prima … la seconda» → «a fare la detective … un'amica»), the courier spoiler-gender [876] «su di lui» → neutral, [726] «o non era lui» neutralised, Neil's business card no longer sharing the note's bare «biglietto» ([515][531][711]), Blackburn papers = «carte» and property records = «registri immobiliari» throughout, and two lettera→biglietto agreement leftovers ([321][436]). PC-IT2-1 and PC-IT2-2 (blurb tense, not rewritten) are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
+
+## Flour Play - ASSEMBLED - FORMATTED_Norwegian — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Norwegian_PROOFCHECK_FULL.md`. 93 one-answer edits in 89 paragraphs, all language-level, e.g. [853] «Stille.» → «I det stille.», [1769] «dro opp glidelåsen» (zipped) → «dro ned» (unzipping), [1416]/[2052] «urmaker» → «gullsmed», [1832] "took Danny's word" → «tatt imot Dannys forklaring». No clue-chain, omission or spoiler-gender defect. PC-FPNO-1/2 re-checked and not raised again. Nothing below blocks the file.)
+
+### PC-FPNO-F1 — Resumed speech after an attribution is punctuated two ways (informational, low)
+- Most mid-line attributions follow the dossier: `– Vent, sa han, jeg må tenke.` (59 cases, e.g. [79] `– Det var én gang, sa Dot, og de var veldig gode cupcakes.`). About 19 put a fresh dash after the attribution: `sa jeg og holdt en opp, – at dere …` [61], `sa Greta makelig …, – så vil de …` [105], plus the targeted pass's [489] [497] [1774] [1779] [1822].
+- **Options:** (a) leave the mix, since both read naturally and the dashed form only appears where a misreading was likely; (b) unify to the dossier form (drop the second dash, ~19 edits), keeping only the targeted pass's 5 disambiguation dashes.
+- **Recommendation:** (a). This can't be settled automatically because it's a house-style choice, and the targeted pass deliberately added the second dash in 5 places.
+
+### PC-FPNO-F2 — Time-capsule containers: «eske» vs «boks» (informational, low)
+- The old copper capsule is «boksen» (Ch6 [606] [608], Ch15 [1151] «Den gamle esken»). The new cedar capsule is «sedertrekledde eske / sedertreesken» in Ch15 [1149] [1168] [1187] and Ch27 [2207], but «sedertreboksen / den nye boksen / boksen» throughout Ch26 [2046] [2076]–[2132]. Ch27 [2207] has «Eskene» for both.
+- The meaning is always clear from «den gamle / den nye». **Options:** (a) leave it; (b) unify the cedar capsule to «esken» (~15 edits in Ch26).
+- **Recommendation:** (a). This can't be settled automatically because the change is many-paragraph stylistic, not a clue term.
