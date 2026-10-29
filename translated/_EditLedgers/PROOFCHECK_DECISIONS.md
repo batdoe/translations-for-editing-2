@@ -870,3 +870,26 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - [1679]: Martha «χήρα ούτε έναν χρόνο» ("widowed not yet a year", the Flour Play wording) → «χήρα εδώ και πολλά χρόνια». Inn Trouble's English says "widow these many years", so the meaning was the opposite. The same paragraph also had Ellie «είχε αυξήσει την εθελοντική της εργασία… σε τρεις μέρες» ("stepped up to", FP) → «έκανε εθελοντική εργασία… τρεις μέρες την εβδομάδα».
 - [1681]: «…στις διαδικασίες και σε ό,τι γυάλιζε» → «…στις διαδικασίες. Σε ό,τι γυάλιζε, κυρίως.» (IT English: "On anything that shone, particularly.")
 - **Note:** if Lisa takes IT-EL-8's option of updating the English excerpt to final Flour Play Ch1 and copying the FP Greek verbatim, revert these together with the eight IT-EL-8 lines and the five PC-EL-1 lines. Corrected Flour Play Greek [52] is right as it stands, because its own English says "widowed not yet a year".
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Romanian — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Romanian_PROOFCHECK_FULL.md`. 89 one-answer fixes are applied in 84 paragraphs. IT-RO-1…7 and PC-IT-RO-1 were re-checked; their quotes are still accurate, and they are not raised again. Nothing below blocks the file.)
+
+### PC-IT-RO-F1 — "hearth" has two words in the narration (informational)
+- **Target:**
+  - *cămin*: Ch10 [629] [634] [640], Ch14 [834], Ch19 [1034], Ch31 [1476];
+  - *vatră*: Ch19 [1028] („vechea vatră a Polului”), Ch30 [1416], Ch31 [1472] [1478] [1486].
+- **English:** "hearth" throughout. It is Nick's fieldstone fireplace for the magic.
+- **Applied here:** the Ch19 dialogue callback, „— O vatră” → „— Un cămin” ([1030] [1032]), so that it echoes Nick's „Un cămin.” from Ch10 [634]. Also „deasupra căminului gol” → „grătarului gol” ([1472]), because EN has "grate" there, and „deasupra vetrei” → „grătarului” ([1478]).
+- **Options:**
+  - (a) Leave the narration mixed. Both words are natural Romanian for a hearth.
+  - (b) Unify the narration to *cămin* (5 edits).
+- **Recommendation:** (a). *Vatră* reads well for the physical stone, and *cămin* for the home the magic is looking for.
+
+### PC-IT-RO-F2 — Excerpt: "the green" = *pajiște* at [1596] and [1614] (informational)
+- **Target:** [1596] „îndreptat în sus pe pajiște spre magazine”, [1614] „Zăpada zăcea strălucitoare pe pajiște”.
+- **English:** "up the green toward the shops", "The snow lay bright on the green".
+- **The issue:** the settled word for the green is *parcul*. Both lines are word-for-word corrected Flour Play Ch1, and [1592] introduces the place as „Parcul… o pajiște albă și largă”, so *pajiște* refers back to it.
+- **Options:**
+  - (a) Keep. This matches Flour Play, as the excerpt policy asks.
+  - (b) Change to „prin parc” and „în parc” here and in FP Ch1 [142] and [160] together.
+- **Recommendation:** (a).
