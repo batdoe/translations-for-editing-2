@@ -964,3 +964,21 @@ FP-EL-1…12, PC-FPEL-1 and PC-FPEL-2 were re-checked. They are still accurate a
 ### PC-FPNL-F2 — Founder's line signs off `haer hand` (informational)
 - **NL [543]:** `— E. Frost, haer hand, 1809.` **EN:** `— E. Frost, her hand, 1809.`
 - `haer` is a deliberate archaic spelling (it was in the raw translation) to mimic 1809. Modern readers may take it for a typo. Options: (a) keep; (b) `haar hand`. The line is quoted only here (the Ch26 reading [1915] quotes just the last two sentences), so either choice is one edit.
+
+## Flour Play - ASSEMBLED - FORMATTED_French — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_French_PROOFCHECK_FULL.md`. 44 one-answer fixes in 44 paragraphs are applied: 43 misses and 1 first-pass regression. They include the Ch10 reversal « bourgades que j'avais dû quitter » ("towns I couldn't leave") [772], and the Ch12 spoiler line [838], where the English "he/himself" had become « Une personne… elle-même… Elle » ×4 before the reveal. FP-FR-1…6 and PC-FR3-1…3 were re-checked: their quotes are still accurate, and they are not raised again. Nothing below blocks the file.)
+
+### PC-FR3F-1 — Generic masculine for the unseen figure before the reveal (informational; same policy as PC-FR2F-1)
+- **French now:**
+  - Ch7 [592]: Pete says « celui-là non. Celui-là faisait quelque chose. Et il filait ».
+  - Ch10 [763]: « Quiconque inflige cela à Greta… parce qu'il a froid. Il le fait parce qu'il veut… ».
+  - Ch13 [921]: « Un adulte… Il savait pourquoi il était là… Collé contre son mur ».
+  - Ch17 [1195]: Danny says « Un adulte… cette personne était mince… Il est resté une minute… il est remonté ».
+- **English:** "this one… it", "they", "A grown-up… It knew why it was there", "this person… It stood… it went up". The English is neutral.
+- **Why it is not fixed:**
+  - In French the masculine after *quelqu'un*, *quiconque*, *un adulte* and *celui-là* is the unmarked form. It points away from the culprit, so it gives nothing away.
+  - The one real slip was a feminine. Ch12 [838] read « Une personne… elle-même… Elle » where the English said "he". It is fixed, and so is Ch19 [1390] « Celle ou celui… Elle a traversé ».
+  - A grep of every *celle qui*, *une personne*, *-trice* and *silhouette* before Ch20 found no other feminine pointing at the culprit. Ch15 [1063] « l'instigatrice » refers to Renée, the red herring Jessica suspects at that point.
+- **Options:**
+  - (a) Leave it as it is (recommended, as for PC-FR2F-1).
+  - (b) Neutralise the four lines with *cette silhouette* / *cette personne* + *elle*. That keeps the English neutrality, but it reads as feminine in French, which is worse.
