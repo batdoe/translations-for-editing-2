@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 16 |
-| Next | Inn Trouble_Filipino |
+| Done | 17 |
+| Next | Inn Trouble_Greek |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -33,3 +33,4 @@
 | Flour Play_Filipino | full | all 27 + front + back | 93 | 0 | 93 | 0 (notes: IT FIL excerpt follow-up; 'lalawigan' in IT FIL) | SIGNIFICANT | Ch5 [535] Martha's 'She has [earned it]' → 'She did it' while the circle guesses the culprit |
 | Flour Play_Czech | full | all 27 + front + back | 59 | 2 | 63 | 3 (spoiler-gender info; IT CS 'Jessiko' ×5 follow-up; cedar box word) | SIGNIFICANT | Ch10 [770] dose clue 'how much' → 'how to use it'; 3 gendered references to the unknown figure |
 | Inn Trouble_Swedish | full | all 31 + front + back | 61 | 1 | 62 | 1 (FP SV 'novembres' typo) | MINOR | [1092] Claire's 'your man' (Neil) → 'din man' = your husband |
+| Inn Trouble_Filipino | full | all 31 + front + back | 295 | 0 | 295 | 2 (hearth → 'apuyan' per Bk1/Bk3 — confirm; latch word cross-book note) | SIGNIFICANT | Ch27 [1319] 'ruined himself' → ruined the Society; Ch10 latch puzzle reversed; 'Theo had the theft' literal ×3 |

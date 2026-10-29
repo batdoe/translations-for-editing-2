@@ -840,3 +840,19 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - Inn Trouble SV excerpt [1634] had `Det finns sämre sätt att tillbringa novembres första lediga morgon.` (EN "the first free morning of November"). It now reads `novembers`, the Swedish genitive. `novembres` is not a Swedish form.
 - Flour Play SV Ch1 [40] still has the same typo, word for word.
 - **Recommendation:** make the same one-letter change in Flour Play SV [40], so the excerpt and the book stay identical. It isn't done here because this audit edits only Inn Trouble.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Filipino — FULL PROOFCHECK (2026-10-29)
+(Report: `Inn Trouble - ASSEMBLED - FORMATTED_Filipino_PROOFCHECK_FULL.md`. Every chapter was read: 278 one-answer edits plus one hearth-term sweep, 219 paragraphs, 0 refused. FIL2-D1–D5 and PC-FIL2-1 were re-checked; they are still accurate and are not re-raised. For PC-FIL2-1, 14 excerpt lines were aligned with corrected Flour Play Ch1 wherever the two English texts match.)
+
+### PC-FIL2F-1 — "hearth" unified to `apuyan` (Book 1 + Flour Play form). APPLIED, please confirm
+- **What it was:** Inn Trouble Filipino was split between `dapugan` (×11: Ch10, Ch14, Ch22, Ch31, excerpt) and `apuyan` (×6: Ch19, Ch30). These include Nick's key lines "I'm trying to build … a hearth" (Ch10 [656]) and "A hearth" (Ch19 [1033][1035]).
+- **Series:** Frost and Found Filipino uses `apuyan` ×7 and `dapugan` ×0. Corrected Flour Play Filipino uses `apuyan` ×12 and `dapugan` ×0, including FP Ch1 [130], the same sentence as the Inn Trouble excerpt [1545].
+- **Done:** all 17 occurrences are now `apuyan`/`apuyang` (the kitchen and lobby fireplace stays `tsiminea`), following the brief's "unify to Book 1".
+- **Options:**
+  - (a) keep `apuyan` (recommended);
+  - (b) prefer `dapugan` series-wide, which would mean changing Book 1 and Book 3 instead.
+
+### PC-FIL2F-2 — latch word across the series (informational, Flour Play side, not applied there)
+- Inn Trouble Filipino uses `trangka` for the reindeer-gate latch ×9. Its one stray `aldaba` at Ch30 [1420] was unified to `trangka`.
+- Frost and Found Filipino uses `trangka` ×10 and `aldaba` ×7. Flour Play Filipino uses `aldaba` ×3.
+- **Recommendation:** none needed for this edition. If Lisa wants one word across the series, `trangka` is the majority; the change would fall on the Flour Play side.
