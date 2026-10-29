@@ -948,3 +948,19 @@ FP-EL-1…12, PC-FPEL-1 and PC-FPEL-2 were re-checked. They are still accurate a
 - **Recommendation:** (a). Each edit has one safe answer, but they are in another edition that this audit doesn't own. If Lisa takes IT-EL-8's option of recopying the excerpt from FP Greek, these come across automatically.
 
 **Note on PC-FPEL-2 (not a new item):** the same generic-masculine choice for the unseen figure also appears earlier, in Pete's first account, Ch7 [529]. There the Greek has «Κάποιος… αυτός όχι. Αυτός κάτι έκανε… μόλις τον είδαν», where the English has "this one… it was seen". In Ch13 [869] and [871], «την κυνηγήσατε / Την έδιωξα» agree grammatically with «σιλουέτα». Whatever Lisa rules for Ch13 [865] should be applied to Ch7 [529] too. Danny's account in Ch17 [1087] is already neuter («αυτό το άτομο»).
+
+## Flour Play - ASSEMBLED - FORMATTED_Dutch — FULL PROOFCHECK (2026-10-29)
+(Report: `Flour Play - ASSEMBLED - FORMATTED_Dutch_PROOFCHECK_FULL.md`. 115 one-answer fixes in 106 paragraphs were applied and are listed there. The items already logged for this edition (FP-NL-1…8, incl. FP-NL-3 Snowball and FP-NL-5 the missing "Start reading" line; PC-FPNL-1/2) are not re-raised.)
+
+### PC-FPNL-F1 — The Binder's Bequest excerpt: slips copied from the published Dutch edition (low)
+- **What's there:** the excerpt [2045]–[2094] is the published Dutch *Binder's Bequest* Ch1, copied verbatim by the first pass (as the brief says). It carries the published book's own slips:
+  - [2045] `hun donkergroene takken die de hemel opslokte` (plural: `opslokten`);
+  - [2046] `een palet van smaakvol, erfgoedgekeurde kleuren` (`smaakvolle`); `een overvolle hanging basket vol petunia’s` (English left in; `hangmand`);
+  - [2076] `Haar scherpzinnigheid was ontwapend.` (`ontwapenend`);
+  - [2083] `‘Naar het Maanlichtmaskerade!’` (the What's Next blurb [2035] and [2089] say `bal`/`gemaskerd bal`; `de maskerade` or `het Maanlichtmaskeradebal`).
+- **Options:** (a) leave both books as published (recommended unless the published book is being re-uploaded anyway); (b) fix these five in the published book and in this excerpt together.
+- **Why it isn't automatic:** fixing only the excerpt would make it differ from the published book it quotes.
+
+### PC-FPNL-F2 — Founder's line signs off `haer hand` (informational)
+- **NL [543]:** `— E. Frost, haer hand, 1809.` **EN:** `— E. Frost, her hand, 1809.`
+- `haer` is a deliberate archaic spelling (it was in the raw translation) to mimic 1809. Modern readers may take it for a typo. Options: (a) keep; (b) `haar hand`. The line is quoted only here (the Ch26 reading [1915] quotes just the last two sentences), so either choice is one edit.

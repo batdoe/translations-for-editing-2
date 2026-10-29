@@ -77,4 +77,4 @@ Chapters detected: EN 27 · this edition 27 (sequence [1, 2, 3]…[25, 26, 27])
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch12 21%, Ch18 27%, Ch4 31%, Ch9 32%, Ch16 33%, Ch13 33%, Ch17 33%, Ch20 34%, Ch2 35%, Ch6 36%, Ch24 37%, Ch14 37%, Ch1 39%, Ch5 43%, Ch27 55%, Ch15 57%, Ch26 57%, Ch25 57%, Ch8 62%, Ch23 62%, Ch10 64%, Ch7 65%, Ch21 71%, Ch3 72%, Ch19 73%, Ch11 75%, Ch22 77%
+Ch12 25%, Ch18 27%, Ch9 32%, Ch4 32%, Ch16 33%, Ch20 34%, Ch13 35%, Ch17 36%, Ch14 37%, Ch2 37%, Ch24 38%, Ch6 38%, Ch1 39%, Ch5 43%, Ch27 56%, Ch25 57%, Ch15 58%, Ch26 60%, Ch8 64%, Ch10 64%, Ch23 66%, Ch7 68%, Ch19 73%, Ch3 74%, Ch11 75%, Ch21 76%, Ch22 77%

@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 24 |
-| Next | Flour Play_Dutch |
+| Done | 25 |
+| Next | Flour Play_French |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -41,3 +41,4 @@
 | Inn Trouble_Italian | full | all 31 + front + back | 58 | 2 | 59 | 0 | SIGNIFICANT | Ch7 [414] friend/sleuth reversed; Ch20 [876] courier gendered masculine; Neil's card = the note's word |
 | Flour Play_Norwegian | full | all 27 + front + back | 92 | 1 | 93 | 2 (resumed-speech dash style; capsule box word — both keep) | MINOR | [853] 'Stille.' (be quiet!) for 'Quietly'; [1769] unzipping → zipping up |
 | Flour Play_Greek | full | all 27 + front + back | 52 | 0 | 52 | 1 (IT EL excerpt follow-ups ×5) | SIGNIFICANT | Ch23 [1640] 'never changed it' = the key, not the lock; Ch8 negation reversed; Ch4 Ivy/Tom swapped |
+| Flour Play_Dutch | full | all 27 + front + back | 113 | 2 | 115 | 2 (published Binder's Bequest excerpt slips; 'haer hand' spelling) | SIGNIFICANT | Ch20 [1503] the key, not the lock, kept coming off the gate; 4 spoiler-gender references; Ch26 reversal |
