@@ -921,3 +921,30 @@ DE2-D1, DE2-D3, DE2-D4, PC-DE2-1 (the blurb tense was not rewritten) and PC-DE2-
 - The old copper capsule is «boksen» (Ch6 [606] [608], Ch15 [1151] «Den gamle esken»). The new cedar capsule is «sedertrekledde eske / sedertreesken» in Ch15 [1149] [1168] [1187] and Ch27 [2207], but «sedertreboksen / den nye boksen / boksen» throughout Ch26 [2046] [2076]–[2132]. Ch27 [2207] has «Eskene» for both.
 - The meaning is always clear from «den gamle / den nye». **Options:** (a) leave it; (b) unify the cedar capsule to «esken» (~15 edits in Ch26).
 - **Recommendation:** (a). This can't be settled automatically because the change is many-paragraph stylistic, not a clue term.
+
+## Flour Play - ASSEMBLED - FORMATTED_Greek — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Greek_PROOFCHECK_FULL.md`. Every chapter, the front matter, the blurb and the back matter were read against the English. 52 one-answer edits in 50 paragraphs are applied, 0 refused. They include:
+- a negation reversal ([558]);
+- a who-did-what slip, where Ivy rather than Tom was in the coveralls ([331]);
+- Ch23 [1640] lock vs key;
+- a needless feminine in the saboteur contrast ([743]).
+
+FP-EL-1…12, PC-FPEL-1 and PC-FPEL-2 were re-checked. They are still accurate and are not re-raised.)
+
+### PC-FPELF-1 — Inn Trouble Greek excerpt carries five of the Ch1 slips fixed here (cross-book, informational)
+- **Fixed in corrected Flour Play Greek Ch1:**
+  - [53] «στις διαδικασίες» → «σε ό,τι γινόταν» ("on the proceedings"; διαδικασίες means "procedures").
+  - [59] «είχαν υπάρξει ευγενικοί» → «ήταν ευγενικοί», and «πάνω από έναν χαμένο σκύλο» → «με έναν χαμένο σκύλο».
+  - [73] «ορκίζοντάς μας» ("making us swear") → «ορκιζόμενη», and «να δώσεις τα φιλιά μου» → «να δώσει».
+  - [94] «και πλησίαζε λίγο πιο κοντά στη φωτιά» (reads as the husband) → «κι εκείνη πλησίαζε» (the magic).
+- **The same wording is still in corrected Inn Trouble Greek's excerpt:**
+  - [1681] «στις διαδικασίες. Σε ό,τι γυάλιζε, κυρίως.»
+  - [1693] «είχαν υπάρξει ευγενικοί», «πάνω από έναν χαμένο σκύλο».
+  - [1721] «ορκίζοντάς μας», «να δώσεις».
+  - [1767] «και πλησίαζε λίγο πιο κοντά».
+- **Options:**
+  - (a) Apply the same edits to Inn Trouble Greek, so the excerpt matches corrected Flour Play again. At [1681], keep IT's own «…κυρίως» adaptation.
+  - (b) Leave Inn Trouble as it is.
+- **Recommendation:** (a). Each edit has one safe answer, but they are in another edition that this audit doesn't own. If Lisa takes IT-EL-8's option of recopying the excerpt from FP Greek, these come across automatically.
+
+**Note on PC-FPEL-2 (not a new item):** the same generic-masculine choice for the unseen figure also appears earlier, in Pete's first account, Ch7 [529]. There the Greek has «Κάποιος… αυτός όχι. Αυτός κάτι έκανε… μόλις τον είδαν», where the English has "this one… it was seen". In Ch13 [869] and [871], «την κυνηγήσατε / Την έδιωξα» agree grammatically with «σιλουέτα». Whatever Lisa rules for Ch13 [865] should be applied to Ch7 [529] too. Danny's account in Ch17 [1087] is already neuter («αυτό το άτομο»).
