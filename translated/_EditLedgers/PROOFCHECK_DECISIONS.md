@@ -659,3 +659,22 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
 
 ### PC-NO2F-1 — Spoiler-gender check (informational, no change)
 - Every pre-reveal reference to the writer/courier is neutral in Norwegian (`den som hadde skrevet den`, `forfatteren`, `noen andre`, `en skikkelse`, `de/dem`, `vedkommende`). The only gendered ones (`han`, `hans makt` [566] [878], `En mann hadde strukket seg ut fra mørket` [1092], Fiona's `han har gått inn i foajeen min` [1038] [1066]) translate an English "he / a man" and stay.
+
+## Flour Play - ASSEMBLED - FORMATTED_Turkish — FULL PROOFCHECK (2026-10-29)
+
+Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK_FULL.md`. 109 one-answer fixes in 107 paragraphs are applied (PC-IT-TR-F2 included: [46], [58] and the mid-sentence month/weekday names). FP-TR-D5 (Hal sen) and IT-TR-D3 (Theo) were not touched. The items already logged for this edition (PC-FPTR-1, PC-FPTR-2, PC-IT-TR-1) are not repeated here.
+
+### PC-FPTR-F1 — Dialogue: a second dash after a mid-line attribution — needs Lisa
+- **What the text has:** in 50 paragraphs, a dash reopens the speech right after a `dedi …` / `diye …` attribution. For example, [44] `— Yavaş ol, dedi Olivia, yan sandalyeden eğilerek. — Göremediğim şeyi çalamam.` The same pattern is at [110], [290], [309], [353], [383] and on to [2250].
+- **The dossier's pattern:** `— Bilmiyorum, dedi. Tuhaf bir şey bu.` has no second dash. A dash is still correct where a narration beat with no speech verb comes before the resumed speech (e.g. [56] `…güldü. — Sen buraya…`).
+- **Cross-book:** the Inn Trouble TR full pass removed this dash from its copy of the Flour Play Ch1 excerpt (IT [1514], [1547]). FP [44] and [110] now differ from it by that one dash.
+- **Options:**
+  - (a) Remove the dash in all 50 places, following the dossier.
+  - (b) Keep it. Many Turkish publishers use it, and it is consistent across this book.
+- **Recommendation:** (a), done in one sweep in both books, so that the excerpt matches FP Ch1 again.
+- **Why it isn't automatic:** it is a house-style choice that covers 50 paragraphs and two books, and it is not a meaning defect.
+
+### PC-FPTR-F2 — Inn Trouble TR excerpt: a sentence now starts with a lower-case month (cross-book, one answer)
+- **The text:** IT [1512] `…orada oturdum. kasım ayının ilk boş sabahını…`. The IT full pass lower-cased the month names, and this one is at the start of a sentence, so it must be capitalised: `Kasım ayının`.
+- **This edition:** the same lower-casing was applied today only in the middle of sentences ([60], [90], [100], [153]). Sentence-initial forms ([40], [42], [248], [512] …) and dated forms (`10 Kasım Salı`, `30 Ekim`, `20 Aralık`) keep their capitals.
+- **Recommendation:** in IT [1512], change `kasım` to `Kasım`. It isn't done here because Inn Trouble TR is not this audit's file.
