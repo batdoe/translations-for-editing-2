@@ -982,3 +982,18 @@ FP-EL-1…12, PC-FPEL-1 and PC-FPEL-2 were re-checked. They are still accurate a
 - **Options:**
   - (a) Leave it as it is (recommended, as for PC-FR2F-1).
   - (b) Neutralise the four lines with *cette silhouette* / *cette personne* + *elle*. That keeps the English neutrality, but it reads as feminine in French, which is worse.
+
+## Flour Play - ASSEMBLED - FORMATTED_German — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_German_PROOFCHECK_FULL.md`. 79 one-answer edits in 73 paragraphs are applied, all 27 chapters read bilingually. Among them:
+- 12 spoiler-gender fixes before the reveal:
+  - Pete's and Danny's descriptions of the figure no longer use »Ein Erwachsener … er« (Ch7 [562], Ch13 [892], Ch17 [1084]);
+  - the culprit is no longer »er« in Ch7 [570] and Ch10 [745];
+  - the complainant is no longer »derjenige« in Ch9 [678] and Ch16 [1045];
+  - the feminine »Nachbarin« / »diejenige« leaks are removed in Ch11 [778] and Ch15 [1005];
+  - Doc's line [772] and its italic echo [1016] are now identical and neutral.
+- Pronoun reference: [457], [632], [786].
+- Ch18 [1217]: the time capsule »Karton« is now »Kiste«.
+- Ch23 [1601]: »Sie vergraben sie gerade« is fixed.
+- Idioms and calques throughout.
+
+FP-DE-1…7 and PC-DE3-1 (the blurb tense was not rewritten) are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
