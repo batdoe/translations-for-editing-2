@@ -1,12 +1,12 @@
 # PROOFCHECK FULL QUEUE — LIVE STATUS
 
-**Updated:** 2026-10-28 · full bilingual re-read of all 28 editions (every chapter) · command: `.claude/commands/proofcheck.md` (`full` mode)
+**Updated:** 2026-10-29 · ✅ COMPLETE 28/28 · MINOR 4 · SIGNIFICANT 24 · misses fixed 2242 · earlier-pass regressions fixed 55 · edits 2315 · full bilingual re-read of all 28 editions (every chapter) · command: `.claude/commands/proofcheck.md` (`full` mode)
 
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
 | Done | 28 |
-| Next | — follow-ups, then wrap |
+| Next | — run complete; cross-book follow-ups applied (IT TR, IT PL, IT CS, IT EL, FP SV) |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian

@@ -678,6 +678,7 @@ Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK_FULL
 - **The text:** IT [1512] `…orada oturdum. kasım ayının ilk boş sabahını…`. The IT full pass lower-cased the month names, and this one is at the start of a sentence, so it must be capitalised: `Kasım ayının`.
 - **This edition:** the same lower-casing was applied today only in the middle of sentences ([60], [90], [100], [153]). Sentence-initial forms ([40], [42], [248], [512] …) and dated forms (`10 Kasım Salı`, `30 Ekim`, `20 Aralık`) keep their capitals.
 - **Recommendation:** in IT [1512], change `kasım` to `Kasım`. It isn't done here because Inn Trouble TR is not this audit's file.
+- **Follow-up applied 2026-10-29:** Inn Trouble TR [1512] «oturdum. kasım ayının» → «oturdum. Kasım ayının».
 
 ## Flour Play - ASSEMBLED - FORMATTED_Romanian — FULL PROOFCHECK (2026-10-29)
 
@@ -726,6 +727,7 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - Excerpt Ch1 [65] „w gnieździe uknutym z upadłego motka” → „w gnieździe uwitym ze spadłego motka” (uknuty = plotted; IT [1367] has the same).
 - Excerpt Ch1 [142] „Inaczej mówiąc, wciąż wałęsała się nocami” → „Wciąż wałęsała się nocami” (addition; check whether IT's excerpt reaches this paragraph).
 - Blurb [31] „Wciąż kwaśne.” → „Wciąż kwaśna.” (the roll); [35] the PC-PL-ITF-2 neutral recast: „ponieważ tu proszek kupiono, dawkę znano, a w złożonej skardze powołano się na odpowiedni podpunkt przepisów sanitarnych.” IT [1343]–[1346] still has the past-tense blurb and the masculine „ktokolwiek to zrobił, kupił…”; copy FP [29] [31] [33] [35] [37] there when Lisa rules on the blurb.
+- **Follow-up applied 2026-10-29:** excerpt IT [1367] «w gnieździe uknutym z upadłego motka» → «w gnieździe uwitym ze spadłego motka». [142]: no change needed, IT [1409] already reads «Wciąż wałęsała się nocami» (no «Inaczej mówiąc»). **NOT applied:** blurb [31]/[35] (IT [1344]/[1346]) — [1344] «kwaśne» agrees with IT [1343]'s past-tense «wyciąga je z pieca kwaśne», and [35] is a recast; both are tied to the open blurb ruling, left for Lisa.
 
 ## Flour Play - ASSEMBLED - FORMATTED_Swedish — FULL PROOFCHECK (2026-10-29)
 (Report: `Flour Play - ASSEMBLED - FORMATTED_Swedish_PROOFCHECK_FULL.md`. 33 one-answer fixes applied in 32 paragraphs. Nothing here blocks the file. FP-SV-D1…D5, PC-FPSV-1 and PC-FPSV-2 were re-checked: unchanged, still accurate, not re-raised.)
@@ -825,6 +827,7 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
   - [70] = IT [1501] `kladla malé snítky jedno přes druhé`: `snítky` is feminine, so `jednu přes druhou` is stricter, but `jedno přes druhé` passes as a set phrase.
   - [110] = IT [1541] `„To je teď zvláštní,“` (EN "Now that's odd"): a calque. `„No tohle je zvláštní,“` would be more idiomatic.
   - Change both books or neither. My recommendation is to leave them.
+- **Follow-up applied 2026-10-29:** Inn Trouble CS «Jessiko» → «Jessico» ×5 at [51], [909], [1021], [1194], [1200] (each a direct address to Jessica). Ch1 lines [70]/[110] left as recommended.
 
 ### PC-FP-CS-F3 — The cedar capsule is `krabice` in Ch15 and `krabička` in Ch26 (low priority, style)
 - **Target:** Ch15 [1034], [1038] `cedrová krabice`. Ch26 [1815]–[1841] `krabička` ×10 for the same cedar box, and [1817] `stará krabička` for the sealed copper capsule. Ch27 [1911] has `krabice` again.
@@ -840,6 +843,7 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - Inn Trouble SV excerpt [1634] had `Det finns sämre sätt att tillbringa novembres första lediga morgon.` (EN "the first free morning of November"). It now reads `novembers`, the Swedish genitive. `novembres` is not a Swedish form.
 - Flour Play SV Ch1 [40] still has the same typo, word for word.
 - **Recommendation:** make the same one-letter change in Flour Play SV [40], so the excerpt and the book stay identical. It isn't done here because this audit edits only Inn Trouble.
+- **Follow-up applied 2026-10-29:** Flour Play SV [40] «novembres första lediga morgon» → «novembers första lediga morgon».
 
 ## Inn Trouble - ASSEMBLED - FORMATTED_Filipino — FULL PROOFCHECK (2026-10-29)
 (Report: `Inn Trouble - ASSEMBLED - FORMATTED_Filipino_PROOFCHECK_FULL.md`. Every chapter was read: 278 one-answer edits plus one hearth-term sweep, 219 paragraphs, 0 refused. FIL2-D1–D5 and PC-FIL2-1 were re-checked; they are still accurate and are not re-raised. For PC-FIL2-1, 14 excerpt lines were aligned with corrected Flour Play Ch1 wherever the two English texts match.)
@@ -946,6 +950,7 @@ FP-EL-1…12, PC-FPEL-1 and PC-FPEL-2 were re-checked. They are still accurate a
   - (a) Apply the same edits to Inn Trouble Greek, so the excerpt matches corrected Flour Play again. At [1681], keep IT's own «…κυρίως» adaptation.
   - (b) Leave Inn Trouble as it is.
 - **Recommendation:** (a). Each edit has one safe answer, but they are in another edition that this audit doesn't own. If Lisa takes IT-EL-8's option of recopying the excerpt from FP Greek, these come across automatically.
+- **Follow-up applied 2026-10-29:** option (a) in Inn Trouble Greek (IT English matches FP English for each clause): [1681] «στις διαδικασίες.» → «σε ό,τι γινόταν.» («Σε ό,τι γυάλιζε, κυρίως.» kept); [1693] «είχαν υπάρξει ευγενικοί» → «ήταν ευγενικοί», «πάνω από έναν χαμένο σκύλο» → «με έναν χαμένο σκύλο»; [1721] «ορκίζοντάς μας» → «ορκιζόμενη», «να δώσεις» → «να δώσει»; [1767] «και πλησίαζε» → «κι εκείνη πλησίαζε».
 
 **Note on PC-FPEL-2 (not a new item):** the same generic-masculine choice for the unseen figure also appears earlier, in Pete's first account, Ch7 [529]. There the Greek has «Κάποιος… αυτός όχι. Αυτός κάτι έκανε… μόλις τον είδαν», where the English has "this one… it was seen". In Ch13 [869] and [871], «την κυνηγήσατε / Την έδιωξα» agree grammatically with «σιλουέτα». Whatever Lisa rules for Ch13 [865] should be applied to Ch7 [529] too. Danny's account in Ch17 [1087] is already neuter («αυτό το άτομο»).
 
