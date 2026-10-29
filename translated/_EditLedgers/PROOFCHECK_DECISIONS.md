@@ -678,3 +678,36 @@ Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Turkish_PROOFCHECK_FULL
 - **The text:** IT [1512] `…orada oturdum. kasım ayının ilk boş sabahını…`. The IT full pass lower-cased the month names, and this one is at the start of a sentence, so it must be capitalised: `Kasım ayının`.
 - **This edition:** the same lower-casing was applied today only in the middle of sentences ([60], [90], [100], [153]). Sentence-initial forms ([40], [42], [248], [512] …) and dated forms (`10 Kasım Salı`, `30 Ekim`, `20 Aralık`) keep their capitals.
 - **Recommendation:** in IT [1512], change `kasım` to `Kasım`. It isn't done here because Inn Trouble TR is not this audit's file.
+
+## Flour Play - ASSEMBLED - FORMATTED_Romanian — FULL PROOFCHECK (2026-10-29)
+
+Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Romanian_PROOFCHECK_FULL.md`. 62 one-answer fixes are applied in 58 paragraphs. PC-FP-RO-1 (the dash pass) and PC-FP-RO-2 (the Ch25 split turn) are still open and are not repeated here.
+
+### PC-FP-RO-F1 — Shop-sign lettering still in English (ruling 3 vs shop names)
+- **Target:**
+  - [214] „literele aurite ale inscripției HOLLY JOLLY BAKERY de pe geam”;
+  - [350] „cea pe care scria HOLLY JOLLY BAKERY cu litere aurii”;
+  - [781] „cuvintele HOLLY JOLLY BAKERY pe fațadă”;
+  - [229] and [1305] „Sugarplum. Patisserie & Confiserie.” (the window script and the flyer).
+- **English:** the same sign texts.
+- **Ruling 3** says English sign text gets translated, keeping italics. **Ruling 5** says shop names match the edition's own form, and the prose says „brutăria Holly Jolly”.
+- **Options:**
+  - (a) Translate the lettering: „BRUTĂRIA HOLLY JOLLY” ×3, and „Patiserie & Cofetărie” ×2.
+  - (b) Keep it as it is: it is consistent across the book, and it is what is painted on the glass.
+- **Recommendation:** (a) for Holly Jolly, which matches the prose. Either choice for Sugarplum, whose French-flavoured branding is the point of the shop.
+- **Why it can't be settled automatically:** it is a sign-versus-name call across 5 places.
+
+### PC-FP-RO-F2 — Spoiler-gender check: the pre-reveal shape uses masculine-generic agreement (informational)
+- **Target:**
+  - Ch13 [1083] „Un om în toată firea… Și acoperit… Fără grabă în el. Făcut și dus.”;
+  - [1087] „Doar o siluetă de muncitor, având grijă să nu fie văzut”;
+  - Ch17 [1461] „Un adult, într-un șorț de brutar… L-am pierdut din vedere”.
+- **English:** "A grown-up… It knew why it was there. And covered… No hurry in it", "a working shape, minding not to be seen", "I lost it".
+- **Assessment:**
+  - Masculine is Romanian's default for an unknown person (*cineva*, *un adult*), so it doesn't give the culprit away.
+  - If anything it points away from Joyce, and the English itself uses generic "he/himself" in Ch12 [994].
+  - No feminine form appears before the Ch20 reveal.
+- **Options:**
+  - (a) Keep as it is.
+  - (b) Rephrase around *silueta* so the agreement is purely grammatical: „Silueta era acoperită… Fără grabă… având grijă să nu fie văzută” (about 4 edits).
+- **Recommendation:** (a).

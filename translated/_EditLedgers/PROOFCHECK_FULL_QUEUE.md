@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 8 |
-| Next | Flour Play_Romanian |
+| Done | 9 |
+| Next | Flour Play_Polish |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -25,3 +25,4 @@
 | Inn Trouble_French | full | all 31 + front + back | 62 | 1 | 64 | 1 (generic masculine for unknown blackmailer ×6 — recommend keep) | SIGNIFICANT | Ch16 [823] reversed Jessica's fairness rule; Ch12 stated Theo's guilt as fact; excerpt 'pivot complet' undid the snowman clue |
 | Inn Trouble_Norwegian | full | all 31 + front + back | 60 | 1 | 61 | 0 | SIGNIFICANT | Ch24 [1192] reversed 'never has to become a man who could be forgiven'; Ch27 'wronged' rendered as sexual abuse |
 | Flour Play_Turkish | full | all 27 + front + back | 107 | 2 | 109 | 2 (re-opening dash after 'dedi' ×50 — house style; IT TR [1512] 'kasım' capital) | SIGNIFICANT | Ch23 [1745] made Joyce the one who 'hadn't spoken' (it's Greta); Ch7 negation reversed; Ch9 light spread instead of drained |
+| Flour Play_Romanian | full | all 27 + front + back | 59 | 3 | 62 | 2 (English shop-sign lettering ×5; default-masculine figure — keep) | SIGNIFICANT | Ch23 [2021] 'That one's mine' (my fault) read as Greta claiming the pie; 'All I have is' played down Tanaka's evidence |
