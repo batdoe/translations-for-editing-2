@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 11 |
-| Next | Flour Play_Italian |
+| Done | 12 |
+| Next | Flour Play_Spanish |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -28,3 +28,4 @@
 | Flour Play_Romanian | full | all 27 + front + back | 59 | 3 | 62 | 2 (English shop-sign lettering ×5; default-masculine figure — keep) | SIGNIFICANT | Ch23 [2021] 'That one's mine' (my fault) read as Greta claiming the pie; 'All I have is' played down Tanaka's evidence |
 | Flour Play_Polish | full | all 27 + front + back | 202 | 3 | 205 | 2 (masculine figure Ch13 — keep; IT PL follow-ups) | SIGNIFICANT | Ch17 [1111] feminine verbs gave away the culprit's sex before the reveal; Ch6 two reversals; Ch14 stated Danny's guilt as fact |
 | Flour Play_Swedish | full | all 27 + front + back | 33 | 0 | 33 | 2 (Ch1 calque kept to match IT excerpt; IT SV blurb 'låg' follow-up) | SIGNIFICANT | Ch16 [1426] 'confession' for 'recognition' (contradicts previous line); Ch22 'Han' read as the culprit |
+| Flour Play_Italian | full | all 27 + front + back | 108 | 0 | 108 | 3 (What's Next tense; default-masculine figure — keep; Ch18 merged paragraphs) | SIGNIFICANT | Ch21 [1365] Pete 'won't tell anyone' (reverses the witness line); Hal's truck = Joyce's van word; spoiler-gender at [984] |

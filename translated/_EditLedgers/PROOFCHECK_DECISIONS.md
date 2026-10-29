@@ -738,3 +738,40 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 ### PC-FPSV-F2 — Inn Trouble SV follow-up: Flour Play blurb tense (informational, NOT APPLIED there)
 - Flour Play SV blurb [35] `familjen som låg efter med oljan` (past verb in a present-tense blurb; EN "the family behind on their oil") → now `familjen som ligger efter med oljan`.
 - Inn Trouble SV [1627] (its What's Next copy of the Flour Play blurb) still reads `låg`. **Recommendation:** make the same one-word change there so the two blurbs match. Not done here: this audit edits only Flour Play.
+
+## Flour Play - ASSEMBLED - FORMATTED_Italian — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Italian_PROOFCHECK_FULL.md`. 108 one-answer edits in 98 paragraphs are applied. They include Ch21 [1365] Pete's «non andrò a dirlo a nessuno», which is now «…a raccontare a nessuno di averlo preso»; Hal's truck «furgone», now «camion» [318][798]; the spoiler-gender «quella che la provocava», now «a provocarla» [984]; and Joyce's bakery word «panificio», now kept apart from Greta's «panetteria» in 7 places. FP-IT-1…5 and PC-IT3-1/2 are not repeated here and are still open as logged. Nothing below blocks the file.)
+
+### PC-IT3-F1 — What's Next blurb: trapassato inside a present-tense frame (goes with PC-IT3-1)
+- **Italian now:**
+  - [1784] «Fiona Flanagan **aveva costruito** una carriera su un'unica regola… Poi un tribunale **aveva deciso** altrimenti, e l'esaminatrice… **aveva perso** tutto tranne la sua lente.»
+  - [1785]–[1787] then switch to the present («le offre… crolla… chiede»).
+- **English:** "built … decided … lost" (simple past backstory), then present.
+- **Issue:** in a present-tense blurb, Italian backstory takes the passato prossimo. The trapassato reads as a tense slip.
+- **Options:**
+  - (a) [1784] «Fiona Flanagan ha costruito una carriera su un'unica regola: ciò che è vero si può dimostrare. Poi un tribunale ha deciso altrimenti, e l'esaminatrice forense di documenti capace di riconoscere un falso a colpo d'occhio ha perso tutto tranne la sua lente.»
+  - (b) Leave it as it is.
+- **Recommendation:** (a), applied together with whatever is decided for PC-IT3-1 and PC-IT2-2.
+- **Why it isn't automatic:** it is marketing copy, and the series-wide blurb-tense question is still open.
+
+### PC-IT3-F2 — Spoiler-gender check: the pre-reveal figure uses the generic masculine (informational)
+- **Italian now:**
+  - Ch13 [878] Pete: «Un adulto… Più alto di Greta… E coperto… Appoggiato ben stretto contro il muro di lei»;
+  - Ch17 [1067] Danny: «Un adulto, con il grembiule da fornaio… questa persona era magra. Svelta e pulita… È rimasto fermo… è risalito… Non è entrato… L'ho perso».
+- **English:** "A grown-up… It knew why it was there… covered", "A grown-up, in a baker's apron… this person was thin… It stood… it went… I lost it". The English is neutral throughout.
+- **Assessment:**
+  - The generic masculine is Italian's unmarked form, so it gives nothing away.
+  - The only feminine giveaway before the Ch20 reveal was Ch15 [984] «eri tu quella che la provocava». It is fixed: now «eri tu a provocarla».
+- **Options:**
+  - (a) Keep it as it is.
+  - (b) Recast [878] and [1067] around «la figura» / «la persona» (≈10 forms: «coperta», «addossata», «è rimasta ferma», «è risalita», «l'ho persa»…). This is grammatically neutral, but feminine agreement may be read as a hint.
+- **Recommendation:** (a), the same as RO PC-FP-RO-F2 and PL PC-FPPL-F1.
+
+### PC-IT3-F3 — Ch18 [1208]: two English paragraphs merged into one (formatter, informational)
+- **Italian now:** [1208] ends «…forse non sarebbe mai più stato suo. E sull'angolo del tavolo asciutto, lontano dall'acqua, c'era il suo orologio.»
+- **English:** EN [860] ends at "…might never be his again." Then **"And on the corner of the dry table, out of the wet, sat his watch."** is its own paragraph [861], set apart as a beat before the scene break.
+- **Issue:** the text is complete. Only the paragraph beat is lost; Ch18 has 27 IT paragraphs against 28 in the English.
+- **Options:**
+  - (a) Split it at format time.
+  - (b) Leave it.
+- **Why it isn't automatic:** the audit may not change the paragraph count.
