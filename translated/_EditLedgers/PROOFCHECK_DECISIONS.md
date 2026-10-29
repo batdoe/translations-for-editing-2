@@ -636,3 +636,20 @@ These are fixed in Inn Trouble's excerpt but are still in corrected Flour Play T
 - **Theo:** the edition declines him in 20 places (`Thea` ×17 — e.g. [264] `W archiwum Thea`, [1187] `wszyscy znają Thea`; `Theowi` ×3) and leaves him undeclined in the other oblique cases (`Pismo Theo` [303], `dział Theo` [501], `pomóc Theo` [852], `Z udziałem Theo` [1289], …). Both are acceptable Polish, but the book should pick one.
 - **Options:** (a) declined `Thea/Theowi/Theem` throughout (≈40–50 edits; reads most natural); (b) undeclined `Theo` throughout (20 edits). Check FP PL and Book 1 PL for the series form first. Recommendation: (a) if Book 1/FP decline him, else (b). A judgment call across three books, so not done here.
 - **For the record:** in the spoiler-gender sweep I removed explicit gendered forms the English lacks (the note's own `żebym wiedział` [185], `On trzymał` [791], `na nim` [957], and four soft cases) but kept the generic noun `szantażysta` and `ktoś … -ł`, which are unmarked Polish, and every "he/his" the English itself uses. If you want the blackmailer fully neutral before Ch22 (e.g. `osoba szantażująca`), say so — ≈20 places.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_French — FULL PROOFCHECK (2026-10-28)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_French_PROOFCHECK_FULL.md`. It lists 64 one-answer fixes in 59 paragraphs, including the reversed-logic line in Ch16 [823], the Ch12 « Je ne lui ai pas pardonné » that stated Theo's guilt early [671], the excerpt's « pivot complet » → « demi-tour » [1466], and the porch brackets unified to *consoles*. IT2-FR-26-1…3, PC-FR2-1 and PC-FR2-2 were re-checked and are not raised again. Nothing below blocks the file.)
+
+### PC-FR2F-1 — Generic masculine for the unknown blackmailer/courier before the reveal (informational)
+- **The French now:**
+  - [240] « quelqu'un … avait lu ce qu'**il** n'avait pas le droit de lire »
+  - [821] « quiconque a écrit la note … **Il** avait ces lettres exactes entre les mains »
+  - [883] « un petit **voleur** de votre charmante ville »
+  - [976] « Quelqu'un … qu'aucun regard ne s'accrocherait jamais à **lui** » (this is the courier, who turns out to be Vera)
+  - also [210] « qui est **venu** y fourrer son nez » and [331] « qui s'était **trouvé** ici »
+- **English:** "they / them / someone / some petty thief" (neutral).
+- **Why it is not fixed:** with *quelqu'un* / *quiconque* / *qui*, the masculine is the unmarked, grammatically neutral form in French. It does not point to a man, and one of the two culprits is a man anyway. The one real slip, the feminine « l'avait **écrite** » [177], is fixed. The places where the English itself says "he" ([533], [946], [954], [966], [1001]) are faithful and stay.
+- **Options:**
+  - (a) Leave it as it is (recommended).
+  - (b) Neutralise the courier line only: [976] « qu'aucun regard ne s'y accrocherait jamais ».
+  - (c) Rephrase all six places to avoid any pronoun (for example « cette personne »).
