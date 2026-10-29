@@ -805,3 +805,30 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
   - Inn Trouble Filipino uses `lalawigan` ×3 ([199], [395], [931]) and never `kondado`.
   - Flour Play now uses `kondado` throughout (×24). Its single stray `lalawigan` at [248] was unified to `kondado`.
   - If those Inn Trouble lines render "county", the series is split. They are left for an Inn Trouble pass, because they are not this edition's to change.
+
+## Flour Play - ASSEMBLED - FORMATTED_Czech — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Czech_PROOFCHECK_FULL.md`. 63 one-answer fixes in 66 paragraphs are applied, including PC-CS-F2 (FP [90], [114] now = the Inn Trouble CS excerpt). FP-CS-1…10 and PC-FP-CS-1 were re-checked and are not raised again; FP-CS-8 (missing closing CTA) is still open. Nothing below blocks the file.)
+
+### PC-FP-CS-F1 — Spoiler-gender: the unknown figure is now neuter (applied, informational)
+- **What the file had:** before the reveal, Pete's and Danny's figure was given gendered verb endings that the English doesn't have:
+  - Ch7 [632] `kdežto tenhle ne. Tenhle něco dělal. A zmizel` (masculine). EN "this one didn't. This one was doing something. And went when it was seen."
+  - Ch13 [921] `Dospělý. … pohyboval se … Přesně věděl … zakuklený … Přitisknutý … byl pryč … odcházel` (masculine). EN "A grown-up … It knew … it was gone."
+  - Ch17 [1163] `tahle osoba byla štíhlá. Rychlá a úhledná … Chvíli stála … zamířila … nevešla. Ztratila se mi` (feminine). With both suspects women by then, this leaned towards the answer.
+- **What it reads now:** neuter `to`, as the English uses "it": `Tohle něco dělalo. A zmizelo` / `Dospělý člověk … pohybovalo se to … Přesně to vědělo … bylo to pryč` / `Pohybovalo se to rychle a úhledně … Chvíli to stálo … Ztratilo se mi to`.
+- **Left as is:** the generic masculine after `někdo` / `kdokoli` ("whoever did this… he") is plain Czech grammar, it doesn't point either way, and in Ch12 [842] the English itself says "himself / he". Grammatical feminine after the nouns `postava` / `silueta` / `osoba` is kept too.
+- **Options:** (a) keep this; (b) restore the original endings.
+- **Recommendation:** (a).
+
+### PC-FP-CS-F2 — Cross-book notes for Inn Trouble Czech (informational, NOT applied to IT)
+- **Vocative `Jessiko`:** Flour Play is now `Jessico` throughout (the 4 `Jessiko` at [404], [949], [1022], [1042] were unified to the edition's 17 × `Jessico`). Inn Trouble CS still has 5 `Jessiko` against 14 `Jessico`. Suggest unifying IT to `Jessico`.
+- **Ch1 lines shared with the IT excerpt, left untouched in both books:**
+  - [70] = IT [1501] `kladla malé snítky jedno přes druhé`: `snítky` is feminine, so `jednu přes druhou` is stricter, but `jedno přes druhé` passes as a set phrase.
+  - [110] = IT [1541] `„To je teď zvláštní,“` (EN "Now that's odd"): a calque. `„No tohle je zvláštní,“` would be more idiomatic.
+  - Change both books or neither. My recommendation is to leave them.
+
+### PC-FP-CS-F3 — The cedar capsule is `krabice` in Ch15 and `krabička` in Ch26 (low priority, style)
+- **Target:** Ch15 [1034], [1038] `cedrová krabice`. Ch26 [1815]–[1841] `krabička` ×10 for the same cedar box, and [1817] `stará krabička` for the sealed copper capsule. Ch27 [1911] has `krabice` again.
+- **Options:**
+  - (a) leave it: the diminutive reads warm, and the dossier welcomes zdrobněliny;
+  - (b) unify Ch26 to `krabice` (about 10 edits).
+- **Recommendation:** (a), or (b) if you want one word. It isn't a clue word, so it isn't automatic.
