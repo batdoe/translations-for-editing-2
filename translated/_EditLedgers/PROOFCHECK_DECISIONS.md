@@ -905,3 +905,6 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
 - term drift in the deduction unified: Blackburn-Papiere, Funkenschirm, Halterungen, Heizkessel, (Empfangs)Tresen, Magie.
 
 DE2-D1, DE2-D3, DE2-D4, PC-DE2-1 (the blurb tense was not rewritten) and PC-DE2-2 are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Italian — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Italian_PROOFCHECK_FULL.md`. 59 one-answer edits in 57 paragraphs are applied, among them the Ch7 [414] friend/sleuth reversal («a fare la prima … la seconda» → «a fare la detective … un'amica»), the courier spoiler-gender [876] «su di lui» → neutral, [726] «o non era lui» neutralised, Neil's business card no longer sharing the note's bare «biglietto» ([515][531][711]), Blackburn papers = «carte» and property records = «registri immobiliari» throughout, and two lettera→biglietto agreement leftovers ([321][436]). PC-IT2-1 and PC-IT2-2 (blurb tense, not rewritten) are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
