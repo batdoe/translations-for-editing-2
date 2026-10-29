@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Queue | 28 editions — the 15 targeted-SIGNIFICANT first, then the 13 others |
-| Done | 27 |
-| Next | Flour Play_Brazilian Portuguese |
+| Done | 28 |
+| Next | — follow-ups, then wrap |
 
 ## Order
 1. Inn Trouble: Turkish, Brazilian Portuguese, Dutch, Czech, Polish, French, Norwegian
@@ -44,3 +44,4 @@
 | Flour Play_Dutch | full | all 27 + front + back | 113 | 2 | 115 | 2 (published Binder's Bequest excerpt slips; 'haer hand' spelling) | SIGNIFICANT | Ch20 [1503] the key, not the lock, kept coming off the gate; 4 spoiler-gender references; Ch26 reversal |
 | Flour Play_French | full | all 27 + front + back | 43 | 1 | 44 | 1 (generic masculine for the figure — keep) | SIGNIFICANT | Ch12 [838] made the unseen intruder a woman before the reveal (EN 'he'); Ch19 brick-thrower feminine; Ch10 reversed |
 | Flour Play_German | full | all 27 + front + back | 79 | 0 | 79 | 0 | SIGNIFICANT | Pete's and Danny's eyewitness accounts made the unknown figure male before the reveal (12 spoiler-gender fixes); Ch23 recipe card 'being buried' |
+| Flour Play_Brazilian Portuguese | full | all 27 + front + back | 40 | 2 | 48 | 3 (figure neutral info; 'a week into the season'; Ellie split turn) | SIGNIFICANT | Ch13 [873] culprit made male ('Um adulto… Ele sabia') where EN is neutral; Ch25 reversal |

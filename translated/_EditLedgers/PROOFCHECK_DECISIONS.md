@@ -997,3 +997,38 @@ FP-EL-1…12, PC-FPEL-1 and PC-FPEL-2 were re-checked. They are still accurate a
 - Idioms and calques throughout.
 
 FP-DE-1…7 and PC-DE3-1 (the blurb tense was not rewritten) are unchanged and not re-raised. **No new questions for Lisa.** Nothing here blocks the file.)
+
+## Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Brazilian Portuguese_PROOFCHECK_FULL.md`. 48 one-answer edits were made in 42 paragraphs, and they are listed there. FP-PTBR-1…9, PC-FPPTBR-1 and PC-FPPTBR-2 were re-checked and are not raised again; FP-PTBR-1 («Farinha Envenenada») is still open. Nothing below blocks the file.)
+
+### PC-FPPTBR-F1 — Spoiler-gender: how the figure was made neutral (applied, informational)
+- **What the file had:** before the reveal, the English keeps the figure neutral ("A grown-up… It knew why it was there… it was gone"; "A grown-up, in a baker's apron"; "Whoever threw that brick… It went through"). The PT-BR made it male in three places:
+  - Ch13 [873]: «Um adulto… Mais alto… Ele sabia… E coberto… Bem colado… ele sumiu».
+  - Ch17 [1125]: «Um adulto, com avental de padeiro».
+  - Ch19 [1295]: «Ele atravessou as letras». This came from the first pass's Ch19 rewrite; the raw text had a neutral «Passou».
+- **What it reads now:**
+  - [873]: «Uma pessoa adulta… Mais alta… Sabia… E coberta… Bem colada… sumiu».
+  - [1125]: «Uma pessoa adulta».
+  - [1295]: «O tijolo atravessou».
+  - Also Ch7 [548]: «esse aí» (which picked up «um vagabundo») → «aquele vulto». Ch13 [880]: «Espantei ele… o peguei» → «Espantei… peguei o vulto».
+- **Left as they are:** the generic grammatical masculine of «alguém», «quem quer que» and «um vulto… visto». This is the normal BR agreement for an unknown person, and it does not read as a reveal. The feminine of «a figura» and «essa pessoa» is the noun's own gender, so it does not give her away either.
+- **Options:**
+  - (a) Keep this.
+  - (b) Also recast every «alguém… colado» / «vulto… visto» so that no gendered ending appears anywhere before Ch20.
+- **Recommendation:** (a). Option (b) would force unnatural Portuguese for no gain in neutrality.
+
+### PC-FPPTBR-F2 — Ch9 [676] "You're closing me a week into the season" (judgment call, NOT applied)
+- **Target:** «— Uma semana. … — O senhor vai me fechar bem na primeira semana da temporada.»
+- **English:** "A week." … "You're closing me a week into the season." The English can mean "closing me for a week, in the middle of my season", or "closing me one week after the season began". The PT chose a third reading, "in the very first week of the season". Greta has only just reopened, so that reading isn't wrong, but it is narrower than the English.
+- **Options:**
+  - (a) Leave it.
+  - (b) «O senhor vai me fechar uma semana, em plena temporada.» This is closer to the main sense: a week's closure in her busiest weeks.
+- **Recommendation:** (b), lightly. It can't be settled automatically because the English line is itself ambiguous.
+
+### PC-FPPTBR-F3 — Ch5 [394]/[395]: Ellie's one turn was split into two dash paragraphs (applied without a merge, informational)
+- **What the file had:** [394] «— Ninguém legal — disse Ellie, chateada.» and then [395] «— Ouvi lá no hospital…». There is no beat between them, so [395] reads as a new speaker. In the English this is one paragraph (EN [298]).
+- **What it reads now:** [394] ends «…chateada. E continuou:». This is the same device the first pass used at [390] («E emendou:»). It keeps the paragraph count fixed.
+- **Options:**
+  - (a) Keep this.
+  - (b) At formatting, merge [395] into [394] as «— Ninguém legal — disse Ellie, chateada. — Ouvi lá no hospital…», and drop «E continuou:».
+- **Recommendation:** (b) at formatting. Until then, (a) stands.
