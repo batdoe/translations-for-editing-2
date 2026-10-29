@@ -67,9 +67,9 @@ paragraph openers: '"'×426
     scene breaks                 3 -> 3       ok
     bt anchors                   9 -> 8       UNDECLARED -1 (expected +0)
     bt titles              MISMATCH  lost=['The Holly Jolly Bakery', 'Frost Falls', 'the sapphire at its heart']
-    paragraphs changed     734
+    paragraphs changed     747
     => FAIL
 
 ## M — First-pass change density per chapter (lowest first = least re-read)
 
-Ch12 23%, Ch16 26%, Ch26 27%, Ch9 27%, Ch29 28%, Ch13 29%, Ch19 30%, Ch24 30%, Ch27 30%, Ch14 30%, Ch4 32%, Ch7 33%, Ch23 33%, Ch17 36%, Ch20 40%, Ch15 40%, Ch18 42%, Ch22 50%, Ch30 50%, Ch11 57%, Ch28 59%, Ch25 61%, Ch10 63%, Ch5 64%, Ch1 66%, Ch2 72%, Ch6 72%, Ch21 74%, Ch31 75%, Ch3 86%
+Ch12 23%, Ch16 26%, Ch9 27%, Ch26 28%, Ch24 30%, Ch14 30%, Ch19 31%, Ch13 31%, Ch4 32%, Ch29 32%, Ch27 32%, Ch23 33%, Ch7 34%, Ch17 36%, Ch20 40%, Ch15 40%, Ch18 45%, Ch22 50%, Ch30 50%, Ch28 59%, Ch25 61%, Ch5 62%, Ch11 62%, Ch10 63%, Ch1 69%, Ch2 72%, Ch21 74%, Ch6 74%, Ch31 75%, Ch3 86%

@@ -832,3 +832,11 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
   - (a) leave it: the diminutive reads warm, and the dossier welcomes zdrobněliny;
   - (b) unify Ch26 to `krabice` (about 10 edits).
 - **Recommendation:** (a), or (b) if you want one word. It isn't a clue word, so it isn't automatic.
+
+## Inn Trouble - ASSEMBLED - FORMATTED_Swedish — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Inn Trouble - ASSEMBLED - FORMATTED_Swedish_PROOFCHECK_FULL.md`. 62 one-answer edits are applied in 55 paragraphs. They include PC-FPSV-F2, [1627] `låg` → `ligger`. Ch10's hearth word `härd` was unified to the book's `eldstad`. IT-SV-1…8, PC-SV-1 and PC-FPSV-1 were re-checked: they are unchanged, still accurate, and not re-raised. Nothing here blocks the file.)
+
+### PC-SVF-1 — Flour Play SV follow-up: excerpt typo `novembres` (informational, NOT APPLIED there)
+- Inn Trouble SV excerpt [1634] had `Det finns sämre sätt att tillbringa novembres första lediga morgon.` (EN "the first free morning of November"). It now reads `novembers`, the Swedish genitive. `novembres` is not a Swedish form.
+- Flour Play SV Ch1 [40] still has the same typo, word for word.
+- **Recommendation:** make the same one-letter change in Flour Play SV [40], so the excerpt and the book stay identical. It isn't done here because this audit edits only Inn Trouble.
