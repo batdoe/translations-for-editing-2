@@ -775,3 +775,18 @@ These Flour Play lines changed in this full read and are copied verbatim in corr
   - (a) Split it at format time.
   - (b) Leave it.
 - **Why it isn't automatic:** the audit may not change the paragraph count.
+
+## Flour Play - ASSEMBLED - FORMATTED_Spanish — FULL PROOFCHECK (2026-10-29)
+(Report: `_EditLedgers\Flour Play - ASSEMBLED - FORMATTED_Spanish_PROOFCHECK_FULL.md`. 39 one-answer edits in 36 paragraphs are applied. Two of them fix spoiler-gender slips: Ch12 [921] «a sí misma» → «Alguien… a sí mismo», and Ch17 [1304] «Rápida y pulcra… La perdí de vista» → «De movimientos rápidos y pulcros… Le perdí la pista». FP-ES-1…6 and PC-FPES-1/2 are unchanged and not re-raised. Nothing below blocks the file.)
+
+### PC-FPES-F1 — Spoiler-gender check: Pete's Ch13 description of the figure (informational)
+- **Spanish now:** [1004] «Un adulto… Sabía a qué iba. Y tapado… Bien pegado contra su muro… Solo una silueta atareada, cuidando de no ser vista»; [1008] «Y la persiguió… No se limitó a verla»; [1010] «La espanté un par de veces, sí, cuando la pillé de cerca».
+- **English:** "A grown-up… It knew why it was there. And covered… a working shape, minding not to be seen", "you chased it… I ran it off twice… when I caught it close". The English is neutral throughout.
+- **Assessment:**
+  - The masculine forms are generic agreement with «un adulto».
+  - The feminine forms agree with «la silueta», which sits in the same paragraph, so no reader takes them as "she".
+  - This matches the RO, IT and PL rulings (PC-FP-RO-F2, PC-IT3-F2, PC-FPPL-F1).
+  - The two unanchored feminine runs, Ch12 [921] and Ch17 [1304], were fixed in this pass.
+- **Options:**
+  - (a) Keep as it is. **Recommended.**
+  - (b) Recast [1008]/[1010] to «Y la ahuyentó…» / «Lo espanté… cuando lo pillé de cerca» (masculine «lo» = «eso»), about 4 forms.
